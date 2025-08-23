@@ -1,0 +1,49 @@
+Source: Page 12 (LEFT)
+Page: 12, Side: LEFT
+Word Count: 295
+--------------------------------------------------
+IMAGING
+KEY POINTS
+ 
+• A head CT scan is needed for adult trauma patients with 
+an external-force injury mechanism to the head, who 
+present with altered mental status, loss of consciousness 
+(LOC), PTA, or focal neurologic deficit.
+ 
+• Determine indications for head CT in children using a 
+validated decision rule such as the PECARN decision 
+guide.
+ 
+• A negative head CT does not rule out a TBI.
+ 
+• Magnetic resonance imaging (MRI) is more sensitive 
+than CT for identification of traumatic intracranial injury.
+ 
+• Traumatic intracranial findings on CT and MRI inform 
+prognosis.
+Initial Imaging
+Head CT is the cornerstone of acute imaging in TBI because 
+of its high sensitivity and specificity for identification of 
+acute intracranial injury, as well as craniofacial and cervical 
+spine fractures. A head CT can be acquired much more 
+quickly than an MRI, with total image acquisition time 
+
+< 5 seconds using modern multi-slice CT scanners, a major 
+advantage for agitated patients, polytrauma patients, and 
+young children.1 Head CT without contrast also has no 
+contraindications, unlike MRI (e.g., metallic foreign body 
+or implant), which requires a time-consuming screening 
+process. For head CT, axial, coronal, and sagittal images 
+of the brain with 2.0 mm to 3.75 mm slice thickness are 
+recommended, in addition to 0.5 mm to 1.25 mm “bone-
+algorithm” images to improve the visibility of craniofacial 
+fractures.
+Guidelines for Imaging 
+A number of guidelines and clinical decision rules provide 
+indications for head CT in patients with suspected TBI.2–5 
+The CDC/American College of Emergency Physicians 
+(ACEP) clinical policy strikes a balance between sensitivity 
+and specificity and recommends a non-contrast head CT in 
+patients 16 years of age and older with LOC or PTA, if any of 
+the following are also present:2 
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

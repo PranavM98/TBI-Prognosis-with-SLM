@@ -1,0 +1,44 @@
+Source: Page 30 (RIGHT)
+Page: 30, Side: RIGHT
+Word Count: 278
+--------------------------------------------------
+PATIENT MANAGEMENT
+30
+ 
+• Increase PaO2 above 150 mm Hg (Tier Three) 
+ 
+• Transfuse 1 unit of packed red blood cells if PbtO2 
+remains less than 20 mm Hg despite CPP optimization 
+(Tier Three) 
+Knowledge of cerebral autoregulation status as described 
+above may also facilitate the use of PbtO2 to individualize 
+CPP goals. Keep the potential harmful effects of hyperoxia 
+in mind, especially when proceeding to Tier Three therapies. 
+Electroencephalography
+Use of EEG allows continuous monitoring of brain 
+function at the bedside, assisting in seizure detection and 
+management. It has a significant role in the detection 
+of nonconvulsive seizures as the potential cause for a 
+diminished level of consciousness that would otherwise 
+go undetected.12 Nonconvulsive seizures were reported to 
+occur in an estimated 25% of patients with moderate to 
+severe TBI, and they were reported to be associated with 
+worse outcomes and long-term hippocampal atrophy.13–14
+Surface EEG requires a trained, on-site technician and a 
+physician trained to interpret the waveforms. Emerging 
+techniques, including quantitative EEG, may decrease the 
+need for a physician trained to interpret waveforms, but 
+this is not available at all trauma centers. The role of EEG 
+is expanding beyond the detection of seizures. While still 
+considered experimental, the detection of secondary brain 
+ischemia and covert consciousness is possible using depth 
+and surface EEG. 
+Multimodal Neuromonitoring
+Trauma centers treating larger numbers of patients 
+with severe TBI, and those centers with expertise in 
+neurocritical care, may attempt to undertake multimodality 
+neuromonitoring, incorporating at least one element of 
+neuromonitoring beyond ICP monitoring in isolation. 
+Trauma centers treating lower volumes of patients with TBI 
+may not have the resources to implement a full regimen of 
+neuromonitoring beyond ICP monitoring.

@@ -1,0 +1,50 @@
+Source: Page 25 (RIGHT)
+Page: 25, Side: RIGHT
+Word Count: 261
+--------------------------------------------------
+PATIENT MANAGEMENT
+25
+Although implementation of evidence-based TBI guidelines 
+is associated with marked improvement in outcome, these 
+guidelines are restricted to what is available in the scientific 
+literature. The Delphi-based consensus process is valuable 
+to bridge gaps in evidence upon which treatment algorithms 
+are based until formal evidence is generated. SIBICC used 
+this rigorous consensus process to tap into the collective 
+wisdom of experts and produce the first severe TBI 
+management algorithms published in a generation.1,2 
+The SIBICC algorithms are a suggestion for care, not a 
+standard of care. They aim to be comprehensive, providing a 
+consensus-based approach with the goals of standardizing 
+care and minimizing treatment variability. The full SIBICC 
+documents provide three-tiered algorithms and address the 
+following:
+ 
+• Management of ICP and ICP + low PbtO2 
+ 
+• Interventions to be discouraged 
+ 
+• A definition of clinical neurologic worsening and its 
+management
+ 
+• Recommendations for weaning therapy
+Tiered Treatments
+The SIBICC algorithms are organized into tiers, with 
+treatments placed into individual tiers based on 
+their relative risk-benefit ratios. Tier Zero represents 
+interventions either expected or recommended for all 
+patients with TBI admitted to the ICU, regardless of their 
+ICP (e.g., basic ICU care). Tiers One, Two, and Three are 
+directed at management of intracranial hypertension. 
+Guidance for using tiered treatments is based on three 
+principles:
+ 
+• No ranked ordering of treatments exists within an 
+individual tier
+ 
+• It is not necessary to use all modalities in a lower tier 
+before moving to the next tier
+ 
+• If considered advantageous, tiers can be skipped 
+when advancing treatment (e.g., early decompressive 
+craniectomy)

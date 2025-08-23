@@ -1,0 +1,48 @@
+Source: Page 57 (RIGHT)
+Page: 57, Side: RIGHT
+Word Count: 319
+--------------------------------------------------
+PATIENT MANAGEMENT
+57
+are also inhibited by these agents until the irreversible 
+agents are eliminated from the blood stream, at about 
+3–5 times the half-life of the agent.20,38,39 The antiplatelet 
+agents that have active metabolites (e.g., clopidogrel and 
+ticagrelor) have longer antiplatelet activity. Point-of-care 
+platelet function assays are recommended as an adjunct 
+to standard laboratory and/or coagulation monitoring in 
+patients with suspected platelet dysfunction from preinjury 
+antiplatelet therapy. Platelet function tests help identify 
+patients who may benefit from reversal therapies and 
+decrease the potential risk of thrombosis from unnecessary 
+treatment.38-40
+Current guidelines suggest that all patients discontinue 
+antiplatelet agents in the acute period postinjury. For 
+patients who require a neurosurgical procedure, consider 
+one single-donor apheresis unit of platelets (equivalent to 
+6 pooled units or 1 random-donor unit per 10 kg of body 
+weight).20,40 Desmopressin (0.4 mcg/kg IV) was also 
+suggested for consideration alone or in addition to a platelet 
+transfusion for neurosurgical patients who received aspirin, 
+clopidogrel, or ticagrelor. If desmopressin is administered, 
+monitor for hyponatremia and treat as needed to achieve 
+therapeutic sodium concentrations. Platelet function testing 
+prior to transfusion is recommended whenever possible. 
+For patients with normal platelet function or documented 
+resistance, reversal therapies are not recommended. 
+Additional research is needed to confirm benefit of these 
+strategies in patients on preinjury antiplatelet therapies. 
+Until more data are available, platelet transfusion and 
+desmopressin are not recommended for patients with TBI 
+who are not candidates for an invasive intervention.
+Restarting antiplatelet agents: Consider the reason for 
+antiplatelet therapy when determining if and when to 
+restart antiplatelet therapy in patients after traumatic ICH. 
+Studies support restarting antiplatelet therapy as early as 4 
+days postinjury, because most posttraumatic hemorrhages 
+occur within 3 days.41 Risks for acute and delayed ICH after 
+restarting antiplatelet agents must be weighed against 
+the morbidity of thrombotic complications that can have 
+significant clinical consequences. Individual assessment of 
+risk versus benefit must be made for restarting antiplatelet 
+therapy.

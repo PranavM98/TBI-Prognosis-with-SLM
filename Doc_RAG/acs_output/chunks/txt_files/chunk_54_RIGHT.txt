@@ -1,0 +1,48 @@
+Source: Page 54 (RIGHT)
+Page: 54, Side: RIGHT
+Word Count: 315
+--------------------------------------------------
+PATIENT MANAGEMENT
+54
+Posttraumatic Seizure Prophylaxis
+Incidence of PTS: Early PTS (< 7 days) are correlated 
+with severity of TBI injury, and patients with penetrating 
+injuries have the highest incidence.1,2 Other high-risk 
+patients include those who experience an immediate PTS 
+or have depressed skull fractures, SDH, ICH, GCS < 10, or 
+cortical contusions.3 Early PTS is also associated with TBI 
+morbidity and mortality, and increased risk of developing 
+post traumatic epilepsy (PTE).4,5 Findings from an RCT 
+reported early PTS incidence of 14.2% in the placebo group, 
+as compared to 3.6% of patients assigned to phenytoin.3  
+However, early seizure prophylaxis did not prevent PTE, 
+highlighting the need for a contemporary randomized 
+clinical study.
+PTS prophylaxis: Consider the use of ASM prophylaxis for 
+7 days following TBI to prevent early PTS if risk factors are 
+present; however, its use for more than 7 days to prevent 
+late PTS is not recommended. Seizure prophylaxis is not 
+recommended in TBI patients  without intracranial bleeding, 
+or in patients with isolated traumatic subarachnoid 
+hemorrhage.6,7 
+Currently the most studied ASMs for PTS are 
+
+(fos)phenytoin, levetiracetam, and valproic acid. Of these, 
+phenytoin and levetiracetam appear to be similar in safety 
+and efficacy for early PTS for patients at risk.8 However, 
+the incidence of early PTS in these studies was low, 
+and superiority of one drug over the other could not be 
+determined. 
+ 
+• Phenytoin is an older ASM that requires therapeutic 
+drug monitoring to assure target concentrations are 
+achieved. It is usually monitored 24 hours after initial 
+dosing and once more during the 7 days of prophylaxis 
+in TBI patients. However, phenytoin has many drug-
+drug interactions, as well as potentially severe adverse 
+drug reactions (ADRs). Phenytoin is also highly bound 
+to albumin, so monitoring albumin and free phenytoin 
+concentrations is essential to guide dosing adjustments. 
+If laboratory assays for free phenytoin are not available, 
+correction of total phenytoin concentrations can be 
+calculated.9,10

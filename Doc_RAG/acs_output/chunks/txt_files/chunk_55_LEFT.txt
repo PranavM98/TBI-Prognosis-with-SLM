@@ -1,0 +1,46 @@
+Source: Page 55 (LEFT)
+Page: 55, Side: LEFT
+Word Count: 328
+--------------------------------------------------
+• Levetiracetam is an ASM with a better pharmacokinetic 
+profile and minimal ADRs relative to phenytoin. 
+However, it was observed to have associated behavioral 
+ADRs in both pediatric and adult patients, particularly 
+those with TBI.11-15 Pyridoxine 50–100 mg daily 
+supplementation may limit these behavioral ADRs.16 
+ 
+• Valproic acid is not recommended for early PTS 
+prophylaxis due to an increased risk of death compared 
+to phenytoin.17 
+Do not continue PTS prophylaxis for more than 7 days in 
+patients with no clinical or EEG seizure activity, or with 
+seizure activity only within the first 24 hours postinjury. 
+Seizure prophylaxis may be continued if seizure activity 
+occurs beyond 24 hours or if the patient was previously 
+receiving medication for a known seizure disorder.
+Anticoagulant Management in TBI Patients 
+Anticoagulant reversal: Consider anticoagulant reversal 
+for patients with TBI who were taking an anticoagulant 
+medication prior to admission, in order to allow them to 
+safely undergo emergent surgery and/or to help prevent 
+hematoma expansion. A specific reversal agent is generally 
+recommended for each available oral anticoagulant 
+medication. If the last dose of a DOAC was within the 
+past 8–12 hours (or the INR is elevated ≥ 1.5 for patients 
+receiving warfarin), the benefits of a reversal agent will 
+most likely outweigh the risks. 
+When prescribing four-factor prothrombin complex 
+concentrates (4PCCs), some providers choose to use fixed 
+doses of 1500 to 2500 units rather than using weight-based 
+dosing strategies for anticoagulant reversal. Lower doses 
+of 4PCC (10–20 units/kg) are suggested for patients with 
+an INR 1.5–1.9, as higher doses (> 2000 to 3000 units) 
+were associated with increased VTE risk in patients with 
+nontraumatic ICH.18,19  
+Note: If 4PCC is not available and fresh frozen 
+plasma (FFP) is administered, approximately 8–16 
+units of FFP are equivalent to approximately 20–50 
+units/kg of 4PCC. The lowest achievable INR for FFP 
+alone is approximately 1.5–1.7; the mean intrinsic INR 
+of FFP is 1.1, but it can range from 0.9–1.3.
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

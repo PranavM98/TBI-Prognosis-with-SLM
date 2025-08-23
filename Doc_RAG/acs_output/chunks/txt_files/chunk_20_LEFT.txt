@@ -1,0 +1,64 @@
+Source: Page 20 (LEFT)
+Page: 20, Side: LEFT
+Word Count: 254
+--------------------------------------------------
+GOALS OF DIRECTED CARE
+KEY POINT
+ 
+• Ideally, it is recommended to keep clinical parameters 
+within normal physiologic ranges for patients with 
+TBI, after considering potential risks and benefits of 
+intervention.
+A cornerstone of effective goal-directed treatment for 
+TBI is aiming to maintain clinical parameters within 
+normal physiological ranges. Some of these parameters 
+are more relevant for patients in the ICU setting—such 
+as cerebral perfusion pressure (CPP), ICP, and partial 
+brain tissue oxygenation (PbtO2)—while others, such as 
+oxygen saturation (SpO2), are applicable to all patients. 
+Interventions to achieve desired parameters are best 
+provided within the overall context of the patient’s 
+condition. When achieving clinical parameter goals require 
+intensive therapy, carefully consider the potential risks 
+and benefits of each intervention. The recommended 
+parameters for goal-directed treatment in Table 4 represent 
+ideal ranges rather than mandatory, at-all-costs goals for all 
+scenarios. 
+Table 4. Goals of Treatment Recommended Parameters
+Parameter
+Goal Range
+Pulse oximetry
+≥ 94%
+PaO2
+80–100 mm Hg
+PaCO2
+35–45 mm Hg
+Systolic blood pressure
+≥ 100 mm Hg
+ICP
+< 22 mm Hg
+PbtO2
+≥ 15 mm Hg
+CPP*
+60–70 mm Hg
+Serum sodium
+135–145 mEq/L
+Serum osmolality
+≤ 320 mOsm
+INR
+≤ 1.4
+Temperature
+36.0–37.9°C
+Platelets
+≥ 75 × 103 /mm3
+pH
+7.35–7.45
+Glucose
+100–180 mg/dL
+Hemoglobin
+≥ 7 g/dL
+*Depending on status of cerebral autoregulation 
+Key: PaO2: partial pressure of oxygen; PaCO2: partial pressure of carbon 
+dioxide; ICP: intracranial pressure; PbtO2: partial brain tissue oxygenation; 
+CPP: cerebral perfusion pressure; INR: international normalized ratio.
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

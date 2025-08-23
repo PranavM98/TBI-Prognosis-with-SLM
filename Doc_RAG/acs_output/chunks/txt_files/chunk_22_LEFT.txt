@@ -1,0 +1,51 @@
+Source: Page 22 (LEFT)
+Page: 22, Side: LEFT
+Word Count: 294
+--------------------------------------------------
+INTRACRANIAL PRESSURE 
+MONITORING
+KEY POINTS
+ 
+• ICP monitoring is important, but it does not replace 
+careful serial neurological and radiographic examination 
+of the patient with TBI. 
+ 
+• ICP monitoring is recommended in comatose patients 
+(GCS ≤ 8) when evidence of structural brain damage is 
+seen on initial CT imaging. 
+ 
+• The gold standard for ICP measurement is an external 
+ventricular drain (EVD) attached to an external strain-
+gauge transducer, as this has both diagnostic and 
+therapeutic value. An intraparenchymal transducer can 
+also be used to monitor ICP.
+ 
+• For pediatric patients, ICP monitoring by an EVD or 
+an intraparenchymal transducer may result in similar 
+clinical outcomes. Technical reasons to choose an 
+intraparenchymal transducer may exist in specific cases, 
+although an EVD may facilitate a lower ICP.
+ 
+• For pediatric patients, the ICP target (the normal range 
+of ICP, as a contributor to CPP) is lower than in adults. 
+An upper limit of 20 mm Hg is recommended for 
+children based on retrospective evidence, as outcomes 
+were not improved by other limits.
+Persistently elevated ICP is predictive of poor outcome. 
+ICP monitoring is important because CPP, an important 
+marker of cerebral blood flow (CBF), is derived from 
+ICP (MAP – ICP = CPP). Augmenting the CPP can help 
+restore cerebral perfusion and oxygen delivery. ICP 
+monitoring can also provide warning of impending 
+structural brain derangements (e.g., contusion/hematoma 
+progression, increased cerebral edema, and postoperative 
+complications). 
+ICP monitoring is recommended in comatose patients (GCS 
+≤ 8) if evidence of structural brain damage is seen on initial 
+CT imaging. ICP monitoring should be carefully considered 
+for other patients:
+ 
+• Patients with a GCS > 8 who have structural brain 
+damage and high risk for progression (e.g., large/
+multiple contusions)
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

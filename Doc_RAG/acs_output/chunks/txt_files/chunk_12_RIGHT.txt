@@ -1,0 +1,57 @@
+Source: Page 12 (RIGHT)
+Page: 12, Side: RIGHT
+Word Count: 298
+--------------------------------------------------
+ASSESSMENT
+12
+ 
+• GCS less than 15 
+ 
+• Age greater than 60 years 
+ 
+• Physical evidence of trauma above the clavicle 
+ 
+• Coagulopathy (supra-therapeutic international 
+normalized ratio [INR] or thrombocytopenia) 
+ 
+• Headache 
+ 
+• Vomiting 
+ 
+• Drug or alcohol intoxication 
+ 
+• Short-term memory deficit 
+ 
+• Posttraumatic seizure 
+ 
+• Focal neurologic deficit 
+In addition, consider a head CT for patients with no LOC or 
+PTA in the following cases: GCS less than 15, age 65 years 
+and older, coagulopathy, focal neurologic deficit, severe 
+headache, vomiting, physical signs of basilar skull fracture, 
+or dangerous mechanism of injury (e.g., ejection from 
+motor vehicle, pedestrian struck by motor vehicle, fall down 
+five stairs or 3 feet or more).2 Comparable guidelines are 
+published in the sports concussion literature and contain 
+very similar criteria.6–8 
+Older Adult Considerations
+Guidance for imaging in older adult patients with suspicion 
+of TBI is similar to that used in younger adults. The use of 
+anticoagulants in many older patients may complicate the 
+recommended indications for imaging. In patients who are 
+anticoagulated, the incidence of intracranial hemorrhage 
+(ICH) is higher; therefore, a more liberal use of early CT 
+scanning may be appropriate.9 Given that current guidelines 
+also recommend imaging based on older age, blood-based 
+biomarkers may be helpful in identifying older patients with 
+GCS 13–15 who do not need CT imaging (refer to the Blood-
+Based Biomarkers section on page 15). 
+Pediatric Considerations
+For children with acute TBI requiring emergent imaging, 
+CT is often the first choice because it is rapid, widely 
+available, and might not require sedation. However, use 
+CT judiciously, due to the greater vulnerability of children 
+to radiation-induced malignancy.10,11 In order to mitigate 
+the risks of radiation to the developing brain, some trauma 
+centers are performing rapid MRI as first-line imaging 
+in nonsedated infants and young children.11–13 Regardless

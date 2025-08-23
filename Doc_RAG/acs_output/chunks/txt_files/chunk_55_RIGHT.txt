@@ -1,0 +1,49 @@
+Source: Page 55 (RIGHT)
+Page: 55, Side: RIGHT
+Word Count: 274
+--------------------------------------------------
+PATIENT MANAGEMENT
+55
+Specific anticoagulant reversal recommendations for 
+patients with life-threatening bleeding (all etiologies) 
+are published by the Neurocritical Care Society/Society 
+of Critical Care Medicine, American Heart Association, 
+and American Society of Hematology.20-22 Acute clinical 
+management of TBI patients admitted on oral anticoagulant 
+medications includes the following:
+ 
+• Discontinuation of the anticoagulant 
+ 
+• Determination of the DOAC type, dose, time of last dose 
+ 
+• Determination of the impact of DOAC on surgical 
+intervention and reversal strategies, when possible 
+Laboratory assays are not readily available for DOAC-
+specific quantitative measurements of anti-Xa activity or 
+DOAC concentrations, nor is there a definitive therapeutic 
+range for DOAC concentrations.23 More common clinical 
+laboratory measurements that may be elevated if a DOAC 
+was recently administered and have clinically relevant 
+concentrations include the following: 
+ 
+• An activated partial thromboplastin time in patients on 
+dabigatran (thrombin inhibitor)
+ 
+• Elevations of prothrombin time and activated partial 
+thromboplastin time in patients on Xa inhibitors 
+Normal values may not rule out potential therapeutic DOAC 
+concentrations.20,22-24 
+Note: Do not delay reversal therapy while waiting for 
+laboratory results in emergent situations when the 
+patient is at high risk for bleeding.
+A medical history is very helpful to determine if 
+comorbidities may increase DOAC concentration or prolong 
+DOAC exposure (e.g., advanced age, renal dysfunction, 
+renal failure or dialysis dependence, and drug interactions). 
+TEG may be helpful for qualitative assessment of clot 
+strength and fibrinolysis, but evidence is lacking for its 
+use to support quantitative determination of therapeutic 
+DOAC concentrations.23,25,26 Note: TEG results may not be 
+accurate in patients receiving massive transfusion therapy. 
+A summary of reversal strategies for oral anticoagulation 
+agents can be found in Table 7.

@@ -1,0 +1,40 @@
+Source: Page 16 (RIGHT)
+Page: 16, Side: RIGHT
+Word Count: 177
+--------------------------------------------------
+ASSESSMENT
+16
+97.6% 
+36.4% 
+9.5% 
+99.6%
+95.8%
+40.4%
+9.8%
+99.3%
+96.4%
+30.3%
+38.9%
+94.9%
+a 22.38 times higher risk of mortality within 6 months, 
+compared to patients with day-of-injury iSTAT UCH-L1 
+values < 360 pg/mL.12 The majority of these patient deaths 
+occurred during the first month postinjury. Among patients 
+with GCS 3–12 TBI, these biomarkers also have a high 
+discriminative ability for distinguishing between patients 
+more likely to function independently outside the home 
+(Glasgow Outcome Scale-Extended [GOS-E] > 4) versus 
+those who are not (C-statistic 0.89; 95% confidence 
+interval [CI] 0.86–0.91).12
+Note: These biomarkers alone do not predict 
+functional recovery in GCS 13–15 TBI with sufficient 
+accuracy. However, GCS 15 patients with significantly 
+elevated GFAP and/or UCH-L1 levels are at risk for 
+protracted recovery and warrant referral to a brain 
+injury/concussion clinic for further management. 
+Patients with nonelevated GFAP and UCH-L1 values 
+may also be at risk for protracted recovery, though 
+their risk is much lower than patients with elevated 
+GFAP and/or UCH-L1. Therefore, counsel these 
+patients with recommendations to seek care if they 
+have persistent symptoms.

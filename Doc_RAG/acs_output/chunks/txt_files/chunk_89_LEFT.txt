@@ -1,0 +1,62 @@
+Source: Page 89 (LEFT)
+Page: 89, Side: LEFT
+Word Count: 308
+--------------------------------------------------
+IMPLEMENTATION AND INTEGRATION OF THE BEST PRACTICES GUIDELINES
+Performance Improvement Recommendations
+Outcome Measure and Threshold
+Initiation of VTE prophylaxis
+Nonoperative TBI**
+ 
+• GCS 13–15 TBI: initiate within 24 hours 
+ 
+• GCS 3–12 TBI: initiate within 48 hours
+** Provided follow-up head CT indicates hemorrhage stability 
+Operative TBI 
+ 
+• Consider initiating or resuming 24–48 hours after surgery and if ICH 
+is stable upon postop CT scan 
+Monitor:
+ 
+• Time to initiation 
+ 
+• Pharmacologic agent used
+Initiation of anticoagulant reversal
+Refer to Table 7 on page 56 for anticoagulation reversal strategy for TBI 
+patients needing emergent surgery
+Initiation of seizure prophylaxis
+Early (first 7 days only) prevention of PTS 
+Documentation surrounding withdrawal of life-supporting 
+treatment 
+Ensure program is capturing the reason, date, and time of care withdrawal 
+Documented guidelines for brain death determination
+Per individual facility
+Psychological support, TBI education, and resources provided 
+to the patient and the family, starting at admission
+Per individual facility
+Plan available to patients for postacute care of TBI with GCS 
+13–15, including educational resources and referral guidelines
+Provide the following to patients with TBI and GCS 13–15:
+ 
+• Educational resources about their injury
+ 
+• Referral guidelines 
+ 
+• Information regarding outlets for follow-up care for those who 
+experience persistent symptoms
+Concussion (GCS 13-15) care resources pertinent to the 
+postacute injury period are available
+A process is established with criteria identifying patients needing referral 
+for concussion and TBI management services
+Rehabilitation consultation
+Rehabilitation consultation is ordered within a day of hospital admission
+A multidisciplinary service team is a vital component of TBI 
+management 
+Multidisciplinary service team includes PM&R physician
+Incorporation of evidenced-based guidelines to help manage 
+pain and potential complications
+Per individual facility; one example is the ABCDEF bundle
+Rehabilitation includes a postacute phase for continuation 
+when the patient is medically stabile and cleared for discharge 
+from acute care
+Patient is referred to specialized postacute rehabilitation

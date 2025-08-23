@@ -1,0 +1,45 @@
+Source: Page 29 (RIGHT)
+Page: 29, Side: RIGHT
+Word Count: 331
+--------------------------------------------------
+PATIENT MANAGEMENT
+29
+Assessment of Cerebral Autoregulation
+Mean arterial pressure challenge: Cerebral autoregulation 
+can be assessed at the bedside in the ICU by performing a 
+MAP challenge while monitoring ICP in the closed cranium. 
+This challenge is performed by initiating or increasing a 
+vasopressor infusion in euvolemic patients to increase 
+the MAP by 10–15 mm Hg for no more than 20 minutes. 
+Perform a MAP challenge under the direct supervision of a 
+bedside provider experienced in performing the challenge 
+so that patient response and safety are assured. Perform no 
+other therapeutic adjustments during the MAP challenge.
+Record key physiological parameters (MAP, ICP, CPP, PbtO2) 
+before and after the MAP challenge. Patients with a closed 
+cranium in whom ICP increases with a MAP challenge are 
+considered to have impaired autoregulation, and they may 
+benefit from a lower CPP goal. Conversely, patients with a 
+closed cranium in whom ICP decreases or does not change 
+significantly with a MAP challenge are considered to have 
+intact autoregulation, and these patients—particularly those 
+with decreasing ICP in response to the MAP challenge—
+may benefit from a higher CPP goal. 
+Cerebrovascular pressure reactivity index: Another 
+ICP-based method used to continuously assess cerebral 
+autoregulation status is to follow the cerebrovascular 
+pressure reactivity index (PRx). The PRx is defined as the 
+slope of the regression line relating MAP and ICP, and it can 
+be used to establish patient-specific CPP thresholds. For 
+patients with impaired cerebral autoregulation (PRx slope 
+> 0.13), a lower CPP (50–60 mm Hg) may be considered as 
+an option for treatment. Patients with intact autoregulation 
+(PRx slope < 0.13) may benefit from a higher CPP (60–
+70 mm Hg). Of note, assessment of the PRx requires 
+specialized technical expertise and additional hardware and 
+software, which are commercially available.
+Brain tissue oxygen tension: Autoregulation status may 
+also be assessed by following PbtO2, as long as systemic 
+oxygenation (PaO2) is maintained at a constant level. Verify 
+this by checking the arterial blood gas before and after the 
+MAP challenge.

@@ -1,0 +1,47 @@
+Source: Page 13 (LEFT)
+Page: 13, Side: LEFT
+Word Count: 337
+--------------------------------------------------
+of which imaging methodology is used, indications for 
+emergent head imaging in children need to follow a 
+validated pediatric decision rule such as the PECARN 
+decision guide. For select pediatric patients with GCS 15, 
+no palpable skull fracture, and no findings concerning for 
+basilar skull fracture, a brief period of observation (4 to 6 
+hours) may obviate the need for neuroimaging, even in the 
+presence of 1 or 2 PECARN predictors of clinically important 
+TBI.14 See also https://www.cdc.gov/traumatic-brain-injury/
+hcp/clinical-guidance/?CDC_AAref_Val=https://www.cdc.
+gov/traumaticbraininjury/PediatricmTBIGuideline.html.
+CT and the Incidence and Prognostic 
+Implications of Intracranial Injury
+The incidence of intracranial injury found on initial head 
+CT increases as GCS score decreases. More than 80% of 
+patients with GCS 3–12 have evidence of intracranial injury.15 
+The Rotterdam CT score uses traumatic intracranial CT 
+imaging features (basal cistern effacement, midline shift, 
+EDH, IVH, and subarachnoid hemorrhage) to determine a 
+score (1 to 6) that is predictive of 6-month mortality related 
+to TBI in patients with GCS 3–12. While the incidence of CT 
+abnormalities in patients with GCS 13–15 is lower, certain 
+features such as subarachnoid hemorrhage, contusion, and 
+SDH are associated with incomplete recovery, and IVH and/
+or petechial hemorrhage are associated with more severe 
+impairment.16 
+Clinical Role of MRI
+MRI has superior sensitivity relative to CT for most acute 
+intracranial findings, including small brain contusions, small 
+extra-axial hematomas,17,18 and microhemorrhages and 
+small white-matter lesions that represent acute traumatic 
+axonal and/or microvascular injury. Several studies reported 
+that more than 25% of patients with TBI presenting to 
+Level 1 trauma centers with a negative initial head CT are 
+determined to have intracranial injuries upon brain MRI.17 
+Thus, a negative initial head CT does not rule out a TBI. 
+The injuries identified on MRI predict disability in TBI.17,18 
+In current clinical practice, brain MRI is used mainly for 
+investigation of persistent concerns (e.g., unexplained  
+alteration in consciousness in acute TBI, management of 
+subacute TBI with persistent symptoms or deficits, and 
+identification of intracranial injuries not detected by CT). 
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

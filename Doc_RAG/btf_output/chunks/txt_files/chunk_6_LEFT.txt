@@ -1,0 +1,57 @@
+Source: Page 6 (LEFT)
+Page: 6, Side: LEFT
+Word Count: 419
+--------------------------------------------------
+TABLE 2. Updated Monitoring Recommendationsa,b
+Topic
+Recommendations
+Intracranial pressure monitoring
+Level IIB
+• Management of severe TBI patients using information from ICP monitoring is recommended to
+reduce in-hospital and 2-week post-injury mortality.
+Recommendations from the prior (Third) Edition not supported by evidence meeting current standards.
+ICP should be monitored in all salvageable patients with a TBI (GCS 3-8 after resuscitation) and an abnormal
+CT scan. An abnormal CT scan of the head is one that reveals hematomas, contusions, swelling, herniation,
+or compressed basal cisterns.
+ICP monitoring is indicated in patients with severe TBI with a normal CT scan if ≥2 of the following features
+are noted at admission: age >40 years, unilateral or bilateral motor posturing, or SBP <90 mm Hg.
+Cerebral perfusion pressure
+monitoring
+Level IIB
+• Management of severe TBI patients using guidelines-based recommendations for CPP monitoring is
+recommended to decrease 2-wk mortality.
+Advanced cerebral monitoring
+Level III
+• Jugular bulb monitoring of AVDO2, as a source of information for management decisions, may be
+considered to reduce mortality and improve outcomes at 3 and 6 mo post-injury.
+aAVDO2, arteriovenous oxygen content difference; CPP, cerebral perfusion pressure; CT, computed tomography; GCS, Glasgow Coma Scale; ICP, intracranial pressure; SBP, systolic
+blood pressure; TBI, traumatic brain injury.
+bBold: New or revised recommendations.
+Individual Studies
+We could begin the critical self-examination of our research
+methods by returning to the recommendations of the Clinical
+Trials in Head Injury Study Group.45 They encouraged (in part):
+• Identification and testing of specific (appropriate) subgroups of
+patients with TBI
+• Standardized clinical management across centers
+• Independent monitoring of patient management and data
+quality
+• Parsimonious data collection
+• Identification of relevant outcome measures and adequate time
+to follow-up
+• Identification of clinically relevant effect size
+A useful exercise might be to examine the extent to which
+our community is adhering to these recommendations and to
+fundamental tenets of evidence-based medicine in the design
+and conduct of our current work. That only will be useful
+if done inside a full recognition of the current paradigm
+for conducting clinical research. Unfortunately, the realities of
+conducting clinical research sometimes compromise sound scientific methods. Moving from a pilot to a full-scale study may
+include:
+• Revision of, and heterogeneity in, inclusion criteria to increase
+sample size
+• Revision of the protocol for delivering the intervention
+• An increase in the number of research centers to increase
+sample size and to speed recruitment in order to decrease study
+NEUROSURGERY
+VOLUME 80 | NUMBER 1 | JANUARY 2017 | 11

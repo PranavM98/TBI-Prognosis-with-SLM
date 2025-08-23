@@ -1,0 +1,50 @@
+Source: Page 15 (LEFT)
+Page: 15, Side: LEFT
+Word Count: 318
+--------------------------------------------------
+BLOOD-BASED BIOMARKERS
+KEY POINTS
+ 
+• Brain injury biomarkers such as glial fibrillary acidic 
+protein (GFAP), ubiquitin carboxy-terminal hydrolase L1 
+(UCH-L1), and S100 calcium-binding protein (S100B) 
+can be used to rule out the need for brain CT imaging 
+for patients with suspected TBI who meet the following 
+criteria: 
+ 
+– GCS of 13–15 
+ 
+– Clinical criteria for brain CT imaging based on brain 
+CT imaging decision rules 
+ 
+– The clinician assesses a low but nonzero risk for 
+traumatic ICH
+ 
+• The extent of GFAP, UCH-L1, and S100B elevation on 
+the day of injury provides clinicians with an estimate 
+of the underlying structural brain injury severity. These 
+blood levels are also useful as adjuncts for predicting 
+functional recovery at 6 months postinjury in patients 
+with GCS 3–12 associated with TBI.
+Characterizing and quantifying the severity of structural 
+brain injury in acute TBI is critically important to inform 
+treatment strategies and guide discussions about the 
+patient’s expected prognosis. Until recently, the primary 
+diagnostic resource for characterizing the severity of 
+structural brain injury in acute TBI was the non-contrast 
+brain CT scan. Brain CT is excellent for visualizing vascular 
+structure injury, brain tissue edema, and the effect of 
+injury on brain tissue deformation. Thus, the acute brain 
+CT scan is key to identifying TBI patients requiring surgical 
+management. However, the brain CT is limited in its ability 
+to quantify injury to neurons and glial cells. As a result, a 
+significant proportion of patients with a negative brain CT 
+have persistent and debilitating neurologic and psychiatric 
+symptoms that may persist for prolonged periods. 
+Additionally, the diagnostic yield of brain CT scans is low. 
+In the US, approximately 90% of the brain CTs performed 
+each year during the acute evaluation for TBI are negative.1 
+These patients are exposed to avoidable ionizing radiation, 
+and the healthcare system absorbs increased cost and 
+prolonged ED length of stay (LOS). 
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

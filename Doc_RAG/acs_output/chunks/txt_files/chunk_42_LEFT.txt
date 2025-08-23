@@ -1,0 +1,53 @@
+Source: Page 42 (LEFT)
+Page: 42, Side: LEFT
+Word Count: 262
+--------------------------------------------------
+TRACHEOSTOMY
+KEY POINT
+ 
+• Consider all patients with severe TBI for early 
+tracheostomy, within 7 days of injury, when rapid 
+improvement is determined to be unlikely. 
+ 
+• Early tracheostomy can decrease the risk of prolonged 
+mechanical ventilation and pneumonia.
+ICU patients with severe TBI often require prolonged 
+mechanical ventilation for the following reasons: 
+ 
+• Attenuated or loss of the pharyngeal protection reflex 
+ 
+• Excessive secretions 
+ 
+• Ventilator dyssynchrony 
+ 
+• Impaired oxygen and CO2 exchange
+ 
+• Severe agitation
+ 
+• Severe associated injuries, including facial, airway, or 
+thoracic injury
+When the patient’s level of consciousness remains 
+persistently depressed, consider performing a tracheostomy 
+to have a patent airway and to decrease the ventilator-
+associated risks of pneumonia and ventilator-induced lung 
+injury. 
+Early Tracheostomy
+While no clear evidence exists for survival benefit, early 
+tracheostomy is shown to reduce ICU and hospital LOS 
+in patients with TBI. No absolute contraindications for 
+tracheostomy exist, but relative contraindications include 
+the following: uncontrolled intracranial hypertension, 
+hemodynamic instability, and severe respiratory failure 
+requiring high levels of FiO2 (> 50%) and PEEP (> 10 cm 
+H2O).1 Additional benefits of tracheostomy for patients 
+receiving prolonged mechanical ventilation include 
+improved patient comfort associated with reduced 
+oropharyngeal irritation and improved pulmonary hygiene. 
+These factors might also accelerate liberation from 
+mechanical ventilation.2 A recent study demonstrated 
+tracheostomy rates in patients with severe TBI to be 
+31.8%, with 41% of tracheostomies performed within 7 
+days of injury and 26% performed more than 14 days after 
+injury.3 This demonstrated substantial differences between 
+participating centers regarding the timing of tracheostomy.3
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

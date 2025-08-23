@@ -1,0 +1,38 @@
+Source: Page 10 (RIGHT)
+Page: 10, Side: RIGHT
+Word Count: 169
+--------------------------------------------------
+ASSESSMENT
+10
+infrared light to measure a pupil, capture its response to 
+a light stimulus, and quantify the pupil’s characteristics. It 
+has six items measured (see Box 1). In pediatric patients, 
+however, developmental changes in myelination during 
+infancy can alter the normal latency observed, potentially 
+limiting the application of a priori thresholds.14,15 
+Box 1. Output from Quantitative Pupillometer
+ 
+• Starting diameter (mm)
+ 
+• Ending diameter (mm)
+ 
+• % Change
+ 
+• Latency (s)
+ 
+• Average constriction velocity (mm/s)
+ 
+• Average dilation velocity (mm/s)
+Clinical experience shows that quantitative pupillometry 
+can facilitate a more accurate clinical assessment by 
+providing an objective and reliable assessment of pupillary 
+reactivity. Pupillary changes may be detected before 
+a provider’s clinical assessment of pupillary size and 
+reactivity, thus providing an early warning sign. Quantitative 
+pupillometry can assess reactivity even when opioids and 
+other drugs result in small pupils, which make clinical 
+assessment difficult. Moreover, the pupillometry output 
+can be directly entered into the patient’s electronic medical 
+record.
+
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

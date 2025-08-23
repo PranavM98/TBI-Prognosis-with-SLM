@@ -1,0 +1,72 @@
+Source: Page 16 (LEFT)
+Page: 16, Side: LEFT
+Word Count: 347
+--------------------------------------------------
+injury, peaks at about 20 hours postinjury, and decreases 
+subsequently. Prospective observational data from at least 
+three large, multicenter studies (representing > 6,000 
+patients in the US and Europe) demonstrated that the 
+combination of day-of-injury GFAP and UCH-L1 values 
+have an excellent negative predictive value for ruling out 
+traumatic ICH (see Table 2).7-10
+Table 2. Summary of Observational Data from Prospective Studies
+1st Author
+Assay
+Cutoff
+AUC
+N (%pos)
+Sensitivity
+Specificity
+PPV
+NPV
+Banyan 
+GFAP = 22 pg/mL
+UCH-L1 = 327 pg/mL
+Not available
+1977 
+(66%)
+Bazarian7
+Bazarian8
+iSTAT 
+GFAP = 30 pg/mL
+UCH-L1 = 360 pg/mL
+Not available
+1936 
+(62%)
+Okonkwo9
+iSTAT 
+GFAP = 37.8 pg/mL
+0.85 (0.83–0.87)
+1359 
+(78%)
+Czeiter10
+SIMOA
+Not available
+0.89 (0.87–0.90)
+2867
+No cutoffs examined.
+Key: AUC =area under to ROC curve; PPV = positive predictive value; NPV = negative predictive value.
+For the FDA-approved iSTAT assay, GFAP values less than 
+30 pg/mL and UCH-L1 values less than 360 pg/mL are 
+considered not elevated, ruling out the need for a brain CT. 
+If either biomarker exceeds its cutoff value (i.e., an elevated 
+test), a brain CT is indicated. However, an elevated test 
+does not definitively indicate a brain CT will be positive. A 
+brain CT may be negative even in cases where structural 
+brain injury is present, as some injuries might only be 
+detectable on a brain MRI.11 Current FDA clearance requires 
+measurement of these biomarkers on whole blood within 24 
+hours of injury. GFAP levels also add incremental diagnostic 
+information to existing head CT decision rules that leverage 
+clinical data.10
+Biomarkers and Functional Recovery
+Biomarker blood levels can inform the prediction of a 
+patient’s functional recovery.12-14 Higher biomarker levels 
+are associated with worse structural brain injury and 
+portend a worse prognosis. One study compared patients 
+with day-of-injury iSTAT GFAP values < 1200 pg/mL to 
+those with values > 12,000 pg/mL; patients with values 
+> 12,000 pg/mL had a 6.98 times higher risk of mortality 
+within 6 months.12 Similarly, patients with day-of-injury 
+iSTAT UCH-L1 values > 2000 pg/mL were reported to have 
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

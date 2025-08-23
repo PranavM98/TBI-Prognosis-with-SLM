@@ -1,0 +1,154 @@
+Source: Page 8 (LEFT)
+Page: 8, Side: LEFT
+Word Count: 609
+--------------------------------------------------
+TABLE 4. New Studies Added to Evidence Supporting Revisions to Recommendationsa
+Topic
+Reference
+Study Design and Sample Size (N)
+Treatments
+Decompressive craniectomy
+Cooper et al, N Engl J Med, 20114
+RCT (N = 155)
+1
+Jiang et al, J Neurotrauma, 20055
+RCT (N = 486)
+2
+Qiu et al, Crit Care, 20096
+RCT (N = 74)
+2
+Hypothermia
+Clifton et al, Lancet Neurol, 20117
+RCT (N = 97)
+1
+Cerebrospinal fluid drainage
+Nwachuku et al, Neurocrit Care, 20138
+Retrospective cohort (N = 62)
+3
+Griesdale et al, Can J Neurol Sci, 20109
+Retrospective cohort (N = 171)
+3
+Nutrition
+Chourdakis et al, J Parenter Enteral Nutr, 201210
+RCT (N = 59)
+2
+Hartl et al, J Neurosurg, 200811
+Retrospective cohort (N = 797)
+2
+Lepelletier et al, J Neurosurg Anesthesiol, 201012
+Retrospective cohort (N = 161)
+2
+Dhandapani et al, Surg Neurol Int, 201213
+Prospective cohort (N = 67)
+3
+Acosta-Escribano et al, Intensive Care Med, 201014
+RCT (N = 104)
+2
+Infection prophylaxis
+Seguin et al, Crit Care Med, 200615
+RCT (N = 98)
+2
+Seguin et al, Crit Care Med, 201416
+RCT (N = 179)
+1
+Ratilal et al, Cochrane Databse Syst Rev, 201117
+Meta-analysis 17 studies (N = 2134)
+Moderate
+Wang et al, Crit Care, 201318
+Meta-analysis 8 studies (N = 3038)
+Moderate
+Deep vein thrombosis prophylaxis
+Daley and Brown, Am Surg, 201519
+Retrospective cohort (N = 271)
+3
+Kwiatt et al, J Trauma Acute Care Surg, 201220
+Retrospective cohort (N = 1215)
+3
+Mohseni et al, J Emerg Trauma Shock, 201221
+Retrospective case-control (N = 78)
+3
+Scudday et al, J Am Coll Surg, 201122
+Retrospective cohort (N = 812)
+3
+Monitoring
+Intracranial pressure monitoring
+Alali et al, J Neurotrauma, 201323
+Retrospective cohort (N = 10 628)
+2
+Chesnut et al, N Engl J Med, 201224
+RCT (N = 324)
+1
+Farahvar et al, J Neurosurg, 201225
+Retrospective cohort (N = 1304)
+2
+Gerber et al, J Neurosurg, 201326
+Retrospective cohort (N = 2320)
+2
+Talving et al, J Neurosurg, 201327
+Prospective cohort (N = 216)
+2
+Haddad et al, Anaesth Intensive Care, 201128
+Retrospective cohort (N = 477)
+3
+Kostic et al, Med Pregl, 201129
+RCT (N = 61)
+3
+Liew et al, Med J Malaysia, 200930
+Prospective cohort (N = 72)
+3
+Mauritz et al, Intensive Care Med, 200831
+Prospective cohort (N = 1856)
+3
+Shafi et al, J Trauma, 200832
+Retrospective cohort (N = 1646)
+3
+Cerebral perfusion pressure monitoring
+Gerber et al, J Neurosurg, 201326
+Retrospective cohort (N = 2320)
+2
+Thresholds
+Blood pressure thresholds
+Berry et al, Injury, 201233
+Retrospective cohort (N = 15 733)
+2
+Brenner et al, J Trauma Acute Care Surg, 201234
+Prospective cohort (N = 60)
+3
+Butcher et al, J Neurotrauma, 200735
+Retrospective cohort (N = 6801)
+3
+Intracranial pressure thresholds
+Sorrentino et al, Neurocrit Care, 201236
+Retrospective cohort (N = 459)
+2
+Cerebral perfusion pressure thresholds
+Allen et al, Pediatr Crit Care Med, 201437
+Retrospective cohort (N = 1757)
+2
+Sorrentino et al, Neurocrit Care, 201236
+Retrospective cohort (N = 459)
+2
+Chang et al, Crit Care Med, 200938
+Retrospective cohort (N = 27)
+3
+Elf et al, Neurosurgery, 200539
+Prospective cohort (N = 81)
+3
+Huang et al, Surg Neurol, 200640
+Retrospective cohort (N = 213)
+3
+Johnson et al, Neurosurgery, 201141
+Prospective cohort (N = 58)
+3
+Kuo et al, J Clin Neurosci, 200642
+Prospective cohort (N = 30)
+3
+Lin et al, Acta Neurochirg Suppl, 200843
+Retrospective cohort (N = 305)
+3
+Zweifel et al, Neurosurgery, 200844
+Retrospective cohort (N = 398)
+3
+aN, sample size; RCT, randomized controlled trial.
+NEUROSURGERY
+VOLUME 80 | NUMBER 1 | JANUARY 2017 | 13

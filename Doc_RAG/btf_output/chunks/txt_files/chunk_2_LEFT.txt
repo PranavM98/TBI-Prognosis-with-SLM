@@ -1,0 +1,50 @@
+Source: Page 2 (LEFT)
+Page: 2, Side: LEFT
+Word Count: 417
+--------------------------------------------------
+Scope of the Guidelines
+The guidelines address treatment interventions, monitoring,
+and treatment thresholds that are specific to TBI or that address
+a risk that is greater in patients with TBI. The guidelines are not
+intended to cover all topics relevant to the care of patients with
+severe TBI. Topics related to general good care for all patients, or
+all trauma patients, are not included.
+Developing protocols that integrate TBI-specific, evidencebased recommendations with general best practices for trauma
+patients, and that provide guidance, suggestions, or options in
+areas of TBI management where the evidence is insufficient, is
+outside the scope of these guidelines. These recommendations
+are intended to provide the foundation on which protocols can
+be developed that are appropriate to different treatment environments.
+Living Guidelines
+This Fourth Edition of the Guidelines is transitional. We do
+not intend to produce a Fifth Edition. Rather, we are moving
+to a model of continuous monitoring of the literature, rapid
+updates to the evidence review, and revisions to the recommendations as the evidence warrants. We call this the Living Guidelines model. This is driven by several trends, including advances in
+technology, the increasing volume of available information, and
+the corresponding change in expectations among clinicians and
+other stakeholders. A static document that is updated after several
+years no longer responds to the demands of the community we
+serve.
+The first test of this approach will involve incorporating the
+results of the RESCUEicp (Randomised Evaluation of Surgery
+with Craniectomy for Uncontrollable Elevation of ICP) study,
+which was published just after the completion of this edition.
+This study is a randomized, controlled trial that evaluates decompressive craniectomy as a secondary procedure, after ICP-targeted
+medical therapies have failed.2 The results of this trial will be
+evaluated and may impact recommendations related to decompressive craniectomy as well as ICP thresholds.
+METHODS
+The development of guidelines encompasses 2 major activities: first,
+a systematic review and synthesis of evidence; and second, the derivation
+of recommendations.
+Systematic Evidence Review and Synthesis
+Literature Search and Review
+Our literature search protocol is detailed in the comprehensive
+guideline document, and the search strategies are in Appendix D
+to the same document. Both documents are available online at
+https://www.braintrauma.org/coma/guidelines.
+The key criteria for including studies in the review were as follows:
+the population was adult patients with severe TBI (defined as Glasgow
+Coma Scale Score of 3-8), and the study assessed an included outcome
+(mortality; neurologic function; or appropriate, selected, intermediate
+NEUROSURGERY
+VOLUME 80 | NUMBER 1 | JANUARY 2017 | 7

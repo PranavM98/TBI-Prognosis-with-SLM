@@ -1,0 +1,47 @@
+Source: Page 70 (LEFT)
+Page: 70, Side: LEFT
+Word Count: 336
+--------------------------------------------------
+Patients with high risk require family education regarding 
+PTE signs and symptoms, diagnostic vigilance for its 
+detection, and long-term follow-up after TBI by qualified 
+professionals.13
+Impact of PTE on Outcome 
+It remains unclear whether patients with PTE have worse 
+mortality and functional outcomes or if patient outcomes 
+are primarily related to their injury severity (which also 
+correlates with PTE development). Some recent studies 
+demonstrated patient outcome effects related to PTE.
+In a large prospective cohort study controlling for age, 
+presenting GCS, and imaging findings, patients with 
+PTE demonstrated significantly lower GOS-E scores and 
+performed worse than controls on both the Rivermead 
+Cognitive Metrics and Brief Symptom Inventory-18 scores.14 
+This study relied upon a National Institutes of Health 
+stroke-related epilepsy screening tool to identify self-
+diagnosed seizures. The incidence of self-reported seizures 
+in the TBI group was consistent with prior published 
+reports, and the two control groups had no self-reported 
+seizures, arguing for the reliability of this screening tool 
+for the TBI population. Importantly, the study identified 
+a correlation between self-reported seizures and poor 
+functional outcomes, as well as persistent posttraumatic 
+symptoms.14 Other studies have reported higher mortality in 
+patients with TBI and PTE compared to TBI patients without 
+PTE when controlling for other factors.4,15,16 This emerging 
+evidence suggests that the presence of PTE confers 
+additional morbidity and mortality to survivors of TBI.
+Treatment Strategies
+A discussion regarding the choice and duration of ASM 
+therapy is beyond the scope of this BPG. Initiate treatment 
+for patients experiencing a first late seizure after TBI. Refer 
+the patient to a clinician with appropriate expertise in the 
+management of PTE, because the likelihood of developing 
+recurrent seizures after the first is as high as 86% by 2 
+years postinjury.8 The choice and duration of ASM therapy 
+for those with PTE must be tailored to individual patient 
+characteristics, including but not limited to seizure control, 
+side effects, and options for other types of treatment (e.g., 
+dietary modifications, neuromodulation, or other surgical 
+approaches).
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

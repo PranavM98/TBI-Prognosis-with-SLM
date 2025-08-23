@@ -1,0 +1,61 @@
+Source: Page 17 (LEFT)
+Page: 17, Side: LEFT
+Word Count: 246
+--------------------------------------------------
+Older Adult Considerations
+Increasing age and age-related neurodegenerative disease 
+(e.g., Alzheimer’s disease and related dementias) are 
+associated with higher baseline levels of brain injury 
+biomarkers, including GFAP and UCH-L1.15-17 This results 
+in a smaller range within which acute brain injury may 
+be discriminated. It raises the possibility that age- and/
+or comorbidity-specific cutoff values may be useful 
+for reducing unnecessary head CTs in older adults, as 
+demonstrated for S100B (measured within 3 hours of 
+injury).17 Several large cohort studies investigated sensitivity 
+and specificity of plasma GFAP and UCH-L1 assays, and/
+or S100B assays, in older adult TBI.17-19 Studies pertaining to 
+FDA-approved GFAP and UCH-L1 assays are summarized in 
+Table 3.17,19
+Table 3. Diagnostic Accuracy of Blood GFAP and UCH-L1 Assays among Older Adults (> 65 Years Old) for Discriminating CT-
+positive from CT-negative TBI on the Day of Injury
+1st Author
+Assay
+Cutoff
+AUC
+N (%pos)
+Sensitivity
+Specificity
+PPV
+NPV
+Ward19
+Banyan Brain 
+Trauma Indicator
+(< 12 h postinjury)
+GFAP 22 pg/mL
+UCH-L1 327 pg/mL
+Not available
+504 (9%)
+100% (< 12 h)
+13% (< 12 h)
+10% (< 12 h)
+100% (< 12 h)
+Gardner 17
+iSTAT GFAP
+(< 24 h 
+postinjury) 
+30 pg/mL
+0.84 (0.78–
+0.89)
+Gardner 17
+iSTAT UCH-L1 
+(< 24 h 
+postinjury)
+360 pg/mL
+0.56 (< 24 h)
+ 
+Subgroups: 
+0.68 (< 6 h)
+0.60 (7–12 h)
+Key: AUC =area under to ROC curve; PPV = positive predictive value; NPV = negative predictive value.
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

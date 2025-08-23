@@ -1,0 +1,45 @@
+Source: Page 17 (RIGHT)
+Page: 17, Side: RIGHT
+Word Count: 142
+--------------------------------------------------
+ASSESSMENT
+17
+Pediatric Considerations
+Current research suggests that blood biomarkers are 
+associated with intracranial injury in children. However, 
+insufficient data exist regarding the utility of GFAP, 
+UCH-L1, or S100B measurements in pediatric patients with 
+suspected TBI. At this time, clinical decision rules guiding 
+the use of CT neuroimaging, such as the PECARN rule, are 
+the best tools available to aid in the evaluation of TBI in 
+children following head injury.20-22
+240 (71%)
+100% (< 24 h)
+10% (< 24 h)
+73% (< 24 h)
+100% (< 24 h)
+240 (71%)
+ 
+Subgroups: 
+N(%) not 
+available
+37% (< 24 h)
+ 
+Subgroups:
+63% (< 6 h)
+43% (7–12 h)
+71% (< 24 h)
+ 
+Subgroups:
+58% (< 6 h)
+69% (7–12 h)
+76% (< 24 h)
+ 
+Subgroups:
+39% (< 6 h)
+75% (7–12 h)
+31% (< 24 h)
+ 
+Subgroups:
+79% (< 6 h)
+36% (7–12 h)

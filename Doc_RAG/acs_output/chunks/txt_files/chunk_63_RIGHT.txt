@@ -1,0 +1,51 @@
+Source: Page 63 (RIGHT)
+Page: 63, Side: RIGHT
+Word Count: 311
+--------------------------------------------------
+PATIENT MANAGEMENT
+63
+Brain Death Determination
+State law governs the determination of brain death. 
+Standardized criteria for the determination of brain death 
+exist and should be utilized.15 Criteria specifically include the 
+following:
+ 
+• Patients meet prerequisites including cardiopulmonary 
+stability and absence of sedative effects 
+ 
+• Patients have no response to central pain, absent 
+brainstem reflexes, and an inability to breathe 
+independently 
+ 
+• Unless prerequisites for the clinical examination cannot 
+be met, the clinical examination is a priority rather than 
+an ancillary test, such as CBF assessment 
+Each hospital needs to develop a defined brain death 
+determination policy derived from accepted standards. 
+When relevant, partnering with local organ procurement 
+organizations is appropriate to offer families and patients 
+the opportunity for organ donation.
+Older Adult Considerations
+An optimal prognostication model for older adult trauma 
+patients with TBI has not been identified, and the IMPACT 
+and CRASH TBI statistical models included patients with 
+a mean age in the 30s.16 Multiple studies report preinjury 
+frailty as the primary predictor of poor outcomes in older 
+adult patients.17–20 The ACS TQIP Palliative Care Best Practices 
+Guidelines recommend consideration of palliative care 
+consultation for patients who screen as frail to facilitate 
+advance care planning and goals of care discussions.21 
+Pediatric Considerations
+Prognostic considerations and family communication 
+may be especially challenging in the case of pediatric 
+TBI. Pediatric-specific prognosis tools do not perform 
+adequately and are not recommended in the context of 
+clinical care. Although direct comparison with TBI in adult 
+populations is challenging, children may recover better than 
+adults with similar injuries because of fewer comorbidities 
+and greater capacity for brain plasticity. Indeed, a recent 
+study found that good recovery (GOS-E score 7 or 8) was 
+observed in 44% of children and 59% of adolescents 
+with severe TBI.22 For this reason, aggressive therapy in a 
+pediatric ICU is warranted in the vast majority of children 
+with severe TBI.

@@ -1,0 +1,49 @@
+Source: Page 51 (LEFT)
+Page: 51, Side: LEFT
+Word Count: 358
+--------------------------------------------------
+Current evidence supports early initiation of pharmacologic 
+VTE prophylaxis in TBI patients. In the last decade, multiple 
+studies and two systematic reviews have suggested that, 
+in patients with ICH stability reported on follow-up CT 
+scan and regardless of TBI severity, initiation of earlier 
+prophylaxis is associated with reduced VTE rates without 
+clinically significant ICH progression.6,9–14 Patients with 
+progression of ICH prior to receiving prophylaxis and 
+those undergoing cranial surgery, however, may behave 
+differently and warrant additional observation prior to 
+initiation of prophylaxis.4,15 While use of pharmacologic 
+VTE prophylaxis in TBI patients continues to be an area 
+of evolving investigation, a reassessment of the available 
+evidence and expert consensus prompted these updated 
+recommendations. 
+In patients with nonoperative TBI patterns, repeating 
+head CT imaging within 24 hours after the initial CT is 
+recommended to assess ICH stability prior to starting 
+pharmacologic VTE prophylaxis. The possible exception is 
+patients with minimal hemorrhage on initial CT who may 
+not warrant repeat imaging. In hospitalized patients with 
+low risk of ICH (as described in Table 6), consider starting 
+pharmacologic VTE prophylaxis within 24 hours if ICH is 
+stable on repeat CT. In patients with moderate/high risk 
+for ICH progression, consider starting pharmacologic VTE 
+prophylaxis in 24 to 48 hours if ICH is stable on repeat CT.
+Patients with an ICP monitor (intraparenchymal or EVD) 
+but without craniotomy/craniectomy may be considered 
+for pharmacologic VTE prophylaxis in the same manner 
+as patients with nonoperative TBI described above. 
+Withholding pharmacologic VTE prophylaxis prior to ICP 
+monitor placement or while the monitor is in place is not 
+recommended. Consider continuing pharmacologic VTE 
+prophylaxis without holding doses prior to removal of the 
+ICP monitor. Another option is to coordinate the timing of 
+monitor insertion/removal after one half-life of the drug 
+has passed. In patients who have undergone craniotomy/
+craniectomy, consider initiating or resuming pharmacologic 
+VTE prophylaxis in 24 to 48 hours after surgery if ICH 
+is stable on postoperative CT. For patients with CT 
+evidence of ICH progression, withholding pharmacologic 
+VTE prophylaxis is recommended until ICH stability is 
+demonstrated on repeat imaging, usually in another 24 to 
+48 hours.14,15 
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

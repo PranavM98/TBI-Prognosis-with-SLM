@@ -1,0 +1,53 @@
+Source: Page 50 (LEFT)
+Page: 50, Side: LEFT
+Word Count: 302
+--------------------------------------------------
+TIMING OF PHARMACOLOGIC VENOUS 
+THROMBOEMBOLISM PROPHYLAXIS
+KEY POINTS
+ 
+• Venous thromboembolism (VTE) prophylaxis is 
+recommended within 24 hours after injury in patients 
+with low-risk nonoperative TBI, provided the follow-up 
+CT shows no progression of intracranial injury.
+ 
+• VTE prophylaxis is recommended within 24 to 48 hours 
+after injury in patients with moderate- or high-risk 
+nonoperative TBI, provided the follow-up head CT shows 
+no progression of intracranial injury.
+ 
+• In patients who have undergone craniotomy 
+or craniectomy, consider initiating or resuming 
+pharmacologic VTE prophylaxis within 24 to 48 hours 
+after surgery if ICH is stable on postoperative CT.
+ 
+• Low-molecular-weight heparin (LMWH) is preferred 
+over unfractionated heparin (UFH) for prophylaxis in TBI 
+patients.
+Trauma patients, particularly those with polytrauma 
+or severe injury patterns, have a significant risk of 
+VTE. Patients with TBI have a high risk of VTE without 
+prophylaxis or when receiving only mechanical 
+prophylaxis.1,2 Providing pharmacologic VTE prophylaxis 
+for trauma patients with significant injuries is standard 
+practice.1–3 VTE risk increases for patients with TBI for each 
+Table 6. Anatomic Factors and Risk for Intracranial Hemorrhage Progression
+Criteria 
+Low Risk
+Moderate Risk
+High Risk
+Modified Berne-
+Norwood criteria
+No moderate- or high- risk criteria
+•	 SDH or EDH > 8 mm
+•	 Contusion or IVH > 2 cm 
+•	 Multiple contusions per lobe 
+•	 Scattered subarachnoid 
+hemorrhage 
+•	 Evidence of progression at 
+24 hrs
+Data from: Pastorek RA, Cripps MW, Bernstein IH, et al. The Parkland Protocol’s modified Berne-Norwood criteria predict two tiers of risk for traumatic 
+brain injury progression. J Neurotrauma. 2014; 31: 1737–1743. doi: 10.1089/neu.2014.3366; Joseph B, Friese RS, Sadoun M, et al. The BIG (Brain Injury 
+Guidelines) project: Defining the management of traumatic brain injury by acute care surgeons. J Trauma Acute Care Surg. 2014; 76: 965–969. doi: 10.1097/
+TA.0000000000000161.
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

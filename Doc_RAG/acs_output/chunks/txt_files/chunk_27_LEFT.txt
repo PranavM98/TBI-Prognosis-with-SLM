@@ -1,0 +1,47 @@
+Source: Page 27 (LEFT)
+Page: 27, Side: LEFT
+Word Count: 202
+--------------------------------------------------
+Treatments Not Recommended for 
+Intracranial Hypertension in Severe TBI
+The SIBICC working group lists treatments to be 
+discouraged for management of patients with severe TBI. 
+The group’s decision-making included both evidence against 
+treatments (e.g., steroids, CPP > 70 mm Hg) and lack of 
+sufficient supporting evidence (e.g., lumbar CSF drainage, 
+scheduled infusion of hyperosmolar therapy). Inclusion in 
+this list does not proscribe consideration in some individual 
+cases. See Box 4.
+Box 4. Treatments Not Recommended for Use in the 
+Management of Intracranial Hypertension in Patients with 
+Severe TBI
+ 
+• Mannitol by non-bolus, continuous intravenous 
+infusion
+ 
+• Scheduled infusion of hyperosmolar therapy
+
+ (e.g., every 4 to 6 hours)
+ 
+• Lumbar CSF drainage
+ 
+• Furosemide
+ 
+• Routine use of steroids
+ 
+• Routine therapeutic hypothermia to temperatures 
+below 35°C due to systemic complications
+ 
+• High dose propofol to attempt burst suppression 
+ 
+• Routinely decreasing PaCO2 below 
+
+30 mm Hg/4.0 kPa
+ 
+• Routinely raising CPP above 90 mm Hg
+From: Hawryluk GW, Aguilera S, Buki A, et al. A management algorithm 
+for patients with intracranial pressure monitoring: The Seattle International 
+Severe Traumatic Brain Injury Consensus Conference (SIBICC). Intensive Care 
+Med. 2019 Dec;45(12):1783–1794. doi: 10.1007/s00134-019-05805-9. Used 
+with permission.
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

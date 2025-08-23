@@ -1,0 +1,54 @@
+Source: Page 3 (LEFT)
+Page: 3, Side: LEFT
+Word Count: 478
+--------------------------------------------------
+CARNEY ET AL
+Derivation of Recommendations
+Development of Recommendations
+Class 1, 2, and 3 studies constitute the evidence on which the
+recommendations are based. Under our current methods, identification
+of evidence is necessary but not sufficient for the development of
+recommendations. No recommendations were made without a basis in
+evidence.
+Once evidence was identified, whether it could be used to inform
+recommendations was based on the quality of the body of evidence
+and consideration of applicability. Given this, there were cases in which
+evidence was identified, but the quality was low, and applicability
+concerns restricted the ability to translate the evidence into recommendations. Even if a recommendation was not made, the evidence was
+included to acknowledge its place in the body of evidence and make
+it accessible for future consideration. As new studies are generated and
+added to the evidence base, we expect to see changes in the assessment of
+the quality of the body of evidence.
+Level of Recommendations
+Recommendations in this edition are designated as Level I, Level IIA, Level II-B, or Level III. The Level of Recommendation is determined
+by the assessment of the quality of the body of evidence, rather than the
+class of the included studies.
+The levels were primarily based on the quality of the body of evidence
+as follows:
+• Level I recommendations were based on a high-quality body of
+evidence.
+• Level IIA recommendations were based on a moderate-quality body
+of evidence.
+• Level IIB and III recommendations were based on a low-quality body
+of evidence.
+The class of studies in the body of evidence was the basis for making
+the distinction between a Level IIB or a Level III recommendation.
+Level IIB recommendations were based on a body of evidence with Class
+2 studies that provided direct evidence but were of overall low quality.
+Level III recommendations were based on Class 3 studies or on Class 2
+studies providing only indirect evidence.
+Consideration of applicability could result in a Level III recommendation (eg, a “moderate-quality body of evidence” with significant applicability concerns). In this edition, applicability alone was not used to
+downgrade a recommendation. Currently, there is a lack of standards and
+developed methods in this area, so we elected to cite applicability issues
+that were identified and discussed by the authors.
+“Insufficient” was used in cases in which the body of evidence was
+insufficient to support a recommendation because there were no studies
+identified or because the body of evidence had major quality limitations.
+If the evidence was insufficient, no recommendation was made.
+RECOMMENDATIONS
+Revised Recommendations
+There are now 28 evidence-based recommendations; 14 are
+new or changed from the previous edition, while 14 have not
+changed. These include 1 Level I, 7 Level IIA, 10 Level IIB, and
+10 Level III recommendations. There are 7 Third Edition recom8 | VOLUME 80 | NUMBER 1 | JANUARY 2017
+www.neurosurgery-online.com

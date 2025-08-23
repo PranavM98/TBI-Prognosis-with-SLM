@@ -1,0 +1,100 @@
+Source: Page 9 (LEFT)
+Page: 9, Side: LEFT
+Word Count: 347
+--------------------------------------------------
+Table 1. Glasgow Coma Scale (GCS): Standard and Pediatric Versions
+Standard Version
+Pediatric Version (pGCS)
+ Best Eye Response (E)
+ Best Eye Response (E)
+None
+1
+No eye opening
+1
+To pressure
+2
+Eye opening to pain
+2
+To sound
+3
+Eye opening to speech
+3
+Spontaneous
+4
+Eye opening spontaneously
+4
+Untestable
+Reason:
+Untestable
+Reason:
+ Best Verbal Response (V)
+ Best Verbal Response (V)
+None
+1
+No verbal response
+1
+Sounds
+2
+Inconsolable, agitated
+2
+Words
+3
+Inconsistently inconsolable, 
+moaning
+Confused
+4
+Cries but consolable, inappropriate 
+interactions
+Oriented
+5
+Smiles, oriented to sounds, follows 
+objects, interacts
+Untestable
+Reason:
+Untestable
+Reason:
+ Best Motor Response (M)
+ Best Motor Response (M)
+None
+1
+No motor response
+1
+Extension
+2
+Extension to pain (decerebrate 
+response)
+Abnormal flexion
+3
+Abnormal flexion to pain for an 
+infant (decorticate response)
+Normal flexion (withdrawal)
+4
+Infant withdraws from pain
+4
+Localizing
+5
+Infant withdraws from touch
+5
+Obeys commands
+6
+Infant moves spontaneously or 
+purposefully
+Untestable
+Reason:
+Untestable
+Reason:
+Data from: Teasdale G, Jennett B. Assessment of coma and impaired consciousness. A practical scale. Lancet. 1974 Jul 13;2(7872):81–84. 
+doi: 10.1016/s0140-6736(74)91639-0; Teasdale G, Maas A, Lecky F, Manley G, Stocchetti N, Murray G. The Glasgow Coma Scale at 
+40 years: Standing the test of time. Lancet Neurol. 2014 Aug;13(8):844–854. doi: 10.1016/S1474-4422(14)70120-6; Holmes JF, Palchak 
+MJ, MacFarlane T, Kuppermann N. Performance of the pediatric Glasgow Coma Scale in children with blunt head trauma. Acad Emerg 
+Med. 2005 Sep;12(9):814–819. doi: 10.1197/j.aem.2005.04.019; Borgialli DA, Mahajan P, Hoyle JD Jr, et al. Performance of the pediatric 
+Glasgow Coma Scale score in the evaluation of children with blunt head trauma. Acad Emerg Med. 2016 Aug;23(8):878–884. doi: 10.1111/
+acem.13014.
+The GCS sum score is often used to stratify degrees of 
+brain injury: a sum score ≥ 13 correlates with mild injury, a 
+sum score 9–12 is consistent with moderate injury, and a 
+sum score ≤ 8 is indicative of severe brain injury. Caution: 
+Recognize that injury severity classification using only 
+the GCS sum score represents  an overly simplistic and 
+unidimensional approximation of injury load.
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

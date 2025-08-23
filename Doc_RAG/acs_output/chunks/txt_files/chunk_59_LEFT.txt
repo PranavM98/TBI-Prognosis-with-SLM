@@ -1,0 +1,45 @@
+Source: Page 59 (LEFT)
+Page: 59, Side: LEFT
+Word Count: 298
+--------------------------------------------------
+Older Adult Considerations
+Antithrombotic/antiplatelet reversal and restart: 
+Although older adult patients are more likely to receive 
+anticoagulant and antiplatelet agents for comorbidities 
+preinjury, available evidence does not suggest a difference 
+in the risk of worse outcomes for older adult patients 
+with TBI undergoing neurosurgery, despite the use of an 
+anticoagulant or antiplatelet agent.53–55 The anticoagulant 
+used and the number of antiplatelet agents, however, 
+may impact the risk of worse outcomes. Time to restart 
+of anticoagulants and antiplatelet agents is similar for all 
+patients, regardless of age. 
+Antibiotic prophylaxis: When selecting an antibiotic and 
+dose for surgical prophylaxis or treatment, older adults’ 
+physiologic, pharmacokinetic, and pharmacodynamic 
+changes must be considered to help avoid unwanted 
+adverse effects or toxicity. 
+Pediatric Considerations
+PTS prophylaxis: Pediatric data are in line with adult data 
+as described for PTS prophylaxis. PTS may be more likely 
+to occur in children less than 24 months old, those with 
+severe injury (GCS < 8), and those suffering nonaccidental 
+trauma.56–60 Despite the growing popularity of levetiracetam 
+for PTS prophylaxis in children with TBI, evidence for its 
+efficacy remains limited, with one recent observational 
+trial demonstrating seizures in 17% of children treated with 
+levetiracetam prophylaxis after TBI.61 As a result, either 
+levetiracetam or (fos)phenytoin is appropriate for the 
+recommended 7-day course of prophylaxis. Levetiracetam 
+has a more favorable adverse effect profile, and therapeutic 
+drug monitoring is not needed. The most commonly used 
+dose of levetiracetam is 20–40 mg/kg/day, divided into 
+two doses per day. Facilities are encouraged to develop 
+multidisciplinary guidelines, with weight-based dosing, for 
+pediatric PTS prophylaxis.
+Antithrombotic/antiplatelet reversal and restart: As 
+in adult patients, consideration of anticoagulant and 
+antiplatelet reversal and restart in pediatric patients 
+requires a thorough risk-benefit analysis for each individual 
+patient before making clinical decisions.
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

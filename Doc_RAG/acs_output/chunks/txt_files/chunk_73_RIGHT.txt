@@ -1,0 +1,52 @@
+Source: Page 73 (RIGHT)
+Page: 73, Side: RIGHT
+Word Count: 350
+--------------------------------------------------
+POSTACUTE CARE
+Detection and Diagnosis 
+The acute management of patients with TBI and GCS 13–15 
+presents several challenges. Most notably, establishing the 
+diagnosis in the ED relies heavily on the subjective report of 
+the patient’s signs and symptoms. However, patient history 
+and symptom reporting in the ED are often unreliable due to 
+impairment and can be impacted by numerous factors other 
+than head injury, such as the following:
+ 
+• Confounding drug or alcohol intoxication 
+ 
+• Co-occurring orthopaedic injury 
+ 
+• Pain management treatment 
+ 
+• Inherent uncertainties in gathering accurate injury 
+history, symptomatology, or mechanism8 
+Great variability can be found in impairment severity, even 
+within the continuum of GCS 13–15 (e.g., a GCS 15 patient 
+with normal neuroimaging and only subtle deficit vs. a GCS 
+13 patient with extensive pathology on imaging and more 
+severe impairments). The high-volume, high-throughput 
+setting of a hospital ED with primary focus on emergency 
+conditions may not allow for extensive clinical testing (e.g., 
+neurologic or neuropsychological testing) beyond physical 
+examination and head CT to assist in the diagnosis of TBI 
+patients with GCS 13–15. These challenges contribute, in 
+part, to the fact that an estimated 50% of patients with 
+TBI and GCS 13–15 go undetected and undiagnosed in the 
+hospital ED each year.9–11 
+Acute Management 
+In the acute ED setting, the immediate priority when 
+treating suspected brain trauma, including patients with 
+TBI and GCS 13–15, is identifying those patients at risk for 
+deterioration and potentially in need of urgent neurosurgical 
+intervention. Most patients with TBI and GCS 13–15 have 
+no traumatic intracranial lesions on head CT. However, 
+higher rates of CT abnormalities are reported in patients 
+treated at Level 1 trauma centers and in patients with lower 
+GCS scores.12 Regardless, head CT remains the standard for 
+identifying ICH in patients with TBI and GCS 13–15. Clinical 
+decision rules exist regarding use of CT imaging for at-risk 
+patients with TBI to reduce the number of unnecessary 
+CT studies performed. Please refer to the Blood-Based 
+Biomarkers section on page 15 regarding the use of 
+neuroimaging and blood-based biomarker testing in the 
+evaluation of patients with TBI and GCS 13–15.

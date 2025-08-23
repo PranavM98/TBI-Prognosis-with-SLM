@@ -1,0 +1,51 @@
+Source: Page 29 (LEFT)
+Page: 29, Side: LEFT
+Word Count: 300
+--------------------------------------------------
+NEUROMONITORING
+KEY POINTS
+ 
+• Serial clinical assessment of neurological status 
+in regular intervals provides the foundation of 
+neuromonitoring in TBI patients.
+ 
+• Neuromonitoring, beyond monitoring of ICP in isolation, 
+can help establish individualized patient care goals and 
+therapy.
+ 
+• Assessment of cerebral autoregulation can help 
+establish CPP goals in individual patients. Consider 
+performing neuromonitoring in patients who do not 
+respond to initial (Tier One) therapies to decrease ICP.
+ 
+• Impaired cerebral oxygenation can occur with both 
+normal or increased ICP. Consider treatment of brain 
+tissue hypoxia based on the underlying pathophysiology 
+and a tiered approach of escalating therapies.
+ 
+• Continuous electroencephalography (EEG) assists 
+in seizure detection and management, especially for 
+nonconvulsive seizures.
+Repeated clinical assessment of neurological status 
+provides the foundation of neuromonitoring in TBI. It can 
+be supplemented by noninvasive methods, such as the use 
+of quantitative pupillometry at set intervals to quantify the 
+pupillary light reflex (see the Basic Assessment section on 
+page 10). While ICP monitoring is most commonly used 
+to supplement clinical assessment, other techniques can 
+supplement clinical assessment as well (see Intracranial 
+Pressure Monitoring on page 22).
+TBI is a complex disease with substantial heterogeneity. ICP 
+monitoring alone cannot detect all potential insults to the 
+brain, nor does it allow for patient-specific individualized 
+care based on factors such as the presence or absence 
+of autoregulation. Cerebral pressure autoregulation is 
+the brain’s intrinsic ability to maintain constant CBF over 
+a range of systemic blood pressures. This mechanism 
+protects the brain from cerebral ischemia due to 
+hypotension and from excessive blood flow that can 
+lead to elevated ICP. The SIBICC algorithm recommends 
+assessment of autoregulation status in patients who do not 
+respond to initial therapy to reduce elevated ICP (see Tier 
+One in Box 3 on page 26).1 
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

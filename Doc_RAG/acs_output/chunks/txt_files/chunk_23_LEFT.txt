@@ -1,0 +1,51 @@
+Source: Page 23 (LEFT)
+Page: 23, Side: LEFT
+Word Count: 391
+--------------------------------------------------
+A South American randomized controlled trial (RCT) 
+compared patient treatment using ICP monitoring to 
+maintain ICP ≤ 20 mm Hg to patient treatment based 
+upon imaging and neurological examination.3 Although 
+no difference in outcomes was found between the 
+study groups, the result did not support discontinuation 
+of ICP monitoring in the treatment of TBI. Rather, it 
+demonstrated the importance of aggressive treatment 
+using ICP monitoring or, alternatively, frequent clinical 
+and radiographic examination to identify intracranial 
+hypertension.4 The findings of this study also challenge 
+the currently accepted rigid ICP alert threshold used for 
+all patients. The currently accepted alert threshold is an 
+ICP of 22 mm Hg, with a reasonable range of 20–25 mm 
+Hg for more than 5 minutes, as a trigger for treatment 
+of intracranial hypertension; however, ongoing research 
+suggests that this threshold is dependent upon individual 
+patient factors such as injury type and severity. The ICP 
+“dose,” reflecting both the magnitude and time of exposure 
+to intracranial hypertension, might be more important 
+than a fixed ICP treatment threshold. Higher ICP dose is 
+associated with worse outcomes over the entire Glasgow 
+Outcome Scale (GOS) range, not only mortality.5 
+Escalation of treatment for intracranial hypertension needs 
+to be based on both the level and duration of ICP elevation. 
+For example, the threshold for proceeding to higher-tier 
+therapies such as decompressive craniectomy needs to be 
+at a higher ICP threshold, or “dose,” as demonstrated by the 
+RESCUE-ICP trial.6 A trend over time is more relevant than 
+a momentary ICP value. Differentiate a gradual rise of ICP 
+from short-term elevations due to events such as ventilator 
+dyssynchrony or plateau waves. Interpret measured values 
+of ICP in relation to arterial blood pressure, CPP, and 
+autoregulatory responses (see the Neuromonitoring section 
+on page 29). A clinical approach based on injury type and 
+augmented by advanced neuromonitoring may lead to 
+individualized treatment pathways. 
+The gold standard for ICP measurement is an EVD attached 
+to an external strain-gauge transducer. The monitor, 
+centrally placed within the cerebral ventricles, can measure 
+global ICP, and it offers the therapeutic advantage of 
+draining cerebrospinal fluid (CSF) to reduce intracranial 
+volume. Intraparenchymal ICP monitoring is also a reliable 
+method, but it does not allow for CSF drainage. Subdural 
+and epidural monitors have been used, but these are not 
+recommended due to lower accuracy.
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

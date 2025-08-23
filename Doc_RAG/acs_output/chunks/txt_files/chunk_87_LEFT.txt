@@ -1,0 +1,95 @@
+Source: Page 87 (LEFT)
+Page: 87, Side: LEFT
+Word Count: 476
+--------------------------------------------------
+IMPLEMENTATION AND INTEGRATION OF THE BEST PRACTICES GUIDELINES
+Table 10. Traumatic Brain Injury Management PI Recommendations
+Performance Improvement Recommendations
+Outcome Measure and Threshold
+Documented facility guidelines for neurosurgical urgent 
+evaluation 
+Neurosurgical evaluation must occur within 30 minutes of request for the 
+following injuries1:
+ 
+• Severe TBI (GCS < 9) with head CT evidence of intracranial trauma
+ 
+• Moderate TBI (GCS 9–12) with head CT evidence of potential 
+intracranial mass 
+ 
+• Neurologic deficit due to potential spinal cord injury
+ 
+• GCS motor score < 6 
+Consider prehospital transport of patients meeting listed 
+criteria to the most appropriate trauma center with 
+neurosurgical capability2 
+ 
+• Skull deformity or suspected skull fracture
+ 
+• Signs of basilar skull fracture
+ 
+• Penetrating head injury
+ 
+• Caregiver-reported change from baseline behavior in an infant/child 
+following injury
+ 
+• Significant intracranial injury (e.g., large SDH, EDH, IPH, IVH)
+Consider transferring patients meeting listed criteria to a 
+trauma center with neurotrauma expertise, where available 
+(see Triage and Transport section on page 6)
+ 
+• Displaced skull fracture 
+ 
+• Suspected TBI (GCS score ≤ 15) and moderate to severe extracranial 
+anatomic injuries, and/or inability to monitor for neurological 
+deterioration when intracranial injury is present or suspected
+Neurotrauma contingency plan is in place
+Must be implemented when neurosurgery capabilities are encumbered or 
+overwhelmed 
+Monitoring of neurotrauma diversion is reported at least 
+quarterly as part of the PIPS program, if neurotrauma diversion 
+occurs
+Diversion initiation (date/time) and discontinuation (date/time) are 
+monitored and reported quarterly as part of the PIPS program 
+Use of GCS individual components (eye, verbal, and motor 
+scores) as the preferred method of measuring neurological 
+status in TBI patients
+Use of individual components of GCS in the prehospital and hospital 
+settings, with frequent serial assessments and notation of changes
+Documentation of individual GCS score components (eye, 
+verbal, and motor scores) in the patient care report
+All GCS individual components are documented
+Pupil assessment documentation
+ 
+• Clinical assessment is required 
+ 
+• Consider use of quantitative pupillometry 
+ 
+• Assessments repeated frequently and documented
+Hemodynamics assessment documentation
+ 
+• Age-specific measurement of hemodynamic status (blood pressure 
+management) following acute TBI is required 
+ 
+• Assessments repeated frequently and documented
+ 
+• Standardized neurological assessment and documentation
+Ongoing standardized neurological assessment and 
+documentation 
+ 
+• Assessments are repeated frequently and documented
+Repeat imaging 
+ 
+• Urgent repeat head CT scanning is indicated for a patient of any age 
+with worsening changes on neurologic exam
+ 
+• Repeat head CT is indicated in 6–12 hours after initial imaging when a 
+patient of any age has a persistently altered mental status and initial 
+CT showed traumatic abnormality
+Appropriate timeliness and coordination of monitoring during 
+imaging
+Per individual facility
+Consideration of blood-based biomarker testing for patients to 
+reduce unnecessary CT imaging
+Applies to patients ≥ 18 years of age with suspected TBI and a GCS of 
+13–15 within 12 hours of injury
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

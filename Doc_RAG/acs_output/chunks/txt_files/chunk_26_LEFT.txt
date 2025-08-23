@@ -1,0 +1,66 @@
+Source: Page 26 (LEFT)
+Page: 26, Side: LEFT
+Word Count: 265
+--------------------------------------------------
+The tiered approach provides structure while retaining 
+medical decision-making within tiers. The variety of 
+treatments within each tier also supports targeting 
+interventions at specific physiological disruptions (targeted 
+therapy). See Box 2 for Tier Zero treatment algorithms. 
+See Box 3 for the ICP treatment algorithms for Tiers One, 
+Two, and Three. Full descriptions of the SIBICC I protocol 
+(ICP monitoring)2 and SIBICC II protocol (ICP plus PbtO2 
+monitoring)1 are open access.
+Box 2. Tier Zero—Basic ICU Care Interventions—SIBICC I 
+Algorithm
+Expected Interventions:
+ 
+• Admission to ICU
+ 
+• Endotracheal intubation and mechanical ventilation
+ 
+• Serial evaluations of neurological status and 
+pupillary reactivity
+ 
+• Elevate head of bed 30–45° 
+ 
+• Analgesia to manage signs of pain (not ICP directed)
+ 
+• Sedation to prevent agitation, ventilator asynchrony, 
+etc. (not ICP directed)
+ 
+• Temperature management to prevent fever 
+ 
+• Measure core temperature
+ 
+• Treat core temperature above 38.0°C
+ 
+• Consider prophylactic anti-seizure medications for 
+
+1 week only (in the absence of indication to 
+continue)
+ 
+• Maintain CPP initially ≥ 60 mm Hg
+ 
+• Maintain hemoglobin > 7 g/dL
+ 
+• Avoid hyponatremia
+ 
+• Optimize venous return from head (e.g., keep head 
+midline, ensure cervical collars are not too tight)
+ 
+• Arterial line for continuous blood pressure 
+monitoring
+ 
+• Maintain SpO2 ≥ 94%
+Recommended Interventions:
+ 
+• Insertion of a central line
+ 
+• End-tidal CO2 monitoring
+From: Hawryluk GW, Aguilera S, Buki A, et al. A management algorithm for 
+patients with intracranial pressure monitoring: The Seattle International 
+Severe Traumatic Brain Injury Consensus Conference (SIBICC). Intensive Care 
+Med. 2019 Dec;45(12):1783–1794. doi: 10.1007/s00134-019-05805-9. Used 
+with permission
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

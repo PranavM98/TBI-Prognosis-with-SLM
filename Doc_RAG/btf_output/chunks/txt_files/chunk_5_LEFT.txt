@@ -1,0 +1,54 @@
+Source: Page 5 (LEFT)
+Page: 5, Side: LEFT
+Word Count: 440
+--------------------------------------------------
+CARNEY ET AL
+TABLE 1. Continued
+Topic
+Recommendations
+Level III
+• Antimicrobial-impregnated catheters may be considered to prevent catheter-related infections during
+external ventricular drainage.
+Deep vein thrombosis
+Prophylaxis
+Level III
+• LMWH or low-dose unfractioned heparin may be used in combination with mechanical prophylaxis. However,
+there is an increased risk for expansion of intracranial hemorrhage.
+• In addition to compression stockings, pharmacologic prophylaxis may be considered if the brain injury is
+stable and the benefit is considered to outweigh the risk of increased intracranial hemorrhage.
+• There is insufficient evidence to support recommendations regarding the preferred agent, dose, or timing of
+pharmacologic prophylaxis for deep vein thrombosis.
+Seizure prophylaxis
+Level IIA
+• Prophylactic use of phenytoin or valproate is not recommended for preventing late PTS.
+• Phenytoin is recommended to decrease the incidence of early PTS (within 7 d of injury), when the overall
+benefit is thought to outweigh the complications associated with such treatment. However, early PTS have
+not been associated with worse outcomes.
+• At the present time there is insufficient evidence to recommend levetiracetam compared with
+phenytoin regarding efficacy in preventing early post-traumatic seizures and toxicity.
+aBtpO2, brain tissue O2 partial pressure; CBF, cerebral blood flow; CSF, cerebrospinal fluid drainage; DC, decompressive craniectomy; EEG, electroencephalogram; EVD, external
+ventriculardrainage;GCS,GlasgowComaScale;GOS-E,GlasgowOutcomeScale—Extended;ICP,intracranialpressure;ICU,intensivecareunit;LMWH,lowmolecularweightheparin;
+PaCO2, partial pressure of arterial carbon dioxide; PI, povidone-iodine; PTS, posttraumatic seizures; RESCUEicp trial, Randomised Evaluation of Surgery with Craniectomy for Uncontrollable Elevation of ICP trial; SjO2, jugular venous oxygen saturation; TBI, traumatic brain injury.
+bBold: New or revised recommendations.
+the ICP and cerebral perfusion pressure monitoring recommendations.
+Threshold Recommendations
+These recommendations are related to threshold values
+for parameters that are monitored during the in-hospital
+management of patients with severe TBI. In this Fourth Edition,
+we include thresholds for blood pressure, ICP, cerebral perfusion
+pressure, and advanced cerebral monitoring. The threshold can
+be a value to avoid in order to decrease the probability of negative
+outcomes or a value to aim for in order to increase the probability
+of positive outcomes, and it can be a value that triggers a change
+in treatment.
+DISCUSSION
+New Evidence
+In updating the recommendations, 102 articles were added to
+the body of evidence. These fall into 3 categories. The 41 studies
+listed in Table 4 contributed to additions or changes to the recommendations. Table 4 lists these by topic and includes basic information about the studies, including study design, the number of
+patients included (N), and the data class. More details, including
+outcomes and results, are included in the evidence tables and
+narrative in the comprehensive guideline document available
+online at https://www.braintrauma.org/coma/guidelines.
+10 | VOLUME 80 | NUMBER 1 | JANUARY 2017
+www.neurosurgery-online.com

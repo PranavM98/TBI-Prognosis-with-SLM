@@ -1,0 +1,56 @@
+Source: Page 7 (LEFT)
+Page: 7, Side: LEFT
+Word Count: 434
+--------------------------------------------------
+CARNEY ET AL
+TABLE 3. Updated Recommendations: Thresholdsa,b
+Topic
+Recommendations
+Blood pressure thresholds
+Level III
+• Maintaining SBP at ≥100 mm Hg for patients 50 to 69 years old or at ≥110 mm Hg or above for
+patients 15 to 49 or >70 years old may be considered to decrease mortality and improve outcomes.
+Intracranial pressure thresholds
+Level IIB
+• Treating ICP >22 mm Hg is recommended because values above this level are associated with
+increased mortality.
+Level III
+• A combination of ICP values and clinical and brain CT findings may be used to make management
+decisions.
+*The committee is aware that the results of the RESCUEicp trial2 were released after the completion of these
+Guidelines. The results of this trial may affect these recommendations and may need to be considered by
+treating physicians and other users of these Guidelines. We intend to update these recommendations if
+needed. Updates will be available at https://braintrauma.org/coma/guidelines.
+Cerebral perfusion pressure
+Level IIB
+thresholds
+• The recommended target CPP value for survival and favorable outcomes is between 60 and 70 mm
+Hg. Whether 60 or 70 mm Hg is the minimum optimal CPP threshold is unclear and may depend
+upon the autoregulatory status of the patient.
+Level III
+• Avoiding aggressive attempts to maintain CPP >70 mm Hg with fluids and pressors may be considered
+because of the risk of adult respiratory failure.
+Advanced cerebral monitoring
+Level III
+thresholds
+• Jugular venous saturation of <50% may be a threshold to avoid in order to reduce mortality and improve
+outcomes.
+aCPP, cerebral perfusion pressure; CT, computed tomography; ICP, intracranial pressure; RESCUEicp trial, Randomised Evaluation of Surgery with Craniectomy for Uncontrollable
+Elevation of ICP; SBP, systolic blood pressure.
+bBold: New or revised recommendations.
+will be necessary, but not sufficient, for the generation of strong
+evidence.
+New Research Approaches
+It is reasonable to consider how different research designs might
+be used to identify which treatments work best, for whom, and
+under what circumstances. This is the possibility of Comparative Effectiveness Research, which is being promoted by funding
+agencies and adopted by large consortium efforts in the brain
+trauma research community. However, at the operational level,
+Comparative Effectiveness Research still is subject to many of
+the same vulnerabilities as traditional research, because it is
+accomplished using randomized controlled trials and observational studies. A transition to a new focus on Comparative Effectiveness Research must be accompanied by consistent adherence
+to evidence-based protocols.
+CONCLUSION
+Often, the available evidence is not sufficient to generate guidelines addressing the most critical questions faced by clinicians
+12 | VOLUME 80 | NUMBER 1 | JANUARY 2017
+www.neurosurgery-online.com

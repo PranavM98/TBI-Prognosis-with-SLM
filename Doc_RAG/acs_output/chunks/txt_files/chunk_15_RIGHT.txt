@@ -1,0 +1,52 @@
+Source: Page 15 (RIGHT)
+Page: 15, Side: RIGHT
+Word Count: 366
+--------------------------------------------------
+ASSESSMENT
+15
+Biomarkers and Imaging Decisions
+Two blood-based protein biomarkers, GFAP and UCH-L1, 
+can be measured in patients (18 years or older) with a 
+potential TBI to help rule out the need for a brain CT scan.2 
+Recently, the US Food and Drug Administration (FDA) 
+authorized devices for the  rapid measurement of GFAP and 
+UCH-L1 for routine clinical use.3,4 These include a point-
+of-care device that can analyze blood samples collected 
+by venipuncture and deliver test results in as little as 15 
+minutes, as well as a lab-based test that offers results in 18 
+minutes. Other devices with FDA clearance are expected in 
+the near future.
+S100B: S100B is a calcium-binding protein primarily found 
+in glial cells. It is the most extensively studied brain injury 
+biomarker for aiding in decision-making regarding brain 
+CT imaging in patients evaluated for TBI. Similar to GFAP 
+it is released into circulation following glial cell injury. It 
+has excellent diagnostic sensitivity for identifying patients 
+likely to have a positive CT, however, given its short half-
+life, it is recommended to use this biomarker only when 
+blood sampling can be performed within 6 hours of injury.5 
+S100B is not FDA-cleared for routine clinical use in the 
+US; however, it was incorporated into the Scandinavian 
+guidelines for brain CT imaging in 2013. 
+The Scandinavian guidelines recommend using S100B 
+analysis in adult patients with mild head injury meeting the 
+following criteria6:
+ 
+• Less than 6 hours have elapsed following trauma, and
+ 
+• EITHER GCS 14 and no risk factors (such as 
+anticoagulant therapy or coagulation disorders, 
+posttraumatic seizures, clinical signs of depressed or 
+basal skull fracture, and focal neurological deficits) 
+ 
+• OR GCS 15 with LOC or repeated vomiting (≥ 2) and no 
+other risk factors.
+If S100B is less than 0.10 mcg/L, the patient may be 
+discharged without a brain CT.6
+GFAP and UCH-L1: GFAP is an intermediate filament 
+protein found predominantly in astrocytes, and UCH-L1 is 
+an enzyme that neurons express in high abundance. These 
+proteins are released into circulation when astrocytes and 
+neurons are injured. UCH-L1 is detectable in blood within 
+30 minutes of injury, peaks within 8 hours postinjury, and 
+then decreases steadily. GFAP is released within 1 hour of

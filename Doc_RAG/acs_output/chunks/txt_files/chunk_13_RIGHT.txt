@@ -1,0 +1,14 @@
+Source: Page 13 (RIGHT)
+Page: 13, Side: RIGHT
+Word Count: 57
+--------------------------------------------------
+ASSESSMENT
+13
+Include the following in the brain MRI protocol: T1, T2, T2 
+fluid-attenuated inversion recovery, diffusion-weighted 
+imaging/apparent diffusion coefficient, susceptibility-
+weighted imaging (SWI) or, if unavailable, conventional T2*-
+weighted gradient echo. SWI and T2*-weighted gradient 
+echo sequences are very sensitive to blood products and 
+greatly enhance the visibility of microhemorrhages that are 
+often occult on CT.

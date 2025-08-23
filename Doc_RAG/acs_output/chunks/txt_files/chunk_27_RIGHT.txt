@@ -1,0 +1,47 @@
+Source: Page 27 (RIGHT)
+Page: 27, Side: RIGHT
+Word Count: 313
+--------------------------------------------------
+PATIENT MANAGEMENT
+27
+Inter-Tier Recommendations
+An ancillary value of the tiered structure is that the tiers 
+act as a proxy for treatment resistance (i.e., disease 
+severity). The SIBICC working group formulated inter-
+tier recommendations to be considered when advancing 
+between tiers (see Figure 1). These recommendations 
+are directed at ensuring that the baseline management 
+parameters remain acceptable, that judgment calls 
+(e.g., operability of cerebral contusions) do not need 
+reassessment, and that treatable outside influences of 
+ICP are not involved (e.g., intrathoracic or intra-abdominal 
+pressures). This is also a good time to consider consultation 
+or transfer, if such resources are available.
+Older Adult Considerations
+For ICP management in older adults, evaluate 
+pharmacotherapeutic strategies for dosage adjustments 
+to prevent toxicity and prolonged duration of action. 
+Increased concentrations of active drugs may result from 
+older adults’ physiologic responses, including decreases in 
+volume distribution, protein binding with hypoalbuminemia, 
+hepatic metabolism, and renal function. Comorbidities 
+and preexisting conditions, such as dementia or stroke, as 
+well as adverse effects of medication make the diagnosis 
+and treatment goals more challenging as well. Older 
+adult patients may also have slower recovery trajectories 
+and worse outcomes, which can be mitigated through 
+aggressive treatment and good preinjury health status.3–5
+Pediatric Considerations
+In 2019, the consensus guideline to manage severe TBI 
+injury for children was updated by an interdisciplinary 
+team.6 An accompanying algorithm of tiered therapy was 
+included, similar to that of SIBICC, although condensed 
+into two tiers.7 Minor variations in the tier classifications 
+do not indicate evidence-based discrepancies. Note: 
+These guidelines predate results from the Approaches and 
+Decisions in Acute Pediatric TBI Trial (ADAPT).8
+In a few instances, available evidence supports different 
+approaches to the care of children with severe TBI. For 
+example, evidence supports the use of hypertonic 3% 
+saline boluses, either 2 to 5 mL/kg over 10 to 20 min 
+or at a constant rate of 0.1–1 mL/kg/hour, or a 23.4%

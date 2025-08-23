@@ -1,0 +1,32 @@
+Source: Page 50 (RIGHT)
+Page: 50, Side: RIGHT
+Word Count: 192
+--------------------------------------------------
+PATIENT MANAGEMENT
+50
+day that passes without pharmacologic VTE prophylaxis, 
+and VTE rates increase when trauma patients miss doses 
+of pharmacologic VTE prophylaxis.3–5 A substantial body 
+of evidence indicates that pharmacologic VTE prophylaxis 
+reduces VTE rates in general trauma and TBI patients, and 
+it may improve outcomes in TBI.6 Current best practice 
+is to use mechanical prophylaxis on all TBI patients upon 
+admission, regardless of their eligibility for pharmacologic 
+prophylaxis.3
+For patients with TBI, clinicians must balance concerns for 
+progression of ICH with and without pharmacologic VTE 
+prophylaxis against the known benefits of pharmacologic 
+prophylaxis for reducing VTE risk. A general correlation 
+of TBI severity with risk of ICH progression has been 
+demonstrated.7,8 Individual patient factors may also affect 
+risk of bleeding or thrombosis, such as congenital or 
+acquired hypercoagulable or coagulopathic states, use of 
+antithrombotic and anticoagulation medications, and acute 
+injury patterns. The modified Berne-Norwood criteria and 
+the Brain Injury Guidelines stratify risk of ICH progression 
+based on mild, moderate, and severe injury patterns, with 
+the Brain Injury Guidelines also accounting for several 
+clinical factors (see Table 6).7,8 
+• ICP monitor placement
+• Craniotomy 
+• Evidence of progression at 72 hrs

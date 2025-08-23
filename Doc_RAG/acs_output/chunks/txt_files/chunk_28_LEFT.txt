@@ -1,0 +1,43 @@
+Source: Page 28 (LEFT)
+Page: 28, Side: LEFT
+Word Count: 189
+--------------------------------------------------
+Figure 1. Inter-Tier Recommendations
+Tier One treatment of
+intracranial hypertension
+ 
+• Reexamine the patient and consider repeating CT 
+
+to reevaluate intracranial pathology
+ 
+• Reconsider surgical options for potentially surgical 
+Inter-Tier
+Recommendations
+lesions
+ 
+• Consider extracranial causes of ICP elevation (e.g., 
+intrathoracic or intra-abdominal pressure)
+Tier Two treatment of
+intracranial hypertension
+ 
+• Review basic physiologic parameters to confirm they 
+are in the desired range (e.g., CPP, blood gas values, 
+etc.)
+Inter-Tier
+Recommendations
+ 
+• Consider consultation with a higher level of care, 
+
+if applicable for your health care system
+Tier Three treatment of
+intracranial hypertension
+From: Hawryluk GW, Aguilera S, Buki A, et al. A management algorithm for patients with intracranial pressure monitoring: The Seattle International Severe 
+Traumatic Brain Injury Consensus Conference (SIBICC). Intensive Care Med. 2019 Dec;45(12):1783–1794. doi: 10.1007/s00134-019-05805-9. Used with 
+permission.
+concentration at 0.5 mL/kg (up to 30 mL) over 10 to 20 
+minutes. Less evidence supports the use of mannitol.7 
+Additionally, a lower hypoventilation target of 28 to 34 
+mm Hg is recommended in the Tier Two interventions.7 
+Moderate prophylactic hypothermia (32–33°C) is not 
+recommended over normothermia to improve overall 
+outcomes, but it is suggested for ICP control.6,7

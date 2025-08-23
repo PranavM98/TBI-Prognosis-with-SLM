@@ -1,0 +1,49 @@
+Source: Page 23 (RIGHT)
+Page: 23, Side: RIGHT
+Word Count: 330
+--------------------------------------------------
+PATIENT MANAGEMENT
+23
+Older Adult Considerations
+Despite recommendations for ICP monitoring in patients 
+with severe TBI, the above recommendations may not 
+always be applicable to older adults. Older adult patients 
+have cerebral atrophy and may generally be at lower 
+risk of intracranial hypertension. A few studies have 
+specifically investigated the use of ICP monitoring in older 
+adult patients with TBI. ICP monitoring rates in older 
+adult patients range from 5% to 44%, depending on the 
+population studied.7,8 Some observational studies on severe 
+TBI reported lower mortality in patients older than 65 years 
+who received ICP monitoring, while other studies concluded 
+that ICP monitoring was associated with an unfavorable 
+outcome (severe disability, vegetative, or death) in older 
+adult patients.9-13 In a recent large observational study, the 
+overall utilization of ICP monitoring in older adults meeting 
+the Brain Trauma Foundation (BTF) criteria remained 
+low across high-volume trauma centers. A mortality or 
+functional benefit to ICP monitoring in older adults remains 
+to be elucidated.14 
+Pediatric Considerations
+Pediatric consensus guidelines based on aggregate 
+retrospective data suggest utility in monitoring ICP in 
+children with severe TBI. Although limited pediatric studies 
+report no improvement in functional survival or even 
+showed increased morbidity and mortality, these studies 
+were unable to control for critical differences between 
+the groups with and without ICP monitoring. Recent 
+retrospective data suggest that, compared to an EVD, an 
+intraparenchymal pressure transducer may achieve similar 
+long-term outcome measures. However, the therapeutic 
+benefit of an EVD may contribute to slightly lower ICP 
+during acute management.15 These data suggest that 
+the choice of ICP monitoring technique should include 
+consideration of the different risks and relative advantages 
+of the two techniques relevant to the clinical scenario, such 
+as age and other factors.
+Normal CBF has age-dependent variability related to 
+metabolic changes during different stages of brain 
+development. Depending on the child’s age, this variability 
+affects the relationship between cerebrovascular 
+autoregulation, ICP, SBP, and CPP. Age-appropriate MAP, 
+and therefore CPP, is lower in children than in adults. A

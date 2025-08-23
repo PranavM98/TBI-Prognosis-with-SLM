@@ -1,0 +1,79 @@
+Source: Page 88 (LEFT)
+Page: 88, Side: LEFT
+Word Count: 462
+--------------------------------------------------
+IMPLEMENTATION AND INTEGRATION OF THE BEST PRACTICES GUIDELINES
+Performance Improvement Recommendations
+Outcome Measure and Threshold
+Monitoring to maintain optimal ICP goals
+Refer to Table 4 on page 20: Goals of Treatment Recommended 
+Parameters
+Monitoring to maintain optimal CPP goal of 60–70 mm Hg
+Refer to Table 4 on page 20: Goals of Treatment Recommended 
+Parameters
+Timeliness of ICP monitoring in TBI GCS ≤ 8
+Recommended in comatose patients (GCS ≤ 8) if evidence of structural 
+brain damage is seen on initial CT imaging, or polytrauma patients and in 
+patients going to the operating room for acute injuries when clinical exam 
+is limited 
+ICP monitoring in TBI GCS > 8
+Recommended in patients with structural brain damage with high risk for 
+progression (e.g., large/multiple contusions) and in cases when knowing 
+ICP might facilitate management of other issues (e.g., earlier extracranial 
+surgery)
+Monitoring treatment of brain tissue hypoxia 
+Maintain PbtO2 ≥ 15 mm Hg
+Timely utilization of continuous EEG monitoring for seizure 
+detection and management 
+Per individual facility
+Surgical management
+Time to operative intervention (may vary depending on resources)
+Craniotomy < 4 hours after arrival for patients with operative 
+indication, excluding ICP monitoring 
+Ensure delayed craniotomy rates are monitored within the PI program
+ 
+Early enteral (or parental) nutrition support to attain caloric 
+replacement
+Nutritional support is initiated within 3 days
+Guidelines include alternate feeding method when EN is 
+contraindicated
+PN support is recommended when EN is contraindicated
+Documented guidelines to identify TBI patients at elevated risk 
+for nutrition deficiency
+Guidelines for specific populations could include pediatric, geriatric, and 
+patients with impaired mobility
+Measures to prevent skin breakdown with nutrition plan and 
+protection barrier
+Assessment and interventions are documented
+Monitoring of electrolytes
+Glucose and sodium are monitored
+Early mobilization or simple interventions (such as passive 
+movement and splinting) are an integral part of rehabilitation 
+These elements are implemented within the first 48 hours of injury
+Timely endotracheal intubation and mechanical ventilation 
+Indicated in TBI when patient has
+ 
+• Reduced consciousness, GCS < 9
+ 
+• Severe agitation
+ 
+• Loss of airway protective reflexes 
+Early endotracheal intubation may be indicated in patients with GCS > 8, 
+particularly in the presence of thoracic and abdominal injuries 
+ 
+• Optimal target range of PaO2 is 80–100 mm Hg 
+Monitoring to maintain normoxia and normocapnia, including 
+continuous endotracheal CO2 monitoring
+ 
+• Optimal target range of PaCO2 without ICP elevation is 35–45 mm Hg
+Timely tracheostomy placement 
+Consider within 7 days of injury 
+Extracranial BCVI imaging
+Consider use of CT angiography to detect potential vertebral artery injury
+Extracranial BCVI management and follow-up
+Antithrombotic therapy and referral for follow-up are provided at 
+discharge, if warranted
+Initiation of anticoagulation or antiplatelet agents when no 
+contraindications exist
+Therapy may begin as early as 24 hours postinjury
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

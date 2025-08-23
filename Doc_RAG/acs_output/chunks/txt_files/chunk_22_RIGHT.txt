@@ -1,0 +1,51 @@
+Source: Page 22 (RIGHT)
+Page: 22, Side: RIGHT
+Word Count: 318
+--------------------------------------------------
+PATIENT MANAGEMENT
+22
+ 
+• Patients with a GCS > 8 when knowing the ICP might 
+facilitate management of other issues (e.g., allowing 
+earlier surgery for orthopaedic injuries or application of 
+treatments that can potentially increase ICP like prone 
+positioning for acute respiratory failure)
+ 
+• Patients with evidence of pathology progression on CT 
+imaging or clinical deterioration
+ 
+• Patients who require urgent surgery for extracranial 
+injuries or sedation to facilitate mechanical ventilation 
+because of airway compromise or respiratory failure. 
+ICP monitoring is generally not indicated in comatose 
+patients without evidence of structural brain damage or 
+of elevated ICP on initial CT imaging (e.g., compressed or 
+absent basal cisterns). These patients may continue to be 
+observed without ICP monitoring by neurological exams and 
+serial CT imaging.
+ICP Monitoring Role in Patient 
+Management
+Identification of elevated ICP can prompt further imaging, 
+pharmacologic intervention, and definitive operative 
+management. Knowing that ICP elevation is absent can 
+also allow for de-escalation of care (e.g., early surgery for 
+extracranial injuries, decreasing sedation, extubation, etc.). 
+When instituted, it is important to continue ICP monitoring 
+for patients transported out of the ICU for extracranial 
+surgery, imaging, or special procedures.
+ICP monitoring remains a critical component in the 
+management of severe TBI. However, studies highlight the 
+need to better define how ICP monitoring is used in the 
+treatment of TBI. In the largest study of ICP monitoring to 
+date, observational data from hospitals participating in the 
+ACS TQIP demonstrated that use of ICP monitoring was 
+associated with lower in-hospital mortality.1 Worldwide, 
+the use of ICP monitoring and management varies greatly 
+across hospitals and countries. A large, international, 
+prospective observational cohort study of ICP monitoring 
+(SYNAPSE-ICU) demonstrated that ICP monitoring is 
+associated with a more intensive therapeutic approach 
+and with lower 6-month mortality in more severe cases.2 
+Intracranial hypertension treatment guided by monitoring 
+might be considered in severe TBI due to the potential 
+associated improvement in long-term clinical results.

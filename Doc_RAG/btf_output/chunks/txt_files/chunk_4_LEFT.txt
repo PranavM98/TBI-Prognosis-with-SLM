@@ -1,0 +1,71 @@
+Source: Page 4 (LEFT)
+Page: 4, Side: LEFT
+Word Count: 638
+--------------------------------------------------
+TABLE 1. Updated Treatment Recommendationsa,b
+Topic
+Recommendations
+Decompressive craniectomy
+Level IIA
+• Bifrontal DC is not recommended to improve outcomes as measured by the GOS-E score at 6 mo post-injury
+in severe TBI patients with diffuse injury (without mass lesions), and with ICP elevation to values >20 mm
+Hg for more than 15 min within a 1-h period that are refractory to first-tier therapies. However, this
+procedure has been demonstrated to reduce ICP and to minimize days in the ICU.
+• A large frontotemporoparietal DC (not less than 12 x 15 cm or 15 cm diameter) is recommended over a small
+frontotemporoparietal DC for reduced mortality and improved neurologic outcomes in patients with
+severe TBI.
+*The committee is aware that the results of the RESCUEicp trial2 were released soon after the completion of these
+Guidelines. The results of this trial may affect these recommendations and may need to be considered by treating
+physicians and other users of these Guidelines. We intend to update these recommendations if needed. Updates
+will be available at https://braintrauma.org/coma/guidelines.
+Prophylactic hypothermia
+Level IIB
+• Early (within 2.5 h), short-term (48 h post-injury), prophylactic hypothermia is not recommended to
+improve outcomes in patients with diffuse injury.
+Hyperosmolar therapy
+Recommendations from the prior (Third) Edition not supported by evidence meeting current standards.
+Mannitol is effective for control of raised ICP at doses of 0.25 to 1 g/kg body weight. Arterial hypotension (systolic
+blood pressure <90 mm Hg) should be avoided.
+Restrict mannitol use prior to ICP monitoring to patients with signs of transtentorial herniation or progressive
+neurologic deterioration not attributable to extracranial causes.
+Cerebrospinal fluid drainage
+Level III
+• An EVD system zeroed at the midbrain with continuous drainage of CSF may be considered to lower ICP
+burden more effectively than intermittent use.
+• Use of CSF drainage to lower ICP in patients with an initial GCS <6 during the first 12 h after injury may be
+considered.
+Ventilation therapies
+Level IIB
+• Prolonged prophylactic hyperventilation with PaCO2 of ≤25 mm Hg is not recommended.
+Recommendations from the prior (Third) Edition not supported by evidence meeting current standards.
+Hyperventilation is recommended as a temporizing measure for the reduction of elevated ICP.
+Hyperventilation should be avoided during the first 24 h after injury when CBF often is reduced critically.
+If hyperventilation is used, SjO2 or BtpO2 measurements are recommended to monitor oxygen delivery.
+Anesthetics, analgesics, and
+sedatives
+Level IIB
+• Administration of barbiturates to induce burst suppression measured by EEG as prophylaxis against the
+development of intracranial hypertension is not recommended.
+• High-dose barbiturate administration is recommended to control elevated ICP refractory to maximum standard
+medical and surgical treatment. Hemodynamic stability is essential before and during barbiturate therapy.
+• Although propofol is recommended for the control of ICP, it is not recommended for improvement in mortality or
+6-month outcomes. Caution is required as high-dose propofol can produce significant morbidity.3
+Steroids
+Level I
+• The use of steroids is not recommended for improving outcome or reducing ICP. In patients with severe TBI,
+high-dose methylprednisolone was associated with increased mortality and is contraindicated.
+Nutrition
+Level IIA
+• Feeding patients to attain basal caloric replacement at least by the fifth day and at most by the seventh day
+post-injury is recommended to decrease mortality.
+Level IIB
+• Transgastric jejunal feeding is recommended to reduce the incidence of ventilator-associated pneumonia.
+Infection prophylaxis
+Level IIA
+• Early tracheostomy is recommended to reduce mechanical ventilation days when the overall benefit is thought to
+outweigh the complications associated with such a procedure. However, there is no evidence that early
+tracheostomy reduces mortality or the rate of nosocomial pneumonia.
+• The use of PI oral care is not recommended to reduce ventilator-associated pneumonia and may cause an
+increased risk of acute respiratory distress syndrome.
+NEUROSURGERY
+VOLUME 80 | NUMBER 1 | JANUARY 2017 | 9

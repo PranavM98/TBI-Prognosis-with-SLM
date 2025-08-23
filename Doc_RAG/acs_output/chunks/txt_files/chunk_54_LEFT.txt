@@ -1,0 +1,53 @@
+Source: Page 54 (LEFT)
+Page: 54, Side: LEFT
+Word Count: 268
+--------------------------------------------------
+PHARMACOTHERAPY FOR TRAUMATIC 
+BRAIN INJURY
+KEY POINTS
+ 
+• Patients with TBI at high risk of early posttraumatic 
+seizures (PTS) have a lower incidence of PTS when 
+receiving phenytoin or levetiracetam, compared to those 
+receiving no antiseizure medication (ASM).
+ 
+• Consider the use of ASM prophylaxis for 7 days 
+following severe TBI to prevent early PTS if risk factors 
+are present; however, its use for more than 7 days to 
+prevent late PTS is not recommended. 
+ 
+• Carefully assess patients receiving warfarin or direct-
+acting oral anticoagulants (DOACs) and initiate drug-
+specific reversal therapy for those requiring emergent 
+surgery for life-threatening bleeding.
+ 
+• Consider restarting anticoagulation no later than 14–90 
+days after TBI, depending on patient-specific risk for 
+thrombosis and bleeding.
+ 
+• Routine platelet transfusion is not recommended 
+for use in reversing antiplatelet agent effects. Use 
+clinical judgment to determine if patients with TBI 
+on antiplatelet agents who are undergoing surgery 
+or invasive procedures with low platelet counts need 
+platelet transfusions to achieve hemostasis. 
+ 
+• Restart antiplatelet agents as early as 4 days after 
+injury, based on assessment of patient-specific risk for 
+thrombosis and bleeding.
+ 
+• Beta blockers (e.g., propranolol) may be considered 
+for treatment of TBI patients with adrenergic stress or 
+paroxysmal hyperactivity syndrome (“storming”), but 
+adverse effects must also be considered. 
+ 
+• Administer antibiotic surgical prophylaxis based on 
+published guidelines, in conjunction with pharmacist 
+consultation and assessment of ICU antibiograms. 
+ 
+• Antibiotic prophylaxis is not recommended for EVD or 
+intraparenchymal ICP monitor placement, skull-based 
+fractures, CSF leaks, or pneumocephalus, because the 
+prophylaxis may promote growth of drug-resistant 
+bacteria.
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

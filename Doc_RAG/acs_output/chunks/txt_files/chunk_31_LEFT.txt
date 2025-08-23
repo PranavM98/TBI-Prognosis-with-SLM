@@ -1,0 +1,46 @@
+Source: Page 31 (LEFT)
+Page: 31, Side: LEFT
+Word Count: 322
+--------------------------------------------------
+Older Adult Considerations
+Little literature exists specifically addressing the use of 
+multimodality monitoring in older adult patients. Thus, 
+potential impacts must be extrapolated. Differences in 
+the aging physiology may influence both the utility and 
+interpretation of data derived from these modalities. 
+ Studies published suggest a decreased use of invasive ICP 
+monitoring for older adult patients and/or worse outcomes 
+with use.15,16 These observations may reflect a difference 
+in aggressiveness of care or decreased suspicion about 
+a raised ICP due to cerebral volume loss. Other studies 
+reported a negative correlation between age and invasively 
+measured ICP in patients with TBI. It follows that “normal” 
+ICP is believed to decrease with advancing age.17
+ Aging vessels may react to brain injury insults differently 
+or unpredictably. Increasing arterial stiffness translates into 
+a reduction in CBF and increased blood flow pulsatility—
+the net effect is impaired CBF regulation.18 Orthostatic 
+episodes and syncope may expose the brain to periods of 
+hypoperfusion. However, the capacity for autoregulation is 
+believed to be preserved with aging.19 Chronic hypertension 
+shifts the autoregulatory curve to the right, protecting 
+the brain from higher blood pressures but potentially 
+increasing the risk of hypoperfusion with periods of relative 
+hypotension. Interpretation of pupillometry data may 
+be confounded by natural changes that occur with aging 
+(see the Basic Assessment section on page 10 for more 
+information about pupillometry). 
+ Baseline EEG abnormalities—most often diffuse or 
+focal slowing, but sometimes epileptiform activity—are 
+common in older adult patients with a range of medical 
+comorbidities.20 While this likely reflects a certain 
+prevalence of cerebral dysfunction among older adult 
+patients, it may confound interpretation of an EEG 
+performed in the setting of an acute change in clinical 
+status.
+Pediatric Considerations
+Clinical examination may be more difficult to follow in 
+children, and age-appropriate adaptations to maximize 
+the sensitivity of a clinical exam need to be applied. Fewer 
+data exist on the application of cerebral tissue oxygenation 
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

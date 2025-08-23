@@ -1,0 +1,49 @@
+Source: Page 57 (LEFT)
+Page: 57, Side: LEFT
+Word Count: 320
+--------------------------------------------------
+Antiplatelet Agent Management in TBI 
+Patients
+Reversal of antiplatelet agent effects: The reversal 
+of antiplatelet agent effects in patients with traumatic 
+ICH remains controversial. Few relevant RCTs exist, 
+and conflicting data were reported about the impact 
+on hematoma expansion or neurological outcomes.30-34 
+A recent meta-analysis of low-quality data showed no 
+difference in hematoma expansion or need for neurosurgical 
+intervention in patients on single antiplatelet agents when 
+compared to patients on no therapy.35 Additionally, the 
+most common treatments for reversal of antiplatelet effects 
+(platelet transfusions and desmopressin) are associated 
+with adverse effects that may cause further complications 
+and worse outcomes. A recent study of patients with 
+traumatic ICH found no between-group differences 
+in progression of hemorrhage or rate of neurosurgical 
+intervention in transfusion versus no-transfusion groups.36 
+However, a trend toward increased ICU LOS (adjusted 
+odds ratio 1.59, 95% CI 0.74–3.40) and in-hospital death 
+(adjusted odds ratio 3.23, 95% CI 0.48–21.74) was found in 
+those receiving a platelet transfusion.36 Studies evaluating 
+the combination of desmopressin and transfusion also 
+demonstrated no benefit in hematoma progression or 
+mortality.37 It is important to note that patients receiving 
+antiplatelet agents who have a low platelet count and 
+undergo invasive procedures (e.g., craniotomy, insertion of 
+a ventricular drain, or insertion of an intraparenchymal ICP 
+monitor) may benefit from preprocedural transfusion of 
+platelets to achieve some degree of circulating functional 
+platelets to promote procedural hemostasis. Postoperative 
+platelet transfusion is not routinely recommended, because 
+antiplatelet medications may continue to affect the 
+functionality of transfused platelets. Patients on preinjury 
+antiplatelet agents without additional risk factors are not 
+recommended to receive platelet transfusions for this 
+reason alone. 
+Important factors to consider when deciding whether 
+to administer therapies reversing preinjury antiplatelet 
+agent effects include antiplatelet agent characteristics 
+and antiplatelet activity monitoring results. Antiplatelet 
+agents are categorized as reversible or irreversible. 
+Irreversible agents have effects throughout the platelet 
+lifespan (approximately 8–20 days). Transfused platelets 
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

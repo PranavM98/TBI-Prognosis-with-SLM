@@ -1,0 +1,47 @@
+Source: Page 10 (LEFT)
+Page: 10, Side: LEFT
+Word Count: 337
+--------------------------------------------------
+It includes the eye and motor components of the GCS, 
+as well as brainstem reflexes and respiration. The verbal 
+component of the GCS was omitted because intubation and 
+ventilation make it untestable. Among pediatric patients, 
+the FOUR score displays good inter-rater reliability among 
+physicians and nurses.8 The FOUR score provides greater 
+neurologic detail than the GCS in patients with more severe 
+impairments of consciousness, and it is applicable in 
+patients with locked-in syndrome.8 The GCS is applicable 
+across patients of all injury severities and remains the 
+preferred tool for general use to assess and monitor level of 
+consciousness in the ICU.
+Pupillary Reactivity and Pupillometry
+The pupillary light response is an important element of 
+the neurologic exam because it provides useful diagnostic 
+and prognostic information. Some degree of pupillary 
+asymmetry may be normal, but the development of new 
+pupillary asymmetry can indicate compression of the 
+brainstem with impending uncal herniation, triggering 
+the need for further evaluation and intervention. In uncal 
+herniation, the parasympathetic fibers on the surface of 
+the third cranial nerve are compressed, leading to a slowly 
+reactive—or eventually unreactive—pupil. A unilateral 
+unreactive pupil is consistent with an ipsilateral mass lesion, 
+while bilaterally fixed and dilated pupils portend a poor 
+overall prognosis for functional recovery. 
+Older Adults: In older adults, evaluation of the pupillary 
+response may be confounded by preexisting chronic 
+ophthalmic diseases (e.g., glaucoma or cataract disease). 
+Quantitative pupillometry may be of limited value in 
+patients with postsurgical pupils (i.e., after cataract 
+surgery), however, this does not influence pupillary light 
+reflex parameters measured by automated pupillometry.9,10 
+In these patients, a medical history is essential to correctly 
+interpret physical examination findings such as an abnormal 
+pupillary light reflex, anisocoria, or oculomotor palsy. 
+Quantitative Pupillometry: Both the inter-rater and intra-
+rater reliability of the standard clinical determination of 
+pupillary size and reactivity are relatively poor. Quantitative 
+pupillometers provide increased reliability and consistency 
+of pupillary measurements.11–13 The quantitative pupillometer 
+is a small handheld device that uses both visible and 
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

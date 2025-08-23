@@ -1,0 +1,73 @@
+Source: Page 26 (RIGHT)
+Page: 26, Side: RIGHT
+Word Count: 341
+--------------------------------------------------
+PATIENT MANAGEMENT
+26
+Box 3. SIBICC I Tiers for ICP Treatment of Intracranial 
+Hypertension for Patients with ICP Monitoring
+Tier One
+ 
+• Maintain CPP 60–70 mm Hg
+ 
+• Increase analgesia to lower ICP
+ 
+• Increase sedation to lower ICP
+ 
+• Maintain PaCO2 at low end of normal (35–38 mm 
+Hg/4.7–5.1 kPa)
+ 
+• Administer mannitol by intermittent bolus 
+
+(0.25–1.0 g/kg)*
+ 
+• Administer hypertonic saline by intermittent bolus*
+ 
+• Drain CSF if EVD is in situ
+ 
+• Consider placement of EVD to drain CSF if 
+parenchymal probe used initially
+ 
+• Consider anti-seizure prophylaxis for 1 week only (in 
+the absence of indication to continue)
+ 
+• Consider electroencephalography (EEG) monitoring
+Tier Two
+ 
+• Maintain mild hypocapnia (32–35 mm Hg/4.3–4.6 
+ 
+• Use neuromuscular paralysis in adequately sedated 
+patients, if efficacious in lowering ICP**
+ 
+• Perform a MAP Challenge† to assess cerebral 
+autoregulation and guide MAP and CPP goals in 
+individual patients (see page 29 in Neuromonitoring)
+ 
+• Adjust the target MAP back to baseline (disrupted 
+autoregulation) or to a new, elevated target to lower 
+ICP (intact autoregulation)
+Tier Three
+ 
+• Administer pentobarbital or sodium thiopentone. 
+The barbiturate coma is titrated to ICP control if it is 
+efficacious on testing††
+ 
+• Perform secondary decompressive craniectomy
+ 
+• Maintain mild hypothermia (35–36°C) using active 
+cooling measures
+* Limits for sodium (155 mEq/L) and osmolality (320 mEq/L) are 
+recommended for administration of either hypertonic saline or mannitol.
+** It is recommended to begin with a trial dose of neuromuscular paralysis 
+and only proceed to continuous infusion if efficacy is demonstrated.
+† See MAP challenge protocol described in the open access papers, 
+references 1 and 2.
+†† Barbiturate administration is continued only when a beneficial effect on 
+ICP is demonstrated. Titrate barbiturate to achieve ICP control, but do not 
+exceed the dose that achieves burst suppression. Avoid hypotension when 
+barbiturates are administered.
+From: Hawryluk GW, Aguilera S, Buki A, et al. A management algorithm for 
+patients with intracranial pressure monitoring: The Seattle International 
+Severe Traumatic Brain Injury Consensus Conference (SIBICC). Intensive Care 
+Med. 2019 Dec;45(12):1783–1794. doi: 10.1007/s00134-019-05805-9. Used 
+with permission.

@@ -1,0 +1,135 @@
+Source: Page 1 (LEFT)
+Page: 1, Side: LEFT
+Word Count: 556
+--------------------------------------------------
+BRAIN TRAUMA FOUNDATION TBI GUIDELINES
+Nancy Carney, PhD*
+Guidelines for the Management of Severe
+Traumatic Brain Injury, Fourth Edition
+Annette M. Totten, PhD*
+Cindy O’Reilly, BS*
+Jamie S. Ullman, MD‡
+Gregory W.J. Hawryluk, MD,
+The scope and purpose of this work is 2-fold: to synthesize the available evidence and
+to translate it into recommendations. This document provides recommendations only
+when there is evidence to support them. As such, they do not constitute a complete
+protocol for clinical use. Our intention is that these recommendations be used by others
+to develop treatment protocols, which necessarily need to incorporate consensus and
+clinical judgment in areas where current evidence is lacking or insufficient. We think it is
+important to have evidence-based recommendations to clarify what aspects of practice
+currently can and cannot be supported by evidence, to encourage use of evidence-based
+treatments that exist, and to encourage creativity in treatment and research in areas where
+evidence does not exist. The communities of neurosurgery and neuro-intensive care have
+been early pioneers and supporters of evidence-based medicine and plan to continue
+in this endeavor. The complete guideline document, which summarizes and evaluates
+the literature for each topic, and supplemental appendices (A-I) are available online at
+https://www.braintrauma.org/coma/guidelines.
+PhD§
+Michael J. Bell, MD¶
+Susan L. Bratton, MD§
+Randall Chesnut, MD∥
+Odette A. Harris, MD, MPH#
+Niranjan Kissoon, MD**
+Andres M. Rubiano, MD‡‡§§
+Lori Shutter, MD¶
+Robert C. Tasker, MBBS, MD¶¶
+Monica S. Vavilala, MD∥
+Jack Wilberger, MD∥∥
+David W. Wright, MD##
+Jamshid Ghajar, MD, PhD#
+KEY WORDS: Severe traumatic brain injury, Adults, Critical care, Evidence-based medicine, Guidelines,
+Systematic review
+*Oregon Health & Science University,
+Portland, Oregon; ‡Hofstra North ShoreLIJ
+School
+of
+Medicine,
+Hempstead,
+New York; §University of Utah, Salt Lake
+City, Utah;
+¶University of Pittsburgh,
+Pittsburgh,
+Pennsylvania;
+∥University
+of
+Washington,
+Seattle,
+Washington;
+#Stanford University, Stanford, California;
+**University
+of
+British
+Columbia,
+Vancouver, British Columbia, Canada; ‡‡El
+Bosque University, Bogota, Colombia;
+§§MEDITECH
+Foundation,
+Neiva,
+Colombia;
+¶¶Harvard
+Medical
+School
+& Boston Children’s Hospital, Boston,
+Massachusetts;
+∥∥Drexel
+University,
+Pittsburgh,
+Pennsylvania;
+##Emory
+University, Atlanta, Georgia
+Neurosurgery 80:6–15, 2017
+DOI:10.1227/NEU.0000000000001432
+www.neurosurgery-online.com
+I
+n
+the
+Fourth
+Edition
+of
+the
+“Brain
+Trauma Foundation’s Guidelines for the
+Management of Severe Traumatic Brain
+Injury,” there are 189 publications included
+as evidence to support 28 recommendations
+covering 18 topics. The publication reports on
+5 Class 1 studies, 46 Class 2 studies, 136 Class
+3 studies, and 2 meta-analyses. This synopsis
+provides an overview of the process, includes the
+updated recommendations, and describes the
+new evidence added. The complete guideline
+document, which summarizes and evaluates
+the literature for each topic, and supplemental appendices (A-I) are available online at
+https://www.braintrauma.org/coma/guidelines.
+Reviewed for evidence-based integrity
+and endorsed by the American
+Association of Neurological Surgeons
+and the Congress of Neurological
+Surgeons.
+During the past 20 years, the brain trauma
+community’s approach to guideline development
+has evolved as the science and application of
+evidence-based medicine has advanced. This new
+iteration of the guidelines reflects the most
+current methodologic standards and establishes
+Correspondence:
+Jamshid Ghajar, MD, PhD,
+Department of Neurosurgery,
+Stanford University School of Medicine,
+300 Pasteur Drive, R200,
+Stanford, CA 94305-5327.
+E-mail: jghajar@stanford.edu
+Received, August 8, 2016.
+Accepted, August 14, 2016.
+Published Online, September 20, 2016.
+ABBREVIATIONS:
+TBI,
+traumatic
+brain
+injury;
+RESCUEicp, Randomised Evaluation of Surgery with
+Craniectomy for Uncontrollable Elevation of ICP
+Copyright C⃝2016 Brain Trauma
+Foundation
+6 | VOLUME 80 | NUMBER 1 | JANUARY 2017
+www.neurosurgery-online.com

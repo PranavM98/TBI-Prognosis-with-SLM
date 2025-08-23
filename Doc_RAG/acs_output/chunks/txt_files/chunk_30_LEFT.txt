@@ -1,0 +1,51 @@
+Source: Page 30 (LEFT)
+Page: 30, Side: LEFT
+Word Count: 352
+--------------------------------------------------
+Monitoring cerebral blood flow: Directly monitoring CBF 
+can also be used to assess autoregulation status with a 
+MAP challenge.2 In patients with intact autoregulation, 
+CBF will change minimally in response to an increase in 
+MAP. Conversely, CBF will rise with increasing MAP in 
+patients with impaired autoregulation. Once determined, 
+autoregulation status can be used to set CPP goals 
+as described above. Similarly, transcranial doppler 
+ultrasonography and hemodynamic challenge can also be 
+used to assess autoregulation in TBI patients. 
+Research findings: Multiple studies demonstrated an 
+association between low PbtO2 (≤ 15 mm Hg) and episodes 
+of jugular venous oxygen desaturation (≤ 50%) with poor 
+patient outcomes.3–7 It is important to note that brain tissue 
+hypoxia can occur even when ICP and CPP are normal. A 
+Phase II prospective RCT (BOOST II) investigating PbtO2-
+based management of severe TBI compared treatment 
+guided by ICP alone to treatment guided by both ICP and 
+PbtO2. This study demonstrated that the ICP + PbtO2 
+management group had statistically significant decreased 
+duration and severity of brain hypoxia, as well as a trend 
+towards reduced mortality and improved neurologic 
+outcome at 6 months.8 However, this trial was not powered 
+to show significant differences in outcome. Several 
+appropriately powered Phase III trials (BOOST III and 
+BONANZA) are underway to compare outcomes between 
+therapy guided by ICP alone versus therapy guided by ICP 
++ PbtO2. The recently concluded Oxy-TC trial did not find a 
+difference in functional outcome between nonpenetrating 
+TBI patients treated with ICP + PbtO2-based monitoring 
+versus those treated with ICP-based monitoring alone.9
+Brain tissue oxygen management: Accepted thresholds 
+for treatment of brain tissue hypoxia are between 15–20 
+mm Hg.8,10,11 Interventions that may be used to improve 
+brain tissue oxygenation are detailed in the tiered SIBICC II 
+algorithm and include the following1:
+ 
+• Increase fraction of inspired oxygen (FiO2) to 60% (Tier 
+One) or increase PaO2 to as high as 150 mm Hg (Tier 
+Two) 
+ 
+• Attempt increased sedation or neuromuscular paralysis 
+to improve PbtO2 (Tier Two)
+ 
+• Increase CPP in patients with intact autoregulation per 
+MAP challenge (Tier Two) 
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

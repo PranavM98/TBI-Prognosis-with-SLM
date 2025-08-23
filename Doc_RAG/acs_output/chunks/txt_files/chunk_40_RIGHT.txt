@@ -1,0 +1,52 @@
+Source: Page 40 (RIGHT)
+Page: 40, Side: RIGHT
+Word Count: 296
+--------------------------------------------------
+PATIENT MANAGEMENT
+40
+of PaCO2 to less than 30 mm Hg may be justified as a 
+temporizing measure while other interventions (including 
+surgery) are put in place. However, consider such profound 
+hyperventilation to be a rescue procedure and use it for as 
+short a period as possible, because it can result in arterial 
+spasm and decreased CBF.1 The PaCO2 levels indicated here 
+may be detected by continuous end-tidal CO2 monitoring, 
+while recognizing that arterial end-tidal CO2 gradients 
+vary between patients and individuals over time. In most 
+instances, moderate levels of positive end-expiratory 
+pressure (PEEP) of < 10 cm H2O will not elevate ICP further 
+in the presence of intracranial hypertension. It can be safely 
+applied to maintain oxygenation when accompanied by ICP 
+monitoring.2 
+Rescue therapies for severe/refractory ventilatory failure, 
+such as prone positioning, neuromuscular blockers, and 
+extracorporeal membrane oxygenation (ECMO), have 
+not been systematically studied in the context of TBI. 
+Apply them cautiously and on an individual basis, because 
+monitoring and controlling their effect on intracranial 
+volumes and intracranial bleeding is mandatory.
+ECMO is increasingly utilized in severe polytrauma 
+patients with acute respiratory distress syndrome. 
+Compared to venoatrial ECMO, venovenous ECMO without 
+anticoagulation was shown to have a survival benefit 
+in the selected, monitored cases where the patient’s 
+systemic oxygenation was unresponsive to conventional 
+management.3 
+Extubation Planning
+Tracheal extubation remains challenging.4 The probability of 
+extubation success increases in the following conditions:
+ 
+• GCS motor score of 6 
+ 
+• Normal respiratory drive 
+ 
+• Stable intracranial conditions 
+ 
+• Intact airway protective reflexes (vigorous cough, gag 
+reflex, and swallowing attempts)
+ 
+• Endotracheal suctioning ≤ 2 times per hour
+The difficulty with uniformly predicting successful tracheal 
+extubation for patients with TBI means that tracheal 
+extubation may be attempted in some patients while 
+accepting that reintubation may be needed. If tracheal

@@ -1,0 +1,52 @@
+Source: Page 8 (RIGHT)
+Page: 8, Side: RIGHT
+Word Count: 334
+--------------------------------------------------
+ASSESSMENT
+8
+Assessing the Level of Consciousness: GCS 
+and Other Tools
+The GCS is an internationally recognized tool with 
+demonstrated reliability to assess the level of consciousness 
+across all brain injury severity levels.1,3,4 The GCS scores 
+patient responses in three domains: eye, verbal, and motor. 
+For preverbal children (0–2 years), the pediatric GCS 
+demonstrates greater reliability.3,5,6 See Table 1 for GCS 
+tools. In older adults, the verbal component of the GCS may 
+be confounded by preexisting conditions such as delirium, 
+dementia, and aphasia. The component that is most 
+associated with long-term outcomes is the motor score.
+The GCS can be used during all phases of patient care. 
+Adopt a standardized approach for both assessment and 
+reporting to ensure reliable patient assessment over time 
+and for accurate communication between healthcare 
+professionals. Complete a baseline assessment as soon as 
+possible, after imminent threats to life are managed. 
+When used in individual patients, assess and document 
+each of the GCS component scores (e.g., Eye 4, Verbal 
+4, Motor 6). Each GCS component score provides 
+complementary information with differential relevance 
+across injury severities.7 The eye and verbal component 
+scores are more discriminating in patients with less severe 
+brain injuries. For the assessment of more severe brain 
+injuries, the motor score is more relevant. Use this sequence 
+when assessing the GCS: 
+ 
+• Observe and record spontaneous patient activities and 
+responses prior to the application of any stimulus. 
+ 
+• Provide verbal stimuli while observing for eye opening, 
+verbal, or upper extremity motor responses. Note: 
+Document only the reactions of the best arm, not the 
+legs. 
+ 
+• Use another stimulus to elicit a response (e.g., fingertip 
+pressure, supra-orbital pressure, trapezius pinch) if the 
+patient has no response to verbal stimuli. Document 
+the type of stimulus applied (i.e., central or peripheral), 
+and then use this stimulus as a standard for future 
+assessments.
+The individual component scores of the GCS may be 
+summed to provide a useful measure for overall injury 
+classification, prognosis estimation (in conjunction with 
+other factors), and patient group-level comparisons.

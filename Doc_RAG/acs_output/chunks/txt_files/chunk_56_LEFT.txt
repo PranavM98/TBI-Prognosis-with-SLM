@@ -1,0 +1,75 @@
+Source: Page 56 (LEFT)
+Page: 56, Side: LEFT
+Word Count: 434
+--------------------------------------------------
+Table 7. Anticoagulation Reversal Strategy for Patients with TBI Needing Emergent Surgery19,20-22,27 
+Oral Anticoagulant Agent
+Reversal Strategy
+Warfarin
+ 
+• 2.5–10 mg of IV vitamin K and:
+ 
+– If INR is 1.5–1.9, give 15 units/kg 4PCC IV
+ 
+– If INR is 2–3.9, give 25 units/kg 4PCC IV
+ 
+– If INR is 4–6, give 35 units/kg 4PCC IV
+ 
+– If INR is > 6, give 50 units/kg 4PCC IV
+ 
+– 1500 units 4PCC (fixed dose)
+ 
+• Recheck INR 1 hour after 4PCC given, if INR is > 1.4, consider administering 2–4 units of 
+FFP
+ 
+• Recheck INR 6–8 hours after 4PCC. If INR is > 1.4, administer another 2.5–10 mg of IV 
+vitamin K
+ 
+• If the last dose was administered < 2 hours earlier, consider activated charcoal
+DOACs 
+(rivaroxaban, apixaban, edoxaban)
+ 
+• Andexanet alfa
+ 
+– If last dose was > 7 hours, administer 400 mg IV bolus followed by 480 mg IV 
+infusion
+ 
+– If last dose was < 7 hours, administer 800 mg IV bolus followed by 960 mg IV 
+infusion
+ 
+• If andexanet alfa is not available, use 25–50 units/kg of 4PCC or a fixed dose of 2000 
+units
+ 
+• If the last DOAC dose was > 18–24 hours prior to the bleed, a reversal agent may not be 
+beneficial
+Thrombin inhibitor (dabigatran)
+ 
+• If the last dose was administered < 2 hours earlier, consider activated charcoal
+ 
+• Administer two consecutive doses of 2.5 g of idarucizumab IV, with each dose being 
+infused over 10 minutes
+ 
+• If the last dose was > 24 hours prior to the bleed, a reversal agent may not be beneficial
+ 
+• Consider dialysis in patients with renal failure
+ 
+• If idarucizumab is not available, 4PCC or single factor prothrombin complex concentrate 
+PCC 50 unit/kg may be considered
+Patients requiring therapeutic anticoagulation prior 
+to admission continue to have an underlying risk of 
+thrombosis. Therefore, consider VTE prophylaxis with 
+subcutaneous heparin or LMWH to prevent further risk 
+of thrombosis in the acute period off anticoagulants. Also 
+consider the benefit versus harm of reversal based on 
+bleeding risk and risk of thrombosis from the underlying 
+disease.
+Restarting anticoagulation: The available evidence is 
+insufficient to recommend the optimal timing to restart 
+anticoagulation in patients at moderate to high risk for 
+thromboembolic events (e.g., mechanical valve or left 
+ventricular assist device patients, history of VTE in the last 
+3 months) but not at a high risk for rebleeding. However, 
+consider restarting anticoagulation earlier than in lower-
+risk patients (e.g., patients with atrial fibrillation and lower 
+CHA2DS2-VASc scores, spontaneous ICH, VTE more than 3 
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

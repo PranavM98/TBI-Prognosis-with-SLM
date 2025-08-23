@@ -1,0 +1,52 @@
+Source: Page 25 (LEFT)
+Page: 25, Side: LEFT
+Word Count: 268
+--------------------------------------------------
+TIERED MANAGEMENT OF 
+INTRACRANIAL PRESSURE
+KEY POINTS
+ 
+• ICP elevation is a key measurable secondary insult that 
+providers must treat to prevent secondary brain damage 
+following severe TBI.
+ 
+• Rigorous, consensus-based algorithms, such as those 
+from the Seattle International Severe Traumatic Brain 
+Injury Consensus Conference (SIBICC), augment 
+evidence-based guidelines by addressing gaps between 
+the available evidence and necessities of patient care. 
+ 
+• The SIBICC algorithms employ a three-tiered approach 
+to therapy in which interventions with more favorable 
+risk-benefit ratios generally are used before interventions 
+with less favorable ratios. The tiered approach retains 
+medical decision-making within tiers and supports 
+targeting interventions at specific physiological 
+disruptions, where suspected.
+ 
+• Although derived through a rigorous, consensus-
+based process, view the SIBICC algorithms as 
+recommendations that offer the benefits inherent to care 
+standardization. Do not consider the SIBICC algorithms 
+as standards of practice. Optimally, these algorithms are 
+reviewed by all relevant disciplines at a trauma center 
+and approved or adapted for the local environment.
+Without treatment, ICP elevation may rapidly become 
+fatal, either because of transtentorial brain herniation and 
+brainstem compression or due to critical CPP reduction 
+leading to brain ischemia. In extreme situations, brain 
+death ensues when elevated ICP prevents brain perfusion. 
+Because of their accuracy, invasive monitors are currently 
+preferred for the management of intracranial hypertension.
+ 
+• ICP measurement can detect an expanding intracranial 
+lesion and facilitate targeted treatment of intracranial 
+hypertension. 
+ 
+• It allows computation of CPP and calculation of 
+cerebrovascular autoregulatory status. 
+ 
+• The morphology of the ICP waveform can also provide 
+input into cerebral compliance and compensatory 
+reserve.
+BEST PRACTICES GUIDELINES: THE MANAGEMENT OF TRAUMATIC BRAIN INJURY

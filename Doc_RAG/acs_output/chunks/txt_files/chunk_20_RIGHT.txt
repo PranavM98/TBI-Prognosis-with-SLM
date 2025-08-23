@@ -1,0 +1,46 @@
+Source: Page 20 (RIGHT)
+Page: 20, Side: RIGHT
+Word Count: 318
+--------------------------------------------------
+PATIENT MANAGEMENT
+20
+An ICP of 22 mm Hg is a useful initial threshold for 
+treatment. However, when the risk/benefit of advancing 
+treatment becomes a concern, such as for therapy with 
+significant hazards (e.g., decompressive craniectomy), 
+consider a treatment range of 20–25 mm Hg. A CPP of ≥ 60 
+mm Hg is a practical target, adjusted as needed, based on 
+cerebral autoregulation status. A PbtO2 value of ≥ 15 mm Hg 
+is recommended, if monitored.
+Initial oxygenation targets include SpO2 ≥ 94% and PaO2 
+of 80–100 mm Hg. Given concerns about the hazards of 
+hyperoxia, avoid PaO2 > 100 mm Hg, unless guided by brain 
+oximetry. PaCO2 of 35–45 mm Hg and pH of 7.35–7.45 are 
+recommended initial targets in the absence of intracranial 
+hypertension. Patients with significant pulmonary 
+issues (e.g., acute respiratory distress syndrome) 
+may require lung-specific targets, such as permissive 
+hypercapnia, based on their clinical condition while 
+controlling ICP elevation using other interventions.
+Vital Signs
+Closely monitor systolic blood pressure (SBP) and mean 
+arterial pressure (MAP) to avoid hypotension. Providing 
+treatment targeting SBP ≥ 110 mm Hg/MAP > 80 mm Hg 
+will allow adequate cerebral perfusion in most cases when 
+ICP is not being monitored.1 While no clear cutoff exists 
+for blood pressure, the probability of mortality increases 
+linearly with every 10-point drop of SBP below 119 mm Hg 
+in patients with TBI, suggesting that higher targets may be 
+indicated than previously recognized.2
+The target for temperature management is maintenance of 
+normothermia (36–37.9°C). Treat fever aggressively.
+Electrolyte Management
+Electrolyte management is essential, with specific 
+emphasis on maintaining sodium levels within the range 
+of 135–145 mEq/L. Preventing hyponatremia is critical to 
+avoid exacerbation of cerebral edema. Frequent monitoring 
+of serum sodium levels may be necessary, because TBI 
+patients can develop conditions such as diabetes insipidus 
+or the syndrome of inappropriate antidiuretic hormone /
+cerebral salt wasting syndrome. Measure osmolality when 
+mannitol is used as an osmotic agent.

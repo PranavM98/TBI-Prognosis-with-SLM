@@ -1,0 +1,61 @@
+Source: Page 3 (RIGHT)
+Page: 3, Side: RIGHT
+Word Count: 420
+--------------------------------------------------
+mendations that are restated here but are no longer substantiated
+by evidence meeting current standards.
+Tables 1, 2, and 3 provide the recommendations for treatments, monitoring, and thresholds, respectively. In these tables,
+the recommendations in bold are new or have been revised;
+those in regular text have not changed. The comprehensive
+guideline document available online includes a section on each
+topic consisting of an Introduction, Recommendations, Evaluation of the Evidence, and Summary of the Evidence (including
+narrative and evidence tables).
+Treatment Recommendations
+Table 1 contains the recommendations for 11 treatments that
+are either specific to the in-hospital management of severe TBI
+or are related to risks experienced by patients with TBI. The
+topics that are included reflect current practice but are expected
+to change as new treatments are developed that may replace or
+complement existing treatments.
+Decompressive craniectomy and cerebrospinal fluid drainage
+are new topics to this edition, so the recommendations for
+these topics also are new. Other changes include revision of the
+hypothermia, nutrition and infection prophylaxis recommendations, and a statement in the seizure prophylaxis topic that there
+is not yet sufficient evidence to support a recommendation about
+levetiracetam, despite its widespread use. The recommendations
+for anesthetics have not changed, but we updated the reference
+to the Food and Drug Administration warning that high doses
+of propofol can increase the risk of morbidity.3 A list of the 41
+studies that constitute the new evidence informing these recommendations is cited by topic in Table 4.4-44
+Monitoring Recommendations
+It is not monitoring per se that affects outcomes; rather, it
+is using the information from monitoring to direct treatment.
+Treatment informed by data from monitoring may result in
+better outcomes than treatment informed solely by data from
+clinical assessment. These recommendations are related to
+the influence on patient outcomes of 3 types of monitoring:
+ICP, cerebral perfusion pressure monitoring, and advanced
+cerebral monitoring. Although we reviewed and report on
+these monitoring modalities separately, it is important to
+acknowledge
+that
+clinical
+practice
+in
+most
+high-income
+countries incorporates multiple monitoring approaches as
+well as ongoing clinical assessment. As such, treatment decisions
+are not made using one source of information in isolation.
+Conversely,
+limited
+resources
+in
+low-and-middle-income
+countries often do not allow for technology-based monitoring,
+and medical decisions may be driven by clinical assessment
+alone. Therefore, the application of these guidelines will vary
+depending upon the medical environment in which they are
+used.
+Table 2 contains revised recommendations for all 3 types of
+monitoring. New evidence cited in Table 4 has led to revisions to

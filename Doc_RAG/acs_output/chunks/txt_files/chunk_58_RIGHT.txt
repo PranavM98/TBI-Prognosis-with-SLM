@@ -1,0 +1,51 @@
+Source: Page 58 (RIGHT)
+Page: 58, Side: RIGHT
+Word Count: 297
+--------------------------------------------------
+PATIENT MANAGEMENT
+58
+complications.47 Avoid the use of systemic antibiotic 
+prophylaxis during parenchymal ICP monitor insertion 
+and during the use of parenchymal or ventricular drains 
+to reduce the risk for drug-resistant organisms.47,48 The 
+most recent BTF and Neurocritical Care Society guidelines 
+recommend the use of antimicrobial-impregnated 
+catheters to prevent ventriculostomy-related infections 
+during EVD monitoring, but these may not be available in 
+every facility.47,49 A recent meta-analysis also suggested a 
+substantial decrease in CSF infections (from 13.7% to 3.6%) 
+when antimicrobial-impregnated catheters were used, as 
+compared to a standard catheter group.50 Other strategies 
+to reduce risk of infection include the following47:
+ 
+• Remove ICP monitors and drains as early as clinically 
+possible 
+ 
+• Avoid routine EVD closed-system manipulation 
+ 
+• Avoid CSF sampling unless clinically indicated
+ 
+• Use aseptic technique 
+Developing an EVD bundle with an insertion checklist, 
+maintenance worksheet, dressing change procedure, and 
+CSF sampling protocols and techniques is another strategy 
+to reduce ventricular catheter-related infections.51
+Avoid the use of antibiotic prophylaxis for traumatic 
+skull-based fractures with CSF leaks or pneumocephalus 
+due to the increased risk of promoting drug-resistant 
+organism growth.52 In patients with open or penetrating 
+skull fractures, consider treatment with broad-spectrum 
+antibiotics with high blood-brain barrier penetration for a 
+maximum of 3 days. Surgical debridement and irrigation are 
+recommended as the standard of care, with perioperative 
+antibiotics for not more than 24 hours. 
+For surgical prophylaxis, cefazolin is the drug of choice 
+for patients without methicillin-resistant Staphylococcus 
+aureus, unless the patient has a documented severe beta 
+lactam allergy. Clindamycin or vancomycin are appropriate 
+alternatives for those with a severe allergy to beta lactams. 
+Clarify any antibiotic allergy preoperatively, when possible, 
+given the superiority of cefazolin to the alternative options. 
+Select the antimicrobial agent and dosing using published 
+guidelines, in conjunction with pharmacist consultation, to 
+optimize therapy.
