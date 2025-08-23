@@ -1,0 +1,26 @@
+Source: Page 9 (RIGHT)
+Page: 9, Side: RIGHT
+Word Count: 112
+--------------------------------------------------
+Page 8 of 13
+Excluded by title 
+n=2795 
+Excluded by abstract 
+n=98 
+Excluded by full-text n=24 
+• 
+Not relevant n=20 
+• 
+No data n=2 
+• 
+Reporting only 
+children n=2 
+medication as risk factors of importance, partly due to the
+presence of these criteria in other guidelines and decision
+rules. However, the predictive ability was only moderate
+and these individual risk factors would lead to an unacceptable CT increase and so consensus was not to include
+these in our recommendation.
+(2) We recommend that adult patients after mild head
+injury with GCS 14 and no risk factors (anticoagulant
+therapy or coagulation disorders, post-traumatic seizures,
+clinical signs of depressed or basal skull fracture, focal

@@ -1,0 +1,47 @@
+Source: Page 5 (RIGHT)
+Page: 5, Side: RIGHT
+Word Count: 431
+--------------------------------------------------
+Page 4 of 13
+more homogenous selection compared to a combined
+definition. Finally, neurosurgical intervention was
+defined as any neurosurgical procedure for a cranial or
+intracranial injury within the first week following
+trauma. Medical treatment for elevated intracranial pressure, within the first week following trauma, was also
+included in this group since some patients with diffuse
+brain injury cannot be managed surgically.
+Data extraction and quality assessment
+Data was extracted by one author (JU) and checked by
+another (BR). Data was entered into a predefined protocol
+and then inputted into Excel (Microsoft; Redmond, WA,
+USA). Evidentiary tables were constructed to summaries
+the studies. We decided to address the quality of papers in
+different phases, due to the nature of the studies and the
+phase of assessment. Firstly, all retrieved studies were
+independently graded by all authors in the task force (JU,
+TI, BR) according to the Centre of Evidence Based Medicine (CEBM) diagnosis criteria [23]. Discrepancies in grading were resolved through discussion. Quality ratings
+ranged from 1 (strongest evidence, for instance reports of
+clinical decision rules and high quality validation studies)
+to 5 (weakest evidence, often expert opinion). Studies
+receiving CEBM scores of 5 were excluded.
+Studies were then graded according to the Quality
+Assessment of Diagnostic Accuracy Studies (QUADAS)
+tool [24], which was modified for the purpose of the
+review. This tool considers 14 criteria relevant to diagnostic studies accounting for bias (items 3 to 7, 10 to 12),
+variability (items 1 and 2) and reporting (items 8 and 9).
+Items 4 (regarding the time period between index and
+reference test) and 7 (regarding the independency of the
+reference test) were omitted with regard to the selection
+criteria and the previously applied CEBM criteria. Additionally, item 3 (regarding the ability of the reference test
+to correctly classify the target condition) was applied to
+CT findings, ICI and neurosurgery separately.
+Data analysis
+Although extracted data regarding the first clinical question, predictors of CT findings, ICI and neurosurgery,
+could theoretically be summarized in a meta-analysis, the
+task force decided a priori not to perform such an analysis
+for the purpose of development of the guidelines, independent of heterogeneity between studies. We felt combining
+the data in this way could mislead the working group in
+the consensus process and opted to instead present
+uncombined data for studies including their quality assessment. We therefore calculated individual positive likelihood ratios (PLR) and negative likelihood ratios (NLR) for
+each risk factor with respect to the corresponding reference test (CT, ICI or neurosurgery) and the prevalence
+of both the reference test and the risk factor in the

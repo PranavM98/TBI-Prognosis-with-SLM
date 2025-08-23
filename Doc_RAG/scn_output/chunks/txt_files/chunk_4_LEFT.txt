@@ -1,0 +1,71 @@
+Source: Page 4 (LEFT)
+Page: 4, Side: LEFT
+Word Count: 196
+--------------------------------------------------
+Undén et al. BMC Medicine 2013, 11:50
+http://www.biomedcentral.com/1741-7015/11/50
+  Step in work process                        
+Method 
+          Description/Result 
+ 
+ 
+ 
+ 
+PRISMA 
+          In text 
+ 
+ 
+ 
+ 
+In text 
+          Figures 2 and 3 
+ 
+ 
+ 
+CEBM 
+          Additional files 2 and 4: Tables S2 and S4 
+QUADAS 
+          Additional files 3 and 5: Tables S3 and S5 
+  
+ 
+ 
+In text 
+          Additional file 1: Table S1 
+ 
+ 
+ 
+ 
+GRADE 
+          Table 1 
+ 
+ 
+ 
+Deplhi process      Tables 2, ͵ and Ͷ 
+ 
+ 
+ 
+In text 
+          Additional files 6-7: Figures S1-2 
+Literature search 
+Literature Selection 
+Evidence Grading 
+Evaluation of Clinical 
+Predictors  
+Evidence Summary and Draft 
+Recommendation 
+Recommendation and 
+Guideline development 
+Final Guideline 
+Figure 1 Flow diagram showing the overall work process.
+Search strategy
+In order to address the clinical questions we performed
+two separate systematic reviews of the literature, in
+accordance to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement [22].
+Both utilized broad searches of the MEDLINE and
+EMBASE databases, from 1985 until January 2010 and
+then complemented to July 2012, using prespecified
+Medical Subject Headings (MeSH) terms and key words
+depicted by the task force. MeSH terms were pretested
+for validity through identification of several key articles.
+It was deemed unlikely that studies prior to 1985 would
+be useful considering the wide-scale introduction of CT

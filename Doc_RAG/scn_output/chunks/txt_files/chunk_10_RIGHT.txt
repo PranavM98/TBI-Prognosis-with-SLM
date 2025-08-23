@@ -1,0 +1,48 @@
+Source: Page 10 (RIGHT)
+Page: 10, Side: RIGHT
+Word Count: 408
+--------------------------------------------------
+Page 9 of 13
+however, found these risk factors to be too predictive of
+intracranial injury.
+This recommendation may seem conflicting with
+recommendation 1, above. However, S100B is recommended as an option for reducing unnecessary CT
+scans in a subgroup of Mild head injury patients with
+low risk for intracranial complication and/or neurosurgical intervention.
+(3) We recommend that adult patients after minimal
+and mild head injury with GCS 15 and without risk factors (loss of consciousness, repeated (≥2) vomiting,
+anticoagulation therapy or coagulation disorders, posttraumatic seizures, clinical signs of depressed or basal
+skull fracture, focal neurological deficits) can be discharged from the hospital without a CT scan (moderate
+quality, strong recommendation).
+The evidence was initially of high quality but was
+downgraded due to limitations in study design (mostly
+selection bias), indirectness (outcomes were rarely
+reported) and impreciseness (different magnitudes of
+predictive power of risk factors between studies). The
+working group felt, however, that the large proportion
+of patients with head injury would fall into this category
+and that a CT policy in all these patients would not be
+health/economically viable considering the very low risk
+of intracranial injury, and even lower risk of neurosurgery, in this patient group. As previously discussed,
+older age and antiplatelet medication was again considered but rejected by the working group.
+Clinical question 2: ‘Which adult patients with minimal,
+mild and moderate head injury need in-hospital
+observation and/or a repeat head CT?’
+(1) We suggest that all adult patients after head injury
+with GCS ≤13, clinical signs of depressed or basal skull
+fracture, anticoagulation therapy or coagulation disorder,
+post-traumatic seizure or focal neurological deficit
+should have a CT scan and be admitted to hospital for
+observation, irrespective of CT findings (low quality,
+weak recommendation).
+The evidence was sparse and also of low quality due to
+study limitations (selection bias) and inconsistency in
+findings. The working group felt that it would not be
+good clinical practice to discharge patients with any of
+these risk factors, despite the low quality of evidence.
+(2) We recommend that repeat CT scans should be performed in patients with neurological and/or GCS (≥2
+points) deterioration (low quality, strong recommendation).
+The evidence was of moderate quality and was downgraded due to serious limitations in study design and
+some inconsistency. Most of the evidence indicates that
+routine repeat CT of these patients with or without CT
+findings is unnecessary in the absence of clinical deterioration, specifically deterioration of GCS >2 points and/or

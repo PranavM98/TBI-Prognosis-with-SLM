@@ -1,0 +1,33 @@
+Source: Page 8 (LEFT)
+Page: 8, Side: LEFT
+Word Count: 146
+--------------------------------------------------
+Undén et al. BMC Medicine 2013, 11:50
+http://www.biomedcentral.com/1741-7015/11/50
+Titles initially screened 
+n=3696 
+ 
+Abstracts 
+n=401 
+Full-text papers 
+n=201 
+Additional papers from 
+reference lists of retrieved 
+papers 
+n=27 
+Full-text papers 
+n=228 
+Papers included in review 
+n=72 
+Figure 2 Adapted Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) diagram showing the review
+process with reference to the clinical question: ‘Which adult patients with minimal, mild and moderate head injury need a head CT
+and which patients may be directly discharged?’.
+clinical question 1, was removed due to the working group
+finding the information irrelevant, despite consensus. This
+recommendation was an uncertain recommendation (we
+cannot recommend...) for risk factors not included in the
+other recommendations (such as headache, intoxication,
+nausea and amnesia). The working group felt this recommendation was unnecessary and confusing, shifting focus
+from the important recommendations below.
+The final recommendations, based purely on evidence,
+are presented below.

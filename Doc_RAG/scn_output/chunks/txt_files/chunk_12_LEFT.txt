@@ -1,0 +1,47 @@
+Source: Page 12 (LEFT)
+Page: 12, Side: LEFT
+Word Count: 465
+--------------------------------------------------
+Undén et al. BMC Medicine 2013, 11:50
+http://www.biomedcentral.com/1741-7015/11/50
+patients needing neurosurgical or medical intervention,
+with traumatic CT findings being the secondary identification goal.
+In summary, the evidence was of reasonable quality
+referring to the predictive ability of risk factors for complications following head injury in these patients. Unsurprisingly, many of the risk factors included here are also
+found in other guidelines and decision rules [6,9-11,29,33].
+However, several differences can be noted. We found that
+the predictive power of amnesia was too low to be
+included. This risk factor was present in the SNC guidelines from 2000, mostly due to the difficultly in ruling out
+loss of consciousness in some patients. For this reason, we
+include suspected loss of consciousness as a risk factor.
+Risk factors such as intoxication, trauma above the clavicles, nausea, vertigo and headache were not included
+due to poor predictive ability combined with a high prevalence of these factors in the head injury population.
+The working group found injury mechanisms complicated to use practically in initial management and
+decided not to include these as risk factors.
+Older age, most often defined as ≥60 or ≥65 years, is
+often included in other guidelines. The predictive ability of
+this risk factor was only moderate and there was considerable uncertainty in the group with regard to patient
+important outcomes and resource use. The number of
+people in older age groups in industrialized countries is
+increasing [34] and the increased CT rate that would be
+associated with this risk factor was deemed unacceptable.
+Also, the risk factor is common in the head injury cohorts,
+with between 10% and 45% of patients being over 65 years
+of age in reported cohorts of mild [10,35-38] and moderate [39] TBI. Fabbri et al. recently presented results considering the combination of older age and antiplatelet
+agents [40]. Despite the lack of good evidence for this
+combination, consensus was reached to include age ≥65
+years in combination with any antiplatelet agent as a risk
+factor. It is reasonable to expect that the combination
+would be more predictive of complications after head
+injury and result in a smaller CT rate increase when compared to the risk factors used individually. Additionally, it
+has been suggested that antiplatelet medication may be at
+least partly responsible for the higher risks for intracranial
+complications seen after head injury in older patients [40].
+Shunt-treated hydrocephalus was added purely based
+on consensus, with evidence derived from expert opinion
+in the group. We acknowledge the poor evidence-based
+background to this decision but this patient group is
+uncommon and will not lead to a noticeable increase in
+CT scanning.
+Evidence concerning repeat CT was reasonable but lacking concerning both written discharge advice and observation routines. These aspects were therefore based heavily
+upon consensus with special weight put on adaptation to

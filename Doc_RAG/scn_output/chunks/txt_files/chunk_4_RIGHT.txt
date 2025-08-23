@@ -1,0 +1,15 @@
+Source: Page 4 (RIGHT)
+Page: 4, Side: RIGHT
+Word Count: 108
+--------------------------------------------------
+Page 3 of 13
+scanning around this period. We did not apply any other
+limitations to the search.
+For the first clinical question, the MeSH terms and keywords were; ((head trauma) OR (brain injury) OR (head
+injury) OR (traumatic head injury) OR (traumatic brain
+injury)) AND (minimal OR mild OR minor OR moderate) AND (management OR predictors OR predictor).
+For the second clinical question we used; ((head trauma)
+OR (brain injury) OR (head injury) OR (traumatic head
+injury) OR (traumatic brain injury)) AND (minimal OR
+mild OR minor OR moderate) AND (hospitalization OR
+hospitalisation OR observation OR admission OR discharge OR delayed OR ((normal OR negative OR repeat

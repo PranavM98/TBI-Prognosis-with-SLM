@@ -1,0 +1,29 @@
+Source: Page 8 (RIGHT)
+Page: 8, Side: RIGHT
+Word Count: 110
+--------------------------------------------------
+Page 7 of 13
+Excluded by title 
+n=3295 
+Excluded by abstract 
+n=200 
+Excluded by full-text n=156 
+• 
+Not relevant n=79 
+• 
+No data n=24 
+• 
+Reporting only 
+children n=43 
+• 
+<50 patients n=6 
+• 
+Duplicate data n=4 
+Clinical question 1: ‘Which adult patients with minimal,
+mild and moderate head injury need a head CT and
+which patients may be directly discharged?’
+(1) We recommend that adult patients after mild and
+moderate head injury with GCS ≤14, loss of consciousness,
+repeated (≥2) vomiting, anticoagulant therapy or coagulation disorders, clinical signs of depressed or basal skull
+fracture, post-traumatic seizures or focal neurological deficits should have a CT scan (moderate quality, strong
+recommendation).

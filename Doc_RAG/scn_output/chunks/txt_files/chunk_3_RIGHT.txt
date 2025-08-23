@@ -1,0 +1,49 @@
+Source: Page 3 (RIGHT)
+Page: 3, Side: RIGHT
+Word Count: 417
+--------------------------------------------------
+Page 2 of 13
+discharge (or combinations of these) from the ED. Head
+injury severity was predefined according to the Head
+Injury Severity Score (HISS [21]) where minimal represents patients with a GCS score of 15 and no risk factors,
+mild is a GCS score of 14 or 15 with risk factors (such as
+amnesia or loss of consciousness (LOC)) and moderate is
+a GCS score of 9 to 13.
+The rationale was primarily to identify all patients
+needing neurosurgical intervention, including medical
+intervention for high intracranial pressure (assigned a
+critical level with regard to patient-important outcomes).
+The secondary goals (assigned important, but not critical, with regard to patient-important outcomes) were
+identification of non-neurosurgical intracranial traumatic complications and also strong consideration of
+resource use with minimization of unnecessary (normal)
+CT scans and/or admission.
+The task force decided a priori to make an attempt to
+keep the guidelines applicable to the complete patient
+spectrum within EDs, that is, to ensure that all adult
+patients with minimal, mild and moderate head injury
+can be managed according to the guidelines.
+Certain assumptions were also made a priori concerning aspects of management that were deemed unnecessary for critical review. The task force all agreed that
+magnetic resonance imaging (MRI) would not be considered in these guidelines concerning initial management and that in-hospital observation, instead of CT,
+would be regarded only as a secondary management
+option. The use of plain skull films was addressed and
+rejected in the previous guidelines. Additionally, we
+chose not to consider later aspects of management, such
+as detection and treatment of post-concussion syndrome
+(PCS) and chronic subdural hematomas. We also agreed
+that all pathological findings on head CT should lead
+to hospital admission. Finally, we would not address
+the surgical or medical management of intracranial
+complications.
+The task force was unclear concerning the selection of
+patients for CT scanning or discharge, following minimal,
+mild and moderate head injuries. We were also unclear
+concerning which patients, irrespective of initial CT scan
+results, should have hospital admission for clinical observation, a repeat CT scan, or both. Therefore, consensus
+was achieved to address two important clinical questions
+that would require systematic review of evidence and
+would form the basis of the updated guidelines, shown
+below.
+Clinical question 1: ‘Which adult patients with minimal, mild and moderate head injury need a head CT
+and which patients may be directly discharged?’.
+Clinical question 2: ‘Which adult patients with minimal, mild and moderate head injury need in-hospital
+observation and/or a repeat head CT?’.

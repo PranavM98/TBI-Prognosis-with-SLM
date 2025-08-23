@@ -1,0 +1,50 @@
+Source: Page 3 (LEFT)
+Page: 3, Side: LEFT
+Word Count: 405
+--------------------------------------------------
+Undén et al. BMC Medicine 2013, 11:50
+http://www.biomedcentral.com/1741-7015/11/50
+health care resources. This selective management has
+received more attention following reports of increased
+cancer risks from CT scans, estimated at 1 in 5,000 to
+10,000 for a single head CT scan in young adults [12].
+Following a normal CT scan after mild head injury,
+consensus is generally to discharge patients from the hospital [13,14], although subgroups of patients may still be
+at risk of developing delayed intracranial complications
+of varying significance [15,16].
+In 2000, the Scandinavian Neurotrauma Committee
+(SNC) presented evidence-based guidelines for the initial
+management of minimal, mild and moderate head injuries [5]. Although external and independent validation
+has shown the guidelines to function favorably [17,18], it
+is likely that new evidence exists which needs to be considered. The SNC has therefore mandated an update of
+the guidelines. The aim of the present report is to present
+these updated guidelines for adults, including the methodology and considerations behind the workflow.
+Methods
+The overall policy was to follow the Appraisal of Guidelines for Research and Evaluation (AGREE) II guideline
+development framework [19], complemented by the
+Grading of Recommendations Assessment, Development
+and Evaluation (GRADE) system [20]. Consensus was that
+these two aids would result in a transparent and systematic
+methodology and the best possible workflow from available
+evidence to guideline construction and implementation.
+The overall workflow process is shown in Figure 1.
+Task force, working group and stakeholders
+The SNC consists of neurosurgeons and anesthesiologists
+from Scandinavia with expertise in neurotrauma. A task
+force was initiated within the SNC, consisting of three
+authors with experience within the field (JU, TI, BR), to
+propose evidence-based recommendations and a draft for
+the updated guidelines. For the consensus stage of development, a working group was formed consisting of SNC
+members. Important stakeholders from general surgery,
+emergency medicine and orthopedics were also involved
+in this process. These specialties initially manage the vast
+majority of head injury patients in Scandinavia. We also
+considered including members of the public in the process but unanimously decided against this as we did not
+believe it would facilitate optimal guideline development
+in the present scenario.
+Scope, purpose and target population
+The objective of the guidelines created in the present
+work would be to assist ED physicians with initial (the
+first 24 h) management of all adult patients with minimal,
+mild and moderate head injury, specifically to decide
+which patients are to receive CT scanning, admission or

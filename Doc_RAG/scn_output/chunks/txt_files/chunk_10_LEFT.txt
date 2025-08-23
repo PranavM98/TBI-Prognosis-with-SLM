@@ -1,0 +1,279 @@
+Source: Page 10 (LEFT)
+Page: 10, Side: LEFT
+Word Count: 588
+--------------------------------------------------
+Undén et al. BMC Medicine 2013, 11:50
+http://www.biomedcentral.com/1741-7015/11/50
+Table 3 Results of the modified Delphi process, round 1
+Delphi point
+Working group member
+Result
+Cf/nC/Ca
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1
+6
+6
+6
+6
+2
+6
+6
+5
+7
+7
+90%
+Cf
+2
+6
+6
+6
+-
+3
+6
+6
+6
+4
+7
+78%
+Cf
+3
+7
+6
+7
+6
+3
+6
+6
+7
+1
+7
+80%
+Cf
+4
+5
+4
+4
+6
+2
+6
+6
+6
+6
+2
+60%
+nC
+5
+6
+5
+6
+6
+7
+6
+6
+7
+6
+6
+100%
+Cf
+6
+6
+6
+7
+4
+7
+6
+6
+6
+7
+7
+90%
+Cf
+7
+6
+6
+5
+6
+2
+6
+6
+-
+4
+3
+67%
+nC
+8
+5
+5
+6
+6
+6
+6
+6
+7
+-
+3
+89%
+Cf
+9
+5
+-
+5
+6
+6
+6
+6
+6
+-
+5
+100%
+Cf
+Delphi points 1 to 3 refer to recommendations 1 to 3 concerning clinical
+question 1, point 4 refers to a recommendation that was dropped due to
+irrelevance (see main text), points 5 and 6 refer to recommendations 1 and 2
+concerning clinical question 2, point 7 refers to the guideline draft including
+the help sheet, point 8 refers to the written discharge advice and point 9 to
+the in-hospital monitoring routines.
+Ca = consensus against; Cf = consensus in favor; nC = no consensus.
+Table 4 Results of the modified Delphi process, round 2
+Delphi point
+Working group member
+Result
+Cf/nC/Ca
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1
+7
+6
+3
+6
+7
+7
+6
+7
+88%
+Cf
+2
+-
+6
+4
+6
+6
+6
+6
+7
+86%
+Cf
+3
+7
+6
+3
+6
+6
+6
+7
+7
+88%
+Cf
+4
+7
+6
+6
+6
+6
+3
+7
+6
+88%
+Cf
+5
+7
+6
+7
+6
+7
+-
+6
+7
+100%
+Cf
+6
+7
+7
+7
+6
+7
+-
+-
+7
+100%
+Cf
+7
+7
+6
+7
+6
+6
+7
+5
+7
+100%
+Cf
+8
+7
+6
+4
+-
+-
+-
+6
+7
+80%
+Cf
+9
+7
+6
+6
+5
+7
+-
+6
+7
+100%
+Cf
+Two members did not reply. Delphi points 1 to 3 refer to recommendations 1
+to 3 concerning clinical question 1, point 4 refers to a recommendation that
+was finally dropped due to irrelevance (see main text), points 5 and 6 refer to
+recommendations 1 and 2 concerning clinical question 2, point 7 refers to the
+guideline draft including the help sheet, point 8 refers to the written
+discharge advice and point 9 to the in-hospital monitoring routines.
+Ca = consensus against; Cf = consensus in favor; nC = no consensus.
+neurological deficits), or GCS 15 with loss of consciousness or repeated (≥2) vomiting and no other risk factors,
+be sampled for analysis of S100B if less than 6 h have
+elapsed following trauma. If S100B is less than 0.10 μg/l,
+the patient may be discharged without a CT (moderate
+quality, strong recommendation).
+The evidence was initially of high quality but was
+downgraded due to study design (mostly selection bias)
+and indirectness (outcomes were rarely reported). However, studies consistently show that low S100B levels
+can be used to select patients who do not need a CT
+scan and, hence, may save valuable resources. Of the
+few missed patients in the literature, almost all are nonneurosurgical lesions. Some studies include risk factors
+such as GCS 13, anticoagulation and focal neurological
+deficits in the inclusion criteria. The working group,

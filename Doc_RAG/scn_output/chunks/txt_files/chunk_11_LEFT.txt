@@ -1,0 +1,48 @@
+Source: Page 11 (LEFT)
+Page: 11, Side: LEFT
+Word Count: 439
+--------------------------------------------------
+Undén et al. BMC Medicine 2013, 11:50
+http://www.biomedcentral.com/1741-7015/11/50
+neurological status. A strong recommendation was chosen
+in spite of weak evidence due to the seriousness of the
+condition. Clinical aspects such as anticoagulation and
+persistent neurological findings were discussed but the
+working group could not reach consensus on a recommendation for follow-up scans in these patients.
+Guidelines
+Based upon the recommendations, guidelines were constructed. The addition of shunt-treated hydrocephalus
+was based upon consensus in the working group with
+little evidence to support this. The working group discussed risk factors relating to trauma mechanism and
+multitrauma injuries but found these difficult to recommend, mainly due to practical issues with clinical application. We considered serious extracranial injuries
+(defined as Abbreviated Injury Score (AIS) >3 to any
+organ system, for instance large (for example, femur)
+fractures or serious thoracic or abdominal injuries) as a
+risk factor due to the probability of a higher magnitude
+of trauma, need for extracranial CT and the poorer
+prognosis of brain injury in these patients. However, we
+finally decided to omit this as a risk factor primarily due
+to the difficulty of classifying this risk factor in a busy
+clinical scenario. Additionally, predictive ability was generally only moderate for these risk factors. Also, loss of
+consciousness was expanded to suspected/confirmed
+loss of consciousness, as it is often difficult to confirm
+this finding in the clinical setting. Patients who could
+not clearly deny any loss of consciousness should be
+classed as suspected. Finally, the working group could
+not recommend older age or antiplatelet medication as
+individual risk factors due to the unacceptable CT
+increase such a recommendation would cause, in combination with only moderate predictive abilities. However,
+consensus was reached to combine these into one risk
+factor, namely age ≥65 years and antiplatelet medication.
+Written instructions for patients being discharged were
+adapted from the 2000 guidelines with consideration of
+the National Institute of Clinical Excellence (NICE)
+instructions [29] and a proposal for evidence-based
+instructions from Fung et al. [30], (see Additional file 6,
+Figure S1). With the Scandinavian setting in mind, the
+discharge sheet was heavily simplified for clarity. Observation and monitoring routines for admitted patients
+were based on consensus in the working group. We discussed the intensity of monitoring routines in relation to
+the severity of the complications and burden on hospital
+wards and finally decided that these should be relatively
+frequent shortly after trauma (the first 4 h) with de-escalation over time. Reasonably, most admitted patients will
+arrive to a ward after at least 4 h and hence already have
+passed the 15-minute interval period. Also, these monitoring routines will only be used in small minority of

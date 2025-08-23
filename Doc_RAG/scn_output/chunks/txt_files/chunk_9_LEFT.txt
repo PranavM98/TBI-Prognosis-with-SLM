@@ -1,0 +1,34 @@
+Source: Page 9 (LEFT)
+Page: 9, Side: LEFT
+Word Count: 158
+--------------------------------------------------
+Undén et al. BMC Medicine 2013, 11:50
+http://www.biomedcentral.com/1741-7015/11/50
+Titles initially screened 
+n=2926 
+ 
+Abstracts 
+n=131 
+ 
+Full-text papers 
+n=33 
+Additional papers from 
+reference lists of retrieved 
+papers 
+n=12 
+Full-text papers 
+n=45 
+Papers included in review 
+n=21 
+Figure 3 Adapted Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) diagram showing the review
+process with reference to the clinical question: ‘Which adult patients with minimal, mild and moderate head injury need in-hospital
+observation and/or a repeat head CT?’.
+The evidence was initially of high quality but was downgraded due to limitations in study design (mostly selection
+bias), indirectness (outcomes were rarely reported) and
+impreciseness (different magnitudes of predictive power of
+risk factors between studies). However, the strength of the
+recommendation was view as strong by the working
+group, considering the seriousness of the complication
+and health/economic impact of missing a patient with a
+neurosurgical lesion. The working group also discussed
+older age (≥60 years and ≥65 years) as well as antiplatelet

@@ -1,0 +1,46 @@
+Source: Page 2 (LEFT)
+Page: 2, Side: LEFT
+Word Count: 436
+--------------------------------------------------
+Undén et al. BMC Medicine 2013, 11:50
+http://www.biomedcentral.com/1741-7015/11/50
+GUIDELINE
+Open Access
+Scandinavian guidelines for initial management
+of minimal, mild and moderate head injuries in
+adults: an evidence and consensus-based update
+Johan Undén1*, Tor Ingebrigtsen2 and Bertil Romner3, for the Scandinavian Neurotrauma Committee (SNC)
+See related commentary article here http://www.biomedcentral.com/1741-7015/11/51
+Abstract
+Background: The management of minimal, mild and moderate head injuries is still controversial. In 2000, the
+Scandinavian Neurotrauma Committee (SNC) presented evidence-based guidelines for initial management of these
+injuries. Since then, considerable new evidence has emerged.
+Methods: General methodology according to the Appraisal of Guidelines for Research and Evaluation (AGREE) II
+framework and the Grading of Recommendations Assessment, Development and Evaluation (GRADE) system.
+Systematic evidence-based review according to Preferred Reporting Items for Systematic Reviews and MetaAnalyses (PRISMA) methodology, based upon relevant clinical questions with respect to patient-important
+outcomes, including Quality Assessment of Diagnostic Accuracy Studies (QUADAS) and Centre of Evidence Based
+Medicine (CEBM) quality ratings. Based upon the results, GRADE recommendations, guidelines and discharge
+instructions were drafted. A modified Delphi approach was used for consensus and relevant clinical stakeholders
+were consulted.
+Conclusions: We present the updated SNC guidelines for initial management of minimal, mild and moderate head
+injury in adults including criteria for computed tomography (CT) scan selection, admission and discharge with
+suggestions for monitoring routines and discharge advice for patients. The guidelines are designed to primarily
+detect neurosurgical intervention with traumatic CT findings as a secondary goal. For elements lacking good
+evidence, such as in-hospital monitoring, routines were largely based on consensus. We suggest external validation
+of the guidelines before widespread clinical use is recommended.
+Keywords: computed tomography, GRADE, guidelines, head/brain injury/trauma, management, prediction rule,
+routines, S100/S100B/S100BB
+Background
+Traumatic brain injury (TBI) is one of the most common
+reasons for emergency department (ED) care [1]. Cases
+of TBI account for over 1 million visits per year in both
+the USA and the UK [2,3] and are responsible for twothirds of all trauma deaths [4]. Only a small proportion
+of these are classed as severe head injury [1], with a Glasgow Coma Scale (GCS) score of 3 to 8. The majority of
+patients are instead classed as minimal, mild and
+* Correspondence: dr.johan.unden@gmail.com
+1Department of Intensive Care and Perioperative Medicine, Institute for
+Clinical Sciences, Södra Förstadsgatan 101, 20502 Malmö, Sweden
+Full list of author information is available at the end of the article
+© 2013 Undén et al; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons
+Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in
+any medium, provided the original work is properly cited.

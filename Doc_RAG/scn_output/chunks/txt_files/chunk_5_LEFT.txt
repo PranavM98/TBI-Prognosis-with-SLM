@@ -1,0 +1,53 @@
+Source: Page 5 (LEFT)
+Page: 5, Side: LEFT
+Word Count: 418
+--------------------------------------------------
+Undén et al. BMC Medicine 2013, 11:50
+http://www.biomedcentral.com/1741-7015/11/50
+OR multiple OR serial OR follow-up) AND (CT OR CCT
+OR computed tomography)).
+Additional papers were identified by hand-searching
+bibliographies of retrieved studies.
+Selection criteria and study eligibility
+Titles were examined by one author (JU) and borderline
+titles were included. Titles that were obviously not relevant were excluded. Abstracts were examined independently by two authors (JU, BR) and the third (TI) was
+consulted when discrepancies arose. Selected full papers
+were independently reviewed by all authors (JU, TI, BR)
+and discrepancies were resolved through discussion.
+Review articles, letters, expert opinion and editorials
+could be retrieved for examination of bibliographies but
+were excluded from the analysis. Papers reporting only
+children (<18 years) were excluded in both searches. In
+cases where essential data was missing or unclear, we
+made an attempt to contact corresponding authors for
+clarification. Studies including patients with all severities
+of head injury were only included if at least 50% of
+patients were within the GCS 9 to 15 range.
+For the first clinical question, we included studies
+reporting patients with admission/initial GCS scores ≥9
+and that included one or more predictive risk factors for
+the reference standards of CT findings, intracranial
+injury (ICI) and/or neurosurgical intervention. We
+decided a priori to only include studies where information concerning true positives (TP), false positives (FP),
+true negatives (TN) and false negatives (FN) could be
+extracted. This information would be necessary to fully
+appreciate the possible clinical effect and role of a risk
+factor, allowing consideration of other effects than the
+positive predictive power. Studies reporting less than 50
+patients were excluded. Definitions for risk factors were
+defined a priori.
+For the second clinical question, we included studies
+reporting patients with admission/initial GCS scores ≥9
+with an initial CT scan (normal or abnormal) and contained information regarding clinical characteristics that
+were associated with a positive or worsening repeat CT
+scan, ICI and/or neurosurgical intervention within 1
+week following trauma.
+CT findings were defined as any traumatic finding on
+head CT. ICI was defined as any intracranial (isolated
+non-depressed cranial fractures not included) traumatic
+finding on CT. Also, since not all patients can be subjected to CT, absence of ICI was defined as relevant and
+robust clinical follow-up suggestive of normal neurological functioning (with the exception of classical PCS
+symptoms). The decision to consider any CT findings
+and ICI as separate reference standards was due to the
+difference in clinical importance of these measures. This
+approach should also stratify reference standards in a

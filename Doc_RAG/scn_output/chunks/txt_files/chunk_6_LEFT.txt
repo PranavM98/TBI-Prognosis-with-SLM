@@ -1,0 +1,54 @@
+Source: Page 6 (LEFT)
+Page: 6, Side: LEFT
+Word Count: 426
+--------------------------------------------------
+Undén et al. BMC Medicine 2013, 11:50
+http://www.biomedcentral.com/1741-7015/11/50
+population. We felt that these indices would represent the
+most relevant clinical applications for the working group
+when considering the recommendations. For the second
+clinical question, we presented only descriptive analysis.
+Evidence summary and recommendations draft
+Recommendations were formed by the task force (JU, TI,
+BR) based upon the evidence in accordance with the
+GRADE system [20,25]. This system is increasingly been
+used in the development of recommendations and allows
+consideration of aspects other than level of evidence in
+determining the strength of a recommendation [25].
+Clinical predictors were chosen based upon the summarized evidence (see Additional file 1, Table S1). Focus was
+put on the more severe outcome variables (need for neurosurgery being of critical importance), but ICI and any
+CT findings were also considered, especially in cases
+where the evidence concerning neurosurgery was poor
+and/or inconsistent. We also considered the prevalence
+of the risk factors in the studied cohorts. Risk factors
+relatively common in a population would lead to many
+CT scans and these risk factors would therefore need to
+show high predictive abilities to be included.
+The summarized quality of evidence, from studies
+forming the basis of a recommendation, was graded from
+high quality to very low quality, see Table 1. Evidence
+was initially considered high quality when derived from
+cohort studies reporting patients with diagnostic uncertainty and appropriate reference standards, as described
+earlier. Evidence could be downgraded due to risk of bias
+(selection (population indirectness), verification, observer
+and reporting), outcome indirectness (balance between
+the presumed influence on patient outcome of the test
+result (combination of risk factors) in relation to the
+complications and resource use of the test), inconsistency
+(large differences in prevalence of reference tests, prevalence of risk factors, PLR or NLR) or differing general
+results between studies), impreciseness (studies with
+small number of patients and few positive CT, ICI or
+neurosurgery events) and suspicion of publication bias
+(small number of studies, industry funding).
+Recommendations, relating to the clinical questions,
+were classed as strong (we recommend...), weak (we
+suggest...) or uncertain (we cannot recommend...) (see
+Table 1). For this process, careful consideration was again
+made to risk/benefit aspects of patient-important outcomes
+(need for neurosurgery was classed as the most important)
+in relation to test results, including assumptions for pretest
+probabilities (different magnitudes of risk for a positive
+reference result of CT, ICI or neurosurgery) for different
+patients, quality of evidence, uncertainty of the preferences
+and values for outcomes and the use of health care
+resources. Therefore, it is theoretically possible to achieve a

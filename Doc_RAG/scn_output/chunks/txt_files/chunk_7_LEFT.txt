@@ -1,0 +1,81 @@
+Source: Page 7 (LEFT)
+Page: 7, Side: LEFT
+Word Count: 487
+--------------------------------------------------
+Undén et al. BMC Medicine 2013, 11:50
+http://www.biomedcentral.com/1741-7015/11/50
+Table 1 Grading of Recommendations Assessment, Development and Evaluation (GRADE) system [24] for rating
+quality of evidence and strength of recommendation
+Factor
+Description
+Evidence:
+High quality
+Considerable confidence of the estimate of effect. Further research is very unlikely to change our confidence in the
+estimated effect.
+Moderate quality
+Confidence that the estimate is close to the truth. Further research is likely to have an important impact on our
+confidence in the estimate effect and may change the estimate.
+Low quality
+Limited confidence in the effect. Further research is likely to have an important impact on our confidence in the
+estimate effect and is likely to change the estimate.
+Very low quality
+Little confidence in the effect estimate. Any change of effect is uncertain.
+Recommendation:
+Strong: ‘We recommend...’
+A strong recommendation indicates that most well informed people will make the same choice
+Weak: ‘We suggest...’
+A weak recommendation indicates that the majority of well informed people will make the same choice but a
+substantial minority will not
+Uncertain: ‘We cannot
+recommend...’
+No specific recommendation for or against
+Factors influencing the strength of the recommendation include evidence quality, risk/benefit aspects of presumed patient-important outcomes, costs and
+uncertainty concerning values and preferences.
+For the first clinical question, we found 72 studies that
+adhered to our inclusion criteria (see Additional File 2,
+Table S2 for evidentiary information). These studies
+included 226,606 individual patients. The level of evidence
+according to CEBM was variable and overall judged to be
+moderate (see Additional file 2, Table S2). Quality assessment with the QUADAS tool (see Additional file 3, Table
+S3) showed substantial bias in the studies, particularly
+concerning the representativeness of the studied population (selection bias, criteria 1), blinding of the index test
+(criteria 8) and withdrawals (criteria 12). Studies scored
+better regarding the reporting of selection criteria (criteria
+2) and most had acceptable reference standards (criteria
+3), although they were often described poorly.
+Clinical predictors, with according source study, PLR,
+NLR, reference test prevalence and risk factor prevalence are shown in Additional file 1, Table S1.
+With regard to the second clinical question, we found
+21 studies adhering to our inclusion criteria (see Additional file 4, Table S4 for evidentiary information and
+relevant results). The CEBM rating was generally low,
+with several studies reporting non-independent reference
+standards (see Additional file 4, Table S4). QUADAS
+Table 2 A priori established seven-point response scale and criteria to determine acceptance, rejection or lack of
+consensus for recommendations and guidelines for the working group using a modified Delphi process [25]
+Level of agreement
+Strongly
+disagree
+Disagree Moderately
+Neither agree or disagree
+Moderately
+agree
+disagree
+Score
+1
+2
+3
+4
+5
+6
+7
+Criteria 75% of respondents score ≤3 on the 7-point scale
+All other situations
+75% of respondents score 5≥on the 7point scale
+Result
+Consensus against
+No consensus
+Consensus in favor
+Action
+Reject recommendation
+Indicates no consensus has been
+reached

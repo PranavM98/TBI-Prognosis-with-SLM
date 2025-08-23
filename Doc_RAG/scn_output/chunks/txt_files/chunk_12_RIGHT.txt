@@ -1,0 +1,47 @@
+Source: Page 12 (RIGHT)
+Page: 12, Side: RIGHT
+Word Count: 437
+--------------------------------------------------
+Page 11 of 13
+the Scandinavian health care system. Since in-hospital
+observation consumes valuable resources, there is a need
+for stronger evidence examining the need and magnitude
+of these routines.
+For the first time, a brain biomarker has been introduced into clinical practice guidelines. Using a low cutoff of 0.10 μg/l, the biomarker has shown considerable
+ability to predict the absence of CT pathology and neurosurgical intervention [36,41,42]. This negative prediction
+is welcomed since all other risk factors are of positive
+predictive nature. S100B allows for a safe reduction in
+CT scans in a subpopulation of patients with mild head
+injury. In order to maintain the theoretical safety and
+cost-saving ability, the biomarker should primarily not
+exhibit false negative results. Also, the biomarker should
+only be taken in patients that would usually receive a CT
+scan and the fraction of negative S100B results (below
+cut-off) should be as large as possible. S100B is clinically
+unspecific [43,44] and has a short half-life [45]. Therefore, patients with extracranial injuries and those seeking
+care more than 6 h after trauma are not good candidates
+for S100B sampling due to a risk of false positives and
+negatives, respectively. Some patients have risk factors
+with higher predictive abilities and also factors that
+would usually warrant admission irrespective of CT findings. This group is therefore also not suitable for S100B
+sampling. Despite the relatively good evidence for S100B
+in this setting, biomarkers have historically had different
+effects in actual management and the clinical impact and
+health economic implications may alter future recommendations. Based upon the current evidence and clinical
+setting, however, this biomarker should safely reduce
+resource use if used correctly since low levels are very
+uncommon in patients needing neurosurgical intervention in this setting.
+There are limitations to the process outlined in this
+paper. Although the recommendations are based upon
+evidence, there were elements of consensus input to the
+final guidelines. This is inevitable when dealing with
+these injuries and we attempted to minimize the negative
+effects of this through our stringent and extensive methodology using the best available tools. Particularly, the
+GRADE system [20] allows consideration of other important aspects other than the level of evidence in recommendations. The derivation and validation of predictive
+risk factors as performed by other authors [6,10,18]
+would hardly be feasible in Scandinavia and would only
+account for one aspect of the management guidelines.
+Our methodology was judged as the most feasible considering the target population. However, external clinical
+validation of our guidelines is welcomed and would naturally support successful implementation.
+Finally, these guidelines are, by definition, guidelines
+and should be utilized accordingly. They are primarily
