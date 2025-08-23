@@ -1,0 +1,49 @@
+Source: Page 3 (MIDDLE)
+Page: 3, Side: MIDDLE
+Word Count: 311
+--------------------------------------------------
+GCS impairment,23,27–29
+depressed
+skull fracture,28,30,31 basal skull fracture,28,32 recurrent vomiting33,34 or
+age 65 years or over2,30 are at high
+risk of requiring neurological treatment and should have urgent CT
+imaging. Although a normal CT
+scan does not preclude latent hemorrhage, the incidence of significant
+deterioration in these patients is exceedingly low and justifies chaperoned discharge when clinically
+well.35 In contrast, radiographic evidence of intracranial injury warrants
+a neurosurgical consultation. If the
+patient is being evaluated in a tertiary care centre, the neurosurgical
+housestaff should be contacted directly. However, if the emergency
+department encounter occurs in a
+nontertiary centre, the attending
+physician should immediately contact the local neurosurgeon on-call,
+which, in our system, may be accomplished by calling the Trauma
+Hotline. The neurosurgeon on-call
+is available to review the history
+(via telephone contact with the referring 
+emergency 
+department
+physician) and radiology (via viewing the CT scan on a province-wide
+real-time digital imaging system)
+and will provide advice regarding
+patient disposition and management (Box 2).
+Box 2: Approach to adults with minor head injuries*†
+CT urgently needed if all 3 of the following criteria are met
+1. History of blunt head trauma within past 24 h
+2. History of loss of consciousness, amnesia or disorientation
+3. One or more of the following risk factors present:
+GCS score < 15 after 2 h after injury
+Suspected open or depressed skull fracture
+Signs of basal skull fracture
+Recurrent vomiting
+Age > 65 yr
+Abnormal CT
+Urgent neurosurgical consultation.
+Normal CT or no CT indicated
+Discharge when clinically well. Follow up with family doctor.
+GCS = Glasgow Coma Scale.
+*GCS score 13–15.
+†These patients are neurologically well but may be at risk of delayed
+complications. Indications for CT imaging and choice of disposition are the
+primary issues of acute care. Patients with a deteriorating GCS or penetrating
+head trauma are managed as a major head injury.

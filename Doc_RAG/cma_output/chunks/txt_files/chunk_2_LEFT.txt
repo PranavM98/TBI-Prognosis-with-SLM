@@ -1,0 +1,44 @@
+Source: Page 2 (LEFT)
+Page: 2, Side: LEFT
+Word Count: 239
+--------------------------------------------------
+Hebb et al
+intracranial complications have been
+reported in up to 17% of people with
+apparently trivial head injuries, emphasizing the significance of a structured
+evaluation of these patients at initial
+presentation.5 In contrast, the need for
+aggressive resuscitation and intensive
+care monitoring is often quickly recognized after severe TBI; however, important issues regarding the timing
+and nature of the resuscitative efforts,
+as well as the urgency of patient transport and neurosurgical consultation,
+may be poorly defined.5–10 Standardized algorithms and clinical predictors
+of intracranial11,12 or cervical spine13,14
+injury have been reported and validated, yet the impact of regionalized
+TBI care on patient outcomes remains
+unknown. To our knowledge, there
+have been no clinical decision tools
+published that provide a comprehensive approach, based on the current
+state of knowledge, to the acute care
+of adult and pediatric patients who
+present to the emergency department
+with head injuries.
+Trauma services in Nova Scotia are
+coordinated through a regionalized
+system that serves a population of
+940 000 in an area of 53 000 km2
+(20 463 square miles). A single neuBox 1: Glasgow Coma Scale (GCS)*†
+Modality
+Score
+Adult
+Pediatric
+Eye opening (E)
+4
+Verbal (V)
+5
+Motor (M)
+6
+*Adult and pediatric versions of the Glasgow Coma Scale.
+† GCS score is tabulated as the sum of individual scores (E+V+M), with a minimum value of 3 and maximum value of 15.
+188
+J can chir, Vol. 50, No 3, juin 2007
