@@ -1,0 +1,58 @@
+Source: Page 97 (LEFT)
+Page: 97, Side: LEFT
+Word Count: 213
+--------------------------------------------------
+The original authors believed that measurement of 
+consciousness should not depend on a single measure, so 
+the GCS was designed to utilise the three domains of eye 
+opening, verbal response and motor response.193 These 
+domains were chosen as they represent differing aspects of 
+central nervous system function, measured independently 
+of each other, with scores in rank order that indicate the 
+degree of dysfunction. The domains are represented by 
+three different behavioural responses, each assessable in 
+the absence of the others, and the GCS was therefore 
+considered to be more appropriate and effective than the 
+imposition of subjective “levels” of function. The total GCS 
+is time-efficient, and considered to be easy to sum.197
+The eye opening component refers to the processing of 
+information by the cerebral cortex and the level of arousal 
+or wakefulness.193 The verbal response domain measures 
+The Glasgow Coma Scale
+Domain
+Level of response
+Score
+Eye opening
+Spontaneous
+4
+To speech
+3
+To pain
+2
+None
+1
+Best Verbal Response
+Oriented
+5
+Confused
+4
+Inappropriate words
+3
+Incomprehensible sounds
+2
+None
+1
+Best Motor Response
+Obeying commands
+6
+Localising
+5
+Normal ﬂ exor response / withdrawal
+4
+Abnormal ﬂ exor response
+3
+Extensor posturing
+2
+None
+1
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 95

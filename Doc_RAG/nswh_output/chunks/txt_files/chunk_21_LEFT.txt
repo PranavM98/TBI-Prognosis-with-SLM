@@ -1,0 +1,50 @@
+Source: Page 21 (LEFT)
+Page: 21, Side: LEFT
+Word Count: 383
+--------------------------------------------------
+Clinical history and examination remain the basis for the 
+initial assessment of patients with closed head injury. 
+However, additional clinical tools are available to assist in 
+assessment and management. These clinical tools include 
+Glasgow Coma Scale (GCS), initial serial neurological 
+observation, post traumatic amnesia (PTA) testing, 
+clinical decision rules, CT scanning and prolonged clinical 
+observation in hospital.
+Glasgow coma scale
+The Glasgow Coma Scale (Appendix 5) was originally 
+developed by Teasdale and Jennett104 for the neurological 
+observation of patients with prolonged coma. It was 
+intended to ensure inter-observer reliability and to identify 
+deterioration of patients over time. Since its original 
+introduction its use has been extended such that it is now 
+the standard tool for assessment of level of consciousness 
+in many clinical settings. 
+GCS is used both for the initial assessment and classification 
+of closed head injuries and for serial assessment of closed 
+head injuries. Initial GCS on admission to hospital is used 
+to classify head injuries into the broad prognostic groups 
+of mild (GCS 14-15), moderate (GCS 9-13) and severe 
+(GCS 3-8). The Brain Trauma Foundation concluded that 
+there is good quality evidence to relate initial GCS score 
+to outcome.15 However, it must be noted that these are 
+broad outcome measures and initial GCS is only about 75% 
+accurate so treatment should be individualised.15
+GCS is unreliable if measured before initial resuscitation 
+and stabilisation of the ABCDE’s has been completed.15 
+Fearnside et al105 identified that both intubation and 
+sedation interfered with accurate assessment of initial 
+GCS in more severely injured patients and there is lack 
+of uniformity of approach to classifying GCS in these 
+situations.
+The other significant area of controversy relates to timing of 
+initial GCS. In unstable patients requiring resuscitation, the 
+optimal time to record initial GCS remains controversial.15, 
+105 Similarly, in mild head injury patients the time of 
+presentation related to time of injury will influence the 
+initial GCS and therefore potentially influence clinical 
+decision making in relation to CT scanning.6, 10, 31, 35 
+Perhaps the most crucial point to note about initial GCS is 
+that it cannot predict individual outcome for patients with 
+similar GCS scores. Thus, an individual patient with an initial 
+GCS of 14-15 may have a variety of outcomes including 
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 19

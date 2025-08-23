@@ -1,0 +1,64 @@
+Source: Page 12 (LEFT)
+Page: 12, Side: LEFT
+Word Count: 200
+--------------------------------------------------
+Understanding the grades of recommendation
+Strength of recommendations
+This guideline uses the National Health and Medical 
+Research Council's (NHMRC) overall grades of 
+recommendation to indicate the strength of the body of 
+evidence underpinning each recommendation. The body 
+of evidence reflects the evidence components of all the 
+studies relevant to each recommendation. The evidence 
+Table 2: Body of evidence matrix44
+A
+B
+C
+D
+Components
+Excellent
+Good
+Satisfactory
+Poor
+Evidence base
+one or more level I 
+studies with a low risk 
+of bias or several level 
+II studies with a low 
+risk of bias
+one or two level II 
+studies with a low risk 
+of bias or a SR/several 
+level III studies with a 
+low risk of bias
+Consistency
+all studies consistent
+most studies 
+consistent and 
+inconsistency may be 
+explained
+Clinical Impact
+very large
+substantial
+moderate
+slight or restricted
+Generalisability
+population/s studied in 
+body of evidence are 
+the same as the target 
+population for the 
+guideline
+population/s studied in 
+the body of evidence 
+are similar to the 
+target population for 
+the guideline
+Applicability
+directly applicable to 
+Australian healthcare 
+context
+applicable to 
+Australian healthcare 
+context with few 
+caveats
+PAGE 10  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH

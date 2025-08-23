@@ -1,0 +1,60 @@
+Source: Page 115 (LEFT)
+Page: 115, Side: LEFT
+Word Count: 184
+--------------------------------------------------
+6.  
+ When can patients with mild head injury be safely discharged?
+MEDLINE 
+1. 
+exp craniocerebral trauma/
+2. 
+ (head OR brain OR cerebral OR cranial OR 
+cranio?cerebral) ADJ (injur$ OR traum$).ti,ab
+3. 
+(mild OR minim$ OR minor).ti,ab
+4. 
+1 OR 2
+5. 
+3 AND 4
+6. 
+exp Patient Discharge
+7. 
+exp risk assessment
+8.  discharge$.ti,ab
+9. 
+OR/6-8
+10. 5 AND 9
+N = 519 citations retrieved
+7.  
+ What are the proven treatments for patients with ‘moderate’ to ‘severe’ head injury?
+MEDLINE 
+1. 
+exp craniocerebral trauma/
+2. 
+ (head OR brain OR cerebral OR cranial OR 
+cranio?cerebral) ADJ (injur$ OR traum$).ti,ab
+3. 
+1 OR 2
+4. 
+exp emergency treatment
+5. 
+exp emergency service, hospital
+6. 
+4 or 5
+7. 
+hypnotics / tu
+8. 
+exp intracranial pressure
+9. 
+subarachnoid hemorrhage / dt
+10. exp drainage
+11. exp hypothermia, induced
+12. exp hyperventilation
+13. exp neuroprotective agents
+14. anti-inflammatory agents / tu
+15. seizures / pc
+16.  saline solution, hypertonic / tu
+17. OR/7-16
+18. 3 AND 16 AND 17
+N =  505 citations retrieved
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 113

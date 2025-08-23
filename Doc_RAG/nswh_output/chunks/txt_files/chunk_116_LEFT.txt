@@ -1,0 +1,52 @@
+Source: Page 116 (LEFT)
+Page: 116, Side: LEFT
+Word Count: 156
+--------------------------------------------------
+8.  
+ When should patients with closed head injury be transferred to hospitals with 
+neurosurgical facilities?
+MEDLINE 
+1. 
+exp craniocerebral trauma/
+2. 
+ (head OR brain OR cerebral OR cranial OR 
+cranio?cerebral) ADJ (injur$ OR traum$).ti,ab
+3. 
+1 OR 2
+4. 
+exp patient transfer
+5. 
+3 AND 4
+6. 
+ limit 5 to (english language and humans and yr="2004 
+-Current")
+N = 59 citations retrieved
+9.  
+ Which patients with closed head injury should receive anticonvulsants?
+MEDLINE 
+1. 
+exp craniocerebral trauma/
+2. 
+ (head OR brain OR cerebral OR cranial OR 
+cranio?cerebral) ADJ (injur$ OR traum$).ti,ab
+3. 
+Or / 1-2
+4. 
+exp phenytoin/
+5. 
+exp pentobarbital/
+6. 
+exp carbamazepine/
+7. 
+exp valproic acid/
+8. 
+ (pentobarbit* or carbamazepine* or valpro* or 
+fosphenytoin* or phenytoin*).ti,ab.
+9. 
+ (anticonvul* or anti-convul* or antiseiz* or anti-seiz* or 
+antiepilep*).ti,ab.
+10. Or/4-9
+11. exp epilepsy, post-traumatic/
+12. 3 or 11
+13.  10 AND 12
+PAGE 114  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH

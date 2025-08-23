@@ -1,0 +1,77 @@
+Source: Page 11 (LEFT)
+Page: 11, Side: LEFT
+Word Count: 449
+--------------------------------------------------
+Algorithm 2:
+Initial Management of Adult Mild Closed Head Injury
+Initial GCS 14-15 on arrival following blunt head trauma
+Stabilise ABCDEs and assess clinical risk factors. 
+Commence minimum of hourly clinical observations of vital signs, GCS, pupils, PTA and clinical symptoms
+Low risk mild head injury
+No indication for CT scan if all of...
+- GCS 15 at 2 hours post injury.
+- No focal neurological deficit.
+- No clinical suspicion of skull fracture. 
+- No vomiting 
+- No known coagulopathy or bleeding disorder.
+- Age <65 years. 
+- No seizure
+- Brief loss of consciousness (<5 mins). 
+- Brief post traumatic amnesia (<30 mins)
+- No severe headache.
+- No large scalp haematoma or laceration
+- Isolated head injury 
+- No dangerous mechanism.
+- No known neurosurgery / neurological impairment.
+- No delayed presentation or representation
+NOTE:
+Mild acute clinical symptoms such as lethargy, nausea, dizziness, mild headache, mild 
+behavioural change, amnesia for event and mild disorientation are common and are 
+not associated with increased risk of intracranial injury. These clinical symptoms usually 
+start to improve within 2 to 4 hours of time of injury. 
+Continue minimum of hourly clinical observations until at 
+least four hours post time of injury.
+Clinically deteriorates or clinical symptoms not 
+improving during observation period
+Indication for CT scan. Continue clinical observations.
+Normal CT scan
+Clinical 
+symptoms 
+IMPROVING or 
+remain normal 
+during period 
+of observation.
+Clinical 
+symptoms
+IMPROVING 
+at 4-6 hours 
+post time of 
+injury.
+Clinical 
+symptoms  NOT 
+IMPROVING at 
+4-6 hours post 
+time of injury.
+Clinically safe for discharge for home observation if:
+- GCS 15/15 
+- No persistent post traumatic amnesia (nb A-WPTAS 18/18)
+- Alertness / behaviour / cognition returning to normal 
+- Clinically improving after observation.
+- Normal CT scan or no indication for CT scan.
+-  Clinical judgment required regarding discharge and follow up of elderly 
+patients or patients with known coagulopathy or bleeding disorder due to 
+increased risk of delayed subdural haematoma.
+Clinically safe for discharge for home observation if:
+- Responsible person available to take home and observe.
+- Able to return if deteriorates.
+- Discharge advice is understood.
+Discharge for home observation if above criteria met:
+- Provide written patient advice sheet
+- Provide discharge summary for GP
+-  All patients should be advised to see their GP for follow up if they are not 
+feeling back to normal within 2 days
+-  Any patients who have minor CT abnormalities, who suffered significant 
+clinical symptoms or who had prolonged post traumatic amnesia should be 
+routinely referred to their GP for follow up due to an increased risk of post 
+concussion symptoms.
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 9

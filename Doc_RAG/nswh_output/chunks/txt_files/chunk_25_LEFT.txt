@@ -1,0 +1,53 @@
+Source: Page 25 (LEFT)
+Page: 25, Side: LEFT
+Word Count: 426
+--------------------------------------------------
+Clinical decision rules for adult patients with mild head 
+injury have been developed through studies of large 
+cohorts of patients and prospectively applied to patients 
+to determine their sensitivity, specificity and negative 
+predictive value.31, 32, 35, 47, 48, 56, 58, 116 These studies aim to 
+identify those patients at increased risk of intracranial injury 
+and develop clinical decision rules about which patients 
+require CT scanning or prolonged observation. The best 
+studies should be well designed and prospectively internally 
+validated in the original population and then externally 
+validated by other groups in other populations. The main 
+design features of these trials are summarised in Evidence 
+Table 1 and Appendix 1. 
+The most consistent findings of these studies are that 
+abnormal GCS or mental status, clinical suspicion of skull 
+fracture, focal neurological deficit, vomiting, coagulopathy 
+and age > 65 are the best predictors of risk of intracranial 
+injury. Other relevant predictors of risk include mechanism 
+of injury, prolonged loss of consciousness, post traumatic 
+amnesia, severe headache and seizure. Depending on their 
+inclusion / exclusion criteria the authors used combinations 
+of these risk factors to derive clinical decision rules of 
+varying sensitivity and specificity (Evidence Table 1 and 
+Appendix 1). At present, the findings of both Haydel et 
+al32 and Stiell et al35 have been adopted as policy by the 
+American College of Emergency Physicians (USA),9 whilst 
+the findings of Stiell et al35 have been adapted by the 
+NICE guidelines (UK).117 The other widely known clinical 
+prediction rule is NEXUS II.58
+Ibanez et al33 in 2004 attempted to prospectively identify 
+clinical risk factors predicting intracranial injury and 
+to assess the reliability of previously published clinical 
+guidelines. They found that while clinical risk factors could 
+not detect all intracranial injuries they could be used to 
+detect clinically relevant lesions with a negative predictive 
+value approaching 99%. They also concluded clinicians 
+should be aware of the limitations of clinical decision rules 
+when using clinical guidelines. An Australian study in 2004 
+by Rosengren et al118 looked at applying the clinical decision 
+rules developed by Haydel et al32 and Stiell et al35 to 
+Australian practice and concluded that both had limitations. 
+More recently an Australian study by Fong et al57 developed 
+a local guideline by adapting the findings of Haydel et al32 
+and Stiell et al35 and applying the resultant guideline to an 
+Australian population with satisfactory results. The authors 
+stressed the point that no clinical decision rule is infallible 
+and that appropriate explanation and discharge advice was 
+important.
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 23

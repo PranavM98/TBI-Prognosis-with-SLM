@@ -1,0 +1,47 @@
+Source: Page 94 (LEFT)
+Page: 94, Side: LEFT
+Word Count: 508
+--------------------------------------------------
+GLASGOW COMA SCALE (GCS) AND ABBREVIATED WESTMEAD PTA  SCALE (A-WPTAS)  
+Administration and Scoring 
+1. Orientation Questions
+Question 1: WHAT IS YOUR NAME?  
+The patient must provide their full name.
+Question 2: WHAT IS THE NAME OF THIS PLACE?  
+The patient has to be able to give the name of the hospital. For example: Westmead Hospital. (NB: The 
+patient does not get any points for just saying ‘hospital’.) If the patient can not name the hospital, give them a 
+choice of 3 options. To do this, pick 2 other similar sized hospitals in your local area or neighbouring region. In 
+Westmead Hospital’s case the 3 choices are ‘Nepean Hospital, Westmead Hospital or Liverpool Hospital’. 
+Question 3: WHY ARE YOU HERE? 
+The patient must know why they were brought into hospital. e.g. they were injured in a car accident, fell, 
+assaulted or injured playing sport. If the patient does not know, give them three options, including the correct 
+reason.
+Question 4: WHAT MONTH ARE WE IN?  
+For emphasis the examiner can ask what month are we in now? The patient must name the month. For 
+example, if the patient answers ‘the 6th month’, the examiner must ask the further question ‘What is the 6th 
+month called?’. 
+Question 5: WHAT YEAR ARE WE IN?  
+It is considered correct for patients to answer in the short form ‘08’, instead of ‘2008’. Also, an acceptable 
+alternative prompt (for the rest of the 2000’s) is ‘The year is 2000 and what?’ 
+2. Picture recognition 
+Straight after administering the GCS (standardised questions), administer the A-WPTAS by presenting the 3 
+Westmead PTA cards. Picture Cards  the ﬁrst time - T1 : Show patients the target set of picture cards for 
+about 5 seconds and ensure that they can repeat the names of each card. Tell the patient to remember the 
+pictures for the next testing in about one hour. Picture Cards at each subsequent time T2-T5: Ask patient, 
+“What were the three pictures that I showed you earlier?”  Scoring:
+For patients who free recall 
+UÊ
+all 3 pictures correctly, assign a score of 1 per picture and add up the patient’s 
+GCS (out of 15) and A-WPTAS memory component to give the A-WPTAS score (total = 18). Present the 3 
+target pictures again and re-test in 1 hour. 
+For patients who can not free recall, or only partially free recall, the 3 correct pictures, present the 9-object 
+UÊ
+recognition chart. If patient can recognise any correctly, score 1 per correct item and record their GCS 
+and A-WPTAS score (total = 18). Present the target set of pictures again and re-test in 1 hour. 
+For patients who neither remember any pictures by free call nor recognition
+UÊ
+, show the patient the target 
+set of 3 picture cards again for re-test in 1 hour.
+Shores & Lammel (2007) - further copies of this score sheet can be downloaded from http://www.psy.mq.edu.au/GCS
+Research and development of the A-WPTAS supported by the Motor Accidents Authority NSW
+PAGE 92  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH

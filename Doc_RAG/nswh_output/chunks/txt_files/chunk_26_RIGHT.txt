@@ -1,0 +1,49 @@
+Source: Page 26 (RIGHT)
+Page: 26, Side: RIGHT
+Word Count: 326
+--------------------------------------------------
+CT scanning
+The widespread availability of CT scanning has greatly 
+assisted the management of patients with head injuries. CT 
+scanning has been particularly useful in identifying focal 
+injuries in patients with altered level of consciousness or 
+other risk factors. CT scanning is regarded as mandatory 
+for all head injury patients with a persistent altered level 
+of consciousness. However, the role of the CT scanning 
+in a patient with mild head injury with a normal level 
+of consciousness remains controversial. Multiple clinical 
+decision rules have been developed to try to identify which 
+patients should have a CT scan because of concerns about 
+the routine use of CT scanning for all patients. Particular 
+concerns about the routine use of CT scanning for mild 
+head injury include the financial-resource burden, the 
+potential hazards of radiation and the potential pitfalls 
+of reliance on technology at the expense of clinical 
+assessment.37, 71, 88, 119-123 Furthermore, CT scans do not 
+identify patients who have cognitive dysfunction which is 
+the most significant complication for most patients. The 
+various pros and cons of CT scanning are summarised 
+below:
+- Early identification of patients with intracranial injuries 
+requiring acute neurosurgical intervention
+- Early identification of patients with other intracranial 
+injuries requiring admission to hospital due to risk of 
+deterioration 
+- Identification of patients at low risk of deterioration 
+and suitable for discharge
+- Identification of patients with structural lesions 
+indicating increased risk of post concussive 
+symptoms.76
+- Potential cost benefit due to early CT scanning allowing 
+discharge home rather than hospital admission in some 
+patients.119
+Cons 
+- Routine use of CT scanning for mild head injury 
+potentially has a huge financial and resource impact 
+given that more than 90% of scans are negative 
+and less than 1% of scans indicate the need for 
+neurosurgical intervention.13, 35, 124 
+- Some patients, particularly the elderly or those with 
+a known coagulopathy, may develop delayed focal 
+neurosurgical lesions (especially subdural lesions) 
+despite initial normal CT scanning.69, 125, 126

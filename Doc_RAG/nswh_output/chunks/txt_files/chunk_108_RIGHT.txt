@@ -1,0 +1,28 @@
+Source: Page 108 (RIGHT)
+Page: 108, Side: RIGHT
+Word Count: 136
+--------------------------------------------------
+the NHMRC publication: A guide to the development, 
+evaluation and implementation of clinical practice 
+guidelines.45 From this, each article was allocated a level of 
+evidence as follows:
+this guideline was adapted from the NHMRC publication: 
+How to review the evidence: systematic identification 
+and review of the scientific literature206 and the MERGE 
+assessment tool.207 
+Studies are allocated the following ratings based on the 
+extent to which they address the quality items in each study 
+type specific checklist:
+Have some of the relevant items
+Have few or none of the relevant quality items 
+(these studies are generally not included in the 
+evidence tables)
+ 
+c.  Were the characteristics and results of the studies 
+summarised appropriately?
+ 
+d. Were sources of heterogeneity explained?
+2.  Checklist for the quality assessment of evidencebased guidelines:
+ 
+ a.  Was a comprehensive and explicit search strategy 
+used?

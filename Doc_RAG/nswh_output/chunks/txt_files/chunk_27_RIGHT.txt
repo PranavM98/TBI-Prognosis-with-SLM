@@ -1,0 +1,50 @@
+Source: Page 27 (RIGHT)
+Page: 27, Side: RIGHT
+Word Count: 370
+--------------------------------------------------
+The risk from radiation can either be expressed as an 
+estimated lifetime risk of fatal cancer or as an estimated 
+equivalent dose of radiation which takes into account organ 
+doses and their relative radiosensitivity.122, 123, 127, 128, 130 It 
+is important to recognise that these risks are all estimates 
+based on epidemiological studies of atomic bomb survivors 
+extrapolated to current estimated doses of radiation 
+delivered by CT scans. Perhaps the best way to put the risk 
+of CT scanning into perspective is to compare the estimated 
+risks with more common everyday risks.129 
+Put into context the risk of radiation from an individual 
+head CT scan is very low.122, 123, 127-130
+- 
+Estimated overall lifetime risk of fatal cancer (1 in 3)
+- Estimated risk of clinically important lesion on CT in 
+mild head injury (1 in 100)
+- Estimated additional lifetime risk of fatal cancer from 
+adult trauma panscan (1 in 1,000)
+- Estimated additional lifetime risk of fatal cancer from 
+single child CT head (1 in 5,000)
+- Estimated additional lifetime risk of fatal cancer from 
+single adult CT head (1 in 10,000)
+- Estimated additional lifetime risk of fatal cancer from 
+trauma series x-rays (1 in 20,000)
+- Estimated additional lifetime risk of fatal cancer from 
+single chest x-ray (1 in 1,000,000)
+- Estimated equivalent dose of radiation from a chest 
+x-ray (0.02 mSv per CXR)
+- Estimated equivalent dose of radiation from adult CT 
+head (2 mSv per scan) 
+- Estimated equivalent dose of radiation from annual 
+background radiation (2 mSv per year)
+- Estimated equivalent dose of radiation from adult CT 
+trauma panscan (20 mSv per scan)
+- Annual safety limit for radiation exposure for radiation 
+workers (.20 mSv per year)
+- Estimated mean equivalent dose of radiation exposure 
+for atomic bomb survivors linked to increased rates of 
+fatal cancer (40 mSv dose)
+It is important to recognise that the absolute risk to an 
+individual is relatively small particularly with advancing 
+age. More caution is recommended in children due to 
+the concerns on cognitive development as well as lifetime 
+risk of cancer. The lifetime risk of cancer for a young child 
+receiving a CT head would be roughly double that of an 
+adult (1 in 5000).

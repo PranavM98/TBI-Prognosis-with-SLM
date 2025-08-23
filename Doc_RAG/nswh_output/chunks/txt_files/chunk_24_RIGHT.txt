@@ -1,0 +1,51 @@
+Source: Page 24 (RIGHT)
+Page: 24, Side: RIGHT
+Word Count: 375
+--------------------------------------------------
+Summary
+- The identification of persistent PTA in mild head injury 
+patients is a potentially useful marker for the risk of 
+intracranial injury and the risk of developing post 
+concussive symptoms.
+- PTA testing should be performed on any patient 
+presenting to hospital following mild head injury. 
+- The Revised and Abbreviated Westmead PTA Scales 
+are useful bedside tools for assessing PTA in the 
+emergency department
+Clinical decision rules
+Clinical decision rules are increasingly being used to 
+assist clinicians in determining the need for particular 
+investigations or management. By identifying individual risk 
+factors and combining them to establish clinical decision 
+rules, which are then prospectively validated, useful 
+evidence based diagnostic tools to assist management can 
+be developed. Well established clinical decision rules also 
+include the NEXUS criteria for cervical spine assessment and 
+the Ottawa Ankle Rules.114, 115
+Although clinical decision rules are potentially very useful, 
+clinicians need to be aware of the specific inclusion/
+exclusion criteria used to develop them and the overall 
+quality of the original studies before applying them to their 
+patients.9, 48 The other important point for clinicians to 
+consider is what level of risk they are prepared to accept. 
+No clinical decision rule can entirely rule out a significant 
+finding for an individual patient, and different clinical 
+decision rules will have different levels of risk. In patients 
+with mild head injury it is important to have high negative 
+predictive value for ruling out significant intracranial injuries 
+but this comes at a cost of lower specificity and therefore 
+the need for more CT scanning. While all the clinical 
+decision rules aim to rule out significant neurosurgical 
+lesions, they have different approaches to the value of 
+identifying intracranial lesions on CT scan that do not 
+require intervention. Clearly it is important to identify 
+intracranial lesions that require neurosurgical intervention, 
+but is it beneficial to identify abnormalities on CT scan 
+that do not require intervention? Concerns about radiation 
+exposure and resource utilisation have influenced this 
+debate. The trend in the literature is to develop strategies 
+to identify clinically important lesions while minimising the 
+number of CT scans performed. Essentially, if you want 
+to do less CT scans you have to accept that you will miss 
+some intracranial abnormalities that are unlikely to require 
+intervention.

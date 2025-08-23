@@ -1,0 +1,54 @@
+Source: Page 31 (LEFT)
+Page: 31, Side: LEFT
+Word Count: 464
+--------------------------------------------------
+Mild head injury patients (initial GCS 14-15) require a CT 
+scan if they are clinically assessed as being at significant risk 
+of acute deterioration from an underlying intracranial injury. 
+The WHO Taskforce on MTBI (Borg et al 2004101) concluded 
+that on the basis of their meta-analysis that “there is 
+strong evidence that clinical factors can predict CT scan 
+abnormalities and the need for (neurosurgical) intervention 
+in adults.” There have been many recent studies looking at 
+which risk factors predict intracranial injury and the need 
+for CT scan and a variety of clinical decision rules have 
+been developed. These studies are mostly based on large 
+prospectively collected data bases in the USA, Canada, and 
+Europe although their findings have been reproduced in 
+smaller studies throughout the world. Haydel et al32 (2000 
+– New Orleans Criteria), Stiell et al35 (2001 – Canadian CT 
+Head Rules), Mower et al58 (2005 – NEXUS II) and Smits 
+et al47 (2007 – CHIP Rule) have all derived clinical decision 
+rules with slightly varying inclusion and exclusion criteria 
+and identified risk factors. Ibanez et al33 (2004), Fabbri et 
+al125 (2004) and Stein et al48 (2009) have also done large 
+studies looking at clinical risk factors and assessing the 
+validity of the various clinical decision rules and guidelines 
+while Rosengren et al118 (2004) and Fong et al57 (2008) have 
+performed similar smaller studies on Australian populations. 
+Ono et al137 (2007), Turedi et al81 (2008) and Saboori et 
+al80 (2007) have published recent studies on Japanese, 
+Turkish and Iranian populations. Kuppermam et al85 (2009) 
+and Dunning et al138 (2006) have recently published large 
+studies in the paediatric population in which they identified 
+clinical risk factors and developed clinical decision rules 
+that are similar to those developed for adults. There is now 
+a large body of evidence suggesting that mild head injury 
+patients can be risk stratified based on clinical assessment. 
+The clinical risk factors that indicate patients are at 
+increased risk of intracranial injury are discussed in the 
+following text, and most of the relevant studies summarised 
+in the evidentiary tables. 
+Mild head injury patients can be risk stratified into “low” 
+or “high” risk groups based on the presence or absence 
+of identified clinical risk factors. The absence of clinical 
+risk factors on initial assessment combined with a period 
+of observation during which the patient clinically improves 
+makes the probability of a significant intracranial injury 
+extremely unlikely. These low risk mild head injury patients 
+can be discharged for home observation without CT 
+scanning. Among the patients with identified risk factors, 
+there are those who clearly require CT scanning and those 
+in whom clinical judgement may be required. In the high 
+risk group, which includes initially low risk patients who 
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 29

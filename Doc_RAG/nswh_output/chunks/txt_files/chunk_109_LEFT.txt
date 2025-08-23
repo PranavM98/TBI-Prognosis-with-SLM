@@ -1,0 +1,54 @@
+Source: Page 109 (LEFT)
+Page: 109, Side: LEFT
+Word Count: 214
+--------------------------------------------------
+b.  Have all relevant interventions and outcomes 
+been considered, both benefits and harms?
+ 
+c.  Is the level and quality of evidence for each 
+recommendation given?
+ 
+d.  Do the recommendations address benefit versus 
+harm according to the level of risk in different 
+patient sub-groups?
+3.  Checklist for the quality assessment of intervention 
+studies:
+ 
+a.  Has selection bias (including allocation bias) been 
+minimised?
+ 
+b.  Have adequate adjustments been made for 
+residual confounding?
+ 
+c.  Was the follow-up for final outcomes adequate? 
+(Follow-up rate reported and adequately high?)
+ 
+d.  Has measurement or misclassification bias been 
+minimised? (Blinding of outcome measurements?)
+4.  Checklist for the quality assessment of diagnostic 
+studies:
+ 
+a.  Has selection bias been minimised? (Were 
+participants consecutively enrolled?)
+ 
+b.  Have adequate adjustments been made for 
+residual confounding? (Were interventions blind 
+to the test result?)
+ 
+c.  Was follow-up for final outcomes adequate? 
+(Were all enrolled verified by the reference 
+standard?)
+ 
+d.  Has measurement or misclassification bias 
+been minimised? (Was the reference standard 
+validated and measured blindly?)
+5.  Checklist for the quality assessment of prognostic 
+studies (cohort studies):
+ 
+a.  Has selection bias been minimised? (A random/
+consecutive sample of participants at the same 
+point in their disease?)
+ 
+b.  Were all potentially important prognostic factors 
+assessed? 
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 107

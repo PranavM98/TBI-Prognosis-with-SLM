@@ -1,0 +1,54 @@
+Source: Page 100 (LEFT)
+Page: 100, Side: LEFT
+Word Count: 462
+--------------------------------------------------
+invalidates the motor score at this time, in this patient, as 
+a means to measure consciousness. Another important 
+caveat to the measurement of the motor score component 
+of the GCS is that the simple “squeeze my fingers” is NOT 
+sufficient or appropriate to demonstrate this function.197 A 
+grasp reflex an be elicited in many patients with decreased 
+cognition, similar to that found in babies, and attempts at 
+least have to include the command to release the fingers 
+after squeezing them, and this must be seen to be obeyed. 
+More specific commands such as “show me two fingers” 
+are more appropriate.
+In the sections above, there are various conditions discussed 
+which invalidate the measurement of specific domains of 
+the GCS, however it must always be borne in mind that 
+this tool is designed to assess consciousness and cognition, 
+and that local lesions of many descriptions invalidate this 
+measurement, and should therefore not be counted into 
+an overall score at all, and should not be counted into 
+a domain score without documented explanation. If a 
+domain of the GCS, such as eye opening or verbal response 
+is confounded by local lesions, then both snapshots and 
+trends should be limited to the use of the other domains.192, 
+193 Since the motor score has been shown to contain most 
+of the predictive power of the GCS, especially in the more 
+severely head injured patients, it would be reasonable to 
+use this alone in these circumstances. When this occurs, 
+it has been recommended that a 1 is scored,197 however 
+if this is done it has to be accompanied by a written 
+explanation and the caveat that this cannot be used in an 
+overall score.
+Conditions such as alcohol, drugs, inability to understand 
+commands due to language barriers, and hearing 
+impairment are all conditions that may confound the 
+performance of a GCS, and once again consideration 
+needs to be given to the reason for measuring cognition. 
+For example, if the reason the GCS is being measured 
+is to assess the level of consciousness associated with a 
+head injury or pathological cause of decreased conscious 
+level, conditions such as alcohol or sedative drugs are a 
+confounder which invalidate the GCS; however, if the 
+measurement is being used to assess the effect of drugs on 
+the level of consciousness, this is then the relevant effect 
+being measured. In these circumstances, however, many of 
+the correlates of a decreased level of consciousness in head 
+injury measured by GCS may not be accurate; such as an 
+inability to protect the airway associated with a GCS 8, 
+which is often not true in patients obtunded with certain 
+drugs of abuse. An extended list of potential confounders is 
+shown below.
+PAGE 98  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH

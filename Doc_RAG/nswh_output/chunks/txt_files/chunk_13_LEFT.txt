@@ -1,0 +1,48 @@
+Source: Page 13 (LEFT)
+Page: 13, Side: LEFT
+Word Count: 307
+--------------------------------------------------
+Overall grade A or B recommendations are generally based 
+on a body of evidence that can be trusted to guide clinical 
+practice, whereas Grades C or D recommendations must 
+be applied carefully to individual clinical and organisational 
+circumstances and should be interpreted with care (see 
+table below).44 This guideline also utilises an additional 
+grade of “Consensus” where appropriate.
+Grade of 
+recommendation
+Description
+A
+Body of evidence can be trusted to guide practice
+B
+Body of evidence can be trusted to guide practice in most situations
+C
+Body of evidence provides some support for recommendation(s) but care should be taken in its 
+application
+D
+Body of evidence is weak and recommendation must be applied with caution
+Consensus
+When limited literature was available, the author and editorial group utilised the best available 
+clinical expertise, practices and accepted teachings to reach a consensus on the recommendation
+Level of evidence
+‘Level of Evidence’, applied to individual articles, refers 
+to the study design used to minimise bias. Each article is 
+classified according to their general purpose and study type 
+Level I
+Evidence obtained from a systematic review of all relevant randomised control trials
+Level II
+Evidence obtained from at least one properly-designed randomised control trial
+Level III-1
+Evidence obtained from well-designed pseudo-randomised controlled trials (alternate allocation or 
+some other method)
+Level III-2
+Evidence obtained from comparative studies (including systematic reviews of such studies) with 
+concurrent controls and allocation not randomised, cohort studies, case-control studies, or 
+interrupted time series with a control group
+Level III-3
+Evidence obtained from comparative studies with historical control, two or more single arm studies 
+or interrupted time series without a parallel control group
+Level IV
+Evidence obtained from a case-series, either post-test or pre-test/post-test
+For more information on the methodology please see Appendix 8.
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 11

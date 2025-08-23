@@ -1,0 +1,40 @@
+Source: Page 20 (LEFT)
+Page: 20, Side: LEFT
+Word Count: 362
+--------------------------------------------------
+3. 
+How should patients with mild head injury be assessed?
+RECOMMENDATION
+Strength of 
+recommendation
+Mild head injury patients should be assessed by a process of structured clinical assessment involving a 
+combination of:
+- initial clinical history and examination
+- serial clinical observations 
+- CT scanning if clinically indicated by risk factors identiﬁ ed on initial or serial assessment
+Serial clinical observation should include minimum hourly observations of :
+- vital signs. 
+- pupillary reactions 
+- GCS 
+- alertness / behaviour / cognition
+- post traumatic amnesia (PTA) (eg A-WPTAS)
+If patients have no signiﬁ cant risk factors for complications of mild head injury and are clinically judged 
+to be “low risk” then they should be observed until at least four hours post time of injury. 
+If patients have any signiﬁ cant risk factors for complications of mild head injury then they should 
+continue to be clinically observed while further assessment is performed. 
+Serial clinical observations should be continued on any mild head injury patients who fail to clinically 
+improve at four hours post injury or who are found to have structural lesions on CT scan.
+Assessment for PTA should be performed on all mild head injury patients in the emergency department. 
+Mild head injury patients who are admitted to hospital because they have structural lesions, persistent 
+PTA or clinical symptoms should have daily PTA testing until they are shown to be out of PTA.
+Clinical assessment using clinical risk factors or clinical decision rules can identify those patients at 
+increased risk of intracranial injury requiring further investigation.
+CT scanning is indicated for those mild head injured patients identiﬁ ed by structured clinical assessment 
+as being at increased risk of intracranial injury.
+CT scanning is the most appropriate investigation for the exclusion of neurosurgically signiﬁ cant lesions 
+in mild head injured patients
+If structured clinical assessment indicates the risk of intracranial injury is low, the routine use of CT 
+scanning is neither clinically beneﬁ cial nor cost effective.
+Skull x-rays are not sufﬁ ciently sensitive to be used as a routine screening investigation to identify 
+signiﬁ cant intracranial lesions.
+PAGE 18  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH

@@ -1,0 +1,55 @@
+Source: Page 52 (LEFT)
+Page: 52, Side: LEFT
+Word Count: 409
+--------------------------------------------------
+Anti-convulsants
+11. Which patients with closed head injury should receive anti-convulsants?
+RECOMMENDATION
+Strength of 
+recommendation
+Consult a senior clinician or your network neurosurgical service before commencing prophylactic anticonvulsants in patients with acute closed head injury 
+Prophylactic anti-convulsants are not indicated for patients with uncomplicated mild head injury
+B
+Prophylactic anti-convulsants should be considered in patients with complicated mild head injury or 
+moderate to severe head injury.
+B
+Speciﬁ c indications to consider prophylactic anti-convulsants in the ﬁ rst week following a head injury 
+include:
+- Extradural, subdural or intracerebral haematoma on CT
+- Depressed skull fracture on CT
+- Early post traumatic seizure in hospital (especially if focal or prolonged)
+- Severity of head injury (low initial GCS / prolonged coma / prolonged PTA)
+- Any suspicion of penetrating injury
+Prophylactic anti-convulsants decrease the incidence of early post traumatic seizures within seven days 
+of closed head injury.
+Early post traumatic seizures have not been shown to be associated with worse patient outcomes in 
+large population studies.
+B
+Clinical judgment is required on whether to prescribe anti-convulsants for individual patients.
+CONSENSUS
+Indications for anti-convulsants by post traumatic seizure type
+Immediate post traumatic seizures (at time of injury) 
+- Anti-convulsants not warranted unless speciﬁ c indication present (see above)
+Early post traumatic seizures ( up to 7 days post injury)
+- Anti-convulsants should be considered especially if any of the other speciﬁ c indications are also 
+present (see above) 
+Late post traumatic seizures (more than 7 days post injury)
+- Long term anti-convulsants should be considered after the ﬁ rst late post traumatic seizure due to the 
+increased risk of developing post traumatic epilepsy
+- There is no evidence that the routine use of anti-convulsants following closed head injury reduces 
+the risk of late post traumatic seizures. 
+Recommended drugs and loading doses*
+Standard therapy:
+Phenytoin:
+-  Intravenous loading dose: 20 mg/kg in NS (<6.7mg/ml) no faster than 50mg/min 
+Standard adult IVI loading dose: 1000mg phenytoin diluted in 150ml normal saline over 60 mins with in 
+line micron ﬁ lter
+Alternative therapies:
+Levetiracetam:
+- Intravenous loading dose: 10mg /kg (max 1000mg)
+- Standard adult IVI loading dose: 1000mg levetiracetam in 100ml normal saline over 15 mins
+Sodium Valproate:
+- Intravenous loading dose: 10mg /kg (max 800mg)
+- Standard adult IVI loading dose: 800mg in 100ml normal saline over 15 mins
+* See standard texts for detailed prescribing information
+PAGE 50  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH

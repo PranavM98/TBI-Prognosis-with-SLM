@@ -1,0 +1,34 @@
+Source: Page 111 (LEFT)
+Page: 111, Side: LEFT
+Word Count: 129
+--------------------------------------------------
+2nd Edition:
+For the 2nd Edition, searches were constructed for each  
+clinical question as per below:
+1.  
+ What is the definition of Mild Head Injury?
+MEDLINE 
+1. 
+exp craniocerebral trauma/
+2. 
+ (head OR brain OR cerebral OR cranial OR 
+cranio?cerebral) ADJ (injur$ OR traum$).ti,ab.
+3. 
+(defin$ or classif$ or (risk adj stratif$)).ti,ab.
+4. 
+ (GCS adj4 (admission or arrival or initial or present$)).
+5. 
+ (guideline$ OR (emergency ADJ (management OR 
+treatment)).ti,ab.
+6.  exp emergency treatment/
+7. 
+1 OR 2
+8. 
+OR/3-6
+9. 
+7 AND 8
+10.  LIMIT 9 to (English language and (comparative study or 
+controlled clinical trial or guideline or meta analysis or 
+randomized controlled trial) and last 5 years)
+n = 516 citations retrieved
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 109

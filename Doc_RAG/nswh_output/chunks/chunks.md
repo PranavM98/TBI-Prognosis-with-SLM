@@ -1,0 +1,6580 @@
+# Document Chunks
+
+## chunk_5_LEFT
+
+**Source:** Page 5 (LEFT)  
+**Word Count:** 360  
+
+Introduction
+Trauma is the leading cause of death and disability in 
+children and young adults in New South Wales and 
+closed head injuries cause a significant proportion of this 
+burden.1, 2 Closed head injury may result in lifelong physical, 
+cognitive, behavioural and social dysfunction for patients 
+which in turn may place major social and financial burdens 
+on their families and society.3 Recent Australian figures 
+indicate there are approximately 150 patients per 100,000 
+population admitted to hospital each year with closed head 
+injuries.3-5 Worldwide figures suggest an incidence range 
+of 200-350 per 100,000 population per year for patients 
+with closed head injury with mild head injury accounting 
+for 80%.6 Despite the fact that closed head injuries are 
+common, the classification and management of closed 
+head injures remains surprisingly controversial and subject 
+to variation in clinical practice.6-10 Due to the large numbers 
+of patients involved it has been estimated that even 
+small improvements in closed head injury management 
+could have significant impact.11 Furthermore, it has been 
+suggested that the greatest improvements can be made 
+in the better management of those patients with mild to 
+moderate head injury rather than those with severe head 
+injury.12 
+Much of the controversy that exists about closed head 
+injury management stems from the combination of a lack 
+of uniformity in definitions with a paucity of large well 
+designed studies in the area.11, 13, 14 ‘Head injury’ is typically 
+used to describe the initial clinical presentation whilst 
+‘traumatic brain injury’ or “concussion” are used to describe 
+the subsequent functional outcome. The terms “mild head 
+injury”, “mild traumatic brain injury” and “concussion” are 
+largely interchangeable and which term is used depends on 
+whether you are examining emergency medicine, trauma, 
+rehabilitation or sports medicine literature. It is difficult to 
+find two studies that define mild head injury in exactly the 
+same way so comparison of data can be difficult.6, 8-10, 13
+Similarly, comparison of data in moderate to severe head 
+injury studies is made difficult because controversy exists 
+about how and when best to apply Glasgow Coma Scale 
+(GCS) to sedated or intubated patients.15 Perhaps most 
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 3
+
+---
+
+## chunk_5_RIGHT
+
+**Source:** Page 5 (RIGHT)  
+**Word Count:** 277  
+
+significantly there have been very few large prospective 
+randomised controlled trials of sufficient power and quality 
+to guide management.11, 13, 14 However, in the past few 
+years there has been some progress in working toward 
+uniform definitions and some better quality trials and metaanalyses have been published.6, 8-10, 15-35 
+The variety of clinical practice observed worldwide 
+cannot be explained solely by the lack of uniformity of 
+definitions and good quality studies. Much of the variation 
+in management strategies between the USA, Canada, 
+Europe and Australasia is driven by local issues such as 
+the availability of resources, the medico-legal environment 
+and in recent years the concerns about the potential harm 
+from CT radiation.6, 36, 37 Thus the USA has higher rates of 
+CT scanning for mild head injuries compared to Canada, 
+Europe and the UK. Even within countries and within 
+institutions, considerable variation in practice has been 
+shown to exist.7, 12, 35, 38 Whilst some variation in clinical 
+practice is to be expected, the introduction of clinical 
+practice guidelines can potentially improve care and ensure 
+adequate access to resources for more isolated areas.6, 35 
+Furthermore, clinical guidelines can potentially reduce 
+unnecessary tests and hospital admissions for mild head 
+injury patients by identifying those patients at low risk of 
+neurosurgically significant lesions.6, 13, 33-35 
+Scope of the guideline
+The guideline is intended for use by clinicians managing 
+patients with closed head injury in major and regional 
+trauma services, and urban and rural hospitals. The 
+guideline is concerned with the initial care of the mild, 
+moderate and severely head injured patient. The guideline 
+will make evidence based recommendations on the 
+diagnosis, resuscitation, and disposal of patients with closed 
+head injuries.
+
+---
+
+## chunk_6_LEFT
+
+**Source:** Page 6 (LEFT)  
+**Word Count:** 347  
+
+The initial management plan for adults is based upon 
+recommendations to be followed subject to the clinician's 
+judgement in each case.
+The recommendations however, are not prescriptive nor 
+are they rigid procedural paths. It is recognised that the 
+recommendations may not suit all patients in all clinical 
+situations. They are intended to provide a clinically practical 
+approach to the initial management of closed head injuries 
+based on the current best available evidence. However, as 
+with all guidelines, it should be remembered that they are a 
+clinical tool and should not replace clinical judgement. The 
+guideline relies on individual clinicians to decipher the needs 
+of individual patients.
+All recommendations regarding pre-hospital care should be 
+read and considered in conjunction with the Ambulance 
+Service of NSW. 
+Guidelines for the initial management of head injury in 
+children can be found at http://www.health.nsw.gov.au/
+policies/pd/2011/pdf/PD2011_024.pdf
+Aims and objectives
+The guideline is intended to assist clinicians throughout 
+NSW in delivering optimal care to patients with closed head 
+injury. It aims to provide information to support clinical 
+decision making, rather than dictate what decisions should 
+be made.
+The clinical questions addressed:
+1 What is the deﬁ nition of a mild head injury?
+2 What are the clinically important complications of mild head injury?
+3 How should patients with mild head injury be assessed?
+4 Which patients with mild head injury require a CT scan?
+5 What should be done with high risk mild head injury patients when CT scan is unavailable?
+6 What should be done when patients with mild head injury deteriorate? 
+7 When can patients with mild head injury be safely discharged?
+8 What discharge advice should be provided?
+9 What are the proven treatments for patients with moderate head injury?
+10 What are the proven treatments for patients with severe head injury?
+11 When should patients with closed head injury be transferred to hospitals with neurosurgical facilities?
+12 What analgesia should patients with closed head injury receive? 
+13 Which patients with closed head injury should receive anti-convulsants?
+PAGE 4  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_6_RIGHT
+
+**Source:** Page 6 (RIGHT)  
+**Word Count:** 179  
+
+The broad objectives of the guideline are to reduce 
+morbidity and mortality in adult patients with closed head 
+injury by providing clinicians with practical evidence based 
+recommendations to assist them in managing such patients. 
+It is also hoped that the guidelines may prevent unnecessary 
+diagnostic tests and hospital admissions especially in the 
+mild head injury group. 
+The process of constructing the guideline began 
+with the clinicians on the Trauma Clinical Guidelines 
+Committee posing a series of questions about the initial 
+management of closed head injuries. The final questions 
+were derived from the guideline priority areas identified 
+by the committee; that is, the management of mild head 
+injuries and the timing of transfer of patients with closed 
+head injury from centres with limited resources. The 
+initial management of patients with moderate to severe 
+head injury was felt to be less controversial. This edition 
+also includes recommendations in relation to the use of 
+analgesia and anti-convulsants.
+An extensive description of the methodology used for this 
+guideline can be found at Appendix 8, together with the 
+search terms used at Appendix 9.
+
+---
+
+## chunk_7_LEFT
+
+**Source:** Page 7 (LEFT)  
+**Word Count:** 309  
+
+Defining closed head injury
+This guideline uses the terms ‘closed head injury’ and ‘mild, 
+moderate or severe head injury’ to identify and classify 
+patients on arrival to hospital. The outcome following 
+presentation with a ‘closed head injury’ will vary from rapid 
+complete recovery to a mixture of structural lesions and 
+functional deficits ranging from trivial to life threatening. 
+The terms “concussion” and “traumatic brain injury” refer 
+to the patient outcome following their initial presentation 
+with a “closed head injury” and are retrospective 
+diagnoses. Important functional deficits following ‘closed 
+head injury’ range from post concussion symptoms and 
+post traumatic amnesia to a variety of disabling persistent 
+physical-cognitive-behavioural-social sequelae. 
+Many patients who suffer a “mild head injury” will have 
+“mild concussion symptoms” or “mild traumatic brain injury 
+symptoms”. If these acute “concussion” symptoms persist 
+beyond the first few hours they are usually referred to as 
+“post concussion symptoms”. The term “post concussion 
+symptoms” is used to describe the clinical symptoms of 
+mild brain injury that mild head injury patients may suffer 
+for a few days to weeks following their injury. In the 
+Table 1. Summary of closed head injury classification and outcome
+ Mild Head Injury
+Moderate Head Injury
+Severe Head Injury
+Initial GCS
+14-15
+9-13
+3-8
+% of Total
+80
+10
+10
+Abnormal CT Scan (%) 1,2
+5-15
+30 - 50
+60 - 90
+Neurosurgical Intervention (%) 1,2 
+1-3
+5-30
+30-50
+(excluding ICP monitoring)
+Mortality (%) 1
+<1
+10-15
+30-50 
+Good Functional Outcome (%) 1,2,3
+>90 
+20-90
+<20 
+Notes:
+1. 
+Generally the lower the GCS the worse the prognosis or the higher the rate of complications 
+2. 
+Outcome deteriorates with increasing age - “children do better and elderly do worse”
+3. 
+Good functional outcome being return to independent ADL and to work or school at 6 months
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 5
+
+---
+
+## chunk_7_RIGHT
+
+**Source:** Page 7 (RIGHT)  
+**Word Count:** 161  
+
+situation where multiple post concussion symptoms persist 
+for several months they are called a “post concussion 
+syndrome”
+As this guideline concentrates on the initial management 
+of the patients presenting to hospital, it was felt that the 
+term ‘head injury’ was more relevant to the initial clinical 
+presentation than the term ‘traumatic brain injury’ that 
+essentially refers to the subsequent functional outcome. It 
+was also felt that the clinicians at whom this guideline is 
+aimed would be far more familiar and comfortable with 
+using the term ‘head injury.’ The definition of closed head 
+injury is further discussed in Question 1.
+Classification of closed head injury
+This guideline has classified patients with initial GCS 14-15 
+on admission as mild head injury. This system classifies 
+patients with initial GCS score of 13 in the moderate head 
+injury group due to the patients having similarly patterns of 
+intracranial injury and cognitive behavioural sequelae. The 
+following table gives a rough guide to classification and 
+outcome.15, 39-43
+
+---
+
+## chunk_8_LEFT
+
+**Source:** Page 8 (LEFT)  
+**Word Count:** 317  
+
+Changes from 2007 edition
+Background
+The first edition of this guideline was written in 2005 
+using evidence available until December 2004. The aim of 
+this new edition is to review the evidence published since 
+December 2004 and to provide some additional information 
+on specific topics including the role of anticonvulsants and 
+analgesics in the management of closed head injury. 
+The aim of the original guideline was to provide a clinically 
+practical evidence based guideline that summarised 
+the initial management of adult closed head injury. It 
+was piloted by the NSW Institute of Trauma and Injury 
+Management (ITIM) and then formally adopted and 
+published by NSW Health in January 2007. There was a 
+conscious effort by the initial guideline team to provide a 
+clinically practical document with clinically useful resources 
+such as algorithms, summaries and discharge advice sheets 
+backed up by a detailed evidence review. The guideline 
+team has continued the same principles for this update, 
+incorporating feedback from clinicians to improve the 
+guideline. The algorithms and mild head injury discharge 
+sheets have been revised to reflect the changes in the body 
+of the guideline and the feedback received. 
+The guideline team would emphasise that this guideline is a 
+clinical tool designed to assist clinicians and should be used 
+to assist rather than replace the clinical judgement of an 
+experienced clinician caring for an individual patient.
+The information provided is based on the best available 
+information at the time of writing, which is May 2010. 
+These guidelines will be updated every five years and 
+consider new evidence as it becomes available.
+New evidence
+Since 2004 there have been many new studies and 
+guidelines published about the management of closed 
+head injury. There have been some advances in our 
+understanding of the assessment and treatment of 
+closed head injury but these have been incremental and 
+PAGE 6  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_8_RIGHT
+
+**Source:** Page 8 (RIGHT)  
+**Word Count:** 253  
+
+evolutionary rather than revolutionary. The basic principles 
+of management of closed head injury remain the same in 
+2010 as they were five years ago. 
+The following section briefly outlines the most significant 
+advances in knowledge from the recent literature 
+incorporated in this update. 
+Definition of mild head injury
+- Recent literature emphasises that significant intracranial 
+injury may occur without loss of consciousness or 
+amnesia
+- Patients with initial GCS 13 have a significantly higher 
+rate of intracranial injury and should not be considered 
+as having mild head injury
+Clinically important complications of mild head injury
+- Recent literature emphasises that mild post concussion 
+symptoms are common and that patients should 
+receive appropriate discharge advice to assist recovery
+- Acute neurosurgical complications are uncommon but 
+important to identify
+Assessment of patients with mild head injury
+- Recent literature emphasises that if structured clinical 
+assessment indicates the risk of intracranial injury is 
+low, the routine use of CT scanning is not warranted 
+and is potentially harmful.
+- Structured clinical assessment should include initial 
+clinical history and examination, serial clinical 
+observations and clinical risk factor assessment to 
+determine the need for CT scanning
+- A variety of clinical decision rules have been developed 
+to determine which patients are at higher risk of 
+intracranial injury and require CT scanning. However, 
+they all require that the clinician is familiar with their 
+inclusion / exclusion criteria and should be used as 
+tools to support clinical decision making, rather than 
+dictate management
+- Post traumatic amnesia testing in the emergency
+
+---
+
+## chunk_9_LEFT
+
+**Source:** Page 9 (LEFT)  
+**Word Count:** 306  
+
+department, eg Abbreviated Westmead PTA Scale 
+(A-WPTAS) can be useful in identifying patients with 
+cognitive impairment at increased risk of structural 
+lesions and post concussion symptoms.
+Indications for CT scan for mild head injury
+- Recent literature emphasises that patients can be risk 
+stratified according to clinical risk factors and clinical 
+decision rules. Patients who are classified as high risk 
+should have CT scans to exclude clinically important 
+intracranial lesions
+- Significant head injuries can occur without loss of 
+consciousness or amnesia and that the absence of 
+these features should not be used to determine the 
+need for CT scanning.
+- Persistent abnormal mental status manifested by either 
+abnormal GCS or abnormal alertness, behaviour or 
+cognition is a strong indication for CT scanning 
+- Known coagulopathy and particularly supratherapeutic anticoagulation are significant risk factors 
+for intracranial injury and that these patients should 
+have early CT scans and be considered for reversal of 
+anticoagulation
+- There have been several very large studies addressing 
+this issue in the paediatric literature that have come up 
+with very similar risk factors to the adult literature and 
+have also confirmed that it is safe to discharge low risk 
+patients without CT scanning.
+Acute neurological deterioration
+- Recommendations essentially unchanged
+- Previously covered within guideline but now given 
+separate question
+ Discharge of patients with mild head injury
+- Recent literature emphasises that patients can be safely 
+discharged for home observation if structured clinical 
+assessment reveals no clinical risk factors indicating the 
+need for CT scanning or following a normal CT scan if 
+indicated.
+- Deterioration of mild head injury patients following 
+a normal CT scan is rare. Caution is advised for 
+patients with known coagulopathy and elderly patients 
+where the risk of a delayed subdural haemorrhage is 
+increased.
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 7
+
+---
+
+## chunk_9_RIGHT
+
+**Source:** Page 9 (RIGHT)  
+**Word Count:** 164  
+
+Discharge advice for patients with mild head injury 
+- New section to emphasise importance of discharge 
+advice
+- Recent literature emphasises that all patients with 
+mild head injury should be given both verbal and 
+written discharge advice covering symptoms and signs 
+of acute deterioration, when to seek urgent medical 
+attention, lifestyle advice to assist recovery, information 
+about typical post concussion symptoms and reasons 
+for seeking further medical follow up. As with all 
+discharge advice this should be time specific and action 
+specific.
+- An improved version of the original mild head injury 
+advice sheet associated with this guideline has been 
+developed and is now available in several languages.
+Initial management of moderate head injury 
+(GCS 9-13) 
+- Recommendations essentially unchanged
+ Initial management of severe head injury 
+(GCS 3-8) 
+- Recommendations essentially unchanged
+ Transfer of patients with closed head injury to 
+hospitals with neurosurgical facilities
+- Recommendations essentially unchanged
+Analgesia for closed head injury
+- New section
+ Anticonvulsants for closed head injury 
+- 
+New section
+
+---
+
+## chunk_10_LEFT
+
+**Source:** Page 10 (LEFT)  
+**Word Count:** 475  
+
+Algorithm 1:
+Initial Management of Adult Closed Head Injury
+Initial Assessment and Stabilisation of ABCDEs
+Trauma Team activation if initial GCS 3-13 or otherwise indicated
+Commence minimum of hourly clinical observations of vital signs, GCS, pupils, PTA (if applicable) and clinical symptoms
+GCS 3-8
+GCS 9-13
+GCS 14-15
+Moderate Head Injury (10%)
+Severe Head Injury (10%)
+- Supportive care of ABCDEs
+- Early intubation
+-  Prevent secondary brain injury by avoiding 
+- Supportive care of ABCDEs 
+hypoxaemia and hypotension 
+-  Prevent secondary brain injury by avoiding 
+- Early CT scan 
+hypoxaemia and hypotension 
+- Period of clinical observation
+- Early CT scan  
+-  Consider intubation in the event of clinical 
+- Early neurosurgical consult
+deterioration or to facilitate management 
+- Early retrieval consult if transfer required
+-  Early neurosurgical consult if not clinically 
+- Consider use of anticonvulsants 
+improving and/or abnormal CT scan
+- Consider ICP monitoring 
+- Early retrieval consult if transfer required
+- ICU admission
+-  Admit to hospital for prolonged observation 
+unless rapid clinical improvement to GCS 15, 
+normal CT scan and absence of other risk 
+factors (as per mild head injury)
+- Brain injury rehabilitation consult
+NB. Minimum supportive care aims to 
+prevent secondary brain injury:
+-  Routine post traumatic amnesia testing and 
+consider referral to brain injury rehabilitation 
+service due to significant risk of cognitive 
+behavioural social sequelae
+- PaO2 >60
+- SaO2 >90
+- PaCO2 35-40
+- Systolic BP >90
+- Head up 30º
+Risk factors indicating potentially signiﬁ cant mild head injury
+-  GCS <15 at 2 hours post injury
+-  Age >65 years 
+-  Deterioration in GCS
+-  Post traumatic seizure
+-  Focal neurological deficit
+-  Prolonged loss of consciousness (>5 min).
+-  Clinical suspicion of skull fracture 
+-  Persistent post traumatic amnesia (AWPTAS <18/18)* 
+-  Vomiting (especially if recurrent)
+-  Persistent abnormal alertness / behaviour / cognition*
+-  Known coagulopathy / bleeding disorder
+-  Persistent severe headache*
+What should be done when patients with closed head 
+injury acutely deteriorate? 
+Early signs of deterioration
+Clinical approach
+-  Confusion
+-  Resuscitate ABCDEs and exclude 
+non head injury cause 
+-  Agitation
+-  Supportive care of ABCDEs
+-  Drowsiness
+-  Early intubation if indicated
+-  Vomiting
+-   Immediate CT scan
+-  Severe headache
+-  If clinical or CT evidence of raised 
+Late signs of deterioration
+ICP/mass effect consult with 
+network neurosurgical and retrieval 
+services re;
+  -  short term hyperventilation to 
+-  Decrease in GCS by two or more 
+-  Dilated pupil(s)
+PaCO2  30-35 
+  - bolus of mannitol (1g/kg)
+  -  local burr holes/craniectomy 
+-  Focal neurological deficit
+-  Seizure
+-  Cushing’s response – bradycardia 
+when more than 2 hours from 
+neurosurgical care
+  - prophylactic anti-convulsants
+and hypertension
+AMRS (adult)  
+1800 650 004
+'formerly the MRU'
+NETS (children)  
+1300 362 500
+Network neurosurgical service 
+PAGE 8  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_10_RIGHT
+
+**Source:** Page 10 (RIGHT)  
+**Word Count:** 409  
+
+Mild Head Injury (80%)
+-  Initial assessment followed by period of clinical 
+observation to detect risk factors for significant 
+intracranial injury.
+-  CT scan not routinely indicated unless one or 
+more risk factors listed below are present. 
+-  Discharge for home observation with head 
+injury advice sheet at 4 hours post injury if 
+clinically improving with either no risk factors 
+indicating the need for CT scan or normal CT 
+scan if performed.
+-  Consider hospital admission and consult 
+network neurosurgical service if abnormal CT 
+scan. 
+-  Consider hospital admission for observation if 
+clinically not improving at 4 hours post injury 
+irrespective of CT scan result. 
+-  Consider hospital admission for observation 
+if elderly, known coagulopathy or socially 
+isolated.
+-  Advise patients to see their local doctor if they 
+do not return to normal within 48 hours so 
+they can be reassessed and monitored for post 
+concussion symptoms. 
+NB. Also see separate Mild Head Injury 
+Algorithm. 
+-  Large scalp haematoma or laceration.**
+-  Multi-system trauma**
+-  Dangerous mechanism**
+-  Known neurosurgery / neurological deficit.**
+-  Delayed presentation or representation**
+* particularly if persists at 4 hours post time of injury
+**clinical judgement required
+When should patients with closed head injury be transferred 
+to hospitals with neurosurgical facilities?
+Potential indications
+Patient with severe head injury
+Clinical approach
+-  When in doubt consult you 
+network neurosurgical service.
+-  Patients with closed head injuries 
+Patient with moderate head injury if:
+should be observed in facilities that 
+can manage any complications that 
+are likely to arise. Clinical judgment 
+regarding risk of deterioration 
+is required and neurosurgical 
+consultation may be appropriate.
+-  clinical deterioration
+-  abnormal CT scan
+-  normal CT scan but not clinically 
+improving
+-  CT scan unavailable.
+-  Patients with closed head injuries 
+should be transferred to the 
+nearest appropriate hospital with 
+neurosurgical facilities if there is 
+significant risk of intracranial injury. 
+The transfer of patients to hospitals 
+with CT scan facilities but without 
+neurosurgical services should be 
+avoided.
+Patient with mild head injury if:
+-  clinical deterioration
+-  abnormal CT scan
+-  normal CT scan but not clinically 
+improving within 4-6 hours post 
+injury
+-  mild head injury with CT scan 
+unavailable, particularly if:
+  - Persistent GCS<15 
+  - Deterioration in GCS  
+  - Focal neurological deficit
+  -  Clinical suspicion of skull fracture
+  -  Persistent abnormal mental status 
+  - Persistent vomiting
+  -  Persistent severe headache 
+  -  Known coagulopathy (particularly 
+if age >65 or INR >4)
+
+---
+
+## chunk_11_LEFT
+
+**Source:** Page 11 (LEFT)  
+**Word Count:** 449  
+
+Algorithm 2:
+Initial Management of Adult Mild Closed Head Injury
+Initial GCS 14-15 on arrival following blunt head trauma
+Stabilise ABCDEs and assess clinical risk factors. 
+Commence minimum of hourly clinical observations of vital signs, GCS, pupils, PTA and clinical symptoms
+Low risk mild head injury
+No indication for CT scan if all of...
+- GCS 15 at 2 hours post injury.
+- No focal neurological deficit.
+- No clinical suspicion of skull fracture. 
+- No vomiting 
+- No known coagulopathy or bleeding disorder.
+- Age <65 years. 
+- No seizure
+- Brief loss of consciousness (<5 mins). 
+- Brief post traumatic amnesia (<30 mins)
+- No severe headache.
+- No large scalp haematoma or laceration
+- Isolated head injury 
+- No dangerous mechanism.
+- No known neurosurgery / neurological impairment.
+- No delayed presentation or representation
+NOTE:
+Mild acute clinical symptoms such as lethargy, nausea, dizziness, mild headache, mild 
+behavioural change, amnesia for event and mild disorientation are common and are 
+not associated with increased risk of intracranial injury. These clinical symptoms usually 
+start to improve within 2 to 4 hours of time of injury. 
+Continue minimum of hourly clinical observations until at 
+least four hours post time of injury.
+Clinically deteriorates or clinical symptoms not 
+improving during observation period
+Indication for CT scan. Continue clinical observations.
+Normal CT scan
+Clinical 
+symptoms 
+IMPROVING or 
+remain normal 
+during period 
+of observation.
+Clinical 
+symptoms
+IMPROVING 
+at 4-6 hours 
+post time of 
+injury.
+Clinical 
+symptoms  NOT 
+IMPROVING at 
+4-6 hours post 
+time of injury.
+Clinically safe for discharge for home observation if:
+- GCS 15/15 
+- No persistent post traumatic amnesia (nb A-WPTAS 18/18)
+- Alertness / behaviour / cognition returning to normal 
+- Clinically improving after observation.
+- Normal CT scan or no indication for CT scan.
+-  Clinical judgment required regarding discharge and follow up of elderly 
+patients or patients with known coagulopathy or bleeding disorder due to 
+increased risk of delayed subdural haematoma.
+Clinically safe for discharge for home observation if:
+- Responsible person available to take home and observe.
+- Able to return if deteriorates.
+- Discharge advice is understood.
+Discharge for home observation if above criteria met:
+- Provide written patient advice sheet
+- Provide discharge summary for GP
+-  All patients should be advised to see their GP for follow up if they are not 
+feeling back to normal within 2 days
+-  Any patients who have minor CT abnormalities, who suffered significant 
+clinical symptoms or who had prolonged post traumatic amnesia should be 
+routinely referred to their GP for follow up due to an increased risk of post 
+concussion symptoms.
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 9
+
+---
+
+## chunk_11_RIGHT
+
+**Source:** Page 11 (RIGHT)  
+**Word Count:** 676  
+
+High risk mild head injury 
+Strong indication for CT scan if...
+- GCS <15 at 2 hours post injury. #1
+- Deterioration in GCS.
+- Focal neurological deficit.
+- Clinical suspicion of skull fracture  #2
+- Vomiting (especially if recurrent) #3
+- Known coagulopathy or bleeding disorder #4
+- Age >65 years. #5
+- Seizure #6
+- Prolonged loss of consciousness (>5 mins). 
+- Persistent post traumatic amnesia (A-WPTAS <18/18 at 4hrs post injury) #7
+- Persistent abnormal alertness / behaviour / cognition #8
+- Persistent severe headache.
+Relative indication for CT scan if…
+- Large scalp haematoma or laceration #9
+- Multi-system trauma. #10
+- Dangerous mechanism. #11
+- Known neurosurgery / neurological impairment. #12
+- Delayed presentation or representation. #13
+Note 
+The presence of multiple risk factors is more concerning than a single isolated risk 
+factor. In most uncomplicated mild head injury patients clinical symptoms start to 
+improve by 2 hours post injury and are returning to normal by 4 hours post injury. 
+Clinical symptoms that are deteriorating or not improving by 4 hours post injury on 
+serial observation such as abnormal alertness / behaviour / cognition, PTA, vomiting or 
+severe headache are very concerning.
+Abnormal CT scan
+CT scan unavailable
+Consider transfer for CT scanning particularly if:
+- Persistent GCS <15.
+- Deterioration in GCS.
+- Focal neurological deficit.
+- Clinical suspicion of skull fracture 
+- Known coagulopathy (esp if INR>4)
+-  Persistent abnormal alertness, behaviour, cognition, 
+PTA, vomiting or severe headache at 4 hours post injury
+Consult senior clinician and network neurosurgical service 
+regarding further management and disposition. 
+Continue clinical observations in hospital.
+Explanatory notes for risk factors
+1.  Using GCS<15 at 2 hours post injury allows clinical judgement for patients who present soon after 
+injury or who have drug or alcohol intoxication. Drug or alcohol intoxication has not been shown to 
+be an independant risk factor for intracranial injury but persistent GCS<15 is a major risk factor and 
+mandates CT. 
+2.  Clinical suspicion of skull fracture includes history of focal blunt assault or injury; palpable skull fracture; 
+large scalp haematoma or laceration; signs of base of skull fracture – haemotympanum / CSF leak / 
+raccoon eyes / Battles sign.
+3.  Recurrent vomiting more concerning than isolated vomiting but both are indications.
+4.  Known coagulopathy is both a strong indication for early CT scan and to check the INR. Early reversal of 
+anticoagulation if abnormal CT scan and consider reversal if initially normal CT scan with high INR (>4) 
+depending on clinical situation.
+5.  Elderly patients have increasing risk of intracranial injury with increasing age; routine CT scanning 
+indicated unless totally asymptomatic patient with no other risk factors.
+6.  Brief generalised seizures immediately following head injury are not significant risk factors. Prolonged, 
+focal or delayed seizures are risk factors for intracranial injury.
+7.  Post traumatic amnesia may manifest as repetitive questioning or short term memory deficits and can 
+be objectively tested using the A-WPTAS. PTA > 30 mins is a minor risk factor and PTA > 4 hours a 
+major risk factor for intracranial injury.
+8.  Abnormal alertness/behaviour/cognition detects subtle brain injury better than GCS and should be part 
+of the bedside assessment. Family may help establish what is normal.
+9.  Multi-system trauma – beware patient with unstable vital signs or distracting injuries or who receive 
+analgesia or anaesthesia, as significant head injury is easily missed.
+10. Clinical judgement required as to what is a large scalp haematoma or laceration.
+11.  Dangerous - MVA ejection / rollover; pedestrians / cyclists hit by vehicle; falls >own height or five stairs; 
+falls from horses / cycles etc; focal blunt trauma, eg bat / ball / club.
+12.  Known neurosurgery/neurological impairment – conditions such as hydrocephalus with shunt or AVM 
+or tumour or cognitive impairment such as dementia make clinical assessment less reliable and may 
+increase risk of intracranial injury.
+13.  Delayed presentation should be considered as failure to clinically improve during observation. For 
+representation consider both intracranial injury and post concussion symptoms and have a low 
+threshold for CT scanning if not done initially.
+
+---
+
+## chunk_12_LEFT
+
+**Source:** Page 12 (LEFT)  
+**Word Count:** 200  
+
+Understanding the grades of recommendation
+Strength of recommendations
+This guideline uses the National Health and Medical 
+Research Council's (NHMRC) overall grades of 
+recommendation to indicate the strength of the body of 
+evidence underpinning each recommendation. The body 
+of evidence reflects the evidence components of all the 
+studies relevant to each recommendation. The evidence 
+Table 2: Body of evidence matrix44
+A
+B
+C
+D
+Components
+Excellent
+Good
+Satisfactory
+Poor
+Evidence base
+one or more level I 
+studies with a low risk 
+of bias or several level 
+II studies with a low 
+risk of bias
+one or two level II 
+studies with a low risk 
+of bias or a SR/several 
+level III studies with a 
+low risk of bias
+Consistency
+all studies consistent
+most studies 
+consistent and 
+inconsistency may be 
+explained
+Clinical Impact
+very large
+substantial
+moderate
+slight or restricted
+Generalisability
+population/s studied in 
+body of evidence are 
+the same as the target 
+population for the 
+guideline
+population/s studied in 
+the body of evidence 
+are similar to the 
+target population for 
+the guideline
+Applicability
+directly applicable to 
+Australian healthcare 
+context
+applicable to 
+Australian healthcare 
+context with few 
+caveats
+PAGE 10  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_12_RIGHT
+
+**Source:** Page 12 (RIGHT)  
+**Word Count:** 176  
+
+components are assessed according to the NHMRC body 
+of evidence matrix (Table 2). The overall grade of the 
+recommendation is determined based on a summation of 
+the rating for each individual component of the body of 
+evidence. Please note that a recommendation cannot be 
+graded A or B unless the evidence base and consistency of 
+the evidence are both rated A or B.44
+level IV studies, or 
+level I to III studies/SRs 
+with a high risk of bias
+one or two level III 
+studies with a low 
+risk of bias, or level 
+I or II studies with a 
+moderate risk of bias
+evidence is 
+inconsistent
+some inconsistency 
+reﬂ ecting genuine 
+uncertainty around 
+clinical question
+population/s studied 
+in body of evidence 
+differ to target 
+population and hard 
+to judge whether it is 
+sensible to generalise 
+to target population
+population/s studied 
+in body of evidence 
+differ to target 
+population for 
+guideline but it is 
+clinically sensible to 
+apply this evidence to 
+target population
+not applicable to 
+Australian healthcare 
+context
+probably applicable to 
+Australian healthcare 
+context with some 
+caveats
+
+---
+
+## chunk_13_LEFT
+
+**Source:** Page 13 (LEFT)  
+**Word Count:** 307  
+
+Overall grade A or B recommendations are generally based 
+on a body of evidence that can be trusted to guide clinical 
+practice, whereas Grades C or D recommendations must 
+be applied carefully to individual clinical and organisational 
+circumstances and should be interpreted with care (see 
+table below).44 This guideline also utilises an additional 
+grade of “Consensus” where appropriate.
+Grade of 
+recommendation
+Description
+A
+Body of evidence can be trusted to guide practice
+B
+Body of evidence can be trusted to guide practice in most situations
+C
+Body of evidence provides some support for recommendation(s) but care should be taken in its 
+application
+D
+Body of evidence is weak and recommendation must be applied with caution
+Consensus
+When limited literature was available, the author and editorial group utilised the best available 
+clinical expertise, practices and accepted teachings to reach a consensus on the recommendation
+Level of evidence
+‘Level of Evidence’, applied to individual articles, refers 
+to the study design used to minimise bias. Each article is 
+classified according to their general purpose and study type 
+Level I
+Evidence obtained from a systematic review of all relevant randomised control trials
+Level II
+Evidence obtained from at least one properly-designed randomised control trial
+Level III-1
+Evidence obtained from well-designed pseudo-randomised controlled trials (alternate allocation or 
+some other method)
+Level III-2
+Evidence obtained from comparative studies (including systematic reviews of such studies) with 
+concurrent controls and allocation not randomised, cohort studies, case-control studies, or 
+interrupted time series with a control group
+Level III-3
+Evidence obtained from comparative studies with historical control, two or more single arm studies 
+or interrupted time series without a parallel control group
+Level IV
+Evidence obtained from a case-series, either post-test or pre-test/post-test
+For more information on the methodology please see Appendix 8.
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 11
+
+---
+
+## chunk_13_RIGHT
+
+**Source:** Page 13 (RIGHT)  
+**Word Count:** 69  
+
+The recommendation boxes of each clinical question 
+addressed in this guideline contain clear recommendations 
+with an associated strength of recommendation grade as 
+detailed below. Where appropriate, the author has also 
+added relevant clinical points which support the given 
+recommendation. 
+in accordance with the NHMRC publication: A guide to the 
+development, evaluation and implementation of clinical 
+practice guidelines.45 From this, each article was allocated a 
+level of evidence as follows:
+
+---
+
+## chunk_14_LEFT
+
+**Source:** Page 14 (LEFT)  
+**Word Count:** 265  
+
+Mild head injury
+1. 
+What is the definition of a mild head injury?
+Mild Head Injury Deﬁ nition
+Strength of 
+recommendation
+A patient with an initial GCS score of 14-15 on arrival at hospital following acute blunt 
+head trauma with or without a definite history of loss of consciousness or post traumatic 
+amnesia.
+Typical characteristics
+- Direct blow to the head or acceleration / deceleration injury.
+- Transient loss of consciousness or brief post traumatic amnesia.
+- Transient abnormal alertness, behaviour or cognition.
+- Rapid clinical improvement
+- Neurosurgical intervention rare (1-3%)
+- Abnormality on CT scan relatively uncommon (5-15%)
+- Post concussion symptoms common.
+- Long term functional outcome good.
+Speciﬁ c exclusions:
+- Clinically obvious penetrating head injury.
+- Non-traumatic brain injury.
+Risk Stratiﬁ cation
+Patients may be classiﬁ ed into “high” and “low” risk groups based on the risk of suffering complications 
+of their mild head injury. This risk stratiﬁ cation can be used to assist clinical judgement in determining 
+the need for further assessment (eg CT scan), management and follow up. Stratiﬁ cation into “high” and 
+“low” risk groups is based on the presence or absence of speciﬁ ed clinical risk factors identiﬁ ed by:
+- initial clinical history
+- initial clinical examination
+- serial clinical observation
+“Complicated” Mild Head Injury
+A “complicated” mild head injury is a mild head injury resulting in one of the following:
+- signiﬁ cant structural lesion on CT scan
+- signiﬁ cant acute clinical symptoms
+- signiﬁ cant post concussion symptoms
+PAGE 12  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_15_LEFT
+
+**Source:** Page 15 (LEFT)  
+**Word Count:** 424  
+
+Recently published studies and guidelines use a variety of 
+criteria to define mild head injury, which is variably referred 
+to as either mild head injury or mild traumatic brain injury.6, 
+8-10, 13, 31-35, 46-48 The most common variations concern 
+the initial classification according to GCS and different 
+requirements for loss of consciousness and post traumatic 
+amnesia (summarised in Appendix 1). This variation in the 
+literature makes comparison between studies difficult. 
+The main reason for this variability is a uniform desire to 
+identify those patients at higher risk of intracranial injury in 
+what is a heterogenous but essentially low risk group. There 
+is ample evidence to suggest that patients with an initial 
+GCS of 13 should be considered as part of the moderate 
+head injury group due to the frequency of intracranial 
+lesions (25-38%) and cognitive-behavioural-social sequelae 
+(see Evidence Table 1 and Appendix 2).9, 36, 43, 49-56 
+Since 2004 the adult literature has clearly identified that 
+patients may sustain significant head injuries without loss 
+of consciousness or post traumatic amnesia.9, 33, 43, 47, 
+57-59 Therefore, the presence of loss of consciousness or 
+post traumatic amnesia should not be used to define mild 
+head injury or guide management. In 2008 Jagoda et al, 
+representing the American College of Emergency Physicians 
+/ Centre for Disease Control, updated their definition of 
+mild head injury to reflect the change in the evidence and 
+now include patients with GCS 14 on initial assessment 
+and have eliminated loss of consciousness or post traumatic 
+amnesia as necessary inclusion criteria.9
+Further risk stratification of mild head injury is then 
+dependent on the presence of associated risk factors 
+and different authors have different approaches. The 
+approaches of some of the best quality studies and 
+guidelines are summarised in Appendix 1. It is interesting 
+to note that when all the initial GCS criteria, inclusion/
+exclusion criteria and sub-classification systems are all 
+taken into account, that the findings are very similar. These 
+findings are that mild head injury is a heterogenous group 
+with patients at higher risk of increased intracranial injury 
+identified by persistently abnormal GCS and certain other 
+risk factors.1, 6, 8-10, 13, 31-36, 47-54, 56-81 
+It is important to recognise that these risk factors for 
+intracranial injury do not necessarily predict the risk of 
+post concussive symptoms which are the more common 
+complication of mild head injury. It is important that 
+doctors, patients and their families understand that the 
+absence of a structural lesion on CT scan following a mild 
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 13
+
+---
+
+## chunk_15_RIGHT
+
+**Source:** Page 15 (RIGHT)  
+**Word Count:** 50  
+
+head injury does not exclude the possibility of significant 
+cognitive-behavioural-social sequelae.9, 82
+The recent paediatric literature has come up with similar 
+definitions for mild head injury to the adult literature and 
+identified persistently abnormal GCS or mental status 
+and other specified risk factors as the major indicators of 
+intracranial injury.83-87
+
+---
+
+## chunk_16_LEFT
+
+**Source:** Page 16 (LEFT)  
+**Word Count:** 297  
+
+2. 
+What are the clinically important complications of mild head injury?
+RECOMMENDATION
+Strength of 
+recommendation
+The clinically important complications of mild head injury are:
+- structural lesions on CT scan requiring acute neurosurgical intervention
+- structural lesions on CT scan requiring hospital admission and/or neurosurgical consultation
+- acute clinical symptoms requiring acute hospital admission
+- post concussion symptoms causing disabling cognitive behavioural social sequelae
+Structural lesions on CT scan requiring acute neurosurgical intervention are rare (1-3%).
+Typical lesions include:
+- acute extradural haematoma
+- acute subdural haematoma
+- depressed skull fractures
+Structural lesions on CT scan requiring hospital admission and/or neurosurgical consultation are relatively 
+uncommon (5-15%). Not all of these lesions will require hospital admission.
+Typical lesions include:
+- small intracranial haematomas/haemorrhages
+- minor skull fractures
+Clinicians and patients should be aware that the absence of a structural lesion on CT scan following 
+mild head injury does not exclude the possibility of signiﬁ cant acute clinical symptoms or signiﬁ cant post 
+concussion symptoms.
+Acute clinical symptoms are common immediately following mild head injury but should be starting to 
+improve in most patients within two to four hours of time of injury.
+Common acute clinical symptoms include:
+- post traumatic amnesia
+- disorientation
+- confusion
+- drowsiness
+- dizziness
+- nausea
+- vomiting
+- headache
+Patients with persistent acute clinical symptoms at four hours post time of injury require prolonged 
+clinical observation and a CT scan should be performed (if not already done) to exclude a structural 
+lesion. 
+Patients with persistent post traumatic amnesia and/or other persistent signiﬁ cant acute clinical 
+symptoms that are not improving require prolonged clinical observation and should be admitted to 
+hospital even if their initial CT scan is normal.
+PAGE 14  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_17_LEFT
+
+**Source:** Page 17 (LEFT)  
+**Word Count:** 370  
+
+RECOMMENDATION
+Strength of 
+recommendation
+Post concussion symptoms are relatively common following mild head injury and may have 
+signiﬁ cant cognitive-behavioural-social impact on patients and their families.
+ 
+Many patients will have minor post concussion symptoms that will resolve within a few days while some 
+patients will have more signiﬁ cant post concussion symptoms that will take a few weeks to resolve.
+A small number of patients with mild head injury will have persistent disabling post concussion 
+symptoms after 3 months and will require referral for brain injury rehabilitation assessment. Most of 
+these patients will improve by 12 months.
+Mild head injury patients with structural lesions on CT scan, a history of signiﬁ cant acute clinical 
+symptoms or documented persistent post traumatic amnesia are at increased risk of post concussion 
+symptoms but post concussion symptoms can occur in the absence of these features. 
+The only interventions that have been shown to be beneﬁ cial for post concussion symptoms are 
+education, reassurance and time. Therefore, it is important to provide education about post concussion 
+symptoms to all mild head injury patients. All patients should be given written advice and advised to see 
+a doctor if they are not feeling better within a few days of injury. 
+Typical post concussion symptoms include:
+- headaches
+- dizziness
+- fatigue
+- memory impairment
+- poor concentration
+- mood swings
+- behavioural changes
+- sleep disturbance
+- social dysfunction
+Clinically important complications of mild head injury 
+include both structural lesions and functional deficits. The 
+most important structural lesions to identify are those 
+requiring acute neurosurgical intervention. However, 
+functional deficits resulting in cognitive-behavioural-social 
+sequelae are far more common and may have significant 
+impact on patients and their families. It is important that 
+doctors, patients and their families understand that the 
+absence of a structural lesion on CT scan following a mild 
+head injury does not exclude the possibility of significant 
+cognitive-behavioural-social sequelae.
+Acute intracranial haematomas requiring acute 
+neurosurgical intervention are the most dramatic and 
+life threatening complications of mild head injury. 
+The identification of structural lesions requiring acute 
+neurosurgical intervention is the most important function 
+of CT scanning because the presence or absence of 
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 15
+
+---
+
+## chunk_17_RIGHT
+
+**Source:** Page 17 (RIGHT)  
+**Word Count:** 145  
+
+other structural lesions does not usually significantly alter 
+outcome. However, multiple studies have shown that these 
+neurosurgically significant lesions are relatively uncommon 
+with incidences of 0.1-3.2% for GCS 15 and 0.5-6.5% 
+for GCS 14 with most of the larger studies finding that 
+acute neurosurgical intervention is required in less than 
+1% of mild head injury patients (see Evidence Table 1 
+and Appendix 2 for more detail).32, 33, 35, 36, 47, 49-53, 68, 74, 
+77, 88-90 Other intracranial injuries and skull fractures are 
+more frequently noted on CT scans but are usually only 
+clinically important as indicators of the potential for clinical 
+complications such as delayed intracranial haematomas, 
+post traumatic seizures or post concussion symptoms.52,76 
+Delayed acute intracranial haematomas requiring 
+neurosurgical intervention are uncommon following normal 
+CT scans (range < 0.1%).13, 14, 31, 39, 91, 92
+There has been much debate in the literature about the
+
+---
+
+## chunk_18_LEFT
+
+**Source:** Page 18 (LEFT)  
+**Word Count:** 418  
+
+importance of identifying abnormalities on CT scan that do 
+not require clinical intervention, such as small intracranial 
+haematomas and small non-depressed skull fractures. 
+Clearly it is important to identify intracranial lesions that 
+require neurosurgical intervention but is it beneficial to 
+identify abnormalities on CT scan that do not require 
+intervention? Concerns about radiation exposure and 
+resource utilisation have influenced this debate. The trend 
+in the literature is to develop strategies to identify clinically 
+important lesions while minimising the number of CT 
+scans performed. The outcome of this strategy is that a 
+small number of minor abnormalities on CT will be missed. 
+Therefore, not all abnormalities detected on CT scan should 
+be regarded as clinically important.
+Acute clinical symptoms associated with mild head injury 
+are common and are sometimes referred to as concussion 
+symptoms. These include abnormal mental status (alertness/
+behaviour/cognition), post traumatic amnesia, vomiting, 
+headache, dizziness and lethargy. In the majority of mild 
+head injury patients, their acute clinical symptoms will 
+rapidly improve and they may be left with mild post 
+concussion symptoms or return to completely normal. In 
+most patients these symptoms start to improve within a 
+couple of hours of injury and it is unusual for significant 
+symptoms to persist for more than 4 hours post time 
+of injury. Persistent acute clinical symptoms indicate a 
+significant functional injury and an underlying structural 
+lesion should be ruled out with a CT scan. Patients with 
+persistent acute clinical symptoms with a normal CT scan 
+should be admitted to hospital for prolonged observation 
+until their symptoms start to improve. They should have 
+continued neurological observations and post traumatic 
+amnesia (PTA) testing. 
+Post concussion symptoms are relatively common following 
+mild head injury and may have significant cognitivebehavioural-social impact on patients and their families.3, 
+8-10, 76, 93-99 Post concussion symptoms include headaches, 
+dizziness, fatigue, memory problems and other cognitive, 
+behavioural and social dysfunction. Post concussion 
+symptoms have been shown in some studies to occur in 
+up to 25 - 50% of patients with mild head injury,3, 8, 10, 76, 
+94-96, 98, 99 but in about 10% of cases they may persist with 
+at times significant psychological overlay as post concussion 
+syndrome.3, 8, 10, 76, 94, 98, 99 In an Australian study Faux et 
+al100 found that 15% of patients with mild traumatic brain 
+injury continued to complain of post traumatic headache 
+at 3 months compared to 2% of controls. These symptoms 
+usually resolve within three months. The cognitivePAGE 16  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_18_RIGHT
+
+**Source:** Page 18 (RIGHT)  
+**Word Count:** 406  
+
+behavioural-social dysfunction caused by mild head 
+injury can be quite disabling, and some researchers have 
+suggested that the severity of impact on lifestyle makes the 
+term ‘mild’ inappropriate for some patients.3, 98, 99 Patients 
+with significant persistent post concussive symptoms 
+should be referred to a brain injury rehabilitation service or 
+neurologist by their GP (see Appendix 7).
+Most of the studies looking at post concussion 
+symptoms included patients with initial GCS 13-15 with 
+either transient confusion or disorientation or loss of 
+consciousness (<30 min) or PTA (<24 hours) who did not 
+require neurosurgery. Therefore, they tended to exclude 
+lower risk patients without loss of consciousness or amnesia 
+and include higher risk patients with initial GCS 13 when 
+compared to the definition of mild head injury used in 
+this guideline. The inclusion of patients without loss of 
+consciousness or amnesia and the classification of patients 
+with initial GCS 13 as moderate head injury means that 
+the incidence of post concussion symptoms may be less 
+common in the patients classified as mild head injury in 
+this guideline. However, Lannsjo et al96 in a population 
+based study of patients with initial GCS 15 found that 
+about 34% of patients reported multiple (3 or more on 
+the Rivermead Questionnaire) significant ongoing post 
+concussion symptoms at three months. Kraus et al95 found 
+about 30% of their patients (GCS 13-15) had a similar 
+frequency of multiple symptoms although it is interesting 
+to note that about 20% of their control group of patients 
+attending ED for other problems reported multiple 
+symptoms. Kraus et al95 found that headaches, dizziness, 
+forgetfulness and frustration were the Rivermead symptoms 
+that best identified mild head injury patients from the 
+controls. Clearly, post concussion symptoms occur in many 
+mild head injury patients but it is difficult to define which 
+patients will get multiple persistent symptoms due to the 
+mild head injury as many symptoms are common to other 
+conditions, as well as the general population. The findings 
+of these recent studies again emphasised the importance 
+of providing education and follow up information regarding 
+post concussion symptoms to all patients with mild 
+head injury as a significant minority may have persistent 
+symptoms. 
+Post concussion symptoms are relatively common following 
+mild head injury and may have significant cognitivebehavioural-social impact on patients and their families. 
+Mild head injury patients with structural lesions on CT scan, 
+significant acute clinical symptoms or significant PTA are 
+at increased risk of post concussion symptoms but post
+
+---
+
+## chunk_19_LEFT
+
+**Source:** Page 19 (LEFT)  
+**Word Count:** 170  
+
+concussion symptoms can occur in the absence of these 
+features. The only interventions that have been shown to 
+be beneficial for post concussion symptoms are education, 
+reassurance and time.95, 101, 102 Therefore, it is important to 
+provide education about post concussion symptoms to all 
+mild head injury patients. 
+Further information on post concussion symptoms and 
+The clinically important complications of mild head injury suggest that the management priorities should be:
+- The identiﬁ cation of patients requiring early acute neurosurgical intervention.
+- The identiﬁ cation of patients requiring admission to hospital due to the increased risk of deterioration from complications.
+- The identiﬁ cation of patients who can be safely discharged for home observation.
+- The provision of discharge advice to allow the identiﬁ cation and early return of patients with unexpected deterioration.
+- The provision of discharge advice to allow the identiﬁ cation, treatment and follow-up of patients who develop signiﬁ cant 
+post concussion symptoms.
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 17
+
+---
+
+## chunk_19_RIGHT
+
+**Source:** Page 19 (RIGHT)  
+**Word Count:** 28  
+
+brain injury rehabilitation can be found in the Motor 
+Accidents Authority of NSW 'Guidelines for mild traumatic 
+brain injury following a closed head injury103 and Evidence 
+Table 2.
+
+---
+
+## chunk_20_LEFT
+
+**Source:** Page 20 (LEFT)  
+**Word Count:** 362  
+
+3. 
+How should patients with mild head injury be assessed?
+RECOMMENDATION
+Strength of 
+recommendation
+Mild head injury patients should be assessed by a process of structured clinical assessment involving a 
+combination of:
+- initial clinical history and examination
+- serial clinical observations 
+- CT scanning if clinically indicated by risk factors identiﬁ ed on initial or serial assessment
+Serial clinical observation should include minimum hourly observations of :
+- vital signs. 
+- pupillary reactions 
+- GCS 
+- alertness / behaviour / cognition
+- post traumatic amnesia (PTA) (eg A-WPTAS)
+If patients have no signiﬁ cant risk factors for complications of mild head injury and are clinically judged 
+to be “low risk” then they should be observed until at least four hours post time of injury. 
+If patients have any signiﬁ cant risk factors for complications of mild head injury then they should 
+continue to be clinically observed while further assessment is performed. 
+Serial clinical observations should be continued on any mild head injury patients who fail to clinically 
+improve at four hours post injury or who are found to have structural lesions on CT scan.
+Assessment for PTA should be performed on all mild head injury patients in the emergency department. 
+Mild head injury patients who are admitted to hospital because they have structural lesions, persistent 
+PTA or clinical symptoms should have daily PTA testing until they are shown to be out of PTA.
+Clinical assessment using clinical risk factors or clinical decision rules can identify those patients at 
+increased risk of intracranial injury requiring further investigation.
+CT scanning is indicated for those mild head injured patients identiﬁ ed by structured clinical assessment 
+as being at increased risk of intracranial injury.
+CT scanning is the most appropriate investigation for the exclusion of neurosurgically signiﬁ cant lesions 
+in mild head injured patients
+If structured clinical assessment indicates the risk of intracranial injury is low, the routine use of CT 
+scanning is neither clinically beneﬁ cial nor cost effective.
+Skull x-rays are not sufﬁ ciently sensitive to be used as a routine screening investigation to identify 
+signiﬁ cant intracranial lesions.
+PAGE 18  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_21_LEFT
+
+**Source:** Page 21 (LEFT)  
+**Word Count:** 383  
+
+Clinical history and examination remain the basis for the 
+initial assessment of patients with closed head injury. 
+However, additional clinical tools are available to assist in 
+assessment and management. These clinical tools include 
+Glasgow Coma Scale (GCS), initial serial neurological 
+observation, post traumatic amnesia (PTA) testing, 
+clinical decision rules, CT scanning and prolonged clinical 
+observation in hospital.
+Glasgow coma scale
+The Glasgow Coma Scale (Appendix 5) was originally 
+developed by Teasdale and Jennett104 for the neurological 
+observation of patients with prolonged coma. It was 
+intended to ensure inter-observer reliability and to identify 
+deterioration of patients over time. Since its original 
+introduction its use has been extended such that it is now 
+the standard tool for assessment of level of consciousness 
+in many clinical settings. 
+GCS is used both for the initial assessment and classification 
+of closed head injuries and for serial assessment of closed 
+head injuries. Initial GCS on admission to hospital is used 
+to classify head injuries into the broad prognostic groups 
+of mild (GCS 14-15), moderate (GCS 9-13) and severe 
+(GCS 3-8). The Brain Trauma Foundation concluded that 
+there is good quality evidence to relate initial GCS score 
+to outcome.15 However, it must be noted that these are 
+broad outcome measures and initial GCS is only about 75% 
+accurate so treatment should be individualised.15
+GCS is unreliable if measured before initial resuscitation 
+and stabilisation of the ABCDE’s has been completed.15 
+Fearnside et al105 identified that both intubation and 
+sedation interfered with accurate assessment of initial 
+GCS in more severely injured patients and there is lack 
+of uniformity of approach to classifying GCS in these 
+situations.
+The other significant area of controversy relates to timing of 
+initial GCS. In unstable patients requiring resuscitation, the 
+optimal time to record initial GCS remains controversial.15, 
+105 Similarly, in mild head injury patients the time of 
+presentation related to time of injury will influence the 
+initial GCS and therefore potentially influence clinical 
+decision making in relation to CT scanning.6, 10, 31, 35 
+Perhaps the most crucial point to note about initial GCS is 
+that it cannot predict individual outcome for patients with 
+similar GCS scores. Thus, an individual patient with an initial 
+GCS of 14-15 may have a variety of outcomes including 
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 19
+
+---
+
+## chunk_21_RIGHT
+
+**Source:** Page 21 (RIGHT)  
+**Word Count:** 417  
+
+no significant injury, long-term cognitive-behavioural 
+dysfunction or a life threatening extradural haematoma.
+This is particularly important for mild head injury patients 
+because GCS primarily assesses the risk of structural lesions. 
+Subtle cognitive changes are not well discriminated within 
+the mild head injury group. This led to the development of 
+the extended Glasgow Coma Scale and the Abbreviated 
+Westmead PTA Scale that assess the duration of post 
+traumatic amnesia as a means of identifying patients at 
+increased risk of cognitive problems.106-109 Despite these 
+limitations initial GCS on admission remains the standard 
+method for initial classification of head injuries.
+When assessing initial GCS in patients with head injury it is 
+worthwhile considering time of injury. Clearly initial GCS for 
+a given patient may vary depending on time of presentation 
+to hospital. Few studies have related GCS to the time of 
+injury with the exception of Stiell et al35 who found GCS 
+<15 at two hour post injury was a significant predictor of 
+intracranial injury for mild head injury patients. Most recent 
+studies that have reported time of presentation have shown 
+that mild head injuries present around 60 to 90 minutes 
+post injury.31, 43, 54 An abnormal initial GCS taken within 
+one hour of injury is therefore likely to overestimate the 
+risk of intracranial injury in mild head injury patients who 
+present early.
+Prehospital GCS, motor score and return of orientation 
+are other factors to consider when assessing initial GCS. 
+Prehospital GCS was felt to be unreliable,110 but with 
+more organised prehospital systems, it is gaining further 
+attention.15, 111 Motor score is the best predictor of outcome 
+of the GCS components.15 Orientation returns most 
+commonly in the sequence of person, place then time.112 
+The Glasgow Coma Scale is used as one of the parameters 
+in serial observation of head injury patients. This is what 
+it was originally designed for and what it is most useful 
+for. Both the original studies and subsequent studies have 
+validated its use in this fashion and, prior to the advent 
+of CT scanning, alteration in GCS was the most useful 
+tool in predicting intracranial injury.9, 104 Borg et al101 in 
+a meta analysis for the World Health Organisation on 
+mild traumatic brain injury concluded that in the absence 
+of CT scanning that hospital observation for at least 24 
+hours for patients with GCS 15 and other risk factors was 
+a reasonable strategy. Currently, serial GCS remains a 
+standard tool in the monitoring of head injuries when CT 
+scanning is unavailable or when clinical symptoms persist
+
+---
+
+## chunk_22_LEFT
+
+**Source:** Page 22 (LEFT)  
+**Word Count:** 352  
+
+despite normal CT scanning.
+Summary
+- Initial GCS scores are useful to classify closed head 
+injuries into broad prognostic groups requiring further 
+assessment and serial observation.
+- Serial GCS scores are useful to observe the trend in 
+clinical condition over time for all patients
+- Serial GCS scores may be used as alternative to CT 
+scanning in patients with mild head injury and GCS 15 
+when CT scanning is not available
+- Serial GCS scores are useful for identifying patients 
+with significant risk of intracranial injury in:
+  
+-  patients with an initial abnormal GCS score who fail 
+to improve
+  
+- patients whose initial GCS score deteriorates.
+- Initial and serial GCS scores are not as valuable in 
+excluding significant injury in:
+  
+-  patients with an initial normal GCS score who remain 
+normal
+  
+-  patients with an initial abnormal GCS score who 
+improve.
+- Initial GCS should only be used for prognostic purposes 
+after initial resuscitation and stabilisation of ABCDE’s.
+- The motor component of the GCS is the best predictor 
+of outcome 
+- The extended GCS or Abbreviated Westmead PTA 
+Scale which assess both GCS and duration of PTA are 
+designed to help identify mild head injury patients 
+at increased risk of post concussion symptoms by 
+identifying more subtle cognitive changes.
+Serial clinical neurological observation
+Serial clinical neurological observations remain a standard 
+tool for assessing mild head injury patients despite the 
+advent of CT scanning. CT scanning is primarily used to 
+identify structural abnormalities at a given point in time 
+while serial neurological observations are used to monitor 
+clinical condition over a longer period of time. Serial 
+neurological observation typically consists of at least hourly 
+pupillary reactions and GCS assessment in conjunction 
+with vital signs. The symmetry of motor responses and a 
+standardised orientation assessment should be routinely 
+noted as part of the GCS. Neurological assessment should 
+also include qualitative assessment of alertness, behaviour 
+and cognition as this may identify more subtle neurological 
+impairment. 
+In mild head injury patients the primary aims of serial 
+PAGE 20  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_22_RIGHT
+
+**Source:** Page 22 (RIGHT)  
+**Word Count:** 422  
+
+neurological observation are the early identification of 
+acute neurological deterioration and the identification and 
+monitoring of persistent mild neurological deficits. Serial 
+neurological observations remain the basic standard of care 
+for the initial management of mild head injury patients and 
+should be used in conjunction with clinical decision rules 
+to determine the need for CT scanning and / or prolonged 
+observation. The qualitative aspects of serial neurological 
+observation may assist in identifying acute deterioration 
+or subtle functional abnormality before there is a change 
+in GCS. Subtle drowsiness, mild disorientation to time, 
+inattention and mildly disorganised thought processes with 
+subtle post traumatic amnesia can easily be missed by over 
+reliance on GCS in a patient who is awake and orientated in 
+person and place.
+Controversy exists over the appropriate duration of serial 
+neurological observation for both mild head injury patients 
+who are improving and those who have persistent clinical 
+symptoms or abnormalities on CT scan. Although four 
+hours of initial neurological observations post injury are 
+fairly standard following mild head injury, there is little 
+evidence to support this. There is also some debate as to 
+whether the initial period of observation should be until 
+four hours post injury or for four hours following arrival 
+at hospital. Studies that reported time of presentation 
+showed that most patients present at one to two hours 
+post injury. Clinically most uncomplicated mild head injury 
+patients will start to improve within two to four hours post 
+time of injury. Stiell et al35 demonstrated that GCS<15 at 
+two hours post injury was one of the most significant risk 
+factors for intracranial injury. Since this guideline has used 
+these clinically important criteria, it was felt that the initial 
+clinical observation period should also be based on time 
+post injury rather than four hours observation from the 
+time of arrival at hospital. It is important that patients who 
+present one hour post injury are not treated the same as 
+those who present at four hours post injury with “routine 
+observations” for four hours. If the patient who presents 
+at four hours post injury is not clinically improving then 
+they are at increased risk of intracranial injury and warrant 
+CT scanning whereas the same patient at one hour post 
+injury probably only requires observation unless there is 
+another strong indication for CT scanning eg suspected 
+skull fracture, seizure, warfarin etc. The initial period of 
+neurological observation should therefore be until at 
+least four hours post time of head injury at which point 
+clinical decisions should be made if they are not clinically 
+improving.
+
+---
+
+## chunk_23_LEFT
+
+**Source:** Page 23 (LEFT)  
+**Word Count:** 389  
+
+If the serial clinical neurological observations of patients 
+with an initial GCS 15 at 2 hours post injury are improving 
+or have returned to normal at four hours post injury then 
+the evidence would suggest it is safe to discharge them for 
+home observation if they have no risk factors indicating the 
+need for CT scan or if they have an initial normal CT scan. 
+There is no strong evidence to support a specific duration 
+of time of observation. Observation until 4 hours post time 
+of injury should be used as an initial guide. Patients with 
+trivial injuries could be considered for earlier discharge 
+by an experienced senior clinician and patients with high 
+risk factors should be considered for longer periods of 
+observation. 
+If serial neurological observations are not improving at 
+four hours post injury then serial neurological observations 
+should be continued and clinical decisions need to be 
+made about the need for CT scanning and/or admission 
+to hospital for prolonged observation. The period of 
+admission to hospital for prolonged observation is also 
+controversial as there is little evidence to support the 
+general recommendation of twenty four hours. This period 
+of observation is derived from studies that show that 
+clinical deterioration is unusual in mild head injury patients 
+after twenty four hours. Indeed, prior to the advent of CT 
+scanning serial clinical observation was the standard of 
+care and the need for neurosurgical intervention in mild 
+head injury patients was largely determined on the basis 
+of clinical deterioration. The best location for prolonged 
+neurological observation for lower risk patients is also 
+debated because some studies have shown that admission 
+to hospital does not guarantee that regular neurological 
+observation will occur.53
+If patients are not clinically improving or have abnormalities 
+on CT scan that warrant hospital admission, then serial 
+clinical observations should be continued. The duration 
+of this time of observation remains poorly defined. 
+Basically, clinical observation should be continued until 
+clinical symptoms improve or until it is felt there is little 
+risk of deterioration. This needs to be individualised but a 
+minimum of 24 hours is normally recommended.101
+Summary
+- Serial neurological observation is a useful tool for the 
+early identification of acute neurological deterioration 
+and the identification and monitoring of persistent mild 
+neurological deficits.
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 21
+
+---
+
+## chunk_23_RIGHT
+
+**Source:** Page 23 (RIGHT)  
+**Word Count:** 382  
+
+- Serial neurological observations should include 
+a minimum of hourly GCS assessment, pupillary 
+reactions, PTA and vital signs. Neurological 
+observations should also include qualitative assessment 
+of alertness, behaviour and cognition to detect subtle 
+changes in mental status not assessed by the Glasgow 
+Coma Scale.
+- Mild head injury patients should have initial serial 
+neurological observations until at least four hours post 
+time of injury at which point decisions about further 
+management should be made.
+- Serial neurological observations should be continued 
+on patients who are admitted to hospital for at least 
+24 hours and until patients clinically improve and are 
+discharged home. 
+Post traumatic amnesia (PTA) testing
+Amnesia for the event, short-term memory loss, 
+anterograde amnesia and PTA are all terms used to 
+describe the disruption of memory that typically results 
+from a traumatic head injury. The different terms describe 
+a continuum of memory disruption, and the use of the 
+individual terms depends on the duration of memory 
+loss and individual preference. Amnesia for the event 
+is common and of little clinical significance. Retrograde 
+and anterograde amnesia are typically used to refer to 
+the duration of loss of memory for events preceding or 
+following an injury. PTA is the period of time during which 
+a person is unable to lay down new memories following 
+an injury. PTA and anterograde amnesia essentially refer to 
+the same phenomena but some patients may have memory 
+for events yet still be unable to lay down new memories 
+– the so called islands of memory. Stiell et al56 identified a 
+duration of greater than 30 minutes of retrograde amnesia 
+as being a significant risk factor for intracranial injury. 
+Smits et al47 identified a duration of PTA of greater than 2 
+hours as being a minor risk factor and greater than 4 hours 
+as being a major risk factor for intracranial injury. Many 
+studies have shown that persistent PTA is a significant risk 
+factor for poor functional outcome in all grades of head 
+injury. Any persistent inability to lay down new memories 
+following blunt trauma is perhaps most simply referred to 
+as PTA and the duration of PTA may be used to predict 
+the risk of intracranial injury and the risk of persistent 
+post concussion symptoms. PTA is the term that will be 
+predominantly used in this guideline.
+
+---
+
+## chunk_24_LEFT
+
+**Source:** Page 24 (LEFT)  
+**Word Count:** 422  
+
+While it has been identified that prolonged PTA is a risk 
+factor for significant post concussion symptoms,3, 109 the 
+standard tool for identifying PTA in NSW, the Westmead 
+PTA Scale (Appendix 3), is designed to be used over several 
+days. There has been considerable interest in developing 
+bedside PTA screening tools to allow early prediction of 
+which patients are at greatest risk of developing post 
+concussion symptoms. A simple bedside test that can 
+determine whether the patient is out of post traumatic 
+amnesia at the time of the test would be beneficial for both 
+emergency department testing and ward based testing. 
+The Extended Glasgow Coma Scale and the Abbreviated 
+Westmead PTA Scale are examples of tools developed to try 
+to identify persistent PTA in mild head injury patients as a 
+marker for increased risk of post concussion symptoms.106, 
+109 Recent Australian studies have looked at using specific 
+bedside tools such as the Revised Westmead Post Traumatic 
+Amnesia Scale in the emergency department to better 
+identify patients with persistent PTA so that these patients 
+can be more closely followed up as they are more likely 
+to suffer significant post concussion symptoms.106-108 The 
+Abbreviated Westmead PTA Scale (A-WPTAS), developed 
+and validated113 from the previously validated Revised 
+Westmead PTA Scale, has been successfully trialled 
+in various New South Wales emergency departments 
+(Appendix 4).
+From a practical point of view, all patients with mild head 
+injury should be assessed for post traumatic amnesia. It 
+is useful to assess the patient’s recall of events following 
+their injury by asking specific questions such as what is 
+their first clear memory, who helped them at the scene and 
+how they got to hospital. This can be used to estimate the 
+period of post traumatic amnesia (anterograde amnesia). 
+Clinicians should also look for symptoms of post traumatic 
+amnesia such as repetitive questioning, failure to remember 
+clinical staff and inability to remember events during their 
+hospital stay. A formal assessment tool like the A-WPTAS 
+or a simple memory assessment technique such as three 
+object recall can be used as a bedside screening test for 
+post traumatic amnesia, to supplement the ‘history’ of 
+amnesia for events. Patients who have persistent post 
+traumatic amnesia should be considered for CT scanning, 
+prolonged observation and close follow up. Mild head 
+injury patients who are admitted to hospital because 
+they have structural lesions, persistent PTA or clinical 
+symptoms should have daily PTA testing until they are 
+shown to be out of PTA.
+PAGE 22  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_24_RIGHT
+
+**Source:** Page 24 (RIGHT)  
+**Word Count:** 375  
+
+Summary
+- The identification of persistent PTA in mild head injury 
+patients is a potentially useful marker for the risk of 
+intracranial injury and the risk of developing post 
+concussive symptoms.
+- PTA testing should be performed on any patient 
+presenting to hospital following mild head injury. 
+- The Revised and Abbreviated Westmead PTA Scales 
+are useful bedside tools for assessing PTA in the 
+emergency department
+Clinical decision rules
+Clinical decision rules are increasingly being used to 
+assist clinicians in determining the need for particular 
+investigations or management. By identifying individual risk 
+factors and combining them to establish clinical decision 
+rules, which are then prospectively validated, useful 
+evidence based diagnostic tools to assist management can 
+be developed. Well established clinical decision rules also 
+include the NEXUS criteria for cervical spine assessment and 
+the Ottawa Ankle Rules.114, 115
+Although clinical decision rules are potentially very useful, 
+clinicians need to be aware of the specific inclusion/
+exclusion criteria used to develop them and the overall 
+quality of the original studies before applying them to their 
+patients.9, 48 The other important point for clinicians to 
+consider is what level of risk they are prepared to accept. 
+No clinical decision rule can entirely rule out a significant 
+finding for an individual patient, and different clinical 
+decision rules will have different levels of risk. In patients 
+with mild head injury it is important to have high negative 
+predictive value for ruling out significant intracranial injuries 
+but this comes at a cost of lower specificity and therefore 
+the need for more CT scanning. While all the clinical 
+decision rules aim to rule out significant neurosurgical 
+lesions, they have different approaches to the value of 
+identifying intracranial lesions on CT scan that do not 
+require intervention. Clearly it is important to identify 
+intracranial lesions that require neurosurgical intervention, 
+but is it beneficial to identify abnormalities on CT scan 
+that do not require intervention? Concerns about radiation 
+exposure and resource utilisation have influenced this 
+debate. The trend in the literature is to develop strategies 
+to identify clinically important lesions while minimising the 
+number of CT scans performed. Essentially, if you want 
+to do less CT scans you have to accept that you will miss 
+some intracranial abnormalities that are unlikely to require 
+intervention.
+
+---
+
+## chunk_25_LEFT
+
+**Source:** Page 25 (LEFT)  
+**Word Count:** 426  
+
+Clinical decision rules for adult patients with mild head 
+injury have been developed through studies of large 
+cohorts of patients and prospectively applied to patients 
+to determine their sensitivity, specificity and negative 
+predictive value.31, 32, 35, 47, 48, 56, 58, 116 These studies aim to 
+identify those patients at increased risk of intracranial injury 
+and develop clinical decision rules about which patients 
+require CT scanning or prolonged observation. The best 
+studies should be well designed and prospectively internally 
+validated in the original population and then externally 
+validated by other groups in other populations. The main 
+design features of these trials are summarised in Evidence 
+Table 1 and Appendix 1. 
+The most consistent findings of these studies are that 
+abnormal GCS or mental status, clinical suspicion of skull 
+fracture, focal neurological deficit, vomiting, coagulopathy 
+and age > 65 are the best predictors of risk of intracranial 
+injury. Other relevant predictors of risk include mechanism 
+of injury, prolonged loss of consciousness, post traumatic 
+amnesia, severe headache and seizure. Depending on their 
+inclusion / exclusion criteria the authors used combinations 
+of these risk factors to derive clinical decision rules of 
+varying sensitivity and specificity (Evidence Table 1 and 
+Appendix 1). At present, the findings of both Haydel et 
+al32 and Stiell et al35 have been adopted as policy by the 
+American College of Emergency Physicians (USA),9 whilst 
+the findings of Stiell et al35 have been adapted by the 
+NICE guidelines (UK).117 The other widely known clinical 
+prediction rule is NEXUS II.58
+Ibanez et al33 in 2004 attempted to prospectively identify 
+clinical risk factors predicting intracranial injury and 
+to assess the reliability of previously published clinical 
+guidelines. They found that while clinical risk factors could 
+not detect all intracranial injuries they could be used to 
+detect clinically relevant lesions with a negative predictive 
+value approaching 99%. They also concluded clinicians 
+should be aware of the limitations of clinical decision rules 
+when using clinical guidelines. An Australian study in 2004 
+by Rosengren et al118 looked at applying the clinical decision 
+rules developed by Haydel et al32 and Stiell et al35 to 
+Australian practice and concluded that both had limitations. 
+More recently an Australian study by Fong et al57 developed 
+a local guideline by adapting the findings of Haydel et al32 
+and Stiell et al35 and applying the resultant guideline to an 
+Australian population with satisfactory results. The authors 
+stressed the point that no clinical decision rule is infallible 
+and that appropriate explanation and discharge advice was 
+important.
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 23
+
+---
+
+## chunk_25_RIGHT
+
+**Source:** Page 25 (RIGHT)  
+**Word Count:** 351  
+
+A recent review by Stein et al in 2009 compared most 
+of the best known clinical decision rules for mild head 
+injury by applying them retrospectively to a prospectively 
+collected data base and found that they all performed well 
+for identifying acute neurosurgical lesions but differed in 
+their ability to identify other lesions and their predicted CT 
+scan ordering rates. The authors concluded that NEXUS 
+II probably performed the best but the accompanying 
+editorial commented that it would be reasonable to use any 
+of the clinical decision rules.48
+The Canadian CT Head Rules are the most widely studied 
+and have been externally validated several times. However, 
+they were applied to GCS 13-15 patients, require loss of 
+consciousness or amnesia and excluded unstable multisystem trauma, coagulopathy, pre hospital seizure and 
+neurological deficit. The Canadian CT Head rule therefore 
+needs to be adapted for application to the broader 
+population or clinicians need to be fully aware of these 
+limitations when using the original rule. The NEXUS II 
+clinical decision rule has not been as extensively externally 
+validated but has the advantage of being relatively simple 
+to use and can be used for all patients with head injury 
+as there were no exclusion criteria other than delayed 
+presentation and both adult and paediatric populations 
+were studied. From a clinically practical point of view the 
+mnemonic “BEAN BASH” can be used to remember the 
+NEXUS II indications for CT scanning patients with head 
+injury at the bedside:
+B – behaviour abnormal; 
+E – emesis; 
+A – alertness abnormal; 
+N – neurological deficit; 
+B – bleeding disorder; 
+A – age>65; 
+S – skull fracture suspected; 
+H – haematoma scalp.
+The most important point for any clinician to recognise 
+is that clinical decision rules should be used as tools to 
+support clinical decisions and should not override clinical 
+judgement. If clinicians choose to use a clinical decision 
+rule, they should be aware of the limitations and inclusion 
+/ exclusion criteria of whichever clinical decision rule they 
+decide to use.
+Summary
+- Clinical decision rules provide useful adjuncts to the 
+assessment and management of mild head injury 
+patients.
+
+---
+
+## chunk_26_LEFT
+
+**Source:** Page 26 (LEFT)  
+**Word Count:** 391  
+
+- Studies by Haydel et al32 (New Orleans Criteria), Stiell 
+et al35 (Canadian CT Head Rules) and Mower et al58 
+(NEXUS II) have provided externally validated evidence 
+based clinical decision rules for mild head injury in 
+adults. The Canadian CT Head Rules are the most 
+extensively studied of the clinical decision rules.
+- Clinical decision rules should be used as tools to 
+support clinical decisions and should not override 
+clinical judgement
+- If clinicians choose to use a clinical decision rule, they 
+should be aware of the limitations and inclusion / 
+exclusion criteria of whichever clinical decision rule they 
+decide to use.
+Skull x-rays
+The literature clearly identifies that both the clinical 
+suspicion of skull fractures and the radiological evidence of 
+skull fracture are significant risk factors for the presence of 
+an intracranial lesion requiring neurosurgical intervention.6, 
+31, 32, 35, 66, 74
+If CT scanning is available, the current indications for skull 
+x-rays are few. However, if CT scanning is unavailable, 
+the role of skull x-rays as a screening test is less clear. A 
+detailed meta analysis by Hofman et al66 concluded that 
+whilst the presence of skull fracture greatly increased the 
+risk of intracranial injury, the absence of a skull fracture 
+did not rule it out (calculated sensitivity 38% calculated 
+specificity 95%). In subsequent clinical guidelines, authors 
+have differed as to whether skull x-rays should be used to 
+detect patients at higher risk of intracranial injury. Jagoda et 
+al9 argued that the sensitivity of skull x-ray is not sufficient 
+to be used as a screening test. Vos et al10 and Servadei et 
+al6 felt that in the absence of CT scanning, a positive skull 
+x-ray can be useful to help allocate patients into higher risk 
+groups for management purposes. On existing evidence, 
+both approaches seem reasonable depending on local 
+management guidelines. 
+Summary
+- Clinical evidence or suspicion of skull fracture is 
+associated with increased risk of intracranial injury.
+- Skull x-rays are not sufficiently sensitive to be used as a 
+routine screening test to identify patients at increased 
+risk of intracranial injury.
+- Where CT scanning is unavailable, skull x-ray may 
+be used as an adjunct to identify patients with skull 
+fractures who are at greater risk of intracranial injury 
+(but not to exclude intracranial injury). 
+PAGE 24  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_26_RIGHT
+
+**Source:** Page 26 (RIGHT)  
+**Word Count:** 326  
+
+CT scanning
+The widespread availability of CT scanning has greatly 
+assisted the management of patients with head injuries. CT 
+scanning has been particularly useful in identifying focal 
+injuries in patients with altered level of consciousness or 
+other risk factors. CT scanning is regarded as mandatory 
+for all head injury patients with a persistent altered level 
+of consciousness. However, the role of the CT scanning 
+in a patient with mild head injury with a normal level 
+of consciousness remains controversial. Multiple clinical 
+decision rules have been developed to try to identify which 
+patients should have a CT scan because of concerns about 
+the routine use of CT scanning for all patients. Particular 
+concerns about the routine use of CT scanning for mild 
+head injury include the financial-resource burden, the 
+potential hazards of radiation and the potential pitfalls 
+of reliance on technology at the expense of clinical 
+assessment.37, 71, 88, 119-123 Furthermore, CT scans do not 
+identify patients who have cognitive dysfunction which is 
+the most significant complication for most patients. The 
+various pros and cons of CT scanning are summarised 
+below:
+- Early identification of patients with intracranial injuries 
+requiring acute neurosurgical intervention
+- Early identification of patients with other intracranial 
+injuries requiring admission to hospital due to risk of 
+deterioration 
+- Identification of patients at low risk of deterioration 
+and suitable for discharge
+- Identification of patients with structural lesions 
+indicating increased risk of post concussive 
+symptoms.76
+- Potential cost benefit due to early CT scanning allowing 
+discharge home rather than hospital admission in some 
+patients.119
+Cons 
+- Routine use of CT scanning for mild head injury 
+potentially has a huge financial and resource impact 
+given that more than 90% of scans are negative 
+and less than 1% of scans indicate the need for 
+neurosurgical intervention.13, 35, 124 
+- Some patients, particularly the elderly or those with 
+a known coagulopathy, may develop delayed focal 
+neurosurgical lesions (especially subdural lesions) 
+despite initial normal CT scanning.69, 125, 126
+
+---
+
+## chunk_27_LEFT
+
+**Source:** Page 27 (LEFT)  
+**Word Count:** 398  
+
+- Early CT scans may not demonstrate intra-cerebral 
+contusions which take time to become apparent on CT 
+scanning.
+- CT scanning will not demonstrate diffuse axonal injury 
+in most patients.3
+- Patients may suffer significant post concussive 
+symptoms despite an initial normal CT scan.3, 94, 98, 99, 
+- Routine use of CT scanning does not guarantee better 
+identification of significant intracranial injuries if 
+different institutions are compared.12, 37
+- The risk of cumulative radiation exposure especially 
+among children is of concern.120-123
+- May delay definitive management of more significant 
+injuries in multi system trauma patients.
+CT scanning and radiation
+There is increasing concern about the potential harm 
+from radiation associated with CT scanning.122, 123, 127-130 
+The main risk associated with radiation exposure from CT 
+scanning is an increased lifetime risk of fatal cancer.122, 123 
+There have also been concerns about the effects of 
+radiation on cognitive development in children. Hall 
+et al120 showed a significant reduction in educational 
+performance in young children who received the equivalent 
+dose of radiation of one or two CT heads for childhood 
+haemangiomas. The risk posed by radiation is greatest 
+in young children due to the relatively increased dose on 
+more sensitive tissue and the increased time for a cancer to 
+develop. Thus a person who has a CT scan as a child is at 
+much greater risk than a person who has their first CT scan 
+age 65 where the risk is very small. The risk posed by CT 
+scan radiation is cumulative and is greatest in patients with 
+chronic disease who have multiple scans. In patients with 
+moderate to severe head injury there is a clear benefit from 
+performing a CT scan because the probability of identifying 
+a life threatening injury clearly outweighs the small increase 
+in the lifetime risk of cancer. In the case of patients with 
+mild head injury the risk of harm from radiation needs 
+to be weighed against the relatively low probability of 
+identifying a neurosurgically significant lesion on CT scan. 
+This is of most concern in younger patients where the 
+effective radiation exposure is higher, the time available for 
+developing a cancer greater and the chance of cumulative 
+lifetime exposure greater. Hence the interest in developing 
+clinical decision rules for mild head injury patients to 
+determine who really needs a CT scan.
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 25
+
+---
+
+## chunk_27_RIGHT
+
+**Source:** Page 27 (RIGHT)  
+**Word Count:** 370  
+
+The risk from radiation can either be expressed as an 
+estimated lifetime risk of fatal cancer or as an estimated 
+equivalent dose of radiation which takes into account organ 
+doses and their relative radiosensitivity.122, 123, 127, 128, 130 It 
+is important to recognise that these risks are all estimates 
+based on epidemiological studies of atomic bomb survivors 
+extrapolated to current estimated doses of radiation 
+delivered by CT scans. Perhaps the best way to put the risk 
+of CT scanning into perspective is to compare the estimated 
+risks with more common everyday risks.129 
+Put into context the risk of radiation from an individual 
+head CT scan is very low.122, 123, 127-130
+- 
+Estimated overall lifetime risk of fatal cancer (1 in 3)
+- Estimated risk of clinically important lesion on CT in 
+mild head injury (1 in 100)
+- Estimated additional lifetime risk of fatal cancer from 
+adult trauma panscan (1 in 1,000)
+- Estimated additional lifetime risk of fatal cancer from 
+single child CT head (1 in 5,000)
+- Estimated additional lifetime risk of fatal cancer from 
+single adult CT head (1 in 10,000)
+- Estimated additional lifetime risk of fatal cancer from 
+trauma series x-rays (1 in 20,000)
+- Estimated additional lifetime risk of fatal cancer from 
+single chest x-ray (1 in 1,000,000)
+- Estimated equivalent dose of radiation from a chest 
+x-ray (0.02 mSv per CXR)
+- Estimated equivalent dose of radiation from adult CT 
+head (2 mSv per scan) 
+- Estimated equivalent dose of radiation from annual 
+background radiation (2 mSv per year)
+- Estimated equivalent dose of radiation from adult CT 
+trauma panscan (20 mSv per scan)
+- Annual safety limit for radiation exposure for radiation 
+workers (.20 mSv per year)
+- Estimated mean equivalent dose of radiation exposure 
+for atomic bomb survivors linked to increased rates of 
+fatal cancer (40 mSv dose)
+It is important to recognise that the absolute risk to an 
+individual is relatively small particularly with advancing 
+age. More caution is recommended in children due to 
+the concerns on cognitive development as well as lifetime 
+risk of cancer. The lifetime risk of cancer for a young child 
+receiving a CT head would be roughly double that of an 
+adult (1 in 5000).
+
+---
+
+## chunk_28_LEFT
+
+**Source:** Page 28 (LEFT)  
+**Word Count:** 358  
+
+The following points try to put the risk into context and are 
+adapted and simplified from the original references: 121-123, 
+127-130 
+- Single adult CT head equivalent risk to having 100 
+chest x-rays
+- Single adult CT head equivalent risk to smoking 1000 
+cigarettes
+- Single adult CT head equivalent risk to driving 5000 
+km on a highway
+- Single adult CT head equivalent risk to one year of 
+background radiation
+- Single adult CT head increases lifetime risk of fatal 
+cancer from 30% to 30.01%
+- Single young child CT head increases lifetime risk of 
+fatal cancer from 30% to 30.02%
+- Single adult CT trauma panscan increases lifetime risk 
+of fatal cancer from 30% to 30.1%
+Timing of CT scanning
+There is no direct evidence to confirm what the best time 
+to perform CT scanning in relation to time of injury is. The 
+primary role of early CT scanning in mild head injury is early 
+recognition of extradural or subdural haematomas prior 
+to clinical deterioration.69 Early neurosurgical intervention 
+prior to clinical deterioration is associated with improved 
+outcome. However, early CT scan may potentially miss other 
+intracranial injuries such as delayed subdural haematomas 
+or contusions which are slower to become evident.69 
+Fortunately, most studies have shown that an initial normal 
+CT scan allows safe discharge and that the few patients 
+who deteriorate usually have good outcome.9, 53, 89, 130 
+Therefore, it is reasonable to suggest that CT scans should 
+be performed shortly after a decision is made that one is 
+necessary.
+Adjunctive CT scanning
+Some mild head injury patients will require CT scanning for 
+other reasons such as cervical spine clearance in the elderly. 
+Clearly, in these circumstances, clinicians should have a 
+lower threshold for performing head CT scans at the same 
+time for ease of management.
+Repeat CT scanning
+There has been some debate in the literature about 
+whether mild head injury patients who have initially 
+abnormal CT scans and require admission for hospital 
+observation should have a routine repeat CT scan.132-136 The 
+evidence from most of these small studies suggests that 
+PAGE 26  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_28_RIGHT
+
+**Source:** Page 28 (RIGHT)  
+**Word Count:** 298  
+
+most mild head injury patients with minor abnormalities 
+on CT scan do not require routine repeat CT scanning if 
+they are clinically improving with a normal GCS and no 
+neurological deficit unless they are anti-coagulated. 
+The other question that is often asked is should elderly 
+anti-coagulated patients with normal initial CT scans 
+have routine repeat CT scans and if so when should they 
+be performed and should the patient be admitted for 
+observation. There is little evidence to guide management 
+in these situations. The consensus appears to be that 
+the older the patient, and the more the patient is anticoagulated (higher INR), the greater the risk of delayed 
+bleeding. However, how to manage that risk remains 
+unclear.
+Summary
+- CT scanning is the best investigation for the early 
+identification of neurosurgically significant focal 
+intracranial lesions following mild head injury.
+- CT scanning should be used as an adjunct to clinical 
+assessment.
+- Where structured clinical assessment indicates the risk 
+of significant intracranial lesion is low, the routine use 
+of CT scanning is unlikely to be of benefit. 
+- CT scanning does not accurately predict the risk of 
+post concussion symptoms in mild head injury patients.
+- Early CT scanning may theoretically not demonstrate 
+some subdural haematomas and cerebral contusions 
+but there is little evidence to suggest that this is 
+clinically relevant in most patients. 
+- There is little evidence to guide the management of 
+anti-coagulated elderly mild head injury patients with 
+initially normal CT scans who are potentially at risk 
+of delayed bleeds, especially subdural haematomas. 
+There is increased risk with increased age and degree 
+of coagulopathy but how to manage that risk remains 
+unclear.
+- Routine repeat CT scanning is not indicated for most 
+clinically improving mild head injury patients with 
+minor abnormalities on initial CT scan.
+
+---
+
+## chunk_29_LEFT
+
+**Source:** Page 29 (LEFT)  
+**Word Count:** 355  
+
+4. 
+Which patients with mild head injury require a CT scan?
+RECOMMENDATION
+Strength of 
+recommendation
+'High risk’ mild head injury requiring CT scan
+The following risk factors identify patients with mild head injury (initial GCS 14-15) at increased 
+risk of clinically signiﬁ cant lesions requiring acute neurosurgical intervention or prolonged 
+observation in hospital. These patients should have early CT scanning if available, if they have any 
+of the following features:
+On initial assessment
+- GCS<15 at two hours post injury**
+- Focal neurological deﬁ cit
+- Clinical suspicion of skull fracture
+- Vomiting 
+- Known coagulopathy or bleeding disorder
+- Age >65 
+- Witnessed seizure
+- Prolonged loss of consciousness (>5min)
+On serial assessment
+- Decrease in GCS
+- Persistent GCS<15 at two hours post injury
+- Persistent abnormal alertness/behaviour/cognition
+- Persistent post traumatic amnesia (A-WPTAS<18/18 at 4hrs post injury)
+- Persistent vomiting ( 2 occasions)
+- Persistent severe headache
+- Post traumatic seizure 
+Clinical judgement required if
+- Initial GCS 14 within two hours of injury** 
+- Large scalp haematoma or laceration
+- Associated multi-system injuries
+- Dangerous mechanism
+- Known neurosurgery/neurological impairment
+- Delayed presentation or representation
+** NOTE: Includes patients with abnormal GCS due to drug or alcohol ingestion.
+If CT scanning is unavailable
+“High risk” mild head injury patients should be closely observed and be considered for transfer to a 
+hospital with neurosurgical and CT scan facilities when CT scan is unavailable.
+A clear decision about the need for transfer for CT scanning for “high risk” patients should be made 
+at the time of initial assessment or after a brief period of observation. A local senior clinician should be 
+consulted and the patient discussed with the network neurosurgical service.
+The clinical symptoms of patients with mild head injury typically improve within two to four hours post 
+time of injury. Patients with persistently abnormal or worsening clinical symptoms are at “high risk” of 
+intracranial injury. A clear decision about the need for transfer for CT scanning should be made no later 
+than 4 hours post time of injury.
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 27
+
+---
+
+## chunk_30_LEFT
+
+**Source:** Page 30 (LEFT)  
+**Word Count:** 422  
+
+RECOMMENDATION
+Strength of 
+recommendation
+Patients at “highest risk” of intracranial injury who should be discussed with the network neurosurgical 
+service regarding urgent transfer for CT scanning include those with:
+- Persistent GCS<15 at two hours post injury
+- Focal neurological deﬁ cit
+- Clinical suspicion of skull fracture
+- Any deterioration in GCS
+- Post traumatic seizure in ED 
+- Known coagulopathy (particularly if age >65 or INR >4)
+- Persistent vomiting or severe headache
+- Persistent abnormal alertness, behaviour, cognition or PTA at 4 hours post injury.
+If it is decided, after consultation with a network neurosurgical service, that a “high risk” patient does 
+not require urgent transfer for CT scanning, then that patient should have close clinical observation 
+in hospital for at least 24 hours and until clinically improving. If there are any signs of deterioration 
+or no improvement, the network neurosurgical service should again be consulted. Rapid transfer to a 
+neurosurgical centre in the event of deterioration must be available if this strategy is to be used.
+If patients are transferred for CT scanning they should ideally be transferred to a hospital with 
+neurosurgical facilities to avoid secondary transfer.
+A skull x-ray may be useful to conﬁ rm the presence of a skull fracture that mandates an early CT scan 
+due to the increased risk of deterioration.
+‘Low risk’ mild head injury not requiring CT scan
+The following features indicate patients with mild head injury (initial GCS 14-15) at low risk of 
+having clinically signiﬁ cant lesions requiring acute neurosurgical intervention or prolonged 
+observation in hospital. These patients should not routinely have CT scanning if they have all of 
+the following features:
+On initial assessment
+- GCS 15 at two hours post injury.
+- No focal neurological deﬁ cit.
+- No clinical suspicion of skull fracture.
+- No vomiting.
+- No known coagulopathy or bleeding disorder.
+- Age <65 years. 
+- No post traumatic seizure
+- Nil or brief loss of consciousness (<5min).
+- Nil or brief post traumatic amnesia (<30min)
+- No severe headache.
+- No large scalp haematoma
+- Isolated head injury
+- No dangerous mechanism
+- No known neurosurgery / neurological impairment
+- No delayed presentation or representation.
+After a period of observation (until at least four hours post time of injury)
+- GCS 15/15 
+- No post traumatic amnesia (A-WPTAS 18/18)
+- Normal mental status including alertness, behaviour and cognition. 
+- No clinical deterioration during observation.
+- Clinically returning to normal
+PAGE 28  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_31_LEFT
+
+**Source:** Page 31 (LEFT)  
+**Word Count:** 464  
+
+Mild head injury patients (initial GCS 14-15) require a CT 
+scan if they are clinically assessed as being at significant risk 
+of acute deterioration from an underlying intracranial injury. 
+The WHO Taskforce on MTBI (Borg et al 2004101) concluded 
+that on the basis of their meta-analysis that “there is 
+strong evidence that clinical factors can predict CT scan 
+abnormalities and the need for (neurosurgical) intervention 
+in adults.” There have been many recent studies looking at 
+which risk factors predict intracranial injury and the need 
+for CT scan and a variety of clinical decision rules have 
+been developed. These studies are mostly based on large 
+prospectively collected data bases in the USA, Canada, and 
+Europe although their findings have been reproduced in 
+smaller studies throughout the world. Haydel et al32 (2000 
+– New Orleans Criteria), Stiell et al35 (2001 – Canadian CT 
+Head Rules), Mower et al58 (2005 – NEXUS II) and Smits 
+et al47 (2007 – CHIP Rule) have all derived clinical decision 
+rules with slightly varying inclusion and exclusion criteria 
+and identified risk factors. Ibanez et al33 (2004), Fabbri et 
+al125 (2004) and Stein et al48 (2009) have also done large 
+studies looking at clinical risk factors and assessing the 
+validity of the various clinical decision rules and guidelines 
+while Rosengren et al118 (2004) and Fong et al57 (2008) have 
+performed similar smaller studies on Australian populations. 
+Ono et al137 (2007), Turedi et al81 (2008) and Saboori et 
+al80 (2007) have published recent studies on Japanese, 
+Turkish and Iranian populations. Kuppermam et al85 (2009) 
+and Dunning et al138 (2006) have recently published large 
+studies in the paediatric population in which they identified 
+clinical risk factors and developed clinical decision rules 
+that are similar to those developed for adults. There is now 
+a large body of evidence suggesting that mild head injury 
+patients can be risk stratified based on clinical assessment. 
+The clinical risk factors that indicate patients are at 
+increased risk of intracranial injury are discussed in the 
+following text, and most of the relevant studies summarised 
+in the evidentiary tables. 
+Mild head injury patients can be risk stratified into “low” 
+or “high” risk groups based on the presence or absence 
+of identified clinical risk factors. The absence of clinical 
+risk factors on initial assessment combined with a period 
+of observation during which the patient clinically improves 
+makes the probability of a significant intracranial injury 
+extremely unlikely. These low risk mild head injury patients 
+can be discharged for home observation without CT 
+scanning. Among the patients with identified risk factors, 
+there are those who clearly require CT scanning and those 
+in whom clinical judgement may be required. In the high 
+risk group, which includes initially low risk patients who 
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 29
+
+---
+
+## chunk_31_RIGHT
+
+**Source:** Page 31 (RIGHT)  
+**Word Count:** 353  
+
+fail to clinically improve, both CT scanning and prolonged 
+clinical observation are indicated. In the patients where 
+clinical judgement is required this should be based on the 
+clinician’s experience, the number of identified risk factors 
+and clinical observation of the patient. 
+Early CT scanning allows identification of acute extradural 
+or subdural haematomas or depressed skull fractures 
+requiring neurosurgical intervention and other structural 
+lesions such as intracerebral haematomas or minor 
+skull fractures that put the patient at increased risk of 
+deterioration or complications such as post traumatic 
+seizures, and disabling post concussive symptoms. However, 
+it is important to recognise that the absence of a structural 
+lesion on CT scan does not exclude the possibility of 
+deterioration, post traumatic seizures or significant post 
+concussion symptoms.
+Patients with an abnormal CT scan should be discussed 
+with a neurosurgical service and considered for prolonged 
+observation in hospital. Conversely, a normal CT scan 
+makes acute clinical deterioration highly unlikely and 
+allows safe discharge for home observation as long as 
+the patient is clinically improving and does not have a 
+known coagulopathy. A normal CT scan is useful to rule 
+out structural lesions but does not exclude the possibility 
+of significant post concussion symptoms. It is important 
+to stress that CT scanning should be used as a clinical tool 
+in conjunction with clinical assessment and observation as 
+part of an overall management strategy for mild head injury 
+patterns.
+Individual factors predicting risk of 
+intracranial injury and therefore the need 
+for CT scanning in patients with mild head 
+injury:
+Initial GCS
+A persistent GCS <15 at two hours post injury 
+is a strong indication for CT scanning. An initial 
+GCS 14 on admission is a relative indication for CT 
+scanning.31, 33, 35, 36, 47, 48, 50-53, 56, 58, 62, 70, 74, 139
+Several studies have noted the heterogeneity of the original 
+GCS 13-15 mild head injury classification and these findings 
+are summarised in Appendix 1. Patients with an initial GCS 
+13 have been shown to have similar rates of intracranial 
+injury to those with initial GCS 9-12.53, 105 Recent studies 
+on mild head injury that published data on patients with
+
+---
+
+## chunk_32_LEFT
+
+**Source:** Page 32 (LEFT)  
+**Word Count:** 414  
+
+GCS 13 have confirmed that an initial GCS 13 has a much 
+higher rate of intracranial injury.35, 47, 56 Many other recent 
+studies have used the definition of mild head injury as GCS 
+14 or 15 on arrival and excluded patients with an initial 
+GCS 13. Although patients with an initial GCS 14-15 have 
+lower rates of intracranial injury as a group, the more recent 
+studies have confirmed a higher risk of intracranial injury 
+for an initial GCS 14.31, 32, 35, 47, 48, 56, 58 A number of the 
+recent, well designed studies have attempted to identify risk 
+factors which can predict which patients with an initial GCS 
+14-15 are at highest risk.31, 32, 35, 47, 48, 56, 58 This evidence 
+confirms that other risk factors can be used to successfully 
+stratify risk within the initial GCS 14-15 group.
+One strategy is to relate the significance of the GCS to the 
+time of injury. In most of the studies on GCS 14-15, the 
+reported higher risk of intracranial injury for an initial GCS 
+14 does not take into account the time of injury. Recent 
+studies that have reported time of presentation (Fabbri et 
+al,31 Smits et al54 and Styrke et al43) have shown that mild 
+head injuries present around 60 to 90 minutes post injury. 
+An abnormal initial GCS taken within one hour of injury is 
+therefore likely to overestimate the risk of intracranial injury 
+in mild head injury patients who present early. One of the 
+most relevant findings to clinical practice is that of Stiell et 
+al35 who showed that for patients presenting with an initial 
+GCS 13-15 that GCS <15 at two hours post injury was a 
+useful predictor of risk of intracranial injury. By applying this 
+criteria, both time of injury and GCS are usefully combined 
+in a clinically practical assessment tool. Using GCS <15 
+at two hours post injury allows for clinical judgement 
+regarding patients who present immediately following 
+injury or with drug or alcohol ingestion, allows for lack 
+of inter observer reliability and stresses the importance of 
+relating persistently abnormal GCS to time of injury. It also 
+emphasises the significance of a patient presenting with 
+a GCS of less than 15 or other signs of abnormal mental 
+status at more than two hours after injury. 
+Focal neurological deficits
+Focal neurological deficit is a strong indication for CT 
+scanning.31-35, 47, 48, 53, 58, 62, 68-70, 139-141 
+PAGE 30  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_32_RIGHT
+
+**Source:** Page 32 (RIGHT)  
+**Word Count:** 373  
+
+All the major clinical decision rules use neurological deficit 
+as an indication for CT scan or list it as an exclusion 
+criteria. Focal neurological deficits have been shown to 
+significantly increase the risk of intracranial injury.31, 34, 47-49, 
+53, 58 Both Haydel et al32 and Stiell et al35, 56 excluded focal 
+neurological deficits in their studies due to the previously 
+proven nature of risk. Conversely, Vilke et al75 showed 
+that a normal neurological examination does not rule out 
+underlying brain injury in mild head injuries. 
+Skull fractures
+Clinical suspicion or evidence of skull fracture is a 
+strong indication for CT scanning.32-35, 47-49, 56, 58, 62, 
+66, 68, 70, 71, 74, 88, 140  
+Clinical suspicion or evidence of skull fracture has been 
+shown to be a significant risk factor for intracranial injury. 
+The meta analyses by Hofman et al66 showed that the 
+x-ray presence of skull fracture had a specificity of 95% 
+for intracranial injury. Clinical suspicion or evidence of 
+skull fracture has been shown by several authors including 
+Stiell et al,35 Haydel et al32 and Palchek et al34 to be a 
+major risk factor for the presence of intracranial injury. 
+This has been supported in subsequent studies by Stiell et 
+al,56 Mower et al,58 Smits et al47 and Stein et al.48 Clinical 
+suspicion of open, depressed or base of skull fractures 
+is based on the presence of large scalp lacerations or 
+haematomas (especially in children <2 years), obvious skull 
+depression, and base of skull signs such as raccoon eyes, 
+haemotympanum, Battles sign, or CSF leak. Skull fracture 
+should also be suspected on the basis of the mechanism of 
+injury with a significant focal blunt force to the skull such 
+as a bat, ball, bar, boot or club. The presence of significant 
+facial fractures may also indicate the possibility of skull 
+fracture.
+Loss of consciousness
+The absence of loss of consciousness does not rule 
+out intracranial injury. Brief loss of consciousness (<5 
+minutes) slightly increases risk of intracranial injury 
+but should not be considered a routine indication 
+for CT scan in the absence of other risk factors. 
+Prolonged loss of consciousness (>5 minutes) should 
+be considered a strong indication for CT scanning.1, 
+6, 9, 31-34, 47, 54, 57-59, 61, 63, 65, 67, 72-74, 141
+
+---
+
+## chunk_33_LEFT
+
+**Source:** Page 33 (LEFT)  
+**Word Count:** 401  
+
+Loss of consciousness increases the risk of intracranial injury 
+and is used by many authorities to define mild head injury 
+(Evidence Table 1). However, the absolute risk associated 
+with loss of consciousness is small.6, 74
+The absence of loss of consciousness or amnesia has been 
+used to classify patients as ‘minimal risk’.6, 8-10 However, 
+more recent studies have shown that the absence of loss of 
+consciousness does not rule out intracranial lesions in either 
+adults or children.9, 33, 34, 47, 54, 57-59, 65, 85 Similarly, adult 
+studies have shown that transient LOC does not accurately 
+predict the risk of intracranial injury.33, 61, 67, 73, 141, 142
+Duration of loss of consciousness is also controversial. 
+‘Brief’ loss of consciousness in mild head injury patients is 
+usually associated with good functional outcome while a 
+specific time for ‘prolonged’ loss of consciousness is not 
+clearly associated with poorer outcome.10, 63, 72, 74 The 
+exact definitions of what should be considered a low-risk 
+duration vary greatly from momentary to five minutes, 
+to 20 minutes to 30 minutes.6, 8-10 In the NEXUS II study, 
+prolonged loss of consciousness > 5 minutes was found to 
+increase risk of intracranial injury but was not a sufficiently 
+useful discriminator to include in their clinical decision 
+rule derivation.58 The clinical recommendation of the 
+neurosurgical committee of the Royal Australasian College 
+of Surgeons (RACS) is that loss of consciousness should be 
+considered brief if less than five minutes.1
+From a practical viewpoint, obtaining a definite history and 
+duration of loss of consciousness is often difficult.47, 143 In a 
+recent review, Ruff et al143 detailed the difficulties in getting 
+a reliable history of loss of consciousness. Head injuries are 
+frequently unwitnessed, observers unreliable and patients 
+often affected by alcohol or post traumatic amnesia. It is 
+perhaps simplest to consider loss of consciousness in terms 
+of no loss of consciousness, brief loss of consciousness 
+less than five minutes or prolonged loss of consciousness 
+greater than five minutes. Most patients with a witnessed 
+prolonged loss of consciousness are likely to have other 
+indications for CT scan but in the unlikely event that none 
+were present then a CT scan should be performed.
+Post traumatic amnesia
+Persistent post traumatic amnesia is a strong 
+indication for CT scanning. Amnesia for the event 
+does not warrant CT scanning.31, 32, 35, 47, 56, 74 
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 31
+
+---
+
+## chunk_33_RIGHT
+
+**Source:** Page 33 (RIGHT)  
+**Word Count:** 446  
+
+Several studies have noted that prolonged anterograde 
+or retrograde post traumatic amnesia are risk factors for 
+intracranial injury and the recent study by Smits et al47 
+identified persistent post traumatic amnesia (PTA) as a 
+significant independent risk factor. Amnesia for the event 
+implies transient neurological dysfunction and indicates 
+mildly increased risk of intracranial injury although the 
+absolute risk remains small.74 Anterograde amnesia (typically 
+defined as the period of loss of short term memory for 
+events following the head injury) and post traumatic 
+amnesia (typically defined as the period of inability to lay 
+down new memories following a head injury) are essentially 
+a continuum. A prolonged duration of both anterograde 
+amnesia and post traumatic amnesia have both been shown 
+to be associated with risk of intracranial injury.32, 35, 47, 56 
+Haydel et al32 identified short term memory deficit as a 
+significant risk factor for intracranial injury. Stiell et al35 also 
+identified anterograde amnesia of more than 30 minutes as 
+a risk factor but did not include it in their clinical decision 
+rule. Mower et al58 found that abnormal alertness, in which 
+they included short term memory deficits and perseverating 
+speech, was a significant risk factor for intracranial injury. 
+Retrograde amnesia (defined as the period of loss of short 
+term memory for events prior to the head injury) has been 
+shown by Stiell et al35 to be of significance if greater than 
+30 minutes duration. 
+Post traumatic amnesia that persists for more than 24 
+hours has been shown to be a significant risk factor for 
+persistent cognitive-behavioural-social dysfunction and 
+is a clinical indicator of moderate traumatic brain injury.3 
+Recent Australian studies have looked at using specific 
+bedside tools in the emergency department to better 
+identify patients with persistent PTA so that these patients 
+can be more closely followed up as they are more likely 
+to suffer significant post concussion symptoms.3, 106-108 
+From a practical point of view, all patients with mild head 
+injury should be assessed for post traumatic amnesia. As 
+Ruff et al143 pointed out, it may be difficult to establish an 
+accurate assessment of the period of PTA due to the patient 
+being told what happened by others, the influence of 
+drugs or alcohol or psychological stress and the limitations 
+of clinical assessment. It is useful to assess the patient’s 
+recall of events following their injury by asking specific 
+questions such as what is their first clear memory, who 
+helped them at the scene and how they got to hospital. 
+This can be used to estimate the period of post traumatic 
+amnesia. Clinicians should also look for symptoms of post 
+traumatic amnesia such as repetitive questioning, failure to 
+remember clinical staff and inability to remember events
+
+---
+
+## chunk_34_LEFT
+
+**Source:** Page 34 (LEFT)  
+**Word Count:** 390  
+
+during their hospital stay. A formal assessment tool like the 
+A-WPTAS (see Appendix 4) or a simple memory assessment 
+technique such as three object recall can be used as an 
+objective bedside screening test for post traumatic amnesia, 
+to supplement the ‘history’ of post traumatic amnesia 
+for events. Patients who have evidence of prolonged 
+post traumatic amnesia and particularly those who have 
+persistent post traumatic amnesia at four hours post injury 
+should be considered for CT scanning.
+Post traumatic seizure
+Post traumatic seizures have not been shown to be 
+a major risk factor for intracranial injury but clinical 
+considerations make them a strong indication for CT 
+scanning.74, 133, 162
+Post traumatic seizures are normally classified as immediate, 
+early (<7days) or delayed (>7days).144 Brief generalised post 
+traumatic seizures immediately following mild head injury 
+are relatively common and are not usually associated with 
+poor outcome. They are frequently seen on sporting fields 
+and in young children. It has been proposed that these 
+immediate seizures be called “concussive convulsions” 
+and it has been suggested that they are not an epileptic 
+phenomena.64, 107, 134 McCrory et al145 demonstrated 
+that outcome was universally good for these “concussive 
+convulsions” in elite Australian sportsmen. Prolonged 
+or focal post traumatic seizures are more likely to be 
+associated with significant intracranial injury. Some patients 
+who have seizures associated with trauma may have preexisting epilepsy which may either have caused the seizure 
+or resulted in a lower seizure threshold.146 However, most 
+mild head injury studies do not differentiate between types 
+of seizures when assessing risk factors for intracranial 
+injury.74, 132 The literature is somewhat contradictory about 
+the risk of seizures being associated with intracranial injury. 
+Many of the larger studies found that post traumatic 
+seizures were not significantly associated with intracranial 
+injury.85, 115, 168, 172, 174 Haydel et al,32 however, found that 
+they were significant and Smits et al47 found that they 
+were not statistically significant but included them in their 
+decision rule because of their perceived clinical importance. 
+Neidlinger et al146 found that the “yield of unsuspected 
+major intracranial abnormality on CT scan justifies a policy 
+of its routine use in trauma patients with seizure or who are 
+post ictal, regardless of prior seizure history.” 
+From a practical viewpoint, any patient who has a definite 
+PAGE 32  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_34_RIGHT
+
+**Source:** Page 34 (RIGHT)  
+**Word Count:** 362  
+
+pre or post traumatic seizure witnessed by a reliable 
+observer probably warrants a CT scan to exclude significant 
+underlying pathology even though the yield is likely to be 
+low. A patient who has an early post traumatic seizure 
+while in the emergency department would be considered 
+to have deteriorated and would warrant a CT scan. Patients 
+who have early post traumatic seizures with structural 
+lesions on CT scan are at increased risk of further seizures 
+and developing post traumatic epilepsy and need to be 
+considered for prophylactic anti-convulsants and given 
+appropriate lifestyle advice. 
+Vomiting
+Persistent or recurrent vomiting is a strong indication 
+for CT scanning. Any vomiting is a relative indication 
+for CT scanning.38, 49, 53, 60, 74, 85, 94, 97, 108, 109, 115, 131, 
+133, 150, 162, 168, 172, 174, 184 
+Vomiting has been identified as a significant risk factor for 
+intracranial injury in many studies.38, 49, 60, 74, 94, 97, 108, 115, 
+133, 162, 168, 172, 174 There has been some debate whether 
+persistent vomiting is more relevant than isolated vomiting. 
+Stiell et al35 identified repeated vomiting (more than one 
+occasion) as being a significant risk factor for intracranial 
+injury. All the major adult clinical decision rules have either 
+vomiting or recurrent vomiting as a major risk factor for 
+intracranial injury. In the paediatric literature recurrent 
+vomiting is also considered a significant risk factor although 
+it is noted that isolated vomiting is more common in 
+younger children. Clement et al77 identified any vomiting 
+as a significant risk factor for neurosurgical intervention in 
+patients with initial GCS 15.
+Headache
+Persistent severe headache is a strong indication for 
+CT scanning.38, 53, 74, 85, 97, 108, 109, 115, 133, 168
+The literature is somewhat contradictory about the 
+significance of headache. Mild headache is a common 
+symptom of mild head injury but severe headache appears 
+to be a significant risk factor for intracranial injury. Many 
+studies have identified either headache or more commonly 
+severe headache as a significant risk factor for intracranial 
+injury.38, 74, 85, 97, 108, 133, 168 However, Stiell et al35 and 
+Smits et al47 both found that headache was not a good 
+discriminator compared to other risk factors and did not
+
+---
+
+## chunk_35_LEFT
+
+**Source:** Page 35 (LEFT)  
+**Word Count:** 393  
+
+include it in their clinical decision rules. Mower et al58 
+found that severe headache was a risk factor but did not 
+include it in their clinical decision rule. Interestingly, in a 
+later study, Clement et al77 found that severe headache was 
+a significant risk factor for those patients with GCS 15 who 
+required neurosurgical intervention. 
+The general trend of the literature would suggest that mild 
+headache is not a significant concern but persistent severe 
+headache should be considered a significant risk factor for 
+intracranial injury.
+Coagulopathy or bleeding disorder
+Known coagulopathy or bleeding disorder is both 
+a strong indication for early CT scan and also an 
+indication to check the INR and to consider reversal 
+of anticoagulation. Anticoagulated patients with any 
+evidence of haemorrhage on CT scan should have 
+early rapid reversal of anticoagulation. Patients with 
+a supra-therapeutic INR (>4) should be considered 
+for either partial or full reversal and admitted to 
+hospital for prolonged observation. Prolonged 
+observation and follow up repeat CT scan should 
+be considered for any anticoagulated patients or 
+patients with bleeding disorders.39, 42, 53, 54, 63, 74, 
+85-87, 110, 115, 153, 162, 172, 174, 187
+Most guidelines and studies on mild head injury mention 
+coagulopathy or bleeding disorder either as a significant 
+risk factor or an exclusion criteria in the assessment of 
+risk of intracranial injury.42, 53, 74, 85, 87, 115, 153, 162, 172, 
+174, 187 However, there was no compelling evidence to 
+either support or refute this reasonable assertion in 
+the mild head injury patient group until recently. Mina 
+et al147 demonstrated that pre-existing anticoagulation 
+significantly increased the risk of death from intracranial 
+injury in trauma patients with head injury. However, this 
+was a heterogenous patient group with significantly 
+abnormal ISS (mean 17.0 +/- 7.8) and GCS (mean 11.8 
++/- 4.0). Subsequent small studies by Franko et al,78 Ivascu 
+et al,79 Cohen et al,148 Fabbri et al41 and Allard et al149 
+have all demonstrated significant risk of both intracranial 
+haemorrhage and mortality in anti-coagulated head injury 
+patients. Cohen et al148 and Ivascu et al79 both found that 
+patients with mild head injury were at significant risk of 
+intracranial injury and acute deterioration particularly if 
+they had an increased INR. An initial normal CT scan did 
+not exclude the possibility of deterioration. Franko et al78 
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 33
+
+---
+
+## chunk_35_RIGHT
+
+**Source:** Page 35 (RIGHT)  
+**Word Count:** 375  
+
+also demonstrated a link between increased mortality 
+and increased INR (>4). Ivascu et al79 demonstrated that 
+early rapid reversal of warfarin in patients with intracranial 
+haemorrhage significantly improved mortality. 
+Mild head injury patients who are warfarinised are at 
+significantly increased risk of traumatic intracranial 
+haemorrhage particularly if they are elderly or overwarfarinised. Note that this increased risk applies to 
+asymptomatic patients. They should all receive an urgent CT 
+scan and have an early INR checked. Patients who have a 
+traumatic injury on CT scan or who have a supratherapeutic 
+INR (>4) should be admitted for observation and should 
+be strongly considered for short term reversal of their anticoagulation as they are at high risk of acute deterioration 
+and death. A routine repeat CT scan within 24 hours or an 
+urgent repeat CT scan if there are any signs of deterioration 
+is recommended for these patients. Clinical judgement is 
+required about the disposition of patients with an initial 
+normal CT scan and normal INR. Prolonged observation 
+and close follow up either in hospital or in the community 
+is reasonable until further evidence is available to guide 
+management.
+The evidence is less clear about the risk of traumatic ICH 
+associated with anti-platelet agents or bleeding disorders. 
+There are very few studies specifically addressing the issue 
+and those that have been done provide contradictory 
+findings.9, 89, 129, 164 There is a clear trend to suggest 
+patients on anti-platelets have an increased risk of bleeding 
+following intracranial haemorrhage but limited evidence 
+to prove that anti-platelets independently increase the risk 
+of intracranial haemorrhage for mild head injury patients. 
+Extrapolating from existing anti-coagulation protocols, 
+population studies on stroke and other studies on mild head 
+injury, it would be reasonable to postulate that increasing 
+age and the presence of more than one anti-platelet agent 
+would increase the risk of bleeding. Since most patients 
+on anti-platelet agents are elderly and elderly patients are 
+recommended to have routine CT scans, the remaining 
+clinical dilemma is what is the risk of delayed bleeding. At 
+present this remains unknown and prolonged observation 
+and close follow up in the community is probably prudent. 
+Age
+Patient age >65 years is a strong indication for CT 
+scanning.20, 38, 47, 53, 60, 74, 85, 88, 115, 153, 162, 172, 174
+
+---
+
+## chunk_36_LEFT
+
+**Source:** Page 36 (LEFT)  
+**Word Count:** 441  
+
+The literature has shown that there is an increased risk of 
+intracranial injury for patients aged over 60-65 years with 
+mild head injury.20, 38, 47, 53, 60, 74, 85, 88, 101, 115, 162, 172, 174 All 
+the recently published clinical decision rules have included 
+age over 60 or 65 years as a major risk factor. Mack et al150 
+recommended routine head CT for elderly patients suffering 
+mild head injury as they could not identify any useful clinical 
+predictors of intracranial injury in the elderly. Similarly, 
+Rathlev et al151 analysed the elderly patients from the 
+NEXUS II trial and found that there was an increased risk of 
+intracranial risk with age and that occult presentation was 
+more common. The Brain Trauma Foundation15 concluded 
+that ‘increasing age is a strong independent factor in 
+prognosis, with significant increase in poor outcome above 
+60 years of age’ for patients with severe head injuries. 
+Similarly, Williams et al76 demonstrated that elderly patients 
+were more likely to sustain complications of mild head 
+injury. Servadei et al6 have pointed out it is unlikely there is 
+a specific age at which risk of intracranial injury dramatically 
+increases. Fabbri et al31 found that using age >60 years 
+alone to predict the need for CT scanning in patients with 
+mild head injury was impractical from a cost-resource 
+consideration during a study to validate a set of guidelines. 
+Interestingly, of the 705 patients meeting guidelines criteria 
+for CT scanning based on age >60 years alone who did not 
+have CT scans, Fabbri et al31 found that only one patient 
+deteriorated within 48 hours. It is worth noting that the 
+NSW Institute of Trauma and Injury Management Trauma 
+Death Review Committee has identified that in 2003 / 
+2004 elderly NSW patients with head injuries represented a 
+significant number of potentially preventable deaths.152 
+Patients aged >65 with a mild head injury should have a 
+CT scan due to the increased risk of intracranial injury. If CT 
+scan is not available and the patient has no other identified 
+risk factors then the absolute risk is probably small and 
+clinical judgement can be used to justify prolonged 
+observation rather than transfer for CT scan. Prolonged 
+observation in hospital or at home should be considered 
+even if an initial CT scan is normal due to the increased risk 
+of delayed complications.
+Abnormal alertness, behaviour or cognition
+Persistent abnormal mental status manifested by 
+abnormal alertness, abnormal behaviour or cognitive 
+impairment is a strong indication for CT scanning.38, 
+49, 55, 58, 74, 94, 97, 103, 115, 133, 174
+Persistent abnormal mental status manifested by abnormal 
+PAGE 34  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_36_RIGHT
+
+**Source:** Page 36 (RIGHT)  
+**Word Count:** 380  
+
+alertness, abnormal behaviour or cognitive impairment 
+has been shown to be strongly associated with intracranial 
+injury.38, 74, 115, 174 Mower et al58 used abnormal alertness 
+or behaviour as major criteria in their clinical decision rule 
+and Clement et al77 found confusion, restlessness and 
+abnormal 3 object recall as significant risks. Similarly, in 
+the paediatric literature, abnormal mental status has been 
+identified as a major risk factor.49, 74, 94 Although initial 
+GCS partially assesses mental status, it primarily addresses 
+level of consciousness. Clinical observation of alertness, 
+behaviour and cognition will detect more subtle changes 
+in mental status than GCS and should be part of routine 
+neurological observation. Persistent abnormal PTA testing is 
+also an indication of abnormal mental status. Detection of 
+abnormal alertness or behaviour and cognitive impairment 
+requires careful observation by staff and relatives and 
+is particularly important for adults with pre-existing 
+neurological impairment. In patients with pre-existing 
+neurological conditions, a lower threshold for CT scanning 
+is appropriate.6, 33 
+Most studies do not identify at what time post injury that 
+abnormal mental status becomes a definite indication 
+for CT scanning. Extrapolating from the GCS <15 at two 
+hours post injury risk factor, it would be reasonable to 
+identify abnormal mental status as a risk factor at two 
+hours post injury and certainly by four hours post injury. 
+Clinical judgement is required depending on the degree of 
+abnormality as to when to order a CT scan.
+Large scalp haematoma or laceration
+Large scalp haematomas or lacerations are relative 
+indications for CT scanning in adults. Large non 
+frontal scalp lacerations have been identified as 
+significant risk factors in young children.14, 49, 74, 94, 
+115, 123, 130, 162, 174 
+The literature is somewhat unclear about the importance 
+of scalp haematomas and lacerations as clinical risk factors. 
+Haydel et al32 identified “visible trauma above the clavicles” 
+as a major risk factor. Mower et al58 identified scalp 
+haematoma as a major risk factor and included it in their 
+clinical decision rule. Smits et al47 included “contusion to 
+the skull” as a minor risk factor in their CHIP rule. In the 
+other major adult clinical decision rules and studies, scalp 
+haematoma was not identified as a major risk factor but 
+was potentially implied under the broad term “suspected 
+skull fracture.” In the paediatric literature, non frontal
+
+---
+
+## chunk_37_LEFT
+
+**Source:** Page 37 (LEFT)  
+**Word Count:** 404  
+
+scalp haematoma is included in most clinical decision rules 
+particularly among young children.14, 49, 94, 123, 130, 174 There 
+is no clear guidance in the literature as to what should be 
+considered a significant scalp haematoma or laceration 
+other than a trend to “large’ and “non frontal”. There is 
+no evidence for the use of descriptors such as “boggy” or 
+“tense” to help discriminate between significant and non 
+significant haematomas.
+Drug or alcohol intoxication
+Drug or alcohol ingestion with a normal mental state 
+is not an indication for CT scanning. Drug or alcohol 
+intoxication resulting in an abnormal mental state is 
+an indication for CT scanning.22, 38, 40, 53, 74, 85, 115, 162, 
+168, 172, 174 
+Drug or alcohol intoxication is frequently present in patients 
+with head injury and makes patients difficult to assess and 
+manage. Cook et al,60 in a study of alcohol intoxicated 
+patients, found that clinical examination could not predict 
+which alcohol intoxicated patients had abnormal CT scans. 
+However, they observed that the rate of abnormal CT scan 
+and neurosurgical intervention was similar to that of the 
+non-intoxicated mild head injury population. Several studies 
+have suggested that drug or alcohol intoxication is a risk 
+factor for intracranial injury but the exact definition of 
+intoxication remains vague.31, 32
+Since 2004 there have been several large well designed 
+studies and clinical decision rules published that have found 
+that alcohol is not an independent risk factor for intracranial 
+injury in patients with mild head injury.22, 38, 85, 115, 162, 168, 
+172 Bracken et al153 looked at the intoxicated patients (3356 
+patients) in the NEXUS II database who had received CT 
+scans and found that the rate of intracranial injury was 
+lower than the non-intoxicated group. Although it would 
+appear that alcohol intoxication is not an independent 
+risk factor for intracranial injury it remains a common 
+clinical dilemma to decide what to do with a head injured 
+patient with an abnormal mental status when it is not clear 
+whether it is the alcohol or the head injury that is causing 
+the abnormality.
+Stiell et al35 took a slightly different approach and used GCS 
+<15 at two hours post injury as their variable to predict 
+abnormal mental status for whatever reason. They argued 
+that drug or alcohol intoxication was not an independent 
+predictor of intracranial injury if the patient had a normal 
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 35
+
+---
+
+## chunk_37_RIGHT
+
+**Source:** Page 37 (RIGHT)  
+**Word Count:** 333  
+
+mental status at two hours post injury.
+From a practical viewpoint, clinically obvious drug or alcohol 
+intoxication should be treated as a risk factor for intracranial 
+injury because it manifests as abnormal mental status which 
+impairs clinical assessment and must be assumed to be 
+due to intracranial injury. It seems reasonable to use the 
+approach of Stiell et al35 in determining when to order a CT 
+scan in the absence of other risk factors.
+Dangerous mechanisms of injury
+Specifically identified high risk dangerous 
+mechanisms that are a strong indication for CT 
+scanning include pedestrian/cyclist struck by vehicle, 
+ejection from vehicle, falls (>1m) and focal blunt 
+trauma to the head (bat, ball, foot). In the absence 
+of these specified risk factors or other risk factors, 
+dangerous mechanism is a relative indication for CT 
+scan in mild head injury patients. Clinical judgment is 
+required.20, 38, 60, 72, 88, 115, 162, 172, 174
+Epidemiological studies have generally identified motor 
+vehicle accidents, falls and assaults as the commonest 
+causes of head injuries. In studies on patients with mild 
+head injuries, specific high risk factors for intracranial injury 
+that have been identified include focal blunt trauma to the 
+head,38, 60, 72, 88, 115 pedestrians or cyclists struck by motor 
+vehicles,20, 60, 88, 172, 174 ejection from motor vehicle,172, 174 
+and falls with variable heights specified.38, 172, 174
+Multi-system trauma
+In mild head injury patients with multi-system 
+trauma, clinical judgement is required regarding the 
+need for CT scanning, particularly in the presence of 
+unstable vital signs or associated injuries requiring 
+significant amounts of analgesia, procedural sedation 
+or general anaesthesia.162, 172, 174 
+Most guidelines and studies on mild head injury have 
+specifically excluded patients with multi-system trauma 
+or unstable vital signs.162, 172, 174 It is therefore difficult 
+to make evidence based recommendations and clinical 
+judgment is required. A low threshold for performing head 
+CT scan in multi-system trauma patients should be used as 
+subtle neurological signs are easily missed in the presence 
+of distracting injuries. Similarly, clinicians should have a
+
+---
+
+## chunk_38_LEFT
+
+**Source:** Page 38 (LEFT)  
+**Word Count:** 330  
+
+low threshold for performing CT scans where associated 
+injuries require significant amounts of analgesia, procedural 
+sedation or general anaesthesia. 
+Pre-existing neurosurgery/neurological 
+impairment
+Pre-existing neurosurgery or neurological impairment 
+is a relative indication for CT scanning.85, 153, 168 
+Pre-existing neurosurgery has been suggested as an 
+indication for CT scanning particularly in the presence 
+of hydrocephalus and shunt placement.6, 33 Sevadei et 
+al6 recommended routine CT scanning for patients with 
+either previous neurosurgery or epilepsy. From a practical 
+viewpoint, any pre-existing medical condition resulting 
+in neurological impairment (eg stroke, dementia, and 
+developmental delay) may make clinical assessment difficult. 
+More recent studies have been unable to enrol sufficient 
+numbers of patients to give clear guidance about these risk 
+factors.48 
+Delayed presentation or representation
+Delayed presentation or representation are relative 
+indications for CT scanning. Clinical judgement is 
+required. Patients who present more than four hours 
+post injury with persistent or new clinical symptoms 
+should be regarded as being at relatively high risk for 
+intracranial injury.4, 6, 44, 53, 114, 119 
+Although mild head injuries are very common it is thought 
+that the majority do not present to hospital.114, 119 
+Therefore, those that do present to hospital are already a 
+group at slightly increased risk. Of particular concern are 
+those who have a delayed presentation due to persistence 
+of symptoms or those who represent because of ongoing 
+or new symptoms. Most of the larger studies have excluded 
+patients who presented more than 24 hours post injury 
+or who represented, so there is a lack of evidence about 
+these patients. However, it is clear from most of the 
+studies that patient’s who have persistent or new abnormal 
+mental status, or persistent or new clinical symptoms such 
+as vomiting or severe headache, have increased risk of 
+intracranial injury. 
+Delayed presentation due to ongoing symptoms should be 
+regarded as being the same as failing to return to normal 
+after clinical observation. Representation due to persistent 
+PAGE 36  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_38_RIGHT
+
+**Source:** Page 38 (RIGHT)  
+**Word Count:** 387  
+
+or worsening symptoms should be regarded as the same as 
+clinical deterioration during clinical observation. Therefore, 
+both patients who have a delayed presentation or who 
+represent with new or worsening symptoms should be 
+regarded as being at relatively high risk of intracranial injury. 
+However, the overall risk of intracranial injury in patients 
+who represent after mild head injuries is low if their initial 
+risk was low and particularly if they had an initial normal CT 
+scan.4, 6, 44, 53 
+Unwitnessed event/unreliable history
+A good history of injury may help predict risk of intracranial 
+injury by identifying dangerous mechanism of injury or 
+significant features such as prolonged loss of consciousness 
+or seizures. This is of particular importance in children. 
+However, in the absence of other significant risk factors 
+there are few studies identifying unwitnessed event or 
+unreliable history as a significant independent risk factor.140 
+Paediatrics
+Although paediatrics were excluded from the search 
+strategy, the author believes that the evidence in the 
+paediatric literature discussed below may assist clinicians 
+in their decision making in the management of adults with 
+closed head injury. The evidence was not identified in an 
+exhaustive systematic literature search but represents the 
+most relevant studies identified by the author.
+In the past few years there have been several large studies 
+looking at paediatric head injuries that have attempted to 
+identify clinical risk factors indicating the need for CT scan 
+and use these risk factors to develop clinical decision rules. 
+Clinical decision rules have been developed for children by 
+Palchak et al34 (2003), Haydel et al65 (2003 – New Orleans 
+group), Oman et al87 (2006 – NEXUS group), Dunning 
+et al138 (2006 – CHALICE group), Atakabi et al83 (2008 - 
+Canadian CT Head group) and most recently Kupperman 
+et al85 (2009 – PECARN group). Maguire et al86 published 
+a systematic view of paediatric clinical prediction rules 
+in 2009 that assessed all the major studies except the 
+Kupperman study. The studies by Dunning et al enrolled 
+22,772 patients and Kupperman et al enrolled 42,412 
+patients and these are the two largest well designed studies 
+yet performed on either adult or paediatric patients with 
+head injuries.
+The best predictors of the need for CT scan were similar 
+in all the studies and similar to the findings of the adult 
+literature. The best predictors present in nearly all prediction
+
+---
+
+## chunk_39_LEFT
+
+**Source:** Page 39 (LEFT)  
+**Word Count:** 403  
+
+rules were abnormal mental status or behaviour (including 
+GCS <15 or qualitative assessment), focal neurological 
+deficit, clinically suspected skull fracture (non frontal scalp 
+haematoma), vomiting and dangerous mechanism. Loss of 
+consciousness was significant if “definite” in some and if 
+“prolonged” in others. Severe headache and seizures were 
+identified as significant in several. 
+Kupperman et al85 took the clinically practical step of 
+identifying those risk factors which strongly suggested 
+the need for CT scan and differentiating them from those 
+that required clinical judgement to decide whether to 
+observe the child or proceed to CT scan. They made the 
+practical point that where clinical judgement was used it 
+should be based on experience, number of risk factors and 
+a period of observation. In their summary of their clinical 
+decision rule, they included their figures on the percentage 
+of the population likely to be in each group, and the risk 
+of clinically important brain injury in each group. This 
+information could be used to help clinicians and parents to 
+decide how to proceed for an individual child. 
+In summary, the indications for CT scan and the clinical 
+prediction rules in the paediatric literature are similar to 
+those in the adult literature. There have been large well 
+designed studies that support the use of structured clinical 
+assessment to identify which patients should have a CT 
+scan. Refer to NSW Health Infants & Children: Acute 
+Management of Head Injury, second edition (PD2011_024) 
+for management of head injury children.
+What should be done with high risk 
+mild head injury patients when CT 
+scan is unavailable?
+In patients with high risk mild head injury, a normal CT scan 
+combined with clinical assessment will allow the patient to 
+be safely discharged for home observation. If CT scan is 
+unavailable then the patient will require either admission 
+for prolonged observation or early transfer for CT scanning 
+depending on clinical assessment of risk. Prolonged clinical 
+observation for at least 24 hours, associated with clinical 
+improvement, has been shown to make a significant injury 
+unlikely in the majority of mild head injury patients.91 
+However, those patients at highest risk for an intracranial 
+injury identified by persistently abnormal GCS or clinical 
+symptoms, deterioration in GCS, focal neurological deficit, 
+or significant clinical suspicion of skull fracture should be 
+transferred for CT scan to allow the early identification of 
+potentially neurosurgically significant injury.
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 37
+
+---
+
+## chunk_39_RIGHT
+
+**Source:** Page 39 (RIGHT)  
+**Word Count:** 238  
+
+It is reasonable to admit some mild head injury patients to 
+hospital for serial observation if CT scan is unavailable and 
+urgent transfer to neurosurgical care impractical. Prior to 
+the widespread availability of CT scanning, admission for 
+serial assessment of GCS was the standard treatment for 
+patients with head injury. Borg et al101 (2004 diagnostic 
+procedures), in a meta analysis for the World Health 
+Organisation on mild traumatic brain injury, concluded that 
+in the absence of CT scanning, that hospital observation for 
+at least 24 hours for patients with GCS 15 and other risk 
+factors was a reasonable strategy. Similarly, af Geijerstam et 
+al91 found in a large population based study on mild head 
+injury patients with GCS 15 that the outcome for a serial 
+observation in hospital strategy was similar to the outcome 
+for an immediate CT strategy at 3 month follow up. This 
+presumed that appropriate care could be delivered in the 
+event of deterioration. Clinical judgement is clearly required 
+where patients have GCS 15 but clinical symptoms that 
+fail to improve with observation. The primary advantage 
+of performing an early CT scan is to be able to safely 
+discharge a patient if the CT scan is normal. Thus, when 
+CT is unavailable, serial clinical observation is a reasonable 
+strategy for mild head injury patients with GCS 15 as long 
+as patients can be transferred to neurosurgical care in a 
+timely fashion in case of deterioration.
+
+---
+
+## chunk_40_LEFT
+
+**Source:** Page 40 (LEFT)  
+**Word Count:** 334  
+
+5. 
+What should be done when patients with mild head injury deteriorate?
+RECOMMENDATION
+Strength of 
+recommendation
+Early signs of deterioration:
+- Confusion
+- Agitation
+- Drowsiness
+- Vomiting
+- Severe headache
+Late signs of deterioration:
+- Decrease in GCS by two or more points
+- Dilated pupil
+- Focal neurological deﬁ cit
+- Seizure
+- Cushing’s response – bradycardia and hypertension
+Clinical approach to neurological deterioration:
+- Resuscitation and stabilisation of ABCDEs to exclude non head injury cause 
+- Supportive care of ABCDEs
+- Early intubation if indicated
+- Immediate CT scan if available
+- Early neurosurgical consult
+- Early retrieval consult 
+- If clinical or CT evidence of raised ICP/mass effect consider in consultation with network 
+neurosurgical service:
+  
+- short term hyperventilation to PaCO2 30-35
+  
+- bolus of mannitol (1g/kg)
+  
+- surgical decompression if more than 2 hours from neurosurgical care
+  
+- prophylactic anti-convulsants
+Acute neurological deterioration is uncommon in patients 
+with mild head injury. As discussed in Question 3, the 
+recent literature would suggest that acute neurosurgical 
+intervention is required in 1-3% of patients with mild 
+head injury. Patients at highest risk of deterioration can 
+be identified using clinical risk factors and should have a 
+CT scan. It is very uncommon for patients to deteriorate if 
+they have had a normal CT scan. The exception would be 
+elderly patients who are anticoagulated who are at risk of 
+delayed subdural haemorrhage. The other situation in which 
+unexpected deterioration may occur is when an injury 
+present on CT scan has been missed.
+The clinical signs vary from early subtle signs of 
+deterioration to more obvious late signs including reduction 
+in GCS or signs of raised intracranial pressure. Clement et 
+al77 looked at those patients in the Canadian CT Head Rules 
+database with initial GCS 15 who deteriorated and required 
+neurosurgery to try to identify risk factors for deterioration. 
+They found that the development of confusion, agitation, 
+PAGE 38  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_40_RIGHT
+
+**Source:** Page 40 (RIGHT)  
+**Word Count:** 132  
+
+drowsiness, vomiting or severe headache were potential 
+early signs of deterioration in this group.
+Once a mild head injury patient deteriorates then the 
+priorities are exclusion of other injuries, supportive care of 
+the ABCDEs and early CT scan to identify a neurosurgically 
+significant lesion. If a neurosurgically significant lesion 
+is identified, further management should be discussed 
+with a neurosurgical service including measures to reduce 
+intracranial pressure and prevent seizures.
+There is good evidence to support the systematic 
+resuscitation of ABCDEs with prevention of hypoxia and 
+hypotension and the early identification and decompression 
+of acute neurosurgical lesions.25,103 There is some evidence 
+to support short-term hyperventilation and mannitol while 
+awaiting definitive surgery.2, 23, 102, 144, 188 There is some 
+evidence to support the prophylactic use of anticonvulsants 
+to prevent early seizures.2, 23, 102, 151
+
+---
+
+## chunk_41_LEFT
+
+**Source:** Page 41 (LEFT)  
+**Word Count:** 351  
+
+6. 
+ When can patients with mild head injury be safely discharged and what 
+discharge advice should be provided?
+RECOMMENDATION
+Strength of 
+recommendation
+Mild head injury patients can be safely discharged for home observation after an initial period of inhospital observation if they meet the following clinical, social and discharge advice criteria:
+1. Clinical criteria: 
+-  Normal mental status (alertness / behaviour / cognition) with clinically improving minor post 
+concussion symptoms after observation until at least four hours post injury.
+- No clinical risk factors indicating the need for CT scanning or normal CT scan if performed due to 
+risk factors being present.
+- No clinical indicators for prolonged hospital observation (irrespective of CT scan result) such as:
+  
+- clinical deterioration
+  
+- persistent abnormal GCS or focal neurological deﬁ cit
+  
+- persistent abnormal mental status 
+  
+- persistent severe clinical symptoms (vomiting / severe headache) 
+  
+- presence of known coagulopathy (clinical judgement required)
+  
+- persistent drug or alcohol intoxication (clinical judgement required)
+  
+- presence of multi-system injuries (clinical judgement required)
+  
+-  presence of concurrent medical problems (clinical judgement required)
+  
+- age >65 (clinical judgement required)
+2. Social criteria: 
+-  Responsible person available to take patient home.
+- Responsible person available for home observation.
+- Patient able to return easily in case of deterioration.
+- Written and verbal discharge advice able to be understood.
+3. Discharge advice criteria: 
+- Discharge summary for local doctor.
+- Written and verbal head injury advice given to patient and nominated responsible person covering:
+  
+- symptoms and signs of acute deterioration
+  
+- reasons for seeking urgent medical attention
+  
+- typical post concussion symptoms
+  
+- reasons for seeking routine follow up.
+Written and verbal head injury discharge advice should be given to the patient and a nominated 
+responsible person covering:
+-  symptoms and signs of acute deterioration
+-  reasons for seeking urgent medical attention
+-  lifestyle advice to assist recovery
+-  typical post concussion symptoms
+-  reasons for seeking further medical follow up.
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 39
+
+---
+
+## chunk_42_LEFT
+
+**Source:** Page 42 (LEFT)  
+**Word Count:** 420  
+
+Discharge criteria
+Mild head injury patients can be discharged for home 
+observation after initial period of in-hospital observation if 
+they meet clinical, social and discharge advice criteria.4, 6, 
+15, 44, 47, 49, 52, 56, 60, 65, 74, 81, 87, 94, 97, 99, 115, 118, 154, 158, 169, 170, 
+174, 178, 181, 184, 191 Mild head injury patients can be safely 
+discharged from hospital for home observation when the 
+risk of acute deterioration from an underlying intracranial 
+injury is assessed as being low. Safe discharge also 
+requires that the patient has adequate social supports and 
+appropriate advice on when to return to hospital.
+The duration of in-hospital observation required will 
+be determined by clinical assessment combined with 
+selective use of imaging. Deterioration following mild head 
+injury may occur due to missed or delayed intracranial 
+haematomas or other complications such as SIADH, post 
+traumatic seizures or severe post concussive symptoms. 
+Although clinical assessment and observation combined 
+with appropriate imaging will identify most at risk patients, 
+the risk of deterioration is never zero. Although uncommon, 
+deterioration may occur even after prolonged periods of 
+observation and / or following normal CT scanning. The 
+challenge of managing mild head injuries is to identify what 
+is reasonable risk and to ensure that the patient is aware of 
+the potential for delayed deterioration.
+All the recent clinical decision rules have shown that safe 
+discharge is possible after clinical assessment and/or CT scan. 
+In both a series of meta analyses and a large population 
+study, af Geijerstam et al3, 4, 6 have shown that the risk 
+of deterioration following mild head injury is low and the 
+risk of deterioration following normal CT scans is very low. 
+De Broussard et al92 also found that the risk of delayed 
+intracranial complications following mild head injury were 
+very low in a large population study. 
+The Initial Management of Adult Mild Head Injury algorithm 
+summaries the key points in management relating to safe 
+discharge and some of the significant studies relating to 
+safe discharge are presented in Evidence Table 6. Mild 
+head injury patients should essentially be divided into 
+low and high risk groups based on clinical assessment. 
+Low risk mild head injury patients can be discharged for 
+home observation after a short period of observation in 
+hospital if clinically improving. High risk patients require CT 
+scanning and/or prolonged observation. High risk patients 
+with clinically important abnormalities on CT scan require 
+admission for prolonged observation. High risk patients 
+PAGE 40  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_42_RIGHT
+
+**Source:** Page 42 (RIGHT)  
+**Word Count:** 377  
+
+with normal CT scanning should also be admitted for 
+prolonged observation unless rapid clinical improvement 
+occurs. In both high and low risk mild head injury 
+patients, potential clinical indications for admission such 
+as intercurrent medical problems and injuries need to be 
+considered. Whatever the period of observation selected, 
+the provision of safe discharge advice and assessment 
+of the patient’s social situation is mandatory because 
+occasional cases of deterioration following discharge are 
+unavoidable. An example of a suitable head injury discharge 
+advice sheet is attached at Appendix 6.
+Discharge advice
+All patients with mild head injury should be given both 
+verbal and written discharge advice covering signs and 
+symptoms of acute deterioration, when to seek urgent 
+medical attention, lifestyle advice to assist recovery, 
+information about typical post concussion symptoms and 
+reasons for seeking further medical follow up. As with all 
+discharge advice this should be time specific and action 
+specific. 
+There have been multiple studies that have shown that the 
+risk of acute deterioration following mild head injury is very 
+small particularly if the patient has been assessed as being 
+low risk clinically or has been assessed as high risk and has 
+had a normal CT scan. However, all the authors of major 
+guidelines and clinical prediction rules consistently stress the 
+point that there is a very small risk of deterioration for an 
+individual patient, not to mention the possibility of medical 
+error, which is why all patients should be advised about 
+symptoms and signs of deterioration and when to seek 
+urgent medical attention.
+The most important complications of mild head injury 
+to identify are those requiring acute neurosurgical 
+intervention. However, functional deficits resulting in 
+cognitive-behavioural-social sequelae are far more common 
+and may have significant impact on patients and their 
+families. It is important that doctors, patients and their 
+families understand that the absence of a structural lesion 
+on CT scan following a mild head injury does not exclude 
+the possibility of significant cognitive-behavioural-social 
+sequelae. Mild head injury discharge advice should include 
+information about post concussion symptoms including 
+what they are, how to minimise them and when to seek 
+further medical attention if they persist. It is very important 
+that patients are informed about the potential that they 
+will have post concussion symptoms so that they are able
+
+---
+
+## chunk_43_LEFT
+
+**Source:** Page 43 (LEFT)  
+**Word Count:** 430  
+
+to adjust their lifestyle if required. The best advice to give a 
+patient who suffers from post concussion symptoms is that 
+the symptoms will resolve with time and that they should 
+take a stepwise graded return to sport, work and study. The 
+sports medicine approach to concussion of graded return 
+to play translates well to all mild head injury patients.153 
+However, there has been a tendency in the past not to 
+mention post concussion symptoms in discharge advice 
+which may lead to unnecessary distress and confusion 
+for patients and their relatives and hinder their recovery. 
+As Jagoda et al9 for the American College of Emergency 
+Physicians pointed out, “a glaring omission from most mild 
+TBI discharge instructions is the lack of any mention of 
+the possibility of the patient developing post-concussive 
+symptoms.” Holm et al102 for the WHO Collaborating 
+Taskforce on Mild Traumatic Brain Injury concluded that the 
+only interventions that have been shown to be beneficial 
+for post concussion symptoms are education, reassurance 
+and time. Therefore, it is important to provide education 
+about post concussion symptoms to all mild head injury 
+patients. All patients should be given written advice and 
+advised to see a doctor if they are not feeling better within 
+a few days of injury.
+Both Fung et al155 and Bazarian et al82 found that most 
+head injury discharge advice sheets in a selection of US 
+emergency departments were either not routinely provided 
+or were difficult to understand or did not include sufficient 
+information. Similarly, Yates et al156 in a New Zealand 
+study found that a head injury discharge sheet was better 
+understood when written in a simplified form using less 
+complex language. 
+The mild head injury advice sheet developed for the 
+original version of these guidelines included most of the 
+relevant information suggested by the literature and was 
+well received during the implementation trials and after 
+publication. It has since been further modified by the 
+Motor Accidents Authority (MAA) NSW103 after community 
+trials to simplify the language and format in line with the 
+recommendations of Fung et al.155 This updated mild head 
+injury discharge advice sheet is included in this guideline 
+and is available in several languages through the MAA 
+website.
+All patients with mild head injury should be advised to 
+follow up with their local doctor if they are not feeling 
+better within a few days. Patients at higher risk of post 
+concussions symptoms should be advised to routinely follow 
+up with their local doctor within two or three days of 
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 41
+
+---
+
+## chunk_43_RIGHT
+
+**Source:** Page 43 (RIGHT)  
+**Word Count:** 167  
+
+discharge from hospital. These patients would include those 
+admitted to hospital for observation, those with minor 
+structural lesions on CT scan, those with significant acute 
+clinical symptoms in the emergency department and those 
+with documented post traumatic amnesia in the emergency 
+department. Elderly patients and those on anticoagulants 
+should also be advised to have routine follow up organised 
+due to the increased risk of complications. 
+It is important that patients with mild head injury are 
+able to access appropriate follow up from their local 
+doctor following discharge from hospital, particularly if 
+they develop significant post concussive symptoms. The 
+MAA NSW Guidelines for mild traumatic brain injury 
+following closed head injury103 (2008) were developed 
+to assist prehospital clinicians, emergency department 
+clinicians and general practitioners with the management 
+of patients suffering from persistent brain injury 
+symptoms following closed head injury. The MAA NSW 
+MTBI guideline complements this guideline and provides 
+detailed information and evidence about the recovery and 
+rehabilitation of patients with mild brain injury following 
+closed head injury.
+
+---
+
+## chunk_44_LEFT
+
+**Source:** Page 44 (LEFT)  
+**Word Count:** 385  
+
+Moderate head injury
+7. 
+What are the proven treatments for patients with moderate head injury? 
+RECOMMENDATION
+Strength of 
+recommendation
+Moderate head injury 
+Standard care:
+- Initial systematic assessment and resuscitation of ABCDEs
+- Supportive care of ABCDEs with appropriate attention to positioning (30° head up), basic nursing 
+care and avoidance of hyperventilation or hypoventilation.
+- Prevention of secondary brain injury by avoiding hypoxaemia (O2 saturation <90%) and hypotension 
+(systolic BP <90)
+- Early CT scan to identify acute neurosurgical lesions 
+- Period of clinical observation
+- Consider intubation in the event of clinical deterioration to facilitate resuscitation of ABCDEs or to 
+facilitate management of agitated patients
+- Early neurosurgical consult if not clinically improving and/or abnormal CT scan
+- Early retrieval consult if transfer required
+- Admit to hospital unless rapid clinical improvement to GCS 15, normal CT scan and absence of other 
+risk factors (as per mild head injury)
+- Repeat CT scan at 24 hours if not clinically improving or abnormal initial CT scan
+- Routine post traumatic amnesia testing and consider referral to brain injury rehabilitation service.
+- If clinical or CT evidence of raised ICP/mass effect consider in consultation with network 
+neurosurgical service:
+  
+- short term hyperventilation to PaCO2 30-35
+  
+- bolus of mannitol (1g/kg)
+  
+- surgical decompression if more than 2 hours from neurosurgical care
+  
+- prophylactic anti-convulsants
+Outcome:
+- Approximately 80-90% of moderate head injury patients improve and should be managed as 
+complicated mild head injury while 10-20% deteriorate and require management as per severe head 
+injury..
+- The majority of patients who suffer moderate head injuries will have some degree of cognitive 
+behavioural social sequelae and should be considered for routine follow up with a brain injury 
+rehabilitation service or a neurologist (see Appendix 7).
+The majority of studies in the literature tend to focus on 
+the management of either severe head injuries or mild head 
+injuries. The natural history of patients with moderate head 
+injuries is that they tend to either deteriorate (10-20%) 
+and should then be managed as severe head injuries or 
+improve (80-90%) and can be managed as “complicated” 
+mild head injuries.40 Patients who present initially with 
+moderate head injuries should all have an early CT scan 
+PAGE 42  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_44_RIGHT
+
+**Source:** Page 44 (RIGHT)  
+**Word Count:** 67  
+
+and close clinical observation. Patients with moderate head 
+injury have higher rates of intracranial lesions and cognitive 
+behavioural social sequelae. They should be admitted to 
+hospital for at least 24 hours observation unless they rapidly 
+return to normal, have a normal CT scan and absence of 
+other clinical risk factors. All moderate head injury patients 
+should be routinely followed up for evidence of cognitive 
+behavioural social sequelae.
+
+---
+
+## chunk_45_LEFT
+
+**Source:** Page 45 (LEFT)  
+**Word Count:** 263  
+
+Severe head injury
+8. 
+What are the proven treatments for patients with severe head injury? 
+RECOMMENDATION
+Strength of 
+recommendation
+Severe head injury
+Standard care:
+- Initial systematic assessment and resuscitation of ABCDEs
+- Early intubation
+- Supportive care of ABCDEs with appropriate attention to positioning (30° head up), basic nursing 
+care and avoidance of hyperventilation or hypoventilation.
+- Prevention of secondary brain injury by avoiding hypoxaemia (O2 saturation <90%) and hypotension 
+(systolic BP<90)
+- Early CT scan to identify acute neurosurgical lesions
+- Early neurosurgical consult
+- Early retrieval consult if transfer required
+- Consider use of anticonvulsants to prevent early post traumatic seizures
+- Consider ICP monitoring to guide management of cerebral perfusion pressure.
+- Low threshold to repeat CT scan if patient condition changes
+- ICU admission
+- Routine repeat CT scan at 24 hours
+- Brain injury rehabilitation consult
+- If clinical or CT evidence of raised ICP/mass effect consider in consultation with network 
+neurosurgical service:
+  
+- short term hyperventilation to PaCO2 30-35
+  
+- bolus of mannitol (1g/kg)
+  
+- surgical decompression if more than 2 hours from neurosurgical care
+  
+- prophylactic anti-convulsants
+Minimum supportive care aims:
+- PaO2 > 60
+- SaO2 > 90
+- PaCO2 35-40
+- Systolic BP > 90
+- Head up 30°
+Poor prognostic indicators:
+- Low GCS (especially motor component).
+- Age >60 years (prognosis deteriorates with increasing age).
+- Absent pupillary reﬂ exes (after systemic resuscitation).
+- Hypotension (systolic BP <90).
+- Hypoxaemia (oxygen saturation <90%).
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 43
+
+---
+
+## chunk_46_LEFT
+
+**Source:** Page 46 (LEFT)  
+**Word Count:** 388  
+
+Recent exhaustive reviews by the Brain Trauma Foundation15 
+and the Cochrane Review Group16-30 have looked at the 
+management of severe head injuries. The findings of 
+these detailed reviews are summarised in Evidence Table 
+4. This guideline summarises the generally accepted initial 
+management steps for severe head injury including those 
+recommended by the current Advanced Trauma Life 
+Support course and the Brain Trauma Foundation.15, 40 The 
+network neurosurgical service should be consulted about 
+further management of patients with severe head injury 
+as soon as practical after the initial primary survey and 
+resuscitation is completed. 
+It is important to recognise that for the majority of severe 
+head injury patients the most important aspect of care is 
+systematic resuscitation of the ABCDEs with prevention 
+of secondary brain injury as per current ATLS guidelines.40 
+Resuscitation of the ABCDEs with adequate oxygenation 
+and fluid resuscitation and the treatment of other 
+immediately life threatening injuries should be the priority 
+for patients with severe head injury followed by the CT 
+identification of focal intracranial lesions requiring acute 
+neurosurgical intervention.40, 157 Early intubation to prevent 
+hypoxaemia and facilitate management is recommended.40 
+Hyperventilation should be avoided and patients should 
+normally be ventilated to maintain normocarbia.24, 158 Fluid 
+resuscitation with normal saline or Hartmanns followed 
+by blood products to maintain normovolaemia and mean 
+arterial pressure is recommended.157 Anticonvulsants are 
+usually recommended to prevent early post traumatic 
+seizures particularly if there is an abnormal CT scan or 
+a history of a witnessed seizure.17, 29, 151 Blood glucose 
+and temperature should be monitored and maintained 
+in a normal range.159, 160 Thus, good supportive care 
+of the ABCDEs, with the prevention of hypoxaemia 
+and hypotension, remain the cornerstone of initial 
+management.40
+The network neurological service should be urgently 
+consulted about any patient with an acute neurological 
+deterioration suggestive of acutely raised intracranial 
+pressure. In the event of acute deterioration, it is important 
+to remember that hyperventilation24, 158 and intravenous 
+mannitol boluses161,162 are short-term measures to reduce 
+intracranial pressure whilst the patient is urgently assessed 
+for the need for acute neurosurgical intervention. If an 
+acutely deteriorating patient with a proven extradural 
+or subdural haematoma cannot be transferred to a 
+neurosurgical service within two hours, then the option of 
+local surgical decompression should be discussed with the 
+neurosurgical service.
+PAGE 44  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_46_RIGHT
+
+**Source:** Page 46 (RIGHT)  
+**Word Count:** 258  
+
+If the referring clinician is unsure about the need for a 
+particular therapy, such as prophylactic anticonvulsants 
+or antibiotics, then the network neurosurgical service 
+should be consulted. There are many other promising 
+areas of treatment such as induced hypothermia159, 160 
+and hypertonic saline.161 However, there is currently 
+insufficient evidence to recommend these as first line 
+therapy. Corticosteroids have been shown to worsen the 
+patient outcome and are not recommended for the initial 
+management of closed head injury.163, 164
+Detailed evaluation of subsequent management of severe 
+head injuries by the neurosurgical services are beyond the 
+scope of these guidelines. There is limited high quality 
+evidence to guide management and the relative merits 
+of different strategies are hotly debated in the literature. 
+The Brain Trauma Foundation review, the Cochrane Group 
+reviews, the BMJ Clinical Evidence review165 and recent 
+Australian reviews2, 117 all agree that there is no class 1 
+evidence to guide management of severe head injury 
+patients. However, there is broad consensus agreement 
+that strategies to control cerebral perfusion using ICP 
+monitoring,27, 28, 61 mild hypothermia26, 66, 135 and 
+decompressive craniectomy166 are promising strategies that 
+are being widely used and require further study.
+Predicting outcome following closed head injury is difficult. 
+There have been many attempts to provide scoring 
+systems to predict outcome with one of the best known 
+being that provided by the CRASH Investigators167. It 
+is perhaps prudent to err on the side of caution in the 
+initial management setting as at least 24-48 hours of 
+investigation and management are required before offering 
+any sort of prognosis.
+
+---
+
+## chunk_47_LEFT
+
+**Source:** Page 47 (LEFT)  
+**Word Count:** 276  
+
+Transfer to neurosurgical facility
+9. 
+ When should patients with closed head injury be transferred to hospitals 
+with neurosurgical facilities? 
+RECOMMENDATION
+Strength of 
+recommendation
+A clear decision about the potential need for transfer should be made at the time of initial assessment or 
+after a brief period of observation. A senior clinician should be consulted. 
+The network neurosurgical and retrieval services should be consulted as soon as possible to facilitate 
+early transfer. The following patients should be considered for transfer and discussed with the network 
+neurosurgical service.
+All patients with severe head injury (GCS 3-8)
+A
+Patients with moderate head injury (GCS 9-13) if: 
+- clinical deterioration
+- abnormal CT scan
+- normal CT scan but not clinically improving
+- CT scan unavailable.
+Patients with mild head injury (GCS 14-15) if:
+- clinical deterioration
+- abnormal CT scan
+- normal CT scan but not clinically improving at 4-6 hours post injury
+- high risk mild head injury with CT scan unavailable if:
+  
+- Persistent GCS<15 at two hours post injury
+  
+- Focal neurological deﬁ cit
+  
+- Clinical suspicion of skull fracture
+  
+- Persistent abnormal mental status 
+  
+- Persistent vomiting
+  
+- Persistent severe headache 
+  
+- Any deterioration in GCS
+  
+- Post traumatic seizure in ED 
+  
+- Known coagulopathy (particularly if age >65 or INR >4)
+Note –  the Ambulance Service of NSW Pre Hospital Major Trauma Triage Protocol (T1), attempts to ensure that, wherever 
+possible, trauma patients with moderate to severe head injury are transferred directly from the pre-hospital setting to a 
+Tertiary Trauma Centre.
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 45
+
+---
+
+## chunk_48_LEFT
+
+**Source:** Page 48 (LEFT)  
+**Word Count:** 219  
+
+Patients with closed head injury should be observed in 
+facilities that can manage any complications that are likely 
+to arise. Clinical judgment regarding risk of deterioration is 
+required and early neurosurgical consultation is advisable.
+Patients with closed head injury assessed at hospitals 
+without CT scanning facilities should be transferred to the 
+nearest appropriate hospital if there is significant risk of 
+intracranial injury. Transfer of patients to a hospital with CT 
+scanning facilities but without neurosurgical services should 
+be avoided wherever possible. 
+Fabbri et al41 recently published a study in which they 
+compared the outcome for mild to moderate head injury 
+patients and initial non-neurosurgical lesions on CT scan 
+when managed in neurosurgical units versus peripheral 
+hospitals. Their system allowed for rapid transfer of patients 
+to the tertiary centre in the event of deterioration and used 
+a teleradiology link to review CT scans. The outcome for 
+patients was not shown to be significantly different. Huynh 
+et al168 also showed in a retrospective study that trauma 
+patients with GCS 15 and an abnormal CT scan could be 
+safely managed without neurosurgical consultation. Both 
+these studies would support the current NSW practice of 
+managing some head injury patients in non-neurosurgical 
+centres following consultation with a network neurosurgical 
+centre. 
+PAGE 46  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_48_RIGHT
+
+**Source:** Page 48 (RIGHT)  
+**Word Count:** 124  
+
+The current guideline aims to address the question of when 
+to transfer patients from a non neurosurgical facility to a 
+neurosurgical facility. However, there has been increasing 
+interest in the issue of pre-hospital bypass of trauma 
+patients to ensure that they go directly to a tertiary hospital 
+with neurosurgical facilities. The primary benefit proposed 
+by this strategy is to avoid undue delay in transfer to 
+definitive care. There have been many studies such as the 
+one by Hartl et al169 that have shown reduced mortality 
+using such strategies. The Ambulance Service of NSW Pre 
+Hospital Major Trauma Triage Protocol (T1)170 has adopted 
+such a pre-hospital strategy for transferring all major 
+trauma patients directly to a major tertiary trauma hospital 
+or neurosurgical facility wherever possible.
+
+---
+
+## chunk_49_LEFT
+
+**Source:** Page 49 (LEFT)  
+**Word Count:** 410  
+
+Analgesia
+10. What analgesia should patients with closed head injury receive?
+RECOMMENDATION
+Strength of 
+recommendation
+Analgesia in isolated mild head injury
+- Persistent severe headache or worsening severe headache is an indication for a CT scan to exclude a 
+signiﬁ cant intracranial lesion
+- Most headaches associated with isolated mild head injury will respond to simple analgesia such as 
+paracetamol. 
+- Isolated mild head injury patients who require more than paracetamol for headache should be 
+considered for a CT scan to exclude a signiﬁ cant intracranial injury
+Analgesia guide for isolated mild head injury:
+- Paracetamol, 1g, q 4-6 hours, maximum 4g/24 hours*
+If paracetamol is ineffective as a sole agent then stronger analgesia such as oral opioids or parenteral 
+opioids should not be prescribed to patients with isolated mild head injury unless the need for an initial 
+or repeat CT scan to exclude clinically important intracranial lesions has been considered and a senior 
+clinician has been consulted. After further clinical assessment consider adding;
+- Codeine Phosphate, 30-60mg, q 4-6 hours*
+                         or
+- Oxycodone (immediate release), 5-10mg q 4-6 hours* 
+NB Avoid the use of aspirin / NSAIDS due to increased risk of bleeding
+* See standard texts for detailed prescribing information
+Analgesia guide for mild head injury with associated systemic injuries:
+- More likely to need titrated intravenous opioids, procedural sedation or general anaesthesia for their 
+associated injuries. 
+- Have a lower threshold for performing CT scans.
+- Require close clinical assessment and observation.
+- Appropriate pain relief should not be withheld due to concerns of masking head injury symptoms 
+and signs
+- Analgesia needs to be individualised under the supervision of a senior clinician.
+Analgesia in moderate to severe head injury
+- Likely to require titrated intravenous analgesia and sedation for associated injuries, clinical 
+management or intubation. 
+- Will require close clinical observation in a high dependency area following initial clinical assessment 
+and CT scanning. 
+- Analgesia needs to be individualised under the supervision of a senior clinician.
+Clinical approach to pain management in closed head injury (all severities)
+- Consult a senior clinician if any signiﬁ cant change in the patient’s condition
+- Clinically re-assess if: 
+  
+- inadequate analgesia or worsening headache
+  
+- excessive drowsiness, or other clinical deterioration
+- Before using stronger analgesia:
+  
+- clinically re-assess patient
+  
+- consider need for CT scan
+  
+- consult senior clinician 
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 47
+
+---
+
+## chunk_50_LEFT
+
+**Source:** Page 50 (LEFT)  
+**Word Count:** 343  
+
+No prospective randomised multi-centre trials specifically 
+addressing the issue of analgesia in patients with closed 
+head injury could be identified. Interestingly, Bazarian 
+et al82 in a review of management of mild head injury 
+patients in selected emergency departments in the USA 
+found that nearly 50% of patients did not have assessment 
+of pain documented and 50% of those received no 
+analgesia. There are many studies addressing the issue of 
+analgesia in the broader patient population. The following 
+recommendations are based on existing analgesia clinical 
+practice guidelines including those available via the NSW 
+Health Clinical Information Access Program (CIAP) such as 
+Therapeutic Guidelines.171, 172
+Mild head injury
+Isolated mild head injury patients
+- Most headaches associated with isolated mild head 
+injuriy will respond to simple analgesia such as 
+paracetamol.
+- If paracetamol (1g q 4-6 hr max 4g/day) alone is 
+ineffective then codeine phosphate (60mg q 4-6hr 
+max 240mg/daily) or low dose immediate release 
+oxycodone (5-10mg q 4-6hr) can be added after 
+the need for an initial or repeat CT scan to exclude 
+a clinically significant intracranial lesion has been 
+considered.
+- The aim of analgesia in patients with isolated mild 
+head injury with associated headache should be to 
+relieve pain without causing excessive drowsiness. 
+Patients should always remain easy to rouse.
+- Analgesics containing aspirin or NSAIDs should not be 
+used due to the increased risk of bleeding from platelet 
+dysfunction.
+- Patients with persistent or worsening severe headaches 
+requesting increasing analgesia should be clinically 
+reassessed and the need for a CT scan to exclude a 
+clinically significant intracranial lesion considered.
+- Patients who are already drowsy or difficult to rouse 
+should not be given additional opioids due to the risk 
+of respiratory depression. Patients with persistent or 
+worsening drowsiness should be clinically reassessed.
+- If a headache has not responded to simple analgesics 
+or a patient is abnormally drowsy following analgesia 
+then the patient should be clinically re-assessed for 
+potential complications. Specific questions that should 
+be considered include:
+PAGE 48  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_50_RIGHT
+
+**Source:** Page 50 (RIGHT)  
+**Word Count:** 252  
+
+1)  Are there other signs of clinical deterioration 
+such as persistently abnormal or worsening 
+mental status, behaviour, drowsiness or 
+vomiting?
+ 
+2)  Does the patient require an initial CT scan or a 
+repeat CT scan to exclude a clinically important 
+cranial lesion?
+ 
+3)  Has a senior clinician been notified/consulted 
+about the change in the patient’s condition?
+- Stronger analgesia such as increased dosage or oral 
+opioid or parenteral opioid should not be prescribed to 
+patients with isolated mild head injury unless a senior 
+clinician has been consulted and clinically important 
+complications considered. 
+Notes:
+- see standard texts for precautions and toxicity eg, 
+Therapeutic Guidelines / MIMS
+- 
+avoid aspirin / NSAIDs due to risk of bleeding
+- consult a senior clinician if any significant change in the 
+patient’s condition
+- 
+clinically re-assess if: 
+  
+- inadequate analgesia or worsening headache
+       - excessive drowsiness, or other clinical deterioration
+- 
+before using stronger analgesia:
+  
+-clinically re-assess patient
+  
+-consider need for CT scan
+  
+-consult senior clinician 
+ Mild head injury patients with other associated 
+injuries
+- The same general principles outlined for isolated 
+mild head injury patients apply. However, mild head 
+injury patients with other associated injuries are more 
+likely to need titrated intravenous opioids, procedural 
+sedation or general anaesthesia for their associated 
+injuries.
+- Clearly, this has the potential to mask signs of 
+worsening head injury. Therefore, these patients 
+require close clinical observation and clinicians should 
+have a low threshold for performing CT scans on mild 
+head injury patients requiring intravenous opioids,
+
+---
+
+## chunk_51_LEFT
+
+**Source:** Page 51 (LEFT)  
+**Word Count:** 184  
+
+procedural sedation or general anaesthesia for 
+associated injuries.
+- Appropriate pain relief should not be withheld due to 
+concerns of masking head injury symptoms and signs 
+as the patients pain is likely to make clinical assessment 
+more difficult and mask other signs of injury and the 
+patient should not be allowed to suffer unnecessarily.
+Moderate to severe head injury
+- Isolated moderate head injury patients who rapidly 
+clinically improve can be treated in a similar way to 
+mild head injury patients. They all require an initial CT 
+- However, most moderate head injury patients and 
+nearly all severe head injury patients will require 
+titrated intravenous analgesia and sedation for 
+associated injuries, clinical management or intubation. 
+These patients will all require close clinical observation 
+in a high dependency area following initial clinical 
+assessment and CT scanning. Analgesia needs to be 
+individualised under the supervision of senior clinicians.
+- Routine analgesia with intravenous opioids is 
+recommended for most intubated patients as pain 
+may cause adverse effects on blood pressure and 
+intracranial pressure.
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 49
+
+---
+
+## chunk_52_LEFT
+
+**Source:** Page 52 (LEFT)  
+**Word Count:** 409  
+
+Anti-convulsants
+11. Which patients with closed head injury should receive anti-convulsants?
+RECOMMENDATION
+Strength of 
+recommendation
+Consult a senior clinician or your network neurosurgical service before commencing prophylactic anticonvulsants in patients with acute closed head injury 
+Prophylactic anti-convulsants are not indicated for patients with uncomplicated mild head injury
+B
+Prophylactic anti-convulsants should be considered in patients with complicated mild head injury or 
+moderate to severe head injury.
+B
+Speciﬁ c indications to consider prophylactic anti-convulsants in the ﬁ rst week following a head injury 
+include:
+- Extradural, subdural or intracerebral haematoma on CT
+- Depressed skull fracture on CT
+- Early post traumatic seizure in hospital (especially if focal or prolonged)
+- Severity of head injury (low initial GCS / prolonged coma / prolonged PTA)
+- Any suspicion of penetrating injury
+Prophylactic anti-convulsants decrease the incidence of early post traumatic seizures within seven days 
+of closed head injury.
+Early post traumatic seizures have not been shown to be associated with worse patient outcomes in 
+large population studies.
+B
+Clinical judgment is required on whether to prescribe anti-convulsants for individual patients.
+CONSENSUS
+Indications for anti-convulsants by post traumatic seizure type
+Immediate post traumatic seizures (at time of injury) 
+- Anti-convulsants not warranted unless speciﬁ c indication present (see above)
+Early post traumatic seizures ( up to 7 days post injury)
+- Anti-convulsants should be considered especially if any of the other speciﬁ c indications are also 
+present (see above) 
+Late post traumatic seizures (more than 7 days post injury)
+- Long term anti-convulsants should be considered after the ﬁ rst late post traumatic seizure due to the 
+increased risk of developing post traumatic epilepsy
+- There is no evidence that the routine use of anti-convulsants following closed head injury reduces 
+the risk of late post traumatic seizures. 
+Recommended drugs and loading doses*
+Standard therapy:
+Phenytoin:
+-  Intravenous loading dose: 20 mg/kg in NS (<6.7mg/ml) no faster than 50mg/min 
+Standard adult IVI loading dose: 1000mg phenytoin diluted in 150ml normal saline over 60 mins with in 
+line micron ﬁ lter
+Alternative therapies:
+Levetiracetam:
+- Intravenous loading dose: 10mg /kg (max 1000mg)
+- Standard adult IVI loading dose: 1000mg levetiracetam in 100ml normal saline over 15 mins
+Sodium Valproate:
+- Intravenous loading dose: 10mg /kg (max 800mg)
+- Standard adult IVI loading dose: 800mg in 100ml normal saline over 15 mins
+* See standard texts for detailed prescribing information
+PAGE 50  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_53_LEFT
+
+**Source:** Page 53 (LEFT)  
+**Word Count:** 409  
+
+Post traumatic seizures are a recognised complication of 
+closed head injuries with incidence depending largely on 
+severity of injury. Penetrating injuries have a much higher 
+incidence of post traumatic seizures. Post traumatic seizures 
+are classified as either immediate, early (0-7 days) or late/
+delayed (>7 days).144 Immediate and early post traumatic 
+seizures are thought to be associated with the acute injury 
+and are not significantly associated with the development 
+of post traumatic epilepsy. Late post traumatic seizures 
+are less likely to be related to the acute injury and are 
+more likely to be associated with the development of post 
+traumatic epilepsy.144 
+Brief generalised post traumatic seizures immediately 
+following mild head injury are not usually associated with 
+poor outcome or intracranial injury. These immediate 
+seizures are frequently seen on sporting fields and in 
+young children. It has been proposed that these immediate 
+seizures be called “concussive convulsions” and it has been 
+suggested that they are not an epileptic phenomena.64, 
+107, 134 McCrory et al145 demonstrated that outcome was 
+universally good for these “concussive convulsions” in elite 
+Australian sportsmen.
+Immediate and early post traumatic seizures are relatively 
+common in patients with mild closed head injury with a 
+reported incidence of up to 5%.144, 173 The literature is 
+somewhat contradictory about the risk of seizures being 
+associated with intracranial injury. Many of the larger 
+studies found that post traumatic seizures were not 
+significantly associated with intracranial injury.85, 115, 168, 172, 
+174 However, Haydel et al32 found that they were significant 
+and Smits et al47 found that while they were not statistically 
+significant, included them in their decision rule because 
+of their perceived clinical importance. Neidlinger et al146 
+found that the “yield of unsuspected major intracranial 
+abnormality on CT scan justifies a policy of its routine 
+use in trauma patients with seizure or who are post ictal, 
+regardless of prior seizure history.”
+Immediate or early post traumatic seizures are more 
+common (up to 30%) in patients with moderate to severe 
+closed head injury, and are more likely to be associated with 
+significant intracranial injury.144, 173 There is an association 
+with underlying structural lesions and the potential for 
+secondary brain injury especially with prolonged, focal 
+or delayed seizures. Any moderate to severe head injury 
+patient who has a post traumatic seizure warrants a CT 
+scan to exclude significant underlying pathology and 
+then the need for prophylactic anti-convulsants should be 
+considered.
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 51
+
+---
+
+## chunk_53_RIGHT
+
+**Source:** Page 53 (RIGHT)  
+**Word Count:** 334  
+
+The major risk factors for developing early post traumatic 
+seizures include lower initial GCS, depressed skull fracture, 
+penetrating injury, extradural/subdural/intracerebral 
+haematomas and young age.12, 17, 29, 64, 182 The risk is 
+therefore related to the amount of structural damage. 
+Penetrating injury provides the greatest risk. The risk posed 
+by an intracranial bleed is proportional to the amount of 
+blood. 
+Delayed or late post traumatic seizures (incidence range 
+1-15%) that occur more than seven days after injury are 
+associated with the development of post traumatic epilepsy. 
+Risk factors for late post traumatic seizures include lower 
+initial GCS, depressed skull fracture, penetrating injury, 
+extradural/subdural/intracerebral haematomas, elderly (age 
+>65), neurosurgical intervention and early post traumatic 
+seizures.12, 17, 29, 64, 182 
+Acute post traumatic seizures require systematic 
+reassessment of the ABCDEs to exclude systemic causes and 
+termination with benzodiazepines if required. Underlying 
+structural lesions should be excluded with CT scan and then 
+the need for prophylactic anti-convulsants considered.
+If prophylactic anti-convulsants are recommended then 
+phenytoin (dilantin) is normally given as there has been 
+extensive experience with its use and it can be given as 
+either an oral or an intravenous loading dose.11, 17, 29, 69, 
+151 Alternatives include sodium valproate (epilim) and 
+levetiracetam (keppra). Levetiracetam is being increasingly 
+used in both non traumatic and traumatic epilepsy due 
+to its better side effect profile and may become first line 
+therapy in the future.174, 175 However, there is limited 
+experience with its use in the trauma setting and phenytoin 
+remains the first line therapy at present.
+- Current evidence suggests that anti-convulsants 
+decrease the incidence of early post traumatic seizures 
+within seven days of closed head injury.17, 29, 151 
+- Early post traumatic seizures have not been shown to 
+be clearly associated with worse patient outcome.17, 29, 
+- There is no evidence that prophylactic anti-convulsants 
+following closed head injury reduce the risk of late post 
+traumatic seizures.17, 29, 151 
+- Anti-convulsants as a group have many potential side 
+effects and are relatively poorly tolerated by patients 
+long term.17, 29, 151
+
+---
+
+## chunk_54_LEFT
+
+**Source:** Page 54 (LEFT)  
+**Word Count:** 357  
+
+- Clinical judgement is therefore required to balance 
+the potential benefits versus potential harm of anticonvulsants for individual patients with closed head 
+injury. 
+- Anti-convulsants are therefore only indicated in the 
+first week following closed head injury to reduce the 
+risk of complications from early post traumatic seizures. 
+They should not be routinely continued long term.
+- In most patients with mild head injury prophylactic 
+anti-convulsants are not indicated.
+- Specific indications to consider prophylactic anticonvulsants in the first week following a closed head 
+injury include:
+ 
+-  Extradural, subdural or intracerebral haematoma on 
+ 
+- Depressed skull fracture on CT
+ 
+- Early post traumatic seizure in hospital
+ 
+-  Severity of injury (low GCS / duration of coma / 
+duration of PTA)
+ 
+- Any penetrating injury
+- Long term anti-convulsants should be considered after 
+the first or second late post traumatic seizure (ie after 
+the diagnosis of post traumatic epilepsy).17, 29, 50, 132 
+Mild head injury
+In most patients with mild head injury prophylactic anticonvulsants are not indicated. The risk of seizures is low 
+and the risk of secondary brain injury is low. Mild head 
+injury patients who have had an early post traumatic 
+seizure in hospital and those with structural lesions such as 
+depressed skull fractures or focal intracranial haematomas 
+on CT scan should be considered for anti-convulsants and 
+discussed with a neurosurgical service. 
+ Moderate to severe head injury
+In moderate and severe head injury patients there is a 
+stronger case to consider prophylactic anti-convulsants 
+especially in those with structural lesions on CT scan. The 
+risk of early post traumatic seizures is greater and the 
+potential for secondary brain injury from these seizures is 
+increased. Prolonged post traumatic seizures are of most 
+concern and may be difficult to recognise in intubated 
+patients. Therefore, prophylactic anti-convulsants are more 
+likely to be recommended in these patients. It should 
+be noted that most intubated patients in NSW receive 
+analgesia and sedation with morphine and midazolam 
+infusions and so are already receiving a benzodiazepine 
+anti-convulsant. The decision to use anti-convulsants should 
+be discussed with the relevant neurosurgical service.
+PAGE 52  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_54_RIGHT
+
+**Source:** Page 54 (RIGHT)  
+**Word Count:** 98  
+
+Recommended anti-convulsant doses*
+Standard therapy:
+Phenytoin:
+- Intravenous loading dose: 20 mg/kg in NS (<6.7mg/ml) 
+no faster than 50mg/min 
+- Standard adult IVI loading dose: 1000mg phenytoin 
+diluted in 150ml normal saline over 60 mins with in 
+line micron filter
+Alternative therapies:
+Levetiracetam:
+- 
+Intravenous loading dose: 10mg /kg (max 1000mg)
+- 
+Standard adult IVI loading dose: 1000mg levetiracetam 
+in 100ml normal saline over 15 mins
+Sodium Valproate:
+- 
+Intravenous loading dose: 10mg /kg (max 800mg)
+- Standard adult IVI loading dose: 800mg in 100ml 
+normal saline over 15 mins
+* See standard texts for detailed prescribing information
+
+---
+
+## chunk_55_LEFT
+
+**Source:** Page 55 (LEFT)  
+**Word Count:** 86  
+
+Evidence Tables 
+1.  Studies examining the definition of mild head injury and the assessment of mild head injury patients 
+(including CT scanning)
+2. Complications of mild closed head injury
+3.  Optimal management strategy for high-risk mild head injury patients when CT scanning is not available
+4.  Proven treatments for moderate to severe head injury
+5.  Transfer of patients with a closed head injury
+6.  Discharge of patients with a mild head injury
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 53
+
+---
+
+## chunk_56_LEFT
+
+**Source:** Page 56 (LEFT)  
+**Word Count:** 38  
+
+3 months post injury.
+MHI = GCS15 on admission
+question
+Comments
+quality
+Study question / objective
+Study outcomes/ﬁ ndings relevant to 
+al46 2003
+Meta-analysis 
+PAGE 54  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_56_RIGHT
+
+**Source:** Page 56 (RIGHT)  
+**Word Count:** 14  
+
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 91
+
+---
+
+## chunk_93_RIGHT
+
+**Source:** Page 93 (RIGHT)  
+**Word Count:** 235  
+
+MRN sticker here
+The A-WPTAS combined with a standardised GCS 
+assessment is an objective measure of post traumatic 
+amnesia (PTA).   
+Only for patients with current GCS of 13-15 (<24hrs 
+post injury) with impact to the head resulting in confusion, 
+disorientation, anterograde or retrograde amnesia, or brief 
+LOC. Administer both tests at hourly intervals to gauge 
+patient’s capacity for full orientation and ability to retain new 
+information. Also, note the following: poor motivation, 
+depression, pre-morbid intellectual handicap or possible 
+medication, drug or alcohol effects. NB: This is a screening 
+device, so exercise clinical judgement. In cases where 
+doubt exists, more thorough assessment may be
+necessary.
+Admission and Discharge Criteria: 
+A patient is considered to be out of PTA when they score 
+18/18.
+Both the GCS and A-WPTAS should be used in conjunction 
+with clinical judgement. 
+Patients scoring 18/18 can be considered for discharge. 
+For patients who do not obtain 18/18 re-assess after a 
+further hour. 
+Patients with persistent score <18/18 at 4 hours post time 
+of injury should be considered for admission. 
+Clinical judgement and consideration of pre-existing 
+conditions should be used where the memory component 
+of A-WPTAS is abnormal but the GCS is normal (15/15). 
+Referral to GP on discharge if abnormal PTA was present, 
+provide patient advice sheet. 
+Pupil Size (mm)
+2
+3
+4
+5
+6
+7
+8
+Shores & Lammel (2007) - further copies of this score sheet can be 
+downloaded from http://www.psy.mq.edu.au/GCS
+
+---
+
+## chunk_94_LEFT
+
+**Source:** Page 94 (LEFT)  
+**Word Count:** 508  
+
+GLASGOW COMA SCALE (GCS) AND ABBREVIATED WESTMEAD PTA  SCALE (A-WPTAS)  
+Administration and Scoring 
+1. Orientation Questions
+Question 1: WHAT IS YOUR NAME?  
+The patient must provide their full name.
+Question 2: WHAT IS THE NAME OF THIS PLACE?  
+The patient has to be able to give the name of the hospital. For example: Westmead Hospital. (NB: The 
+patient does not get any points for just saying ‘hospital’.) If the patient can not name the hospital, give them a 
+choice of 3 options. To do this, pick 2 other similar sized hospitals in your local area or neighbouring region. In 
+Westmead Hospital’s case the 3 choices are ‘Nepean Hospital, Westmead Hospital or Liverpool Hospital’. 
+Question 3: WHY ARE YOU HERE? 
+The patient must know why they were brought into hospital. e.g. they were injured in a car accident, fell, 
+assaulted or injured playing sport. If the patient does not know, give them three options, including the correct 
+reason.
+Question 4: WHAT MONTH ARE WE IN?  
+For emphasis the examiner can ask what month are we in now? The patient must name the month. For 
+example, if the patient answers ‘the 6th month’, the examiner must ask the further question ‘What is the 6th 
+month called?’. 
+Question 5: WHAT YEAR ARE WE IN?  
+It is considered correct for patients to answer in the short form ‘08’, instead of ‘2008’. Also, an acceptable 
+alternative prompt (for the rest of the 2000’s) is ‘The year is 2000 and what?’ 
+2. Picture recognition 
+Straight after administering the GCS (standardised questions), administer the A-WPTAS by presenting the 3 
+Westmead PTA cards. Picture Cards  the ﬁrst time - T1 : Show patients the target set of picture cards for 
+about 5 seconds and ensure that they can repeat the names of each card. Tell the patient to remember the 
+pictures for the next testing in about one hour. Picture Cards at each subsequent time T2-T5: Ask patient, 
+“What were the three pictures that I showed you earlier?”  Scoring:
+For patients who free recall 
+UÊ
+all 3 pictures correctly, assign a score of 1 per picture and add up the patient’s 
+GCS (out of 15) and A-WPTAS memory component to give the A-WPTAS score (total = 18). Present the 3 
+target pictures again and re-test in 1 hour. 
+For patients who can not free recall, or only partially free recall, the 3 correct pictures, present the 9-object 
+UÊ
+recognition chart. If patient can recognise any correctly, score 1 per correct item and record their GCS 
+and A-WPTAS score (total = 18). Present the target set of pictures again and re-test in 1 hour. 
+For patients who neither remember any pictures by free call nor recognition
+UÊ
+, show the patient the target 
+set of 3 picture cards again for re-test in 1 hour.
+Shores & Lammel (2007) - further copies of this score sheet can be downloaded from http://www.psy.mq.edu.au/GCS
+Research and development of the A-WPTAS supported by the Motor Accidents Authority NSW
+PAGE 92  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_95_LEFT
+
+**Source:** Page 95 (LEFT)  
+**Word Count:** 30  
+
+Shores & Lammel (2007) - further copies of this score sheet can be downloaded from http://www.psy.mq.edu.au/GCS
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 93
+
+---
+
+## chunk_96_LEFT
+
+**Source:** Page 96 (LEFT)  
+**Word Count:** 355  
+
+Appendix 5: The Glasgow Coma Scale - a practical implementation guide
+Associate Professor Paul M Middleton
+Introduction
+Impairment of consciousness is one of the most consistent 
+features of head injury, and the Glasgow Coma Scale 
+(GCS) was described by Teasdale and Jennett in 1974192, 
+based on a theoretical model of level of consciousness. 
+It was introduced as a simple tool, not to allow absolute 
+distinctions between levels of consciousness, but to be an 
+effective method of accurately describing the various states 
+of impairment within the continuum of consciousness.192 
+As the authors stated in the original paper “In the acute 
+stage, changes in conscious level provide the best indication 
+of the development of complications such as intracranial 
+haematoma, whilst the depth of coma and its duration 
+indicate the degree of ultimate recovery which can be 
+expected”. Prior to this most descriptions of altered 
+levels of consciousness revolved around very subjective 
+portrayals such as “comatose”, “drowsy”, “obtunded”, and 
+“stuporose”.193
+The GCS was originally described by the authors as a 
+repeated bedside assessment of the “…depth and duration 
+of impaired consciousness and coma”192, and was used to 
+objectively determine the severity of coma and underlying 
+brain dysfunction at six hours following head trauma. This 
+time frame was chosen to avoid overestimation of brain 
+damage produced by temporary factors such as alcohol, 
+hypoxia or hypotension,193 and similarly the GCS should be 
+recorded prior to any sedation.
+The GCS has also been incorporated as the neurological 
+component of assessment into various aggregate scores 
+such as APACHE and TRISS,193 and it has been found that 
+taking out this neurological component worsened predictive 
+ability, which led to the presumption that neurological 
+status is the best predictor of overall functional outcome.194 
+The GCS makes up 17% of the theoretical maximum Acute 
+Physiology Score (APS) in APACHE II, 19% of the APS in 
+APACHE III195 and is the basis of the World Federation of 
+neurosurgeons (WFNS) subarachnoid haemorrhage (SAH) 
+grading scale.196 
+The GCS, in actual fact, has evolved through both design 
+and common usage to fulfil multiple functions, which are 
+PAGE 94  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_96_RIGHT
+
+**Source:** Page 96 (RIGHT)  
+**Word Count:** 225  
+
+summarised in the list below. The GCS can be said to…
+- Aid in clinical decision making in interventions such as 
+airway management or intensive care admission
+- Describe, quantitate and add structure to the 
+assessment of coma
+- Facilitate and standardise communication between 
+clinicians
+- Enable monitoring of change in both component 
+and overall scores, i.e. trends in the early stages after 
+injury, allowing rapid detection of complications and 
+discriminating between those at higher or lower risk of 
+complications
+- Be an indicator of the severity of illness
+- Facilitate comparison between groups of patients
+- Allow triage of patients after injury
+- Provide a tool for prognostication
+- Allow standardisation of patients and patient groups 
+for research
+The important primary uses for the GCS can be distilled 
+from this list to…
+- Act as an indicator of the level injury and illness, 
+allowing triage and immediate intervention when 
+required, as well as to enable monitoring by the 
+provision of valid measurements and trends of level of 
+consciousness
+- Facilitate understanding, clear description and 
+communication between clinicians. This should enable 
+one clinician to describe the level of consciousness to 
+another, whether face-to-face or remotely, in the sure 
+knowledge that this description precisely represents 
+the injury, physiological and functional state of the 
+patient and that the receiving clinician may accurately 
+comprehend this from the description.
+
+---
+
+## chunk_97_LEFT
+
+**Source:** Page 97 (LEFT)  
+**Word Count:** 213  
+
+The original authors believed that measurement of 
+consciousness should not depend on a single measure, so 
+the GCS was designed to utilise the three domains of eye 
+opening, verbal response and motor response.193 These 
+domains were chosen as they represent differing aspects of 
+central nervous system function, measured independently 
+of each other, with scores in rank order that indicate the 
+degree of dysfunction. The domains are represented by 
+three different behavioural responses, each assessable in 
+the absence of the others, and the GCS was therefore 
+considered to be more appropriate and effective than the 
+imposition of subjective “levels” of function. The total GCS 
+is time-efficient, and considered to be easy to sum.197
+The eye opening component refers to the processing of 
+information by the cerebral cortex and the level of arousal 
+or wakefulness.193 The verbal response domain measures 
+The Glasgow Coma Scale
+Domain
+Level of response
+Score
+Eye opening
+Spontaneous
+4
+To speech
+3
+To pain
+2
+None
+1
+Best Verbal Response
+Oriented
+5
+Confused
+4
+Inappropriate words
+3
+Incomprehensible sounds
+2
+None
+1
+Best Motor Response
+Obeying commands
+6
+Localising
+5
+Normal ﬂ exor response / withdrawal
+4
+Abnormal ﬂ exor response
+3
+Extensor posturing
+2
+None
+1
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 95
+
+---
+
+## chunk_97_RIGHT
+
+**Source:** Page 97 (RIGHT)  
+**Word Count:** 151  
+
+integration within the nervous system and the presence 
+of speech represents a high degree of this integration.193 
+The motor response is considered a good indicator of the 
+ability of the nervous system to function properly due to 
+the variety of possible motion patterns192, 193 and is also 
+considered to represent that part of the central nervous 
+system least affected by trauma.193 Total GCS up to 8 
+largely reflects changes in motor response, referring to 
+patients with no eye opening or verbal response; response 
+scores from 9-15 depend more on eye opening and verbal 
+response.198 Changes in the eye and verbal responses, 
+and thus higher overall scores, are useful in discriminating 
+between patients with less severe impairment of 
+consciousness. One research group found that increasing 
+scores in the 9-15 range (reflecting improving eye and 
+verbal performances) are associated with a doubling of the 
+rate of good recovery in survivors of head injury.199
+
+---
+
+## chunk_98_LEFT
+
+**Source:** Page 98 (LEFT)  
+**Word Count:** 425  
+
+Importantly, to facilitate these uses, an exact understanding 
+of the terminology encompassed in the GCS, of the 
+pathophysiological reactions underpinning response, and 
+of the methodology by which various clinicians examine 
+and describe the level of consciousness using the GCS, 
+are essential. Unfortunately, not only are many clinicians 
+unaware what the descriptions of patient reaction to a 
+stimulus mean, but there also appears to be very variable 
+teaching and practice in the detail of how to perform 
+the examination. Studies have shown varying degrees 
+of agreement between groups of clinicians performing 
+the examination and assessing the level of consciousness 
+with the GCS. Despite the high degree of consistency 
+reported by the authors of the GCS,200 one 2004 
+study201 showed only moderate agreement between two 
+emergency physicians who assessed the GCS of a broad 
+range of patients with differing pathologies, and a further 
+Detailed breakdown of GCS components
+Eye opening component
+Level of response
+Score
+Details of response
+Spontaneous
+4
+Indicative of activity of brainstem arousal mechanisms, but not necessarily of 
+attentiveness (primitive ocular-following reﬂ exes at subcortical level)
+To speech
+3
+Tested by any verbal approach (spoken or shouted); not necessarily the command to 
+open the eyes
+To pain
+2
+Tested by a stimulus in the limbs (supraorbital pressure may cause grimacing and eye 
+closure)
+None
+1
+No response to speech or pain
+Verbal component
+Level of response
+Score
+Details of response
+Oriented
+5
+Awareness of the self and the environment (who / where / when / why)
+Confused
+4
+Responses to questions with presence of disorientation and confusion.
+Inappropriate words
+3
+Speech in a random way, no conversational exchange
+Incomprehensible sounds
+2
+Moaning, groaning
+None
+1
+No response
+Motor component
+Level of response
+Score
+Details of response
+Obeying commands
+6
+The rater must rule out grasp reﬂ ex or postural adjustment
+Localising
+5
+Movement of limb as to attempt to remove the stimulus, the arm crosses midline, and 
+moves to more than one site of noxious stimulus
+Normal ﬂ exor response / 
+withdrawal
+4
+Rapid withdrawal and abduction of shoulder
+Abnormal ﬂ exor response
+3
+Adduction of upper extremities, ﬂ exion of arms, wrists and ﬁ ngers, extension and 
+internal rotation of lower extremities, plantar ﬂ exion of feet, and assumption of a 
+hemiplegic or decorticate posture
+Extensor posturing
+2
+Adduction and hyperpronation of upper extremities, extension of legs, plantar ﬂ exion 
+of feet, progress to opisthotonus (decerebration)
+None
+1
+The observer must rule out an inadequate stimulus or spinal transection
+PAGE 96  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_98_RIGHT
+
+**Source:** Page 98 (RIGHT)  
+**Word Count:** 136  
+
+emergency physician-based study by the same authors 
+comparing different types of score found similarly low 
+values.201 An Australian emergency department study 
+comparing an emergency physician with a registered nurse 
+found excellent agreement in the verbal and total GCS 
+scores, but only intermediate agreement in the motor and 
+eye scores.202 Given other work which suggests that the 
+motor score is the most discriminating part of the GCS,203 
+this is a cause for some concern.
+Given that there is little formal training in the application 
+of the GCS and that definitions of the appropriate stimuli 
+to apply and the details of the responses to observe, are 
+similarly scanty, it was considered useful to review the 
+literature and produce a didactic guide which can be used 
+by all practitioners, and attempt to increase the agreement 
+in the clinical setting.
+
+---
+
+## chunk_99_LEFT
+
+**Source:** Page 99 (LEFT)  
+**Word Count:** 409  
+
+Assessment
+An eye component score of 3 or 4 implies that information 
+processing is occurring and that the related arousal 
+mechanisms at the brain stem are functioning,193 whereas 
+a eye component score of 2 indicates that lower levels of 
+the brain are functioning.193 It is not true however that 
+eye opening indicates awareness; for instance patients in 
+a persistent vegetative state may have spontaneous eye 
+opening, and in this instance this is a reflexive action and 
+does not indicate awareness of self or surroundings.197
+Verbal 
+As stated above, presence of speech implies a high level of 
+integration in the nervous system, although it is important 
+to remember that a lack of speech may be attributed to 
+other factors such as tracheostomy or dysphasia. A lack of 
+speech due to local factors such as this need to be carefully 
+considered, as including a low score cause by local factors 
+into a GCS, especially when only the sum is being used, 
+falsely decreases the score. It is important to remember that 
+the GCS is a measure of level of consciousness, and use a 
+tracheostomy in an otherwise fully conscious patient to give 
+a decreased GCS is clearly counter-intuitive and incorrect.
+In terms of the gradations of verbal component score, 
+oriented indicates that the patient is aware of his / her 
+self and the surrounding environment,197 and is usually 
+described in terms of questions about patient’s name, the 
+role of the person asking the questions, the month and 
+year, and the name of the hospital or health care facility. 
+Confused patients can carry on a conversation but the 
+content betrays disorientation and misunderstanding of 
+the components described above. Inappropriate words 
+describes clear and comprehensible speech,197 but using 
+random words or swearing and cursing. Repeating words or 
+perseveration also falls into this category. Incomprehensible 
+sounds refers to moaning and groaning without 
+recognisable words,197 even when an attempt to articulate 
+words is being made. It is important to differentiate 
+between a patient with a decreased level of consciousness 
+and reduced cognition, who is unable to form words in 
+response to stimulus, and an awake stroke patient for 
+instance; whose dysphasia may make the task impossible. 
+Clearly, the second case does not represent the situation 
+which the GCS is designed to measure. None means that 
+the patient is unable to verbalise at all,197 and is subject to 
+the factors described above.
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 97
+
+---
+
+## chunk_99_RIGHT
+
+**Source:** Page 99 (RIGHT)  
+**Word Count:** 407  
+
+Motor
+Motor component scores of 6, 5 and 4 imply the presence 
+of a degree of cerebral function and thus the ability 
+to react appropriately to a noxious stimulus. Obeys 
+commands indicates an ability to process and obey verbal 
+commands;197 localisation means that the patient is able 
+to identify the location of a painful stimulus and attempt 
+to remove it, an action often accompanied by the upper 
+extremity of a patient purposefully crossing the midline 
+to remove the stimulus193, 197. Withdrawal means that 
+the patient is attempting to move away from the noxious 
+stimulus, sometimes by adopting a fetal position.197 This 
+last position is particularly important when there is an 
+inexperienced observer, as differentiating a localising 
+response from an abnormal flexion response may prove 
+difficult.195
+A motor component score of 3, or an abnormal flexor 
+response, implies that the lesion is located in the cerebral 
+hemispheres or internal capsule,193 whereas a score of 
+2 describes a midbrain to upper pontine damage.193 
+Abnormal flexor response is complex, but involves 
+adduction of upper limbs, with flexion of arms, wrists 
+and fingers. Accompanying this are extension and 
+internal rotation of lower limbs, and plantar flexion of 
+feet. This must be differentiated from the normal flexor 
+response or withdrawal, but also from extensor posturing 
+which indicates a lesion lower in the central nervous 
+system, and therefore reflecting CNS function at a lower 
+level.193 Extensor posturing includes the same lower limb 
+appearances as in abnormal flexion, but with the upper 
+limbs adopting a different position; this is described as 
+extension of the upper limbs along the sides of the body, 
+accompanied by pronation of the forearms. Abnormal 
+flexion and extensor posturing are often known by the 
+terms decerebrate and decorticate response, implying the 
+level of loss of CNS function, and studies have shown that 
+patients showing extensor posturing are more likely to 
+have a poor outcome than those with abnormal flexion.197 
+If a patient demonstrates flexion on one side of the body, 
+and extension on the other, the best of the two responses 
+needs to be recorded.193
+None means that the patient is flaccid, and does not make 
+any movement in response to a painful stimulus. In these 
+circumstances, it is essential to check that the patient is 
+not pharmacologically or pathologically paralysed. Bear in 
+mind again, that as the GCS is endeavouring to measure 
+cognition and that abnormal motor responses, due to 
+the presence of anaesthetic paralysis or spinal cord injury
+
+---
+
+## chunk_100_LEFT
+
+**Source:** Page 100 (LEFT)  
+**Word Count:** 462  
+
+invalidates the motor score at this time, in this patient, as 
+a means to measure consciousness. Another important 
+caveat to the measurement of the motor score component 
+of the GCS is that the simple “squeeze my fingers” is NOT 
+sufficient or appropriate to demonstrate this function.197 A 
+grasp reflex an be elicited in many patients with decreased 
+cognition, similar to that found in babies, and attempts at 
+least have to include the command to release the fingers 
+after squeezing them, and this must be seen to be obeyed. 
+More specific commands such as “show me two fingers” 
+are more appropriate.
+In the sections above, there are various conditions discussed 
+which invalidate the measurement of specific domains of 
+the GCS, however it must always be borne in mind that 
+this tool is designed to assess consciousness and cognition, 
+and that local lesions of many descriptions invalidate this 
+measurement, and should therefore not be counted into 
+an overall score at all, and should not be counted into 
+a domain score without documented explanation. If a 
+domain of the GCS, such as eye opening or verbal response 
+is confounded by local lesions, then both snapshots and 
+trends should be limited to the use of the other domains.192, 
+193 Since the motor score has been shown to contain most 
+of the predictive power of the GCS, especially in the more 
+severely head injured patients, it would be reasonable to 
+use this alone in these circumstances. When this occurs, 
+it has been recommended that a 1 is scored,197 however 
+if this is done it has to be accompanied by a written 
+explanation and the caveat that this cannot be used in an 
+overall score.
+Conditions such as alcohol, drugs, inability to understand 
+commands due to language barriers, and hearing 
+impairment are all conditions that may confound the 
+performance of a GCS, and once again consideration 
+needs to be given to the reason for measuring cognition. 
+For example, if the reason the GCS is being measured 
+is to assess the level of consciousness associated with a 
+head injury or pathological cause of decreased conscious 
+level, conditions such as alcohol or sedative drugs are a 
+confounder which invalidate the GCS; however, if the 
+measurement is being used to assess the effect of drugs on 
+the level of consciousness, this is then the relevant effect 
+being measured. In these circumstances, however, many of 
+the correlates of a decreased level of consciousness in head 
+injury measured by GCS may not be accurate; such as an 
+inability to protect the airway associated with a GCS 8, 
+which is often not true in patients obtunded with certain 
+drugs of abuse. An extended list of potential confounders is 
+shown below.
+PAGE 98  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_100_RIGHT
+
+**Source:** Page 100 (RIGHT)  
+**Word Count:** 146  
+
+The GCS is NOT a scale to measure an altered sensorium, 
+so cannot be used to test sensation. It is also not substitute 
+for either a full neurological examination or an assessment 
+of orientation.193, 197 It also does not account for true 
+lateralisation as it measures the best response rather than 
+the worst.193
+The sternal rub has been documented to cause injury, 
+particularly pressure area damage204 and cannot be 
+recommended. Supraorbital nerve pressure has caused 
+damage and is less reliable and consistent than other 
+methods or applying a central noxious stimulus.205 The 
+trapezius pinch causes no damage as it simply comprises 
+pressure on a large muscular area, but does provide a 
+suitable painful stimulus.204 Ensure that you note whether 
+the upper limb localised to the painful stimulus by crossing 
+the midline or not; if it does not, carefully assess to 
+discriminate between this and abnormal flexion.
+
+---
+
+## chunk_101_LEFT
+
+**Source:** Page 101 (LEFT)  
+**Word Count:** 91  
+
+Conditions that affect the calculation of the three components of the GCS
+Conditions
+Eyes
+Verbal
+Motor
+Ocular trauma
++
+Cranial nerve injuries
++
+Pain
++
++
+Intoxication (alcohol, drugs)
++
++
+Medications (anaesthetics, sedatives)
++
++
+Dementia
++
++
+Psychiatric diseases
++
++
+Developmental impairments
++
++
+No comprehension of spoken language
++
++
+Intubation, tracheostomy, laryngectomy
++
+Oedema of tongue
++
+Facial trauma
++
+Mutism
++
+Hearing impairments
++
+Injuries (spinal cord, peripheral nerves, extremities)
++
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 99
+
+---
+
+## chunk_102_LEFT
+
+**Source:** Page 102 (LEFT)  
+**Word Count:** 198  
+
+Practical measurement of the Glasgow Coma Scale
+Assess global condition of patient, particularly noting any evidence of local injuries that might affect the measurement of 
+the Glasgow Coma Scale. These include presence of endotracheal tube, tracheostomy or other airway adjunct, traumatic 
+injury to eyes, mouth or limbs. The medication chart should be checked to determine if there have been any sedating 
+or paralysing drugs administered, and patient notes should be checked for a history of recent alcohol or substance use. 
+Document the presence of any of the above on the observations chart, or ensure that they have already been noted. Check 
+the patient’s correct name, and that they speak English.
+Yes
+Are patient's eyes open?
+Call patient by their name; repeat loudly if no 
+Yes
+response. Ask patient to open their eyes. Do they 
+respond?
+Apply pressure on nail bed with pencil. Bear in mind 
+Yes
+the need is to apply moderate pain, not to damage 
+the finger! Do they respond?
+Apply trapezius pinch. Do NOT use supraorbital 
+Yes
+pressure or sterna rub. Do they respond?
+Document a score of 1 for each component.
+PAGE 100  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_102_RIGHT
+
+**Source:** Page 102 (RIGHT)  
+**Word Count:** 98  
+
+Ask their name, month, year, location, your role, why 
+are they there. Document verbal response. Ask them 
+to perform motor manoeuvre such as squeeze and 
+release - document BEST response.
+Document response. Ask their name, month, year, 
+location, your role, why they are there. Document 
+verbal response. Ask them to perform motor 
+manoeuvre such as squeeze and release - document 
+BEST response.
+Document eye opening if present with this pain 
+stimulus. Document verbal response and level of 
+BEST motor response.
+Document eye opening if present with this pain 
+stimulus. Document verbal response and level of 
+BEST motor response.
+
+---
+
+## chunk_103_LEFT
+
+**Source:** Page 103 (LEFT)  
+**Word Count:** 480  
+
+Appendix 6: Mild Head Injury Discharge Advice
+Mild Head Injury Advice 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2008
+Important points about Mild Head Injury
+You had a mild head injury. Most people recover rapidly following a mild head injury. A few people may suffer from 
+symptoms over a longer period. 
+There is a small risk of you developing serious complications so you should be watched closely by another adult for 
+24 hours after the accident. Please read the following. It outlines what signs to look out for after a head injury 
+and what you need to do if you have problems.
+Warning Signs
+!
+If you show any of these symptoms or signs after your head injury, or you get worse , go to 
+the nearest hospital, doctor or telephone an ambulance immediately.
+Fainting or drowsiness - or you can’t wake up 
+ 
+❖
+Acting strange, saying things that do not make sense (change in behaviour) 
+ 
+❖
+A constant severe headache or a headache that gets worse 
+ 
+❖
+Vomiting or throwing up more than twice
+ 
+❖
+Cannot remember new events, recognise people or places (increased confusion)
+ 
+❖
+Pass out or have a blackout or a seizure (any jerking of the body or limbs)
+ 
+❖
+Cannot move parts of your body or clumsiness
+ 
+❖
+Blurred vision or slurred speech
+ 
+❖
+Continual ﬂuid or bleeding from the ear or nose
+ 
+❖
+The ﬁrst 24-48 hours after injury
+Warning Signs
+You should be observed and return to hospital if you develop any of 
+the above warning signs.
+Rest / Sleeping
+Rest and avoid strenuous activity for at least 24 hours. It is alright for you to 
+sleep tonight but you should be checked every four hours by someone to make 
+sure you are alright.
+Driving
+Do not drive for at least 24 hours. You should not drive until you feel much 
+better and can concentrate properly. Talk to your doctor.
+Drinking / 
+Drugs
+Do not drink alcohol or take sleeping pills or recreational drugs in the next 48 
+hours. All of these can make you feel worse.They also make it hard for other 
+people to tell whether the injury is affecting you or not.  
+Pain Relief
+Use paracetamol or paracetamol/codeine for headaches.  Do not use 
+aspirin or anti inﬂammatory pain reliever such as ibuprofen or naproxen 
+(NSAIDs), which may increase the risk of complications.
+Sports
+Do not play sports for at least 24 hours.
+See your local doctor if you are not starting to feel better within a few days of your injury.
+Adapted from “Mild Head Injury Discharge Advice” author Dr Duncan Reed (2007) Director of Trauma Gosford Hospital. NSW Institute of Trauma and Injury Management
+This discharge advice information is taken  from the Motor Accidents Authority of NSW, Guideline for mild traumatic brain injury following closed 
+head injury – first edition 2008, ISBN 978-1-921422-08-9
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 101
+
+---
+
+## chunk_104_LEFT
+
+**Source:** Page 104 (LEFT)  
+**Word Count:** 529  
+
+The ﬁrst 4 weeks after injury 
+You may have some common effects from the head injury which usually resolve in several weeks to three months. These are 
+called post concussive symptoms (see below). Tiredness can exaggerate the symptoms. Return to your normal activities 
+gradually (not all at once) during the ﬁrst weeks or months. You can help yourself get better by:
+Rest / Sleeping
+Your brain needs time to recover. It is important to get adequate amounts of sleep 
+as you may feel more tired than normal.  
+Driving
+Do not drive or operate machinery until you feel much better and can concentrate 
+properly. Talk to your doctor.
+Drinking / Drugs
+Do not drink alcohol or use recreational drugs until you are fully recovered . They 
+will make you feel much worse. Do not take medication unless advised by your 
+doctor. 
+Work / Study
+You may need to take time off work or study until you can concentrate better. Most 
+people need a day or two off work but are back full time in less than 2 weeks. How 
+much time you need off work or study will depend on the type of job you do. See 
+your doctor and let your employer or teachers know if you are having problems at 
+work or with study.  You may need to return to study or work gradually. 
+Sport / Lifestyle
+It is dangerous for the brain to be injured again if is has not recovered from the ﬁrst 
+injury. Talk to your doctor about the steps you need to take to gradually increase 
+sports activity and return to play. If in doubt “sit it out”. 
+Relationships
+Sometimes your symptoms will affect your relationship with family and friends. You 
+may suffer irritability and mood swings. See your doctor if you or your family are 
+worried. 
+Recovery
+You should start to feel better within a few days and be ‘back to normal’ within about 4 weeks. See your 
+local doctor if you are not starting to feel better.
+Your doctor will monitor these symptoms and may refer you to a specialist if you do not improve over 4 
+weeks up to 3 months. 
+Post Concussion Symptoms 
+There are common symptoms after a mild head injury. They usually go away within a few days or weeks. 
+Sometimes you may not be aware of them until sometime after your injury like when you return to work.
+Feeling more tired than usual and  lacking energy 
+ 
+❖
+Mild headaches (that won’t go away)
+ 
+❖
+Having more trouble than usual with  attention & 
+ 
+❖
+Irritability. Losing your temper and getting annoyed 
+ 
+❖
+concentration
+Having more trouble than usual with remembering 
+ 
+❖
+Mood swings
+ 
+❖
+things (memory difﬁculties/forgetfulness)
+Anxiety or depression
+ 
+❖
+Feeling dizzy or sick without vomiting (nausea)
+ 
+❖
+Mild behavioural change
+ 
+❖
+Balance problems
+ 
+❖
+More sensitive to sounds or lights
+ 
+❖
+More difﬁculty than usual with making decisions 
+ 
+❖
+and solving problems, getting things done or being 
+organised
+Change in sleep patterns. Trouble sleeping or sleeping 
+ 
+❖
+Feeling vague, slowed or “foggy” thinking
+ 
+❖
+Reduced tolerance to alcohol
+ 
+❖
+Local service information
+PAGE 102  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_105_LEFT
+
+**Source:** Page 105 (LEFT)  
+**Word Count:** 205  
+
+Appendix 7: NSW Brain Injury Rehabilitation Program 
+Dubbo
+Bathurst
+Goulburn
+Wagga Wagga
+Albury
+NSW BIRP Service Contact List
+Paediatric Services
+Children's Hospital at Westmead Brain Injury Rehab Team (02) 9845 2132
+Sydney Children's Hospital Brain Injury Rehab Team (Randwick) (02) 9382 1590
+Kaleidoscope Brain Injury Rehabilitation Team (Newcastle) (02) 4925 7963
+Greater Metropolitan Sydney Services
+Liverpool Hospital Brain Injury Rehabilitation Unit (02) 9828 5495 
+Royal Rehabilitation Centre Sydney Brain Injury Rehab Team (02) 9807 1144
+Westmead Brain Injury Rehabilitation Service (02) 9845 7941
+Hunter Brain Injury Service (Newcastle) (02) 4929 3100 
+Illawarra Brain Injury Service (02) 4223 8470
+Rural Services
+Dubbo Brain Injury Rehabilitation Program (02) 6841 8505
+Mid Western Brain Injury Rehabilitation Program (Bathurst) (02) 6330 5114
+New England Brain Injury Rehabilitation Service (Tamworth) (02) 6767 8350
+North Coast Brain Injury Rehabilitation Service:
+- 
+Lismore (02) 6620 2111 
+- 
+Port Macquarie (02) 6584 3300
+- 
+Coffs Harbour (02) 6652 2856
+Southern Area Brain Injury Service (Goulburn) (02) 4823 7911
+South West Brain Injury Rehabilitation Service:
+- 
+Albury (02) 6041 9902
+- 
+Wagga Wagga (02) 69710151  
+For more information please contact the NSW Brain Injury Rehabilitation Directorate on (02) 9828 6133. 
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 103
+
+---
+
+## chunk_105_RIGHT
+
+**Source:** Page 105 (RIGHT)  
+**Word Count:** 14  
+
+Lismore
+Coffs Harbour
+Tamworth
+Port Macquarie
+Newcastle
+Sydney
+Randwick
+Ryde
+Liverpool
+Westmead
+Wollongong
+Nowra
+
+---
+
+## chunk_106_LEFT
+
+**Source:** Page 106 (LEFT)  
+**Word Count:** 338  
+
+Appendix 8: Methodology
+A8.1 
+General search strategy
+Comprehensive search strategies for both Medline and 
+Embase were guided by each of the clinical questions. A 
+general text-word based strategy was used to search the 
+Cochrane Database of Systematic Reviews (CDSR), the 
+Cochrane Central Register of Controlled Trials (CENTRAL) 
+and SCOPUS. The searches were executed for the period 
+1980 to 30th October 2004 (1st Ed.) and updated for 
+the 2nd Ed. (2004-2010). The results from each of these 
+searches were filtered in accordance with the exclusion 
+and inclusion criteria (see below) and then assessed for 
+relevance to the clinical questions. The search strategies are 
+listed in Appendix 9.
+In addition, reference lists of previous guidelines and key 
+papers were used to identify other key references, including 
+pre-2004 literature. SCOPUS and Google Scholar were used 
+to execute author-based searches, citation mapping and 
+grey literature searching. The following websites were also 
+searched (using relevant free text terms):
+A8.2  
+Inclusion and exclusion criteria
+Conditions
+Exclusion Criteria
+- Closed head injury studies
+-  Penetrating head injury or brain damage from stroke/ 
+- Aged > 16 years
+- Meta-analyses, systematic reviews, clinical guidelines 
+incorporating systematic reviews, controlled trials, 
+comparative studies.
+-  Aged < 16 years 
+-  Narrative reviews, letters, editorials, case studies/ series
+-  Studies using non-human subjects
+A8.3  
+Strength of recommendations
+This guideline uses the National Health and Medical 
+Research Council (NHMRC) overall grades of 
+recommendation to indicate the strength of the body of 
+evidence underpinning each recommendation. The body 
+of evidence reflects the evidence components of all the 
+studies relevant to each recommendation. The evidence 
+components are assessed according to the NHMRC body 
+of evidence matrix (see table below). The overall grade of 
+the recommendation is determined based on a summation 
+of the rating for each individual component of the body of 
+evidence. Please note that a recommendation cannot be 
+graded A or B unless the evidence base and consistency of 
+the evidence are both rated A or B.44
+PAGE 104  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_106_RIGHT
+
+**Source:** Page 106 (RIGHT)  
+**Word Count:** 135  
+
+Scottish Intercollegiate Guidelines Network 
+ 
+ 
+www.sign.ac.uk
+Bandolier  
+  
+ 
+ 
+ 
+ 
+www.medicine.ox.ac.uk/bandolier
+TRIP database   
+ 
+ 
+ 
+ 
+www.tripdatabase.com
+ClinicalTrials.gov  
+ 
+ 
+ 
+www.ClinicalTrials.gov
+National Guideline Clearing House 
+ 
+ 
+ 
+www.guideline.gov 
+ 
+Brain Trauma Foundation 
+ 
+ 
+ 
+ 
+www.braintrauma.org 
+National Institute for Health & Clinical Evidence 
+ 
+www.nice.org.uk
+Agency for Healthcare Research & Quality 
+ 
+ 
+www.ahrq.gov
+cerebrovascular incidents
+Overall grade A or B recommendations are generally based 
+on a body of evidence that can be trusted to guide clinical 
+practice, whereas Grades C or D recommendations must 
+be applied carefully to individual clinical and organisational 
+circumstances and should be interpreted with care44 This 
+guideline also utilises an additional grade of “Consensus” 
+where appropriate.
+The recommendation boxes of each clinical question 
+addressed in this guideline contain clear recommendations 
+with an associated strength of recommendation grade as 
+per above. Where appropriate, the author has also added 
+relevant clinical points to the boxes which support the given 
+recommendation.
+
+---
+
+## chunk_107_LEFT
+
+**Source:** Page 107 (LEFT)  
+**Word Count:** 229  
+
+Body of evidence matrix44
+Components
+A
+B
+C
+D
+Excellent
+Good
+Satisfactory
+Poor
+one or two level II 
+studies with a low risk 
+of bias or a SR/several 
+level III studies with a 
+low risk of bias
+Evidence base
+one or more level I 
+studies with a low risk 
+of bias or several level 
+II studies with a low 
+risk of bias
+Consistency
+all studies consistent
+most studies 
+consistent and 
+inconsistency may be 
+explained
+Clinical impact
+very large
+substantial
+moderate
+slight or restricted
+population/s studied 
+in the body of 
+evidence are similar to 
+the target population 
+for the guideline
+Generalisability
+population/s studied 
+in body of evidence 
+are the same as the 
+target population for 
+the guideline
+applicable to 
+Australian healthcare 
+context with few 
+caveats
+Applicability
+directly applicable to 
+Australian healthcare 
+context
+Grade of 
+recommendation
+A
+Body of evidence can be trusted to guide practice
+B
+Body of evidence can be trusted to guide practice in most situations
+C
+Body of evidence provides some support for recommendation(s) but care should be taken in its 
+application
+D
+Body of evidence is weak and recommendation must be applied with caution
+Consensus
+When limited literature was available, the author and editorial group utilised the best available clinical 
+expertise, practices and accepted teachings to reach a consensus on the recommendation
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 105
+
+---
+
+## chunk_107_RIGHT
+
+**Source:** Page 107 (RIGHT)  
+**Word Count:** 115  
+
+level IV studies, or 
+level I to III studies/
+SRs with a high risk 
+of bias
+one or two level III 
+studies with a low 
+risk of bias, or level 
+I or II studies with a 
+moderate risk of bias
+evidence is 
+inconsistent
+some inconsistency 
+reﬂ ecting genuine 
+uncertainty around 
+clinical question
+population/s studied 
+in body of evidence 
+differ to target 
+population and hard 
+to judge whether it is 
+sensible to generalise 
+to target population
+population/s studied 
+in body of evidence 
+differ to target 
+population for 
+guideline but it is 
+clinically sensible to 
+apply this evidence to 
+target population
+not applicable to 
+Australian healthcare 
+context
+probably applicable to 
+Australian healthcare 
+context with some 
+caveats
+Description
+
+---
+
+## chunk_108_LEFT
+
+**Source:** Page 108 (LEFT)  
+**Word Count:** 281  
+
+A8.4  
+Level of evidence
+‘Level of Evidence’ refers to the study design used to 
+minimise bias. The articles were classified according to 
+their general purpose and study type in accordance with 
+Level I
+Evidence obtained from a systematic review of all relevant randomised control trials
+Level II
+Evidence obtained from at least one properly-designed randomised control trial
+Level III-1
+Evidence obtained from well-designed pseudo-randomised controlled trials (alternate allocation or some 
+other method)
+Level III-2
+Evidence obtained from comparative studies (including systematic reviews of such studies) with 
+concurrent controls and allocation not randomised, cohort studies, case-control studies, or interrupted 
+time series with a control group
+Level III-3
+Evidence obtained from comparative studies with historical control, two or more single arm studies or 
+interrupted time series without a parallel control group
+Level IV
+Evidence obtained from a case-series, either post-test or pre-test/post-test
+A8.5  
+ Quality assessment for individual 
+studies used in guidelines
+A8.5.1  Introduction
+The quality of each study is an assessment of the 
+methodological quality (or internal validity), and is the 
+extent to which the study’s design, conduct and analysis 
+has minimised selection, measurement and confounding 
+biases. The process used to assess the studies included in 
+Good studies
+Low risk of bias
+Have most or all of the relevant quality items
+Fair studies
+Susceptible to some bias, but not sufﬁ cient to 
+invalidate results
+Poor studies
+High risk of bias arising from signiﬁ cant 
+methodological ﬂ aws
+A8.5.2   Checklists of study-specific quality 
+items:
+1.  Checklist for the quality assessment of systematic 
+reviews:
+ 
+ a.  Was a comprehensive and explicit search strategy 
+used?
+ 
+ b. Were the included studies assessed for quality?
+PAGE 106  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_108_RIGHT
+
+**Source:** Page 108 (RIGHT)  
+**Word Count:** 136  
+
+the NHMRC publication: A guide to the development, 
+evaluation and implementation of clinical practice 
+guidelines.45 From this, each article was allocated a level of 
+evidence as follows:
+this guideline was adapted from the NHMRC publication: 
+How to review the evidence: systematic identification 
+and review of the scientific literature206 and the MERGE 
+assessment tool.207 
+Studies are allocated the following ratings based on the 
+extent to which they address the quality items in each study 
+type specific checklist:
+Have some of the relevant items
+Have few or none of the relevant quality items 
+(these studies are generally not included in the 
+evidence tables)
+ 
+c.  Were the characteristics and results of the studies 
+summarised appropriately?
+ 
+d. Were sources of heterogeneity explained?
+2.  Checklist for the quality assessment of evidencebased guidelines:
+ 
+ a.  Was a comprehensive and explicit search strategy 
+used?
+
+---
+
+## chunk_109_LEFT
+
+**Source:** Page 109 (LEFT)  
+**Word Count:** 214  
+
+b.  Have all relevant interventions and outcomes 
+been considered, both benefits and harms?
+ 
+c.  Is the level and quality of evidence for each 
+recommendation given?
+ 
+d.  Do the recommendations address benefit versus 
+harm according to the level of risk in different 
+patient sub-groups?
+3.  Checklist for the quality assessment of intervention 
+studies:
+ 
+a.  Has selection bias (including allocation bias) been 
+minimised?
+ 
+b.  Have adequate adjustments been made for 
+residual confounding?
+ 
+c.  Was the follow-up for final outcomes adequate? 
+(Follow-up rate reported and adequately high?)
+ 
+d.  Has measurement or misclassification bias been 
+minimised? (Blinding of outcome measurements?)
+4.  Checklist for the quality assessment of diagnostic 
+studies:
+ 
+a.  Has selection bias been minimised? (Were 
+participants consecutively enrolled?)
+ 
+b.  Have adequate adjustments been made for 
+residual confounding? (Were interventions blind 
+to the test result?)
+ 
+c.  Was follow-up for final outcomes adequate? 
+(Were all enrolled verified by the reference 
+standard?)
+ 
+d.  Has measurement or misclassification bias 
+been minimised? (Was the reference standard 
+validated and measured blindly?)
+5.  Checklist for the quality assessment of prognostic 
+studies (cohort studies):
+ 
+a.  Has selection bias been minimised? (A random/
+consecutive sample of participants at the same 
+point in their disease?)
+ 
+b.  Were all potentially important prognostic factors 
+assessed? 
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 107
+
+---
+
+## chunk_109_RIGHT
+
+**Source:** Page 109 (RIGHT)  
+**Word Count:** 90  
+
+c.  Was follow-up for final outcomes adequately 
+long and complete?
+ 
+d.  Has measurement or misclassification bias been 
+minimised? (Were outcomes measured blind?)
+A8.6  
+ Quality assessment for guidelines 
+referred to in this document
+The Appraisal of Guidelines for Research and Evaluation 
+(AGREE) instrument,208 a validated tool, was used for 
+the quality appraisal of all guidelines referenced in this 
+document. Each appraised guideline is scored on six criteria 
+resulting in an overall assessment of strongly recommended, 
+recommended, would not recommend or unsure. 
+For further information please see the AGREE Collaboration 
+website www.agreecollaboration.org.
+
+---
+
+## chunk_110_LEFT
+
+**Source:** Page 110 (LEFT)  
+**Word Count:** 121  
+
+Appendix 9: Search Strategies
+1st Edition:
+The following search phrases were used in Medline:
+1. exp Head Injuries, Closed/
+2. exp *tomography, x-ray/
+3. Patient Discharge/
+4. Patient Transfer/
+5. intubation/ or exp intubation, intratracheal/
+6. *Intracranial Pressure/
+7. Drainage/
+8.  (7 and (ventricular or intra?ventricular or 
+extra?ventricular).mp.) or ((ventricular or intra?ventricular 
+or extra?ventricular) adj drain$).mp.
+9. (icp monitor$ or intracranial pressure monitor$).mp.
+10. exp Aggression/
+11. exp Mannitol/
+12. exp Hyperventilation/
+13. Adrenal Cortex Hormones/
+14. Craniotomy/
+15. Trephining/
+16. exp emergency treatment/
+17.  exp *head injuries, closed/su, th or (exp head injuries, 
+closed/ and management.mp.)
+18. (or/2-6) or (or/8-16)
+19. (1 and 18) or 17
+PAGE 108  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_110_RIGHT
+
+**Source:** Page 110 (RIGHT)  
+**Word Count:** 97  
+
+The following search phrases were used in Embase:
+1.  (head injury/ and closed$.mp.) or (closed head injury or 
+closed head trauma$).mp. 
+2. exp computer assisted tomography/
+3. patient transport/ or discharg$.mp.
+4. exp RESPIRATORY TRACT INTUBATION/ or INTUBATION/
+5. Intracranial Hypertension/
+6. cerebrospinal fluid drainage/
+7.  ((ventricular or intra?ventricular or extra?ventricular) adj 
+drain$).mp.
+8. (icp monitor$ or intracranial pressure monitor$).mp.
+9. exp aggression/
+10. Mannitol/
+11. exp Hyperventilation/
+12. exp Corticosteroid/
+13. craniotomy/
+14. (trephin$ or burr hole$).mp.
+15. exp emergency treatment/
+16. (su or th).fs. or management.mp.
+17. 1 and (or/2-16)
+18. limit 17 to human
+
+---
+
+## chunk_111_LEFT
+
+**Source:** Page 111 (LEFT)  
+**Word Count:** 129  
+
+2nd Edition:
+For the 2nd Edition, searches were constructed for each  
+clinical question as per below:
+1.  
+ What is the definition of Mild Head Injury?
+MEDLINE 
+1. 
+exp craniocerebral trauma/
+2. 
+ (head OR brain OR cerebral OR cranial OR 
+cranio?cerebral) ADJ (injur$ OR traum$).ti,ab.
+3. 
+(defin$ or classif$ or (risk adj stratif$)).ti,ab.
+4. 
+ (GCS adj4 (admission or arrival or initial or present$)).
+5. 
+ (guideline$ OR (emergency ADJ (management OR 
+treatment)).ti,ab.
+6.  exp emergency treatment/
+7. 
+1 OR 2
+8. 
+OR/3-6
+9. 
+7 AND 8
+10.  LIMIT 9 to (English language and (comparative study or 
+controlled clinical trial or guideline or meta analysis or 
+randomized controlled trial) and last 5 years)
+n = 516 citations retrieved
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 109
+
+---
+
+## chunk_111_RIGHT
+
+**Source:** Page 111 (RIGHT)  
+**Word Count:** 101  
+
+EMBASE 
+1. 
+head injury/ exp
+2. 
+ (craniocerebral trauma or cranio-cerebral trauma or 
+cerebral trauma).tw
+3. 
+ (head injur* or brain injur* or brain trauma or head 
+trauma).tw
+4. 
+OR/1-3
+5. 
+(minor or minimal or mild).tw
+6. 
+((Glasgow coma scale NEXT/3 (14 or 15)).tw
+7. 
+((Glasgow coma score NEXT/3 (14 or 15)).tw
+8. 
+(gcs NEAR/3 (14 or 15)).tw
+9.  OR/ 5-8
+10. 4 and 9
+11. (defin* or classif* or “risk NEXT stratif*”).tw
+12.  (GCS NEAR/5 (admission or arrival or initial or 
+present*)).tw
+13.  emergency treatment/exp
+14. OR/10-13
+15. 10 and 14
+16.  LIMIT 15 to (English language AND (yr=2005-2010))
+N=162 citations retrieved
+
+---
+
+## chunk_112_LEFT
+
+**Source:** Page 112 (LEFT)  
+**Word Count:** 161  
+
+2.  
+ What are the clinically important complications of Mild Head Injury?
+MEDLINE 
+1. 
+exp craniocerebral trauma/
+2. 
+ (head OR brain OR cerebral OR cranial OR 
+cranio?cerebral) ADJ (injur$ OR traum$).ti,ab.
+3. 
+(mild OR minim$ OR minor).ti,ab
+4. 
+1 OR 2
+5. 
+3 AND 4
+6.   (complication$ or risk$ or sequelae or morbid$ or 
+mortalit$).ti,ab.
+7. 
+(post?concuss$ or concuss$ ).ti,ab.
+8. 
+ ((headache$ or dizziness or fatigue) or (cognitive adj 
+deficit$) or ((behav$ or social) adj3 (dysfunction$ or 
+function$))).ti,ab
+9. 
+ ((intracranial or intra?cranial or sub?dural or intra?dural 
+or epidural or sub?arachnoid or structural) adj 
+(haematoma$ or hematoma$ or haemorrhage$ or 
+hemorrhage$ or contusion$ or lesion$)).ti,ab.
+10. ((skull or cranial) adj fracture$).ti,ab.
+11. OR /6-10
+12. 5 AND 11
+13.  limit 12 to (english language and humans and 
+yr="2005 -Current" and (clinical trial, all or controlled 
+clinical trial or government publications or guideline or 
+meta analysis or randomized controlled trial))
+PAGE 110  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_112_RIGHT
+
+**Source:** Page 112 (RIGHT)  
+**Word Count:** 118  
+
+EMBASE 
+1. 
+head injury/ exp
+2. 
+ (craniocerebral trauma or cranio-cerebral trauma or 
+cerebral trauma).tw
+3. 
+ (head injur* or brain injur* or brain trauma or head 
+trauma).tw
+4. 
+(minor or minimal or mild).tw
+5. 
+OR/1-3
+6. 
+4 AND 5
+7.   (complication* or risk* or sequelae or morbid* or 
+mortalit*).tw
+8. 
+(post?concuss* or concuss* ).tw
+9. 
+ ((headache* or dizziness or fatigue) or (cognitive NEXT 
+deficit*)).tw
+10.  ((behav* or social) NEXT3 (dysfunction* or function*)).
+11.  ((intracranial or intra?cranial or sub?dural or intra?dural 
+or epidural or sub?arachnoid or structural) NEXT 
+(haematoma* or hematoma* or haemorrhage* or 
+hemorrhage* or contusion* or lesion*)).tw
+12. ((skull or cranial) NEXT fracture*).tw
+13. OR /7-12
+14. 6 AND 13
+15. limit 14 to (English language AND (yr=2005-2010))
+
+---
+
+## chunk_113_LEFT
+
+**Source:** Page 113 (LEFT)  
+**Word Count:** 179  
+
+3.  
+ How should patients with Mild Head Injury be assessed?
+MEDLINE 
+1. 
+exp craniocerebral trauma/
+2. 
+ (head OR brain OR cerebral OR cranial OR 
+cranio?cerebral) ADJ (injur$ OR traum$).ti,ab.
+3. 
+(mild OR minim$ OR minor).ti,ab
+4. 
+1 OR 2
+5. 
+3 AND 4
+6. 
+ (assessment or observation$ or classification$ or 
+stratification or risk or examination or (clinical adj 
+(history OR assessment)) OR (neurologic$ adj (history 
+OR assessment OR observation$))).ti,ab.
+7. 
+ ((GCS or (glasgow adj coma adj (score or scale))) adj3 
+(admission or arrival or initial or present$ or deteriorat$ 
+or serial or abnormal)).ti,ab.
+8. 
+ ((PTA or (post?traumatic adj amnesia)) adj (testing or 
+scor$ or persistan$)).ti,ab.
+9. 
+ ((clinical adj (decision or diagnostic) adj (rule$ or 
+tool$)) or (guideline$ or protocol$ or algorithm$) or 
+management).ti,ab.
+10. OR/ 6-9
+11. 5 AND 10
+12.  limit 11 to (english language and humans and (clinical 
+trial, all or controlled clinical trial or government 
+publications or guideline or meta analysis or practice 
+guideline or randomized controlled trial) and last 5 
+years)
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 111
+
+---
+
+## chunk_113_RIGHT
+
+**Source:** Page 113 (RIGHT)  
+**Word Count:** 132  
+
+EMBASE 
+1. 
+head injury/ exp
+2. 
+ (craniocerebral trauma or cranio-cerebral trauma or 
+cerebral trauma).tw
+3. 
+ (head injur* or brain injur* or brain trauma or head 
+trauma).tw
+4. 
+(minor or minimal or mild).tw
+5. 
+OR/1-3
+6. 
+4 AND 5
+7.   (assessment or observation* or classification* or 
+stratification or risk or examination or (clinical NEXT 
+(history OR assessment)) OR (neurologic* NEXT (history 
+OR assessment OR observation*))).tw
+8. 
+ ((GCS or (glasgow adj coma NEXT (score or scale))) 
+NEXT3 (admission or arrival or initial or present* or 
+deteriorat* or serial or abnormal)).tw
+9. 
+ ((PTA or (post?traumatic adj amnesia)) NEXT (testing or 
+scor* or persistan*)).tw
+10.  ((clinical NEXT (decision or diagnostic) NEXT (rule* or 
+tool*)) or (guideline* or protocol* or algorithm*) or 
+management).
+11. OR/7-10
+12. 6 AND 11
+13. limit 12 to (English language AND (yr=2005-2010))
+
+---
+
+## chunk_114_LEFT
+
+**Source:** Page 114 (LEFT)  
+**Word Count:** 263  
+
+4.  
+ Which patients with Mild Head Injury require a CT scan?
+The literature searches for question 4 and 5 were 
+combined, as most evidence addressing indications for CT 
+scanning also address alternate management strategies.
+5.  
+ What is the optimal management strategy for high-risk Mild Head Injury patients when 
+CT scan is unavailable?
+MEDLINE 
+1. 
+exp craniocerebral trauma/
+2. 
+ (head OR brain OR cerebral OR cranial OR 
+cranio?cerebral) ADJ (injur$ OR traum$).ti,ab
+3. 
+(mild OR minim$ OR minor).ti,ab
+4. 
+1 OR 2
+5. 
+3 AND 4
+6. 
+exp skull fractures/
+7. 
+((skull or cranial) ADJ fracture$).ti,ab
+8. 
+ ((intracranial or intra?cranial or sub?dural or intra?dural 
+or epidural or sub?arachnoid or structural) adj 
+(haematoma$ or hematoma$ or haemorrhage$ or 
+hemorrhage$ or contusion$ or lesion$)).ti,ab.
+9. 
+((cerebral or brain) ADJ (?edema OR lesion$)).ti,ab
+10. exp anticoagulants/
+11. OR/ 6-10
+12. exp Tomography, X-ray computed/
+13. (CT OR computed tomograph$).ti,ab
+14.   ((Canadian adj3 ct) or nexus?II or NICE or (SIGN) or 
+(Scottish adj intercollegiate adj guidelines adj network) 
+or (brain adj trauma adj foundation)).ti,ab
+15.  ((clinical adj (decision or diagnostic) adj (rule$ or 
+tool$)) or (guideline$ or protocol$ or algorithm$) or 
+management).ti,ab.
+16. exp X-Rays/
+17. exp Referral and Consultation/
+18. or/12-17
+19. 11 AND 18
+20. 5 AND 18
+21. 19 OR 20
+22.  limit 21 to (english language and humans and (clinical 
+trial, all or controlled clinical trial or government 
+publications or guideline or meta analysis or practice 
+guideline or randomized controlled trial) and last 5 
+years)
+N = 1305 citations retrieved
+PAGE 112  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_114_RIGHT
+
+**Source:** Page 114 (RIGHT)  
+**Word Count:** 142  
+
+EMBASE 
+1. 
+head injury/ exp
+2. 
+ (craniocerebral trauma or cranio-cerebral trauma or 
+cerebral trauma).tw
+3. 
+ (head injur* or brain injur* or brain trauma or head 
+trauma).tw
+4. 
+(minor or minimal or mild).tw
+5. 
+OR/1-3
+6. 
+4 AND 5
+7. 
+skull fracture/exp
+8. 
+((skull or cranial) NEXT fracture*).tw
+9. 
+ ((intracranial or intra?cranial or sub?dural or intra?dural 
+or epidural or sub?arachnoid or structural) NEXT 
+(haematoma* or hematoma* or haemorrhage* or 
+hemorrhage* or contusion* or lesion*)).tw
+10. ((cerebral or brain) NEXT (?edema OR lesion*)).tw
+11. OR/ 7-10
+12. computer assisted tomography/exp
+13. (ct OR computed tomograph*).tw
+14.   ((Canadian NEXT ct) or nexus?II or NICE or (national 
+institute for health and clinical excellence) or (SIGN) or 
+(Scottish intercollegiate guidelines network) or (brain 
+trauma foundation)).tw
+15. or/12-14
+16. 11 AND 15
+17. 6 AND 14
+18. 16 or 17
+19. limit 18 to (English language AND (yr=2005-2010))
+
+---
+
+## chunk_115_LEFT
+
+**Source:** Page 115 (LEFT)  
+**Word Count:** 184  
+
+6.  
+ When can patients with mild head injury be safely discharged?
+MEDLINE 
+1. 
+exp craniocerebral trauma/
+2. 
+ (head OR brain OR cerebral OR cranial OR 
+cranio?cerebral) ADJ (injur$ OR traum$).ti,ab
+3. 
+(mild OR minim$ OR minor).ti,ab
+4. 
+1 OR 2
+5. 
+3 AND 4
+6. 
+exp Patient Discharge
+7. 
+exp risk assessment
+8.  discharge$.ti,ab
+9. 
+OR/6-8
+10. 5 AND 9
+N = 519 citations retrieved
+7.  
+ What are the proven treatments for patients with ‘moderate’ to ‘severe’ head injury?
+MEDLINE 
+1. 
+exp craniocerebral trauma/
+2. 
+ (head OR brain OR cerebral OR cranial OR 
+cranio?cerebral) ADJ (injur$ OR traum$).ti,ab
+3. 
+1 OR 2
+4. 
+exp emergency treatment
+5. 
+exp emergency service, hospital
+6. 
+4 or 5
+7. 
+hypnotics / tu
+8. 
+exp intracranial pressure
+9. 
+subarachnoid hemorrhage / dt
+10. exp drainage
+11. exp hypothermia, induced
+12. exp hyperventilation
+13. exp neuroprotective agents
+14. anti-inflammatory agents / tu
+15. seizures / pc
+16.  saline solution, hypertonic / tu
+17. OR/7-16
+18. 3 AND 16 AND 17
+N =  505 citations retrieved
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 113
+
+---
+
+## chunk_115_RIGHT
+
+**Source:** Page 115 (RIGHT)  
+**Word Count:** 138  
+
+EMBASE 
+1. 
+head injury/ exp
+2. 
+ (craniocerebral trauma or cranio-cerebral trauma or 
+cerebral trauma).tw
+3. 
+ (head injur* or brain injur* or brain trauma or head 
+trauma).tw
+4. 
+(minor or minimal or mild).tw
+5. 
+OR/1-3
+6. 
+4 AND 5
+7. 
+hospital discharge/exp
+8. 
+6 AND 8
+N = 51 citations retrieved
+EMBASE 
+1. 
+head injury/ exp
+2. 
+ (craniocerebral trauma or cranio-cerebral trauma or 
+cerebral trauma).tw
+3. 
+ (head injur* or brain injur* or brain trauma or head 
+trauma).tw
+4. 
+OR/1-3
+5. 
+emergency treatment/exp
+6. 
+intensive care/exp
+7. 
+OR/5-6
+8. 
+therapeutic hyperventilation/exp
+9. 
+cerebrospinal fluid drainage/exp
+10. induced hypothermia/exp
+11. sodium chloride/exp
+12. sedative agent/exp
+13. hypnotic sedative agent/exp
+14. anticonvulsive agent/exp
+15. decompressive craniectomy/exp
+16. analgesic agent/exp
+17. neurosurgery/exp
+18. OR/8-16
+19. 4 AND 7 AND 18
+20. limit 19 to (English language AND (yr=2005-2010))
+N = 1288 citations retrieved
+
+---
+
+## chunk_116_LEFT
+
+**Source:** Page 116 (LEFT)  
+**Word Count:** 156  
+
+8.  
+ When should patients with closed head injury be transferred to hospitals with 
+neurosurgical facilities?
+MEDLINE 
+1. 
+exp craniocerebral trauma/
+2. 
+ (head OR brain OR cerebral OR cranial OR 
+cranio?cerebral) ADJ (injur$ OR traum$).ti,ab
+3. 
+1 OR 2
+4. 
+exp patient transfer
+5. 
+3 AND 4
+6. 
+ limit 5 to (english language and humans and yr="2004 
+-Current")
+N = 59 citations retrieved
+9.  
+ Which patients with closed head injury should receive anticonvulsants?
+MEDLINE 
+1. 
+exp craniocerebral trauma/
+2. 
+ (head OR brain OR cerebral OR cranial OR 
+cranio?cerebral) ADJ (injur$ OR traum$).ti,ab
+3. 
+Or / 1-2
+4. 
+exp phenytoin/
+5. 
+exp pentobarbital/
+6. 
+exp carbamazepine/
+7. 
+exp valproic acid/
+8. 
+ (pentobarbit* or carbamazepine* or valpro* or 
+fosphenytoin* or phenytoin*).ti,ab.
+9. 
+ (anticonvul* or anti-convul* or antiseiz* or anti-seiz* or 
+antiepilep*).ti,ab.
+10. Or/4-9
+11. exp epilepsy, post-traumatic/
+12. 3 or 11
+13.  10 AND 12
+PAGE 114  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
+
+---
+
+## chunk_116_RIGHT
+
+**Source:** Page 116 (RIGHT)  
+**Word Count:** 125  
+
+EMBASE 
+1. 
+head injury/ exp
+2. 
+ (craniocerebral trauma or cranio-cerebral trauma or 
+cerebral trauma).tw
+3. 
+ (head injur* or brain injur* or brain trauma or head 
+trauma).tw
+4. 
+OR/1-3
+5. 
+interhospital NEAR/3 transfer
+6. 
+patient transport/exp
+7. 
+5 OR 6
+8. 
+4 AND 7
+9. 
+limit 8 to (English language AND (yr=2005-2010))
+N = 169 citations retrieved
+EMBASE 
+1. 
+head injury/exp
+2. 
+ (head OR brain OR cerebral OR cranial OR 
+cranio?cerebral) NEXT (injur$ OR traum$).ti,ab
+3. 
+ (post-traumatic or posttraumatic).mp. AND (seizure* or 
+epilep*).tw.
+4. 
+exp traumatic epilepsy/
+5. 
+OR/1-4
+6. 
+phenytoin/exp
+7. 
+pentobarbital/exp
+8.  carbamazepine/exp
+9. 
+valproic acid/exp
+10. fosphenytoin/exp
+11.  (pentobarbit* OR carbamazepine* OR valpro* OR 
+fosphenytoin* OR phenytoin*).ti,ab.
+12.  (anticonvul* OR anti-convul* OR antiseiz* OR anti-seiz* 
+OR antiepilep*).ti,ab.
+13. OR/6-12
+14. 5 AND 13
+
+---
+
+## chunk_117_LEFT
+
+**Source:** Page 117 (LEFT)  
+**Word Count:** 113  
+
+10.  
+ What analgesia should patients with closed head injury receive?
+MEDLINE 
+1. 
+exp craniocerebral trauma/
+2. 
+ ((head or brain or cerebral or cranial) adj (traum$ or 
+injur$)).tw.
+3. 
+OR/1-2
+4. 
+exp Analgesia/
+5.  analges$.tw.
+6.  exp Analgesics, Opioid/
+7.  exp Morphinans/
+8.  exp Anti-Inflammatory Agents, Non-Steroidal/
+9.  exp Narcotics/
+10.  exp Narcotic Antagonists/
+11. (paracetamol OR acetominophen).tw.
+12. (pain ADJ rel$).tw.
+13.  (morphine or NSAID$ OR fentanyl OR remifentanyl 
+OR diclofenac OR meperidine OR alfentanyl OR  
+sulfentanyl OR tramadol OR codeine OR oxyco$ OR 
+dihydromORphine).tw.
+14. OR/4-13
+15.  3 AND 14
+16.  limit 15 to (english language AND humans)
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 115
+
+---
+
+## chunk_117_RIGHT
+
+**Source:** Page 117 (RIGHT)  
+**Word Count:** 86  
+
+EMBASE 
+1.  craniocerebral Trauma/exp
+2. 
+ ((head OR brain OR cerebral OR cranial) NEXT (traum$ 
+OR injur$)).tw.
+3.  diffuse axonal injur$.tw.
+4.  OR/1-3
+5 
+Analgesia/exp
+6.  analges$.tw.
+7.  Analgesics, Opioid/exp
+8. 
+Morphinans/exp
+9. 
+Anti-Inflammatory Agents, Non-Steroidal/exp
+10. Narcotics/exp
+11.  Narcotic Antagonists/exp
+12.  (paracetamol OR acetominophen).tw.
+13.  (pain NEXT rel$).tw.
+14.  (morphine OR NSAID$ OR fentanyl OR remifentanyl OR 
+diclofenac OR meperidine OR
+ 
+ alfentanyl OR sulfentanyl OR tramadol OR codeine OR 
+oxyco$ OR dihydromorphine).tw.
+15.  OR/5-14
+16. 4 AND 15
+17. limit 16 to (human AND english language)
+
+---
+

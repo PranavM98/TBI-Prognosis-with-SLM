@@ -1,0 +1,31 @@
+Source: Page 117 (RIGHT)
+Page: 117, Side: RIGHT
+Word Count: 86
+--------------------------------------------------
+EMBASE 
+1.  craniocerebral Trauma/exp
+2. 
+ ((head OR brain OR cerebral OR cranial) NEXT (traum$ 
+OR injur$)).tw.
+3.  diffuse axonal injur$.tw.
+4.  OR/1-3
+5 
+Analgesia/exp
+6.  analges$.tw.
+7.  Analgesics, Opioid/exp
+8. 
+Morphinans/exp
+9. 
+Anti-Inflammatory Agents, Non-Steroidal/exp
+10. Narcotics/exp
+11.  Narcotic Antagonists/exp
+12.  (paracetamol OR acetominophen).tw.
+13.  (pain NEXT rel$).tw.
+14.  (morphine OR NSAID$ OR fentanyl OR remifentanyl OR 
+diclofenac OR meperidine OR
+ 
+ alfentanyl OR sulfentanyl OR tramadol OR codeine OR 
+oxyco$ OR dihydromorphine).tw.
+15.  OR/5-14
+16. 4 AND 15
+17. limit 16 to (human AND english language)

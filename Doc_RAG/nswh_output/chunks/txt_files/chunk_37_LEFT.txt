@@ -1,0 +1,49 @@
+Source: Page 37 (LEFT)
+Page: 37, Side: LEFT
+Word Count: 404
+--------------------------------------------------
+scalp haematoma is included in most clinical decision rules 
+particularly among young children.14, 49, 94, 123, 130, 174 There 
+is no clear guidance in the literature as to what should be 
+considered a significant scalp haematoma or laceration 
+other than a trend to “large’ and “non frontal”. There is 
+no evidence for the use of descriptors such as “boggy” or 
+“tense” to help discriminate between significant and non 
+significant haematomas.
+Drug or alcohol intoxication
+Drug or alcohol ingestion with a normal mental state 
+is not an indication for CT scanning. Drug or alcohol 
+intoxication resulting in an abnormal mental state is 
+an indication for CT scanning.22, 38, 40, 53, 74, 85, 115, 162, 
+168, 172, 174 
+Drug or alcohol intoxication is frequently present in patients 
+with head injury and makes patients difficult to assess and 
+manage. Cook et al,60 in a study of alcohol intoxicated 
+patients, found that clinical examination could not predict 
+which alcohol intoxicated patients had abnormal CT scans. 
+However, they observed that the rate of abnormal CT scan 
+and neurosurgical intervention was similar to that of the 
+non-intoxicated mild head injury population. Several studies 
+have suggested that drug or alcohol intoxication is a risk 
+factor for intracranial injury but the exact definition of 
+intoxication remains vague.31, 32
+Since 2004 there have been several large well designed 
+studies and clinical decision rules published that have found 
+that alcohol is not an independent risk factor for intracranial 
+injury in patients with mild head injury.22, 38, 85, 115, 162, 168, 
+172 Bracken et al153 looked at the intoxicated patients (3356 
+patients) in the NEXUS II database who had received CT 
+scans and found that the rate of intracranial injury was 
+lower than the non-intoxicated group. Although it would 
+appear that alcohol intoxication is not an independent 
+risk factor for intracranial injury it remains a common 
+clinical dilemma to decide what to do with a head injured 
+patient with an abnormal mental status when it is not clear 
+whether it is the alcohol or the head injury that is causing 
+the abnormality.
+Stiell et al35 took a slightly different approach and used GCS 
+<15 at two hours post injury as their variable to predict 
+abnormal mental status for whatever reason. They argued 
+that drug or alcohol intoxication was not an independent 
+predictor of intracranial injury if the patient had a normal 
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 35

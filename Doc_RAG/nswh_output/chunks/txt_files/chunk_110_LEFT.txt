@@ -1,0 +1,30 @@
+Source: Page 110 (LEFT)
+Page: 110, Side: LEFT
+Word Count: 121
+--------------------------------------------------
+Appendix 9: Search Strategies
+1st Edition:
+The following search phrases were used in Medline:
+1. exp Head Injuries, Closed/
+2. exp *tomography, x-ray/
+3. Patient Discharge/
+4. Patient Transfer/
+5. intubation/ or exp intubation, intratracheal/
+6. *Intracranial Pressure/
+7. Drainage/
+8.  (7 and (ventricular or intra?ventricular or 
+extra?ventricular).mp.) or ((ventricular or intra?ventricular 
+or extra?ventricular) adj drain$).mp.
+9. (icp monitor$ or intracranial pressure monitor$).mp.
+10. exp Aggression/
+11. exp Mannitol/
+12. exp Hyperventilation/
+13. Adrenal Cortex Hormones/
+14. Craniotomy/
+15. Trephining/
+16. exp emergency treatment/
+17.  exp *head injuries, closed/su, th or (exp head injuries, 
+closed/ and management.mp.)
+18. (or/2-6) or (or/8-16)
+19. (1 and 18) or 17
+PAGE 108  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH

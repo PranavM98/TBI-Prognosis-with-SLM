@@ -1,0 +1,63 @@
+Source: Page 7 (LEFT)
+Page: 7, Side: LEFT
+Word Count: 309
+--------------------------------------------------
+Defining closed head injury
+This guideline uses the terms ‘closed head injury’ and ‘mild, 
+moderate or severe head injury’ to identify and classify 
+patients on arrival to hospital. The outcome following 
+presentation with a ‘closed head injury’ will vary from rapid 
+complete recovery to a mixture of structural lesions and 
+functional deficits ranging from trivial to life threatening. 
+The terms “concussion” and “traumatic brain injury” refer 
+to the patient outcome following their initial presentation 
+with a “closed head injury” and are retrospective 
+diagnoses. Important functional deficits following ‘closed 
+head injury’ range from post concussion symptoms and 
+post traumatic amnesia to a variety of disabling persistent 
+physical-cognitive-behavioural-social sequelae. 
+Many patients who suffer a “mild head injury” will have 
+“mild concussion symptoms” or “mild traumatic brain injury 
+symptoms”. If these acute “concussion” symptoms persist 
+beyond the first few hours they are usually referred to as 
+“post concussion symptoms”. The term “post concussion 
+symptoms” is used to describe the clinical symptoms of 
+mild brain injury that mild head injury patients may suffer 
+for a few days to weeks following their injury. In the 
+Table 1. Summary of closed head injury classification and outcome
+ Mild Head Injury
+Moderate Head Injury
+Severe Head Injury
+Initial GCS
+14-15
+9-13
+3-8
+% of Total
+80
+10
+10
+Abnormal CT Scan (%) 1,2
+5-15
+30 - 50
+60 - 90
+Neurosurgical Intervention (%) 1,2 
+1-3
+5-30
+30-50
+(excluding ICP monitoring)
+Mortality (%) 1
+<1
+10-15
+30-50 
+Good Functional Outcome (%) 1,2,3
+>90 
+20-90
+<20 
+Notes:
+1. 
+Generally the lower the GCS the worse the prognosis or the higher the rate of complications 
+2. 
+Outcome deteriorates with increasing age - “children do better and elderly do worse”
+3. 
+Good functional outcome being return to independent ADL and to work or school at 6 months
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 5

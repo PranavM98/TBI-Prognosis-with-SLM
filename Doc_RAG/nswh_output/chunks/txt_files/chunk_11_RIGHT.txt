@@ -1,0 +1,76 @@
+Source: Page 11 (RIGHT)
+Page: 11, Side: RIGHT
+Word Count: 676
+--------------------------------------------------
+High risk mild head injury 
+Strong indication for CT scan if...
+- GCS <15 at 2 hours post injury. #1
+- Deterioration in GCS.
+- Focal neurological deficit.
+- Clinical suspicion of skull fracture  #2
+- Vomiting (especially if recurrent) #3
+- Known coagulopathy or bleeding disorder #4
+- Age >65 years. #5
+- Seizure #6
+- Prolonged loss of consciousness (>5 mins). 
+- Persistent post traumatic amnesia (A-WPTAS <18/18 at 4hrs post injury) #7
+- Persistent abnormal alertness / behaviour / cognition #8
+- Persistent severe headache.
+Relative indication for CT scan if…
+- Large scalp haematoma or laceration #9
+- Multi-system trauma. #10
+- Dangerous mechanism. #11
+- Known neurosurgery / neurological impairment. #12
+- Delayed presentation or representation. #13
+Note 
+The presence of multiple risk factors is more concerning than a single isolated risk 
+factor. In most uncomplicated mild head injury patients clinical symptoms start to 
+improve by 2 hours post injury and are returning to normal by 4 hours post injury. 
+Clinical symptoms that are deteriorating or not improving by 4 hours post injury on 
+serial observation such as abnormal alertness / behaviour / cognition, PTA, vomiting or 
+severe headache are very concerning.
+Abnormal CT scan
+CT scan unavailable
+Consider transfer for CT scanning particularly if:
+- Persistent GCS <15.
+- Deterioration in GCS.
+- Focal neurological deficit.
+- Clinical suspicion of skull fracture 
+- Known coagulopathy (esp if INR>4)
+-  Persistent abnormal alertness, behaviour, cognition, 
+PTA, vomiting or severe headache at 4 hours post injury
+Consult senior clinician and network neurosurgical service 
+regarding further management and disposition. 
+Continue clinical observations in hospital.
+Explanatory notes for risk factors
+1.  Using GCS<15 at 2 hours post injury allows clinical judgement for patients who present soon after 
+injury or who have drug or alcohol intoxication. Drug or alcohol intoxication has not been shown to 
+be an independant risk factor for intracranial injury but persistent GCS<15 is a major risk factor and 
+mandates CT. 
+2.  Clinical suspicion of skull fracture includes history of focal blunt assault or injury; palpable skull fracture; 
+large scalp haematoma or laceration; signs of base of skull fracture – haemotympanum / CSF leak / 
+raccoon eyes / Battles sign.
+3.  Recurrent vomiting more concerning than isolated vomiting but both are indications.
+4.  Known coagulopathy is both a strong indication for early CT scan and to check the INR. Early reversal of 
+anticoagulation if abnormal CT scan and consider reversal if initially normal CT scan with high INR (>4) 
+depending on clinical situation.
+5.  Elderly patients have increasing risk of intracranial injury with increasing age; routine CT scanning 
+indicated unless totally asymptomatic patient with no other risk factors.
+6.  Brief generalised seizures immediately following head injury are not significant risk factors. Prolonged, 
+focal or delayed seizures are risk factors for intracranial injury.
+7.  Post traumatic amnesia may manifest as repetitive questioning or short term memory deficits and can 
+be objectively tested using the A-WPTAS. PTA > 30 mins is a minor risk factor and PTA > 4 hours a 
+major risk factor for intracranial injury.
+8.  Abnormal alertness/behaviour/cognition detects subtle brain injury better than GCS and should be part 
+of the bedside assessment. Family may help establish what is normal.
+9.  Multi-system trauma – beware patient with unstable vital signs or distracting injuries or who receive 
+analgesia or anaesthesia, as significant head injury is easily missed.
+10. Clinical judgement required as to what is a large scalp haematoma or laceration.
+11.  Dangerous - MVA ejection / rollover; pedestrians / cyclists hit by vehicle; falls >own height or five stairs; 
+falls from horses / cycles etc; focal blunt trauma, eg bat / ball / club.
+12.  Known neurosurgery/neurological impairment – conditions such as hydrocephalus with shunt or AVM 
+or tumour or cognitive impairment such as dementia make clinical assessment less reliable and may 
+increase risk of intracranial injury.
+13.  Delayed presentation should be considered as failure to clinically improve during observation. For 
+representation consider both intracranial injury and post concussion symptoms and have a low 
+threshold for CT scanning if not done initially.

@@ -1,0 +1,54 @@
+Source: Page 106 (LEFT)
+Page: 106, Side: LEFT
+Word Count: 338
+--------------------------------------------------
+Appendix 8: Methodology
+A8.1 
+General search strategy
+Comprehensive search strategies for both Medline and 
+Embase were guided by each of the clinical questions. A 
+general text-word based strategy was used to search the 
+Cochrane Database of Systematic Reviews (CDSR), the 
+Cochrane Central Register of Controlled Trials (CENTRAL) 
+and SCOPUS. The searches were executed for the period 
+1980 to 30th October 2004 (1st Ed.) and updated for 
+the 2nd Ed. (2004-2010). The results from each of these 
+searches were filtered in accordance with the exclusion 
+and inclusion criteria (see below) and then assessed for 
+relevance to the clinical questions. The search strategies are 
+listed in Appendix 9.
+In addition, reference lists of previous guidelines and key 
+papers were used to identify other key references, including 
+pre-2004 literature. SCOPUS and Google Scholar were used 
+to execute author-based searches, citation mapping and 
+grey literature searching. The following websites were also 
+searched (using relevant free text terms):
+A8.2  
+Inclusion and exclusion criteria
+Conditions
+Exclusion Criteria
+- Closed head injury studies
+-  Penetrating head injury or brain damage from stroke/ 
+- Aged > 16 years
+- Meta-analyses, systematic reviews, clinical guidelines 
+incorporating systematic reviews, controlled trials, 
+comparative studies.
+-  Aged < 16 years 
+-  Narrative reviews, letters, editorials, case studies/ series
+-  Studies using non-human subjects
+A8.3  
+Strength of recommendations
+This guideline uses the National Health and Medical 
+Research Council (NHMRC) overall grades of 
+recommendation to indicate the strength of the body of 
+evidence underpinning each recommendation. The body 
+of evidence reflects the evidence components of all the 
+studies relevant to each recommendation. The evidence 
+components are assessed according to the NHMRC body 
+of evidence matrix (see table below). The overall grade of 
+the recommendation is determined based on a summation 
+of the rating for each individual component of the body of 
+evidence. Please note that a recommendation cannot be 
+graded A or B unless the evidence base and consistency of 
+the evidence are both rated A or B.44
+PAGE 104  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH

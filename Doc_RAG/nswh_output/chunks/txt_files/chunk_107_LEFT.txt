@@ -1,0 +1,70 @@
+Source: Page 107 (LEFT)
+Page: 107, Side: LEFT
+Word Count: 229
+--------------------------------------------------
+Body of evidence matrix44
+Components
+A
+B
+C
+D
+Excellent
+Good
+Satisfactory
+Poor
+one or two level II 
+studies with a low risk 
+of bias or a SR/several 
+level III studies with a 
+low risk of bias
+Evidence base
+one or more level I 
+studies with a low risk 
+of bias or several level 
+II studies with a low 
+risk of bias
+Consistency
+all studies consistent
+most studies 
+consistent and 
+inconsistency may be 
+explained
+Clinical impact
+very large
+substantial
+moderate
+slight or restricted
+population/s studied 
+in the body of 
+evidence are similar to 
+the target population 
+for the guideline
+Generalisability
+population/s studied 
+in body of evidence 
+are the same as the 
+target population for 
+the guideline
+applicable to 
+Australian healthcare 
+context with few 
+caveats
+Applicability
+directly applicable to 
+Australian healthcare 
+context
+Grade of 
+recommendation
+A
+Body of evidence can be trusted to guide practice
+B
+Body of evidence can be trusted to guide practice in most situations
+C
+Body of evidence provides some support for recommendation(s) but care should be taken in its 
+application
+D
+Body of evidence is weak and recommendation must be applied with caution
+Consensus
+When limited literature was available, the author and editorial group utilised the best available clinical 
+expertise, practices and accepted teachings to reach a consensus on the recommendation
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 105

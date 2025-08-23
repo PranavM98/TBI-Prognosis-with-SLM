@@ -1,0 +1,44 @@
+Source: Page 93 (RIGHT)
+Page: 93, Side: RIGHT
+Word Count: 235
+--------------------------------------------------
+MRN sticker here
+The A-WPTAS combined with a standardised GCS 
+assessment is an objective measure of post traumatic 
+amnesia (PTA).   
+Only for patients with current GCS of 13-15 (<24hrs 
+post injury) with impact to the head resulting in confusion, 
+disorientation, anterograde or retrograde amnesia, or brief 
+LOC. Administer both tests at hourly intervals to gauge 
+patient’s capacity for full orientation and ability to retain new 
+information. Also, note the following: poor motivation, 
+depression, pre-morbid intellectual handicap or possible 
+medication, drug or alcohol effects. NB: This is a screening 
+device, so exercise clinical judgement. In cases where 
+doubt exists, more thorough assessment may be
+necessary.
+Admission and Discharge Criteria: 
+A patient is considered to be out of PTA when they score 
+18/18.
+Both the GCS and A-WPTAS should be used in conjunction 
+with clinical judgement. 
+Patients scoring 18/18 can be considered for discharge. 
+For patients who do not obtain 18/18 re-assess after a 
+further hour. 
+Patients with persistent score <18/18 at 4 hours post time 
+of injury should be considered for admission. 
+Clinical judgement and consideration of pre-existing 
+conditions should be used where the memory component 
+of A-WPTAS is abnormal but the GCS is normal (15/15). 
+Referral to GP on discharge if abnormal PTA was present, 
+provide patient advice sheet. 
+Pupil Size (mm)
+2
+3
+4
+5
+6
+7
+8
+Shores & Lammel (2007) - further copies of this score sheet can be 
+downloaded from http://www.psy.mq.edu.au/GCS

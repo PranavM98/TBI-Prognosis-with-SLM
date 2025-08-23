@@ -1,0 +1,25 @@
+Source: Page 110 (RIGHT)
+Page: 110, Side: RIGHT
+Word Count: 97
+--------------------------------------------------
+The following search phrases were used in Embase:
+1.  (head injury/ and closed$.mp.) or (closed head injury or 
+closed head trauma$).mp. 
+2. exp computer assisted tomography/
+3. patient transport/ or discharg$.mp.
+4. exp RESPIRATORY TRACT INTUBATION/ or INTUBATION/
+5. Intracranial Hypertension/
+6. cerebrospinal fluid drainage/
+7.  ((ventricular or intra?ventricular or extra?ventricular) adj 
+drain$).mp.
+8. (icp monitor$ or intracranial pressure monitor$).mp.
+9. exp aggression/
+10. Mannitol/
+11. exp Hyperventilation/
+12. exp Corticosteroid/
+13. craniotomy/
+14. (trephin$ or burr hole$).mp.
+15. exp emergency treatment/
+16. (su or th).fs. or management.mp.
+17. 1 and (or/2-16)
+18. limit 17 to human

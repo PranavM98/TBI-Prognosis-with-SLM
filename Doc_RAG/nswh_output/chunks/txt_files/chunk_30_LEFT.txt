@@ -1,0 +1,54 @@
+Source: Page 30 (LEFT)
+Page: 30, Side: LEFT
+Word Count: 422
+--------------------------------------------------
+RECOMMENDATION
+Strength of 
+recommendation
+Patients at “highest risk” of intracranial injury who should be discussed with the network neurosurgical 
+service regarding urgent transfer for CT scanning include those with:
+- Persistent GCS<15 at two hours post injury
+- Focal neurological deﬁ cit
+- Clinical suspicion of skull fracture
+- Any deterioration in GCS
+- Post traumatic seizure in ED 
+- Known coagulopathy (particularly if age >65 or INR >4)
+- Persistent vomiting or severe headache
+- Persistent abnormal alertness, behaviour, cognition or PTA at 4 hours post injury.
+If it is decided, after consultation with a network neurosurgical service, that a “high risk” patient does 
+not require urgent transfer for CT scanning, then that patient should have close clinical observation 
+in hospital for at least 24 hours and until clinically improving. If there are any signs of deterioration 
+or no improvement, the network neurosurgical service should again be consulted. Rapid transfer to a 
+neurosurgical centre in the event of deterioration must be available if this strategy is to be used.
+If patients are transferred for CT scanning they should ideally be transferred to a hospital with 
+neurosurgical facilities to avoid secondary transfer.
+A skull x-ray may be useful to conﬁ rm the presence of a skull fracture that mandates an early CT scan 
+due to the increased risk of deterioration.
+‘Low risk’ mild head injury not requiring CT scan
+The following features indicate patients with mild head injury (initial GCS 14-15) at low risk of 
+having clinically signiﬁ cant lesions requiring acute neurosurgical intervention or prolonged 
+observation in hospital. These patients should not routinely have CT scanning if they have all of 
+the following features:
+On initial assessment
+- GCS 15 at two hours post injury.
+- No focal neurological deﬁ cit.
+- No clinical suspicion of skull fracture.
+- No vomiting.
+- No known coagulopathy or bleeding disorder.
+- Age <65 years. 
+- No post traumatic seizure
+- Nil or brief loss of consciousness (<5min).
+- Nil or brief post traumatic amnesia (<30min)
+- No severe headache.
+- No large scalp haematoma
+- Isolated head injury
+- No dangerous mechanism
+- No known neurosurgery / neurological impairment
+- No delayed presentation or representation.
+After a period of observation (until at least four hours post time of injury)
+- GCS 15/15 
+- No post traumatic amnesia (A-WPTAS 18/18)
+- Normal mental status including alertness, behaviour and cognition. 
+- No clinical deterioration during observation.
+- Clinically returning to normal
+PAGE 28  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH

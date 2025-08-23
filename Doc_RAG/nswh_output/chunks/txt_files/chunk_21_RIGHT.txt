@@ -1,0 +1,50 @@
+Source: Page 21 (RIGHT)
+Page: 21, Side: RIGHT
+Word Count: 417
+--------------------------------------------------
+no significant injury, long-term cognitive-behavioural 
+dysfunction or a life threatening extradural haematoma.
+This is particularly important for mild head injury patients 
+because GCS primarily assesses the risk of structural lesions. 
+Subtle cognitive changes are not well discriminated within 
+the mild head injury group. This led to the development of 
+the extended Glasgow Coma Scale and the Abbreviated 
+Westmead PTA Scale that assess the duration of post 
+traumatic amnesia as a means of identifying patients at 
+increased risk of cognitive problems.106-109 Despite these 
+limitations initial GCS on admission remains the standard 
+method for initial classification of head injuries.
+When assessing initial GCS in patients with head injury it is 
+worthwhile considering time of injury. Clearly initial GCS for 
+a given patient may vary depending on time of presentation 
+to hospital. Few studies have related GCS to the time of 
+injury with the exception of Stiell et al35 who found GCS 
+<15 at two hour post injury was a significant predictor of 
+intracranial injury for mild head injury patients. Most recent 
+studies that have reported time of presentation have shown 
+that mild head injuries present around 60 to 90 minutes 
+post injury.31, 43, 54 An abnormal initial GCS taken within 
+one hour of injury is therefore likely to overestimate the 
+risk of intracranial injury in mild head injury patients who 
+present early.
+Prehospital GCS, motor score and return of orientation 
+are other factors to consider when assessing initial GCS. 
+Prehospital GCS was felt to be unreliable,110 but with 
+more organised prehospital systems, it is gaining further 
+attention.15, 111 Motor score is the best predictor of outcome 
+of the GCS components.15 Orientation returns most 
+commonly in the sequence of person, place then time.112 
+The Glasgow Coma Scale is used as one of the parameters 
+in serial observation of head injury patients. This is what 
+it was originally designed for and what it is most useful 
+for. Both the original studies and subsequent studies have 
+validated its use in this fashion and, prior to the advent 
+of CT scanning, alteration in GCS was the most useful 
+tool in predicting intracranial injury.9, 104 Borg et al101 in 
+a meta analysis for the World Health Organisation on 
+mild traumatic brain injury concluded that in the absence 
+of CT scanning that hospital observation for at least 24 
+hours for patients with GCS 15 and other risk factors was 
+a reasonable strategy. Currently, serial GCS remains a 
+standard tool in the monitoring of head injuries when CT 
+scanning is unavailable or when clinical symptoms persist

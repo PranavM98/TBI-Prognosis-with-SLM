@@ -1,0 +1,42 @@
+Source: Page 113 (LEFT)
+Page: 113, Side: LEFT
+Word Count: 179
+--------------------------------------------------
+3.  
+ How should patients with Mild Head Injury be assessed?
+MEDLINE 
+1. 
+exp craniocerebral trauma/
+2. 
+ (head OR brain OR cerebral OR cranial OR 
+cranio?cerebral) ADJ (injur$ OR traum$).ti,ab.
+3. 
+(mild OR minim$ OR minor).ti,ab
+4. 
+1 OR 2
+5. 
+3 AND 4
+6. 
+ (assessment or observation$ or classification$ or 
+stratification or risk or examination or (clinical adj 
+(history OR assessment)) OR (neurologic$ adj (history 
+OR assessment OR observation$))).ti,ab.
+7. 
+ ((GCS or (glasgow adj coma adj (score or scale))) adj3 
+(admission or arrival or initial or present$ or deteriorat$ 
+or serial or abnormal)).ti,ab.
+8. 
+ ((PTA or (post?traumatic adj amnesia)) adj (testing or 
+scor$ or persistan$)).ti,ab.
+9. 
+ ((clinical adj (decision or diagnostic) adj (rule$ or 
+tool$)) or (guideline$ or protocol$ or algorithm$) or 
+management).ti,ab.
+10. OR/ 6-9
+11. 5 AND 10
+12.  limit 11 to (english language and humans and (clinical 
+trial, all or controlled clinical trial or government 
+publications or guideline or meta analysis or practice 
+guideline or randomized controlled trial) and last 5 
+years)
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 111

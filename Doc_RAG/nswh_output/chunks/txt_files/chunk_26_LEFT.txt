@@ -1,0 +1,51 @@
+Source: Page 26 (LEFT)
+Page: 26, Side: LEFT
+Word Count: 391
+--------------------------------------------------
+- Studies by Haydel et al32 (New Orleans Criteria), Stiell 
+et al35 (Canadian CT Head Rules) and Mower et al58 
+(NEXUS II) have provided externally validated evidence 
+based clinical decision rules for mild head injury in 
+adults. The Canadian CT Head Rules are the most 
+extensively studied of the clinical decision rules.
+- Clinical decision rules should be used as tools to 
+support clinical decisions and should not override 
+clinical judgement
+- If clinicians choose to use a clinical decision rule, they 
+should be aware of the limitations and inclusion / 
+exclusion criteria of whichever clinical decision rule they 
+decide to use.
+Skull x-rays
+The literature clearly identifies that both the clinical 
+suspicion of skull fractures and the radiological evidence of 
+skull fracture are significant risk factors for the presence of 
+an intracranial lesion requiring neurosurgical intervention.6, 
+31, 32, 35, 66, 74
+If CT scanning is available, the current indications for skull 
+x-rays are few. However, if CT scanning is unavailable, 
+the role of skull x-rays as a screening test is less clear. A 
+detailed meta analysis by Hofman et al66 concluded that 
+whilst the presence of skull fracture greatly increased the 
+risk of intracranial injury, the absence of a skull fracture 
+did not rule it out (calculated sensitivity 38% calculated 
+specificity 95%). In subsequent clinical guidelines, authors 
+have differed as to whether skull x-rays should be used to 
+detect patients at higher risk of intracranial injury. Jagoda et 
+al9 argued that the sensitivity of skull x-ray is not sufficient 
+to be used as a screening test. Vos et al10 and Servadei et 
+al6 felt that in the absence of CT scanning, a positive skull 
+x-ray can be useful to help allocate patients into higher risk 
+groups for management purposes. On existing evidence, 
+both approaches seem reasonable depending on local 
+management guidelines. 
+Summary
+- Clinical evidence or suspicion of skull fracture is 
+associated with increased risk of intracranial injury.
+- Skull x-rays are not sufficiently sensitive to be used as a 
+routine screening test to identify patients at increased 
+risk of intracranial injury.
+- Where CT scanning is unavailable, skull x-ray may 
+be used as an adjunct to identify patients with skull 
+fractures who are at greater risk of intracranial injury 
+(but not to exclude intracranial injury). 
+PAGE 24  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH

@@ -1,0 +1,53 @@
+Source: Page 116 (RIGHT)
+Page: 116, Side: RIGHT
+Word Count: 125
+--------------------------------------------------
+EMBASE 
+1. 
+head injury/ exp
+2. 
+ (craniocerebral trauma or cranio-cerebral trauma or 
+cerebral trauma).tw
+3. 
+ (head injur* or brain injur* or brain trauma or head 
+trauma).tw
+4. 
+OR/1-3
+5. 
+interhospital NEAR/3 transfer
+6. 
+patient transport/exp
+7. 
+5 OR 6
+8. 
+4 AND 7
+9. 
+limit 8 to (English language AND (yr=2005-2010))
+N = 169 citations retrieved
+EMBASE 
+1. 
+head injury/exp
+2. 
+ (head OR brain OR cerebral OR cranial OR 
+cranio?cerebral) NEXT (injur$ OR traum$).ti,ab
+3. 
+ (post-traumatic or posttraumatic).mp. AND (seizure* or 
+epilep*).tw.
+4. 
+exp traumatic epilepsy/
+5. 
+OR/1-4
+6. 
+phenytoin/exp
+7. 
+pentobarbital/exp
+8.  carbamazepine/exp
+9. 
+valproic acid/exp
+10. fosphenytoin/exp
+11.  (pentobarbit* OR carbamazepine* OR valpro* OR 
+fosphenytoin* OR phenytoin*).ti,ab.
+12.  (anticonvul* OR anti-convul* OR antiseiz* OR anti-seiz* 
+OR antiepilep*).ti,ab.
+13. OR/6-12
+14. 5 AND 13

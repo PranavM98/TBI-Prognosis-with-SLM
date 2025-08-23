@@ -1,0 +1,50 @@
+Source: Page 27 (LEFT)
+Page: 27, Side: LEFT
+Word Count: 398
+--------------------------------------------------
+- Early CT scans may not demonstrate intra-cerebral 
+contusions which take time to become apparent on CT 
+scanning.
+- CT scanning will not demonstrate diffuse axonal injury 
+in most patients.3
+- Patients may suffer significant post concussive 
+symptoms despite an initial normal CT scan.3, 94, 98, 99, 
+- Routine use of CT scanning does not guarantee better 
+identification of significant intracranial injuries if 
+different institutions are compared.12, 37
+- The risk of cumulative radiation exposure especially 
+among children is of concern.120-123
+- May delay definitive management of more significant 
+injuries in multi system trauma patients.
+CT scanning and radiation
+There is increasing concern about the potential harm 
+from radiation associated with CT scanning.122, 123, 127-130 
+The main risk associated with radiation exposure from CT 
+scanning is an increased lifetime risk of fatal cancer.122, 123 
+There have also been concerns about the effects of 
+radiation on cognitive development in children. Hall 
+et al120 showed a significant reduction in educational 
+performance in young children who received the equivalent 
+dose of radiation of one or two CT heads for childhood 
+haemangiomas. The risk posed by radiation is greatest 
+in young children due to the relatively increased dose on 
+more sensitive tissue and the increased time for a cancer to 
+develop. Thus a person who has a CT scan as a child is at 
+much greater risk than a person who has their first CT scan 
+age 65 where the risk is very small. The risk posed by CT 
+scan radiation is cumulative and is greatest in patients with 
+chronic disease who have multiple scans. In patients with 
+moderate to severe head injury there is a clear benefit from 
+performing a CT scan because the probability of identifying 
+a life threatening injury clearly outweighs the small increase 
+in the lifetime risk of cancer. In the case of patients with 
+mild head injury the risk of harm from radiation needs 
+to be weighed against the relatively low probability of 
+identifying a neurosurgically significant lesion on CT scan. 
+This is of most concern in younger patients where the 
+effective radiation exposure is higher, the time available for 
+developing a cancer greater and the chance of cumulative 
+lifetime exposure greater. Hence the interest in developing 
+clinical decision rules for mild head injury patients to 
+determine who really needs a CT scan.
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 25

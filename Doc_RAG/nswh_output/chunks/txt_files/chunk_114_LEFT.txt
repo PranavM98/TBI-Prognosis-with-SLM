@@ -1,0 +1,58 @@
+Source: Page 114 (LEFT)
+Page: 114, Side: LEFT
+Word Count: 263
+--------------------------------------------------
+4.  
+ Which patients with Mild Head Injury require a CT scan?
+The literature searches for question 4 and 5 were 
+combined, as most evidence addressing indications for CT 
+scanning also address alternate management strategies.
+5.  
+ What is the optimal management strategy for high-risk Mild Head Injury patients when 
+CT scan is unavailable?
+MEDLINE 
+1. 
+exp craniocerebral trauma/
+2. 
+ (head OR brain OR cerebral OR cranial OR 
+cranio?cerebral) ADJ (injur$ OR traum$).ti,ab
+3. 
+(mild OR minim$ OR minor).ti,ab
+4. 
+1 OR 2
+5. 
+3 AND 4
+6. 
+exp skull fractures/
+7. 
+((skull or cranial) ADJ fracture$).ti,ab
+8. 
+ ((intracranial or intra?cranial or sub?dural or intra?dural 
+or epidural or sub?arachnoid or structural) adj 
+(haematoma$ or hematoma$ or haemorrhage$ or 
+hemorrhage$ or contusion$ or lesion$)).ti,ab.
+9. 
+((cerebral or brain) ADJ (?edema OR lesion$)).ti,ab
+10. exp anticoagulants/
+11. OR/ 6-10
+12. exp Tomography, X-ray computed/
+13. (CT OR computed tomograph$).ti,ab
+14.   ((Canadian adj3 ct) or nexus?II or NICE or (SIGN) or 
+(Scottish adj intercollegiate adj guidelines adj network) 
+or (brain adj trauma adj foundation)).ti,ab
+15.  ((clinical adj (decision or diagnostic) adj (rule$ or 
+tool$)) or (guideline$ or protocol$ or algorithm$) or 
+management).ti,ab.
+16. exp X-Rays/
+17. exp Referral and Consultation/
+18. or/12-17
+19. 11 AND 18
+20. 5 AND 18
+21. 19 OR 20
+22.  limit 21 to (english language and humans and (clinical 
+trial, all or controlled clinical trial or government 
+publications or guideline or meta analysis or practice 
+guideline or randomized controlled trial) and last 5 
+years)
+N = 1305 citations retrieved
+PAGE 112  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH

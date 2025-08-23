@@ -1,0 +1,50 @@
+Source: Page 25 (RIGHT)
+Page: 25, Side: RIGHT
+Word Count: 351
+--------------------------------------------------
+A recent review by Stein et al in 2009 compared most 
+of the best known clinical decision rules for mild head 
+injury by applying them retrospectively to a prospectively 
+collected data base and found that they all performed well 
+for identifying acute neurosurgical lesions but differed in 
+their ability to identify other lesions and their predicted CT 
+scan ordering rates. The authors concluded that NEXUS 
+II probably performed the best but the accompanying 
+editorial commented that it would be reasonable to use any 
+of the clinical decision rules.48
+The Canadian CT Head Rules are the most widely studied 
+and have been externally validated several times. However, 
+they were applied to GCS 13-15 patients, require loss of 
+consciousness or amnesia and excluded unstable multisystem trauma, coagulopathy, pre hospital seizure and 
+neurological deficit. The Canadian CT Head rule therefore 
+needs to be adapted for application to the broader 
+population or clinicians need to be fully aware of these 
+limitations when using the original rule. The NEXUS II 
+clinical decision rule has not been as extensively externally 
+validated but has the advantage of being relatively simple 
+to use and can be used for all patients with head injury 
+as there were no exclusion criteria other than delayed 
+presentation and both adult and paediatric populations 
+were studied. From a clinically practical point of view the 
+mnemonic “BEAN BASH” can be used to remember the 
+NEXUS II indications for CT scanning patients with head 
+injury at the bedside:
+B – behaviour abnormal; 
+E – emesis; 
+A – alertness abnormal; 
+N – neurological deficit; 
+B – bleeding disorder; 
+A – age>65; 
+S – skull fracture suspected; 
+H – haematoma scalp.
+The most important point for any clinician to recognise 
+is that clinical decision rules should be used as tools to 
+support clinical decisions and should not override clinical 
+judgement. If clinicians choose to use a clinical decision 
+rule, they should be aware of the limitations and inclusion 
+/ exclusion criteria of whichever clinical decision rule they 
+decide to use.
+Summary
+- Clinical decision rules provide useful adjuncts to the 
+assessment and management of mild head injury 
+patients.

@@ -1,0 +1,18 @@
+Source: Page 48 (RIGHT)
+Page: 48, Side: RIGHT
+Word Count: 124
+--------------------------------------------------
+The current guideline aims to address the question of when 
+to transfer patients from a non neurosurgical facility to a 
+neurosurgical facility. However, there has been increasing 
+interest in the issue of pre-hospital bypass of trauma 
+patients to ensure that they go directly to a tertiary hospital 
+with neurosurgical facilities. The primary benefit proposed 
+by this strategy is to avoid undue delay in transfer to 
+definitive care. There have been many studies such as the 
+one by Hartl et al169 that have shown reduced mortality 
+using such strategies. The Ambulance Service of NSW Pre 
+Hospital Major Trauma Triage Protocol (T1)170 has adopted 
+such a pre-hospital strategy for transferring all major 
+trauma patients directly to a major tertiary trauma hospital 
+or neurosurgical facility wherever possible.

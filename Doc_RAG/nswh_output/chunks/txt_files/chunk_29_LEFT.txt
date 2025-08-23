@@ -1,0 +1,50 @@
+Source: Page 29 (LEFT)
+Page: 29, Side: LEFT
+Word Count: 355
+--------------------------------------------------
+4. 
+Which patients with mild head injury require a CT scan?
+RECOMMENDATION
+Strength of 
+recommendation
+'High risk’ mild head injury requiring CT scan
+The following risk factors identify patients with mild head injury (initial GCS 14-15) at increased 
+risk of clinically signiﬁ cant lesions requiring acute neurosurgical intervention or prolonged 
+observation in hospital. These patients should have early CT scanning if available, if they have any 
+of the following features:
+On initial assessment
+- GCS<15 at two hours post injury**
+- Focal neurological deﬁ cit
+- Clinical suspicion of skull fracture
+- Vomiting 
+- Known coagulopathy or bleeding disorder
+- Age >65 
+- Witnessed seizure
+- Prolonged loss of consciousness (>5min)
+On serial assessment
+- Decrease in GCS
+- Persistent GCS<15 at two hours post injury
+- Persistent abnormal alertness/behaviour/cognition
+- Persistent post traumatic amnesia (A-WPTAS<18/18 at 4hrs post injury)
+- Persistent vomiting ( 2 occasions)
+- Persistent severe headache
+- Post traumatic seizure 
+Clinical judgement required if
+- Initial GCS 14 within two hours of injury** 
+- Large scalp haematoma or laceration
+- Associated multi-system injuries
+- Dangerous mechanism
+- Known neurosurgery/neurological impairment
+- Delayed presentation or representation
+** NOTE: Includes patients with abnormal GCS due to drug or alcohol ingestion.
+If CT scanning is unavailable
+“High risk” mild head injury patients should be closely observed and be considered for transfer to a 
+hospital with neurosurgical and CT scan facilities when CT scan is unavailable.
+A clear decision about the need for transfer for CT scanning for “high risk” patients should be made 
+at the time of initial assessment or after a brief period of observation. A local senior clinician should be 
+consulted and the patient discussed with the network neurosurgical service.
+The clinical symptoms of patients with mild head injury typically improve within two to four hours post 
+time of injury. Patients with persistently abnormal or worsening clinical symptoms are at “high risk” of 
+intracranial injury. A clear decision about the need for transfer for CT scanning should be made no later 
+than 4 hours post time of injury.
+Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH  PAGE 27

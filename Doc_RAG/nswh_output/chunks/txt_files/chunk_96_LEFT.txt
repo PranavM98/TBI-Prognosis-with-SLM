@@ -1,0 +1,47 @@
+Source: Page 96 (LEFT)
+Page: 96, Side: LEFT
+Word Count: 355
+--------------------------------------------------
+Appendix 5: The Glasgow Coma Scale - a practical implementation guide
+Associate Professor Paul M Middleton
+Introduction
+Impairment of consciousness is one of the most consistent 
+features of head injury, and the Glasgow Coma Scale 
+(GCS) was described by Teasdale and Jennett in 1974192, 
+based on a theoretical model of level of consciousness. 
+It was introduced as a simple tool, not to allow absolute 
+distinctions between levels of consciousness, but to be an 
+effective method of accurately describing the various states 
+of impairment within the continuum of consciousness.192 
+As the authors stated in the original paper “In the acute 
+stage, changes in conscious level provide the best indication 
+of the development of complications such as intracranial 
+haematoma, whilst the depth of coma and its duration 
+indicate the degree of ultimate recovery which can be 
+expected”. Prior to this most descriptions of altered 
+levels of consciousness revolved around very subjective 
+portrayals such as “comatose”, “drowsy”, “obtunded”, and 
+“stuporose”.193
+The GCS was originally described by the authors as a 
+repeated bedside assessment of the “…depth and duration 
+of impaired consciousness and coma”192, and was used to 
+objectively determine the severity of coma and underlying 
+brain dysfunction at six hours following head trauma. This 
+time frame was chosen to avoid overestimation of brain 
+damage produced by temporary factors such as alcohol, 
+hypoxia or hypotension,193 and similarly the GCS should be 
+recorded prior to any sedation.
+The GCS has also been incorporated as the neurological 
+component of assessment into various aggregate scores 
+such as APACHE and TRISS,193 and it has been found that 
+taking out this neurological component worsened predictive 
+ability, which led to the presumption that neurological 
+status is the best predictor of overall functional outcome.194 
+The GCS makes up 17% of the theoretical maximum Acute 
+Physiology Score (APS) in APACHE II, 19% of the APS in 
+APACHE III195 and is the basis of the World Federation of 
+neurosurgeons (WFNS) subarachnoid haemorrhage (SAH) 
+grading scale.196 
+The GCS, in actual fact, has evolved through both design 
+and common usage to fulfil multiple functions, which are 
+PAGE 94  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH

@@ -1,0 +1,57 @@
+Source: Page 115 (RIGHT)
+Page: 115, Side: RIGHT
+Word Count: 138
+--------------------------------------------------
+EMBASE 
+1. 
+head injury/ exp
+2. 
+ (craniocerebral trauma or cranio-cerebral trauma or 
+cerebral trauma).tw
+3. 
+ (head injur* or brain injur* or brain trauma or head 
+trauma).tw
+4. 
+(minor or minimal or mild).tw
+5. 
+OR/1-3
+6. 
+4 AND 5
+7. 
+hospital discharge/exp
+8. 
+6 AND 8
+N = 51 citations retrieved
+EMBASE 
+1. 
+head injury/ exp
+2. 
+ (craniocerebral trauma or cranio-cerebral trauma or 
+cerebral trauma).tw
+3. 
+ (head injur* or brain injur* or brain trauma or head 
+trauma).tw
+4. 
+OR/1-3
+5. 
+emergency treatment/exp
+6. 
+intensive care/exp
+7. 
+OR/5-6
+8. 
+therapeutic hyperventilation/exp
+9. 
+cerebrospinal fluid drainage/exp
+10. induced hypothermia/exp
+11. sodium chloride/exp
+12. sedative agent/exp
+13. hypnotic sedative agent/exp
+14. anticonvulsive agent/exp
+15. decompressive craniectomy/exp
+16. analgesic agent/exp
+17. neurosurgery/exp
+18. OR/8-16
+19. 4 AND 7 AND 18
+20. limit 19 to (English language AND (yr=2005-2010))
+N = 1288 citations retrieved

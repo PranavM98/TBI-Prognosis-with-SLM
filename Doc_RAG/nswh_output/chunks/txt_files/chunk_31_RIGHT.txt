@@ -1,0 +1,48 @@
+Source: Page 31 (RIGHT)
+Page: 31, Side: RIGHT
+Word Count: 353
+--------------------------------------------------
+fail to clinically improve, both CT scanning and prolonged 
+clinical observation are indicated. In the patients where 
+clinical judgement is required this should be based on the 
+clinician’s experience, the number of identified risk factors 
+and clinical observation of the patient. 
+Early CT scanning allows identification of acute extradural 
+or subdural haematomas or depressed skull fractures 
+requiring neurosurgical intervention and other structural 
+lesions such as intracerebral haematomas or minor 
+skull fractures that put the patient at increased risk of 
+deterioration or complications such as post traumatic 
+seizures, and disabling post concussive symptoms. However, 
+it is important to recognise that the absence of a structural 
+lesion on CT scan does not exclude the possibility of 
+deterioration, post traumatic seizures or significant post 
+concussion symptoms.
+Patients with an abnormal CT scan should be discussed 
+with a neurosurgical service and considered for prolonged 
+observation in hospital. Conversely, a normal CT scan 
+makes acute clinical deterioration highly unlikely and 
+allows safe discharge for home observation as long as 
+the patient is clinically improving and does not have a 
+known coagulopathy. A normal CT scan is useful to rule 
+out structural lesions but does not exclude the possibility 
+of significant post concussion symptoms. It is important 
+to stress that CT scanning should be used as a clinical tool 
+in conjunction with clinical assessment and observation as 
+part of an overall management strategy for mild head injury 
+patterns.
+Individual factors predicting risk of 
+intracranial injury and therefore the need 
+for CT scanning in patients with mild head 
+injury:
+Initial GCS
+A persistent GCS <15 at two hours post injury 
+is a strong indication for CT scanning. An initial 
+GCS 14 on admission is a relative indication for CT 
+scanning.31, 33, 35, 36, 47, 48, 50-53, 56, 58, 62, 70, 74, 139
+Several studies have noted the heterogeneity of the original 
+GCS 13-15 mild head injury classification and these findings 
+are summarised in Appendix 1. Patients with an initial GCS 
+13 have been shown to have similar rates of intracranial 
+injury to those with initial GCS 9-12.53, 105 Recent studies 
+on mild head injury that published data on patients with

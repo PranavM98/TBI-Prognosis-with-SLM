@@ -1,0 +1,39 @@
+Source: Page 112 (LEFT)
+Page: 112, Side: LEFT
+Word Count: 161
+--------------------------------------------------
+2.  
+ What are the clinically important complications of Mild Head Injury?
+MEDLINE 
+1. 
+exp craniocerebral trauma/
+2. 
+ (head OR brain OR cerebral OR cranial OR 
+cranio?cerebral) ADJ (injur$ OR traum$).ti,ab.
+3. 
+(mild OR minim$ OR minor).ti,ab
+4. 
+1 OR 2
+5. 
+3 AND 4
+6.   (complication$ or risk$ or sequelae or morbid$ or 
+mortalit$).ti,ab.
+7. 
+(post?concuss$ or concuss$ ).ti,ab.
+8. 
+ ((headache$ or dizziness or fatigue) or (cognitive adj 
+deficit$) or ((behav$ or social) adj3 (dysfunction$ or 
+function$))).ti,ab
+9. 
+ ((intracranial or intra?cranial or sub?dural or intra?dural 
+or epidural or sub?arachnoid or structural) adj 
+(haematoma$ or hematoma$ or haemorrhage$ or 
+hemorrhage$ or contusion$ or lesion$)).ti,ab.
+10. ((skull or cranial) adj fracture$).ti,ab.
+11. OR /6-10
+12. 5 AND 11
+13.  limit 12 to (english language and humans and 
+yr="2005 -Current" and (clinical trial, all or controlled 
+clinical trial or government publications or guideline or 
+meta analysis or randomized controlled trial))
+PAGE 110  Initial Management of Closed Head Injury in Adults, 2nd Edition  NSW HEALTH
