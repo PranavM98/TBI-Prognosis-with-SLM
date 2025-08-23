@@ -75,12 +75,74 @@ The `query_llm_final.py` script accepts several arguments:
 ```bash
 python query_llm_final.py --model phi --port 8000 --few-shot 3 --type few
 ```
+# RAG_PartA Folder
 
-### Advanced Usage
+This folder contains code that integrates EBP (Evidence-Based Practice) and CBR (Case-Based Reasoning) together to predict ED (Emergency Department) Disposition.
+
+## 🚀 Getting Started
+
+Similar to the main setup, you need to run two files in sequence:
+
+1. **Start the LLM server**: `serve_llm.py`
+2. **Run the RAG queries**: `partA_query_llm_final_RAG.py`
+
+## 📋 Usage Instructions
+
+### Step 1: Start the LLM Server
 
 ```bash
-python query_llm_final.py --model phi --port 8000 --type zero 
+python serve_llm.py --model <model_name> --port <port_number>
 ```
+
+### Step 2: Run RAG Experiments
+
+```bash
+python partA_query_llm_final_RAG.py [arguments]
+```
+
+## 🔧 Arguments for partA_query_llm_final_RAG.py
+
+### RAG Strategy
+- `--rag_strategy`: Choose the RAG retrieval strategy
+  - **Default**: `sentence-local`
+  - **Options**: 
+    - `sentence-local`
+    - `sentence-global` 
+    - `prompt-global`
+
+### Top-K Retrieval
+- `--top_k`: Number of top results to retrieve for any RAG strategy
+  - Used with `sentence-local`, `sentence-global`, or `prompt-global`
+
+## 📝 Example Usage
+
+```bash
+# Using sentence-local strategy with top 5 results
+python partA_query_llm_final_RAG.py --rag_strategy sentence-local --top_k 5
+
+# Using sentence-global strategy with top 10 results  
+python partA_query_llm_final_RAG.py --rag_strategy sentence-global --top_k 10
+
+# Using prompt-global strategy with top 3 results
+python partA_query_llm_final_RAG.py --rag_strategy prompt-global --top_k 3
+```
+
+## 🔄 Complete Workflow
+
+1. **Setup**: Ensure your LLM server is configured and running
+2. **Execute**: Run the RAG query script with your desired strategy
+3. **Analyze**: Review the ED disposition predictions
+4. **Iterate**: Experiment with different RAG strategies and top_k values
+
+## 📊 RAG Strategy Descriptions
+
+- **sentence-local**: Retrieves relevant sentences from local knowledge base
+- **sentence-global**: Retrieves relevant sentences from global knowledge base  
+- **prompt-global**: Uses global prompt-based retrieval approach
+
+---
+
+**Note**: Make sure the LLM server is running before executing the RAG query script.
 <!-- 
 ## 🔄 Complete Workflow
 
