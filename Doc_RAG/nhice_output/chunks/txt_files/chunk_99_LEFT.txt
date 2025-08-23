@@ -1,0 +1,43 @@
+Source: Page 99 (LEFT)
+Page: 99, Side: LEFT
+Word Count: 208
+--------------------------------------------------
+106
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+sensitivity of 100% (95% CI, 97.2% to 
+100%) and a specificity of 42.7% (95% 
+CI, 40.5% to 44.9%) to identify 
+traumatic brain injury requiring 
+intervention. The prediction rule was 
+used on the sub-group of patients that 
+had a CT scan (n=1271) to identify 
+traumatic brain injury identified on CT. 
+The sensitivity was 99.0% (95% CI 
+94.4% to 100%) and specificity 25.8% 
+(95% CI 23.3% to 28.4%). This 
+prediction rule missed one patient with a 
+traumatic brain injury identified on CT. 
+This is a derivation study, not yet 
+validated.  
+Palchak prediction rule: 
+A CT scan is required if any of the 
+following predictors are present: 
+• Abnormal mental status 
+• Clinical signs of skull fracture 
+• History of vomiting 
+• Scalp haematoma in children aged 2 
+years or younger 
+• Headache 
+The final study by Dunning53 which is a 
+prospective multi-centre cohort 
+(diagnostic study level II evidence) 
+reported 22,772 children (under 16 
+years) presenting at ten hospital 
+emergency departments in  the North 
+West of England with any severity of 
+head injury. Significant predictors of 
+intracranial haemorrhage were 
+determined and the Children’s Head 
+Injury Algorithm to predict Important 
+Clinical Events (CHALICE) prediction rule

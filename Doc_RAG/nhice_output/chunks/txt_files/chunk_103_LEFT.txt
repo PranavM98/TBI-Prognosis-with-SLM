@@ -1,0 +1,43 @@
+Source: Page 103 (LEFT)
+Page: 103, Side: LEFT
+Word Count: 203
+--------------------------------------------------
+110
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+to make sure that patients are 
+transferred to a centre which does have 
+the relevant equipment (see 
+recommendation 6.5.6). 
+UPDATE 2007: Child rules 
+The original recommendation stated that 
+validated adult rules (Canadian head 
+CT rule) on imaging of the head may be 
+safely used in children and infants. 
+However, the GDG decided that a new 
+recommendation was required for 
+clinical prediction rules of the head in 
+children with the emerging evidence in 
+the Dunning study in this update 
+(CHALICE)53.  
+The CT ordering rates for both rules are 
+similar53 and therefore the rule that is 
+most accurate is likely to be the most 
+cost-effective.   
+ The GDG considers that the CHALICE 
+rule for children is derived from the best 
+current evidence for the treatment of 
+head injuries in children, but the GDG 
+cautions that this rule is a derivation 
+study only and requires prospective 
+validation. Therefore future 
+recommendations will be dependent on 
+future validation studies. 
+6.5.6 
+Recommendation 
+For Adults - 
+[Amended] Adult patients who have 
+sustained a head injury and present 
+with any one of the following risk 
+factors should have CT scanning of the 
+head requested immediately:

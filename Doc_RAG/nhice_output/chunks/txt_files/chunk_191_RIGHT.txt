@@ -1,0 +1,20 @@
+Source: Page 191 (RIGHT)
+Page: 191, Side: RIGHT
+Word Count: 103
+--------------------------------------------------
+disabled patients, the long term care 
+was the community care support 
+required after rehabilitation and it was 
+based on the cost of a support worker. 
+Similarly, the long term annual cost for 
+the moderate disability group was 
+calculated from the weekly cost of care 
+three months after discharge from the 
+rehabilitation. Patients having a good 
+recovery were assumed not to incur any 
+long term costs. Patients in a vegetative 
+state were assumed to have the same 
+annual care costs as those who are in the 
+severe disability state.    
+Care costs were discounted at a rate of 
+3.5% per year, as required by NICE.

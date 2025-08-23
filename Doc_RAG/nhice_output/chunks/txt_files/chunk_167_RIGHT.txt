@@ -1,0 +1,42 @@
+Source: Page 167 (RIGHT)
+Page: 167, Side: RIGHT
+Word Count: 234
+--------------------------------------------------
+the staff time involved with CT being 
+substantially less.    
+In a case series study 119, 407 adult 
+patients in a trauma centre underwent 
+both X-ray and helical CT (again the 
+proportion with head injury was not 
+reported). The reference standard was 
+represented by two radiologists 
+independently reviewing both the HCT 
+and plain X-ray results together with 
+hospital case notes. The sensitivity 
+yielded by X-ray was 45% while the 
+sensitivity yielded by the helical CT 
+intervention was 98%. The helical CT 
+strategy was more costly than a 
+strategy of helical CT after inadequate 
+X-ray. From their figures, we calculate 
+that this strategy costs an extra £7,300 
+per fracture detected.  Using the model 
+by Blackmore and colleagues121, as 
+follows, we can see that this is highly 
+cost-effective.  The model estimated that 
+5% of fractures would lead to paralysis 
+and that paralysis is associated with 16 
+QALYs lost.  Hence £7,300 per fracture 
+detected would translate to only £9,125 
+per QALY gained and that is without 
+taking in to account the considerable 
+cost savings from averting paralysis. 
+The decision analysis of helical CT vs Xray of the cervical spine in patients 
+undergoing cranial CT for head injury 
+by Grogan et al120 was based on an 
+earlier model by Blackmore and 
+colleagues121 looking at conventional CT 
+vs X-ray. It considered only patients at 
+medium and high risk: 
+x Focal neuro-deficit or severe head 
+injury or high energy impact, or

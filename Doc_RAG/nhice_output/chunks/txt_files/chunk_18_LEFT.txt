@@ -1,0 +1,88 @@
+Source: Page 18 (LEFT)
+Page: 18, Side: LEFT
+Word Count: 694
+--------------------------------------------------
+25
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+selection bias than in experimental studies.   
+Occipital condyle  
+The articulation point between the skull and the first cervical vertebra. 
+Odds ratio 
+Odds are a way of representing probability, especially familiar for betting. In 
+recent years odds ratios have become widely used in reports of clinical studies. 
+They provide an estimate (usually with a confidence interval) for the effect of a 
+treatment. Odds are used to convey the idea of ‘risk’ and an odds ratio of 1 
+between two treatment groups would imply that the risks of an adverse outcome 
+were the same in each group. For rare events the odds ratio and the relative risk 
+(which uses actual risks and not odds) will be very similar. See also Relative risk, Risk 
+ratio.  
+Outcome 
+The end result of care and treatment and/ or rehabilitation. In other words, the 
+change in health, functional ability, symptoms or situation of a person, which can be 
+used to measure the effectiveness of care/ treatment/ rehabilitation. Researchers 
+should decide what outcomes to measure before a study begins; outcomes are then 
+assessed at the end of the study. 
+Paediatric 
+Pertaining to children and infants 
+Paraesthesia 
+Abnormal sensation such as burning or tingling due to a disorder of the sensory 
+nervous system. 
+Penetrating head 
+injury 
+Head injury where an object penetrates the scalp and skull and enters the brain or 
+its lining. 
+Performance bias 
+Systematic differences in care provided apart from the intervention being 
+evaluated. For example, if study participants know they are in the control group 
+they may be more likely to use other forms of care; people who know they are in 
+the experimental group may experience placebo effects, and care providers may 
+treat patients differently according to what group they are in. Masking (blinding) of 
+both the recipients and providers of care is used to protect against performance 
+bias. 
+Periorbital 
+haemotoma 
+Bleeding around or behind the eyes.  
+Pilot study 
+A small scale ‘test’ of the research instrument. For example, testing out (piloting) a 
+new questionnaire with people who are similar to the population of the study, in 
+order to highlight any problems or areas of concern, which can then be addressed 
+before the full scale study begins. 
+Placebo 
+Placebos are fake or inactive treatments received by participants allocated to the 
+control group in a clinical trial which are indistinguishable from the active treatments 
+being given in the experimental group. They are used so that participants are 
+ignorant of their treatment allocation in order to be able to quantify the effect of 
+the experimental treatment over and above any placebo effect due to receiving 
+care or attention.  
+Placebo effect 
+A beneficial (or adverse) effect produced by a placebo and not due to any 
+property of the placebo itself.  
+Positive predictive 
+value 
+The proportion of individuals with a positive test result 
+who actually have the disease. 
+Power 
+See Statistical power. 
+Primary care 
+Healthcare delivered to patients outside hospitals. Primary care covers a range of 
+services provided by General Practitioners, nurses and other healthcare 
+professionals, dentists, pharmacists and opticians.  
+Probability 
+How likely an event is to occur, for example, how likely a treatment or intervention 
+will alleviate a symptom. 
+Prognostic factor 
+Patient or disease characteristics, for example, age or co-morbidity, which influence 
+the course of the disease under study. In a randomised trial to compare two 
+treatments, chance imbalances in variables (prognostic factors) that influence patient 
+outcome are possible, especially if the size of the study is fairly small. In terms of 
+analysis these prognostic factors become confounding factors. See also Prognostic 
+marker.  
+Prognostic marker 
+A prognostic factor used to assign patients to categories for a specified purpose – 
+for example, for treatment, or as part of a clinical trial, according to the likely 
+progression of the disease. For example, the purpose of randomisation in a clinical 
+trial is to produce similar treatment groups with respect to important prognostic 
+factors. This can often be achieved more efficiently if randomisation takes place 
+within subgroups defined by the most important prognostic factors. Thus if age was 
+very much related to patient outcome then separate randomisation schemes would

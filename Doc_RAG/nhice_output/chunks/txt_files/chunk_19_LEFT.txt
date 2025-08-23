@@ -1,0 +1,82 @@
+Source: Page 19 (LEFT)
+Page: 19, Side: LEFT
+Word Count: 721
+--------------------------------------------------
+26
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+be used for different age groups. This process is known as stratified random 
+allocation.  
+Prospective study 
+A study in which people are entered into the research and then followed up over a 
+period of time with future events recorded as they happen. This contrasts with 
+studies that are retrospective.  
+Publication bias 
+Studies with statistically significant results are more likely to get published than 
+those with non-significant results. Meta-analyses that are exclusively based on 
+published literature may therefore produce biased results. This type of bias can be 
+assessed by a funnel plot. 
+P value 
+If a study is done to compare two treatments then the P value is the probability of 
+obtaining the results of that study, or something more extreme, if there really was 
+no difference between treatments. (The assumption that there really is no difference 
+between treatments is called the ‘null hypothesis’.) Suppose the P-value was 
+P=0.03. What this means is that if there really was no difference between 
+treatments then there would only be a 3% chance of getting the kind of results 
+obtained. Since this chance seems quite low we should question the validity of the 
+assumption that there really is no difference between treatments. We would 
+conclude that there probably is a difference between treatments. By convention, 
+where the value of P is below 0.05 (that is, less than 5%) the result is seen as 
+statistically significant. Where the value of P is 0.001 or less, the result is seen as 
+highly significant. P values just tell us whether an effect can be regarded as 
+statistically significant or not. In no way do they relate to how big the effect might 
+be, for which we need the confidence interval.  
+Qualitative 
+research 
+Qualitative research is used to explore and understand people’s beliefs, 
+experiences, attitudes, behaviour and interactions. It generates non-numerical data, 
+for example, a patient’s description of their pain rather than a measure of pain. In 
+healthcare, qualitative techniques have been commonly used in research 
+documenting the experience of chronic illness and in studies about the functioning of 
+organisations. Qualitative research techniques such as focus groups and in depth 
+interviews have been used in one-off projects commissioned by guideline 
+development groups to find out more about the views and experiences of patients 
+and carers.  
+Quality adjusted 
+life years (QALYS) 
+A measure of health outcome. QALYS are calculated by estimating the total lifeyears gained from a treatment and weighting each year with a quality of life 
+score. 
+Quantitative 
+research 
+Research that generates numerical data or data that can be converted into 
+numbers, for example clinical trials or the national Census which counts people and 
+households. 
+Quasi 
+experimental 
+study 
+A study designed to test if a treatment or intervention has an effect on the course or 
+outcome of disease. It differs from a controlled clinical trial and a randomised 
+controlled trial in that: 
+a) the assignment of patients to treatment and comparison groups is not done 
+randomly, or patients are not given equal probabilities of selection, or  b) the 
+investigator does not have full control over the allocation and/or timing of the 
+intervention, but nonetheless conducts the study as if it were an experiment, 
+allocating subjects to treatment and comparison groups.  
+Random allocation 
+or Randomisation 
+A method that uses the play of chance to assign participants to comparison groups 
+in a research study, for example, by using a random numbers table or a computergenerated random sequence. Random allocation implies that each individual (or 
+each unit in the case of cluster randomisation) being entered into a study has the 
+same chance of receiving each of the possible interventions.  
+Randomised 
+controlled trial 
+A study to test a specific drug or other treatment in which people are randomly 
+assigned to two (or more) groups: one (the experimental group) receiving the 
+treatment that is being tested, and the other (the comparison or control group) 
+receiving an alternative treatment, a placebo (dummy treatment) or no treatment. 
+The two groups are followed up to compare differences in outcomes to see how 
+effective the experimental treatment was. (Through randomisation, the groups 
+should be similar in all aspects apart from the treatment they receive during the 
+study.)  
+Rehabilitation 
+A programme of clinical and vocational services with the goal of returning patients

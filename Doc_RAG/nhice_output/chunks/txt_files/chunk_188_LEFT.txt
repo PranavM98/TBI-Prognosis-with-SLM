@@ -1,0 +1,36 @@
+Source: Page 188 (LEFT)
+Page: 188, Side: LEFT
+Word Count: 193
+--------------------------------------------------
+195
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+The Poon et al study (Model A) did not 
+distinguish between patients that were 
+severely disabled (SD) and those that 
+were moderately disabled (MD). For 
+these patients we used the simple 
+average of the two SMRs and the simple 
+average of the two utilities. 
+Another study was found, Tsauo 
+1999203, which reported the utility 
+scores associated with each GOS score 
+obtained from health professionals in the 
+UK using the standard gamble method.  
+We did not use this study in our base 
+case model for the following reasons: 
+- scores were presented for a number 
+of time points and there seemed to be 
+inconsistency between the estimates 
+- the figures were skewed towards high 
+values (i.e. the utility associated with a 
+moderate disability was higher than the 
+average EQ5D utility score for the 
+general population in the UK201)  
+- the value for the vegetative state was 
+missing 
+- the number of the health professionals 
+interviewed for the elicitation of the 
+utility scores was not reported.  
+Therefore, we used this study only for 
+the purpose of sensitivity analysis.

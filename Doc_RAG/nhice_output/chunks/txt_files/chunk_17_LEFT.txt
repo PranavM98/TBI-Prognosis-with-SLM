@@ -1,0 +1,101 @@
+Source: Page 17 (LEFT)
+Page: 17, Side: LEFT
+Word Count: 685
+--------------------------------------------------
+24
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+alternative treatment. Intention-to-treat analyses are favoured in assessments of 
+clinical effectiveness as they mirror the non-compliance and treatment changes that 
+are likely to occur when the treatment is used in practice. 
+Internal validity 
+Refers to the integrity of the study design. 
+Intervention 
+Healthcare action intended to benefit the patient, for example, drug treatment, 
+surgical procedure, psychological therapy, etc. 
+Interventional 
+procedure 
+A procedure used for diagnosis or treatment that involves making a cut or hole in 
+the patient’s body, entry into a body cavity or using electromagnetic radiation 
+(including X-rays or lasers). The National Institute for Health and Clinical Excellence 
+(NICE) has the task of producing guidance about whether specific interventional 
+procedures are safe enough and work well enough for routine use.  
+Intracranial 
+Originating within the cranial (brain) cavity. 
+Intracranial 
+haematoma 
+A collection of blood inside the cranium caused by damage to brain tissue or the 
+rupture of a blood vessel. The resulting swelling can compress the brain. 
+Intracerebral 
+haemorrhage 
+A bleed inside the brain tissue. 
+Intracranial lesion 
+A lesion of the brain.  
+Literature review 
+A process of collecting, reading and assessing the quality of published (and 
+unpublished) articles on a given topic. 
+Longitudinal study 
+A study of the same group of people at more than one point in time. (This type of 
+study contrasts with a cross sectional study which observes a defined set of people 
+at a single point in time.) 
+Mandible 
+The lower jaw as a functional unit, regardless of which bones or cartilage make up 
+the lower jaw in a particular organism. 
+Meningism 
+Stiffness of the neck associated with backwards extension of the cervical spine. 
+Meta analysis 
+Results from a collection of independent studies (investigating the same treatment) 
+are pooled, using statistical techniques to synthesise their findings into a single 
+estimate of a treatment effect. Where studies are not compatible for example, 
+because of differences in the study populations or in the outcomes measured, it may 
+be inappropriate or even misleading to statistically pool results in this way. See also 
+Systematic review & Heterogeneity. 
+Methodology 
+The overall approach of a research project, for example, the study will be a 
+randomised controlled trial, of 200 people, over one year.  
+Methodological 
+quality 
+The extent to which a study has conformed to recognised good practice in the 
+design and execution of its research methods.  
+Monte Carlo 
+simulation 
+A modelling technique that uses random numbers to capture the effects of 
+uncertainty. Multiple simulations are run (usually somewhere between 1,000 and 
+10,000). For each simulation, the value of each uncertain variable in the analysis is 
+selected at random from a probability distribution for the value of that variable. 
+The simulation results are compiled, providing a probability distribution for the 
+overall result. 
+Motor response 
+Movement in response to an external stimulus 
+Multicentre study 
+A study where subjects were selected from different locations or populations, for 
+example, a co-operative study between different hospitals; an international 
+collaboration involving patients from more than one country. 
+Negative 
+predictive value 
+The proportion of individuals with a negative test 
+result who do NOT have the disease. 
+Neurorehabilitatio
+n services 
+A programme of clinical and vocational services with the goal of returning brain 
+injured patients to a satisfying occupation,. 
+Neurosurgery 
+A surgical specialty for the treatment of diseases and disorders of the brain, spinal 
+cord and nerves. 
+Non-experimental 
+study 
+A study based on subjects selected on the basis of their availability, with no attempt 
+having been made to avoid problems of bias. 
+Non-systematic 
+review 
+See Review. 
+Objective measure 
+A measurement that follows a standardised procedure which is less open to 
+subjective interpretation by potentially biased observers and study participants. 
+Observational 
+study  
+In research about diseases or treatments, this refers to a study in which nature is 
+allowed to take its course. Changes or differences in one characteristic (for 
+example, whether or not people received a specific treatment or intervention) are 
+studied in relation to changes or differences in other(s) (for example, whether or not 
+they died), without the intervention of the investigator. There is a greater risk of

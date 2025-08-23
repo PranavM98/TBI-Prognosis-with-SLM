@@ -1,0 +1,63 @@
+Source: Page 154 (LEFT)
+Page: 154, Side: LEFT
+Word Count: 363
+--------------------------------------------------
+161
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+Table 11.3 – Proportion of target group receiving each test 
+ 
+Proportion of target group 
+ 
+Skull X-ray 
+ 
+CT 
+ 
+1. Current (pre-2003) UK system176 
+ 
+100% 
+26% (24%, 27%) 
+4% (3%, 5%) 
+2. Canadian CT Head 5-rule25  
+ 
+0% 
+9%* (8%, 10%) 
+32% 
+(30%, 34%) 
+3. Canadian CT Head 7-rule25  
+ 
+0% 
+9%* (8%, 10%) 
+54%  
+(52%, 56%) 
+4. US system 
+ 
+0% 
+100%  
+100%  
+* Stiell et al25 propose discharging patients that have a negative CT scan, although they are only 
+half way through their validation study, which applies this strategy. This figure is based on their 
+prevalence of complications. 
+ 
+Stiell et al have not yet put their model into practice; therefore the admission rate figure is 
+provisional. For this model it was assumed that only those with a positive CT scan (ICH or other 
+complication) would be admitted. Another problem was that Stiell et al had already excluded 
+patients without any loss of consciousness or amnesia, whereas the UK paper had not. This 
+problem was tackled by assuming that patients in the UK study who were discharged without a 
+skull X-ray or CT scan were also very low risk (that is, had no loss of consciousness or amnesia). 
+11.2.3 Modelling of cost-effectiveness – cervical spine injuries 
+We compared the cost of the two alternative strategies identified as being derived using 
+relatively high quality methods: 
+x 
+NEXUS study rule 122 
+x 
+Canadian cervical spine rule 52 
+These systems evaluate all patients with head trauma, the same cohort as for the intracranial 
+haematoma model. 
+The expected cost for each strategy was calculated on the basis of the expected usage of 
+cervical spine X-ray, and cervical spine CT scan. It was not possible to quantify differences in 
+health outcomes and other cost outcomes (Table 11.4, outcomes 3-8). Usage figures were derived 
+from the original studies.  In the case of the Canadian cervical spine rule, there has not been a 
+validation study hence the figures are from the original derivation study. It was assumed that, for 
+both strategies, 39% of X-rays are inadequate 122 and that these are followed up with a CT 
+scan.

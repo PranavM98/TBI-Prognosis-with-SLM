@@ -1,0 +1,39 @@
+Source: Page 35 (RIGHT)
+Page: 35, Side: RIGHT
+Word Count: 180
+--------------------------------------------------
+the guideline development process 
+would be defined as ‘clinically important 
+brain injury'. It was agreed that need 
+for neurosurgery was too limited a 
+definition, given that operation is not 
+appropriate for some patients and the 
+guideline scope calls for some means for 
+the early identification of those patients 
+that might benefit from 
+neurorehabilitation. This deliberately 
+broad definition of outcome also reflects 
+the heterogeneity of brain injuries that 
+may be experienced following head 
+trauma. 
+2.3 
+Systematic reviews 
+The systematic reviews performed for 
+these guidelines were designed to 
+identify different types of clinical 
+decision rule. The studies reviewed 
+included derivation designs (usually 
+cohort studies where the predictive 
+power of a number of prognostic 
+variables were explored) and validation 
+designs (where the sensitivity and 
+specificity of previously defined rules 
+were examined).  Data collection may 
+have been prospective or retrospective. 
+The follow-up rate for important 
+outcomes was also recorded: a standard 
+of at least 80% follow-up is often stated 
+for studies on the development of clinical 
+decision rules. The use of multivariate 
+statistics to identify the independent 
+contribution of each variable to the rules

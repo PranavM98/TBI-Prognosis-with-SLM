@@ -1,0 +1,44 @@
+Source: Page 135 (LEFT)
+Page: 135, Side: LEFT
+Word Count: 227
+--------------------------------------------------
+142
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+non-randomised controlled trials, cohort 
+studies, and case series.  
+In total, 394 relevant studies were 
+included and put through a rigorous 
+coding procedure. The following pieces 
+of information were coded for each 
+study using the abstract: 
+x Aim of the study – whether explicitly 
+or implicitly about referral for 
+rehabilitation, and also whether it aimed 
+to compare, develop or validate a tool, 
+or attempted to carry out a multivariate 
+analysis and thus infer a referral tool. 
+x Population – age group, injury 
+severity. Other details were recorded 
+under the variables section. Infants are 
+children less than 1 year, adults are over 
+18. Injury severity was defined using the 
+GCS system or if the authors used the 
+words ‘mild’, ‘moderate’, or ‘severe’ in 
+the abstract.  
+x Study design – type of study.  
+x Variables considered – these were 
+categorised into certain groups. Every 
+piece of information explicitly collected 
+about the patient was categorised and 
+noted. Therefore variables included 
+predictors, outcomes, demographics, 
+classifying information and so on. 
+Ninety two studies were identified as 
+being explicitly about tools for referral. 
+However, the remaining 302 studies 
+were included as in a complete 
+systematic review they would contain 
+useful information; for example, the 
+authors may have investigated variables 
+which could be used to form a clinical

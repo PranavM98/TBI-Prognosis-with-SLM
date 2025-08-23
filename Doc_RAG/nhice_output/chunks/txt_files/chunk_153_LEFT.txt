@@ -1,0 +1,79 @@
+Source: Page 153 (LEFT)
+Page: 153, Side: LEFT
+Word Count: 341
+--------------------------------------------------
+160
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+Table 11.1 - Description of different strategies for the target group 
+ 
+ 
+Indications for test 
+ 
+Skull Xray 
+1. Current (pre-2003) UK 
+All  
+headache, vomiting or 
+other neurological 
+indication 
+system176 
+ 
+2. Canadian CT Head 5-rule25 
+ 
+None 
++ve CT scan 
+suspected fracture (open, 
+depressed, basal), age greater 
+than or equal to 65 years, GCS 
+of 13 or 14 at 2 hours, 2 or 
+more vomiting episodes 
+3. Canadian CT Head 7-rule25  
+ 
+None 
++ve CT scan 
+As for 5-rule but also CT if preimpact amnesia greater than 
+30mins or dangerous mechanism 
+4. 4. US system 
+None 
+All  
+All  
+ 
+The cost per patient for each strategy was calculated on the basis of the expected usage of skull 
+X-ray, head CT scan and 24 hour observation. It was not possible to quantify differences in 
+health outcomes and other cost outcomes (Table 11.2, outcomes 4-10). 
+Table 11.2 - Health and resource consequences of Canadian CT head rule versus current (pre2003) UK system 
+ 
+Outcome 
+ 
+Definite or likely outcomes 
+ 
+1. Reduced use of skull X-ray 
++ve 
+2. Increased use of CT scanning 
+-ve 
+3. Reduced inpatient stay 
++ve 
+ 
+ 
+Possible outcomes 
+ 
+4. Improved neurosurgical outcomes 
++ve 
+5. Increased incidence of cancer as a result of increased radiation exposure 
+-ve 
+6. Change in health service resource use as a result of 4 and 5. 
++ve/-ve 
+7. Change in patient/family resource use as a result of 3 
++ve/-ve 
+8. Change in patient/family resource use as a result of 4 and 5 
++ve/-ve 
+9. Reduction in litigation costs 
++ve 
+10. Change in primary care use as a result of 3, 4 and 5 
++ve/-ve 
+NB – Any increase in resource use has a negative effect for society because those resources can’t 
+then be used for some other beneficial purpose. 
+ 
+Usage figures were derived from Nee et al 176 for the current (pre-2003) UK system and from 
+Stiell et al 25 for the Canadian rules (Table 11.3). For the US model, usage was determined by 
+the model definition.

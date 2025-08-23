@@ -1,0 +1,68 @@
+Source: Page 170 (LEFT)
+Page: 170, Side: LEFT
+Word Count: 132
+--------------------------------------------------
+177
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+Table 11.12 – Imaging and admission volumes and costs England and Wales associated with 
+different clinical decision rules (updated 2007) 
+ 
+Number per year (000) 
+Cost per year (£m) 
+ 
+Current 
+(pre-2003)
+New 
+(post2003)
+Change Current (preHead  
+ 
+ 
+ 
+ 
+ 
+ 
+Skull X-ray 
+378
+0
+-378
+7.2
+0.0
+-7.2
+Head CT 
+16
+205
+189
+1.2
+15.8
+14.6
+24-hr Obs 
+96
+33
+-63
+21.6
+7.5
+-14.1
+Cervical spine 
+X-ray 
+330
+220
+-110
+6.3
+4.2
+-2.1
+CT 
+129
+86
+-43*
+10.0
+6.6
+-3.3
+ 
+All 
+46.2
+34.1
+-12.1
+* Note that the 2003 recommendations should lead to reduced spine imaging generally 
+(including CT), as given here.  However the 2007 update should lead to increased CT scanning 
+compared with the 2003 recommendations (figures not given).

@@ -1,0 +1,38 @@
+Source: Page 100 (LEFT)
+Page: 100, Side: LEFT
+Word Count: 174
+--------------------------------------------------
+107
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+x Glasgow Coma Score (GCS) less than 
+14, or GCS less than15 if less than  year 
+x Suspicion of penetrating or depressed 
+skull injury or tense fontanelle 
+x Signs of a basal skull fracture 
+(defined as evidence of blood or 
+cerebrospinal fluid from ear or nose, 
+panda eyes, Battle’s sign, 
+haemotympanum, facial crepitus or 
+serious facial injury) 
+x Positive focal neurology (defined as 
+any focal neurology, including motor, 
+sensory, coordination or reflex 
+abnormality) 
+x Presence of bruise, swelling or 
+laceration more than 5 cm if less than 1 
+year old 
+Mechanism  
+x High-speed road traffic accident 
+either as pedestrian, cyclist or occupant 
+(defined as accident with speed more 
+than 40 m/h) 
+x Fall of more than 3 m in height 
+x High-speed injury from a projectile or 
+an object 
+If none of the above variables are 
+present, the patient is at low risk of 
+intracranial pathology. 
+6.5.3 
+Economics Evidence from 2007 update 
+See economic section chapter 11.3

@@ -1,0 +1,21 @@
+Source: Page 183 (LEFT)
+Page: 183, Side: LEFT
+Word Count: 100
+--------------------------------------------------
+190
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+Model B, a conservative model, 
+calculates only the health gain 
+attributable to those patients who 
+survive with direct transport but would 
+not survive with a secondary transfer 
+strategy. The number of these extra 
+survivors is estimated using the results of 
+a decision model that was explicitly 
+answering our question – Stevenson et al 
+200168 (see 11.6.3). Model B does not 
+take into account health gain for 
+patients who survive under both 
+strategies but have an improved health 
+status with the direct transport strategy.

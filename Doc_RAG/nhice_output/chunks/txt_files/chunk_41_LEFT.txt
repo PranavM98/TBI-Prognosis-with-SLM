@@ -1,0 +1,36 @@
+Source: Page 41 (LEFT)
+Page: 41, Side: LEFT
+Word Count: 123
+--------------------------------------------------
+48
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+x PsycINFO 1806-2006 
+x Health Economic and Evaluations 
+Database (HEED)  
+x NHS Economic Evaluation Database 
+(NHSEED)  
+Bibliographies of identified reports and 
+guidelines were also checked to identify 
+relevant literature. The internet was 
+searched to identify guidelines and 
+reports. The following web sites were 
+used to help identify these: 
+x Members of the Guidelines 
+International Network's web sites 
+(http://www.g-i-n.net) 
+x National Institute for Health and 
+Clinical Excellence (NICE) 
+(www.nice.org.uk) 
+x National electronic Library for Health 
+(NeLH) (http://www.nelh.nhs.uk) 
+x Scottish Intercollegiate Guideline 
+Network (SIGN) (www.sign.ac.uk) 
+x US National Guideline Clearing House 
+(www.guidelines.gov) 
+x CMA Infobase 
+(http://mdm.ca/cpgsnew/cpgs/) 
+x NIH Consensus Development Program 
+(http://consensus.nih.gov) 
+x New Zealand Guidelines Group 
+(http://www.nzgg.org.nz)

@@ -1,0 +1,98 @@
+Source: Page 15 (LEFT)
+Page: 15, Side: LEFT
+Word Count: 668
+--------------------------------------------------
+22
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+which direct the clinician through a succession of possible scenarios, actions and 
+outcomes.  
+Diagnostic study 
+A study to assess the effectiveness of a test or measurement in terms of its ability to 
+accurately detect or exclude a specific disease.  
+Double blind study 
+A study in which neither the subject (patient) nor the observer (investigator/clinician) 
+is aware of which treatment or intervention the subject is receiving. The purpose of 
+blinding is to protect against bias. 
+Drowsiness 
+A state of impaired awareness associated with a desire or inclination to sleep.  
+Dura Mater  
+The thick lining of the brain and spinal cord 
+Economic 
+evaluation 
+Comparative analysis of alternative courses of action in terms of both their costs 
+and consequences. 
+Effectiveness 
+See Clinical effectiveness. 
+Efficacy 
+The extent to which a specific treatment or intervention, under ideally controlled 
+conditions (for example, in a laboratory), has a beneficial effect on the course or 
+outcome of disease compared to no treatment or other routine care.  
+Elective 
+Name for clinical procedures that are regarded as advantageous to the patient but 
+not urgent.  
+Emergency 
+Department (ED or 
+A&E) 
+A clinical department in a district general or teaching hospital which has trained 
+staff and equipment able to receive, resuscitate, investigate and initially manage 
+the full spectrum of emergencies. Most units accept patients of all ages, some are 
+restricted to adults, others to children. All should be open at all times and all its 
+facilities should be available at all times. 
+Emergency 
+Department 
+Clinician 
+A medically qualified member of an emergency department or an appropriately 
+trained nurse working in an emergency department. 
+Empirical 
+Based directly on experience (observation or experiment) rather than on reasoning 
+alone. 
+Epidemiology 
+Study of diseases within a population, covering the causes and means of    
+prevention. 
+European 
+Paediatric Life 
+Support course 
+(EPLS) 
+ The EPLS provider course is intended to provide training for multi-disciplinary 
+healthcare professionals in the early recognition of the child in respiratory or 
+circulatory failure and the development of the knowledge and core skills required 
+to intervene to prevent further deterioration towards respiratory or 
+cardiorespiratory arrest.  (see http://www.resus.org.uk) 
+Event rate 
+The proportion of patients in a group for whom a specified health event or outcome 
+is observed. Thus, if out of 100 patients, the event is observed in 27, the event rate 
+is 0.27 or 27%. Control Event Rate (CER) and Experimental Event Rate (EER) are the 
+terms used in control and experimental groups of patients respectively. 
+Evidence based 
+clinical practice  
+Evidence based clinical practice involves making decisions about the care of 
+individual patients based on the best research evidence available rather than 
+basing decisions on personal opinions or common practice (which may not always be 
+evidence based). Evidence based clinical practice therefore involves integrating 
+individual clinical expertise and patient preferences with the best available 
+evidence from research 
+Evidence table 
+A table summarising the results of a collection of studies which, taken together, 
+represent the evidence supporting a particular recommendation or series of 
+recommendations in a guideline. 
+Exclusion criteria 
+See Selection criteria. 
+Experimental 
+study 
+A research study designed to test if a treatment or intervention has an effect on the 
+course or outcome of a condition or disease - where the conditions of testing are to 
+some extent under the control of the investigator. Controlled clinical trial and 
+randomised controlled trial are examples of experimental studies. 
+Experimental 
+treatment 
+A treatment or intervention (for example, a new drug) being studied to see if it has 
+an effect on the course or outcome of a condition or disease. 
+External validity 
+The degree to which the results of a study hold true in non-study situations, for 
+example, in routine clinical practice. May also be referred to as the generalisability 
+of study results to non-study patients or populations. 
+Extradural (or 
+epidural) 
+A collection of blood between the skull inner surface and the dura mater caused by 
+damage to the blood vessels running on the surface of the dura mater – often

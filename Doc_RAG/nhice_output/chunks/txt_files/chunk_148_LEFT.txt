@@ -1,0 +1,48 @@
+Source: Page 148 (LEFT)
+Page: 148, Side: LEFT
+Word Count: 259
+--------------------------------------------------
+155
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+10.5 
+Cancer risks 
+The risk of radiation-induced 
+malignancies from a single CT exposure 
+is difficult to assess.  There have been no 
+published epidemiological studies of 
+increased incidence of cancer among CT 
+exposed patients. Current estimates of 
+the risks from medical X-rays are based 
+on  the long term follow up of 
+populations exposed to large doses of 
+radiation.168 The 1990 recommendations 
+of the International Commission on 
+Radiological Protection (ICRP) report a 
+nominal probability coefficient of 5% 
+per Sv effective dose for the lifetime risk 
+of fatal cancer in a population of all 
+ages and both sexes exposed to 
+radiation at the relatively low doses 
+used in CT examinations. 169   
+The lifetime fatal cancer risk will vary 
+with age at exposure and sex and the 
+way that it does so varies from organ to 
+organ. As a rough guide, assuming 
+uniform whole body irradiation, the 
+NRPB estimates that the lifetime risk for 
+radiation-induced cancer per unit dose is 
+about twice as high in children (0-15 
+years old) than in adults (20-60 years 
+old)170. This would put the lifetime risk of 
+fatal cancer following exposures in 
+childhood at about 10% per Sv 
+effective dose, compared to about 5% 
+per Sv for exposures to adults between 
+20 and 60 years old.  The risks drop 
+dramatically at ages above 60 years 
+due mostly to the reduced lifetime 
+available in which these delayed effects 
+of radiation can occur. 
+More specifically, Brenner et al 
+estimated that the lifetime cancer

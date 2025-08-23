@@ -1,0 +1,94 @@
+Source: Page 21 (LEFT)
+Page: 21, Side: LEFT
+Word Count: 708
+--------------------------------------------------
+28
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+could have a negative test result yet still have the disease – this is called a ‘false 
+negative’. The specificity of a test is also related to its ‘positive predictive value’ 
+(true positives) – a test with a specificity of 100% means that all those who get a 
+positive test result definitely have the disease. To fully judge the accuracy of a test, 
+its Sensitivity must also be considered.  
+Standard deviation 
+A measure of the spread, scatter or variability of a set of measurements. Usually 
+used with the mean (average) to describe numerical data. 
+Stand by call 
+Contact between a paramedic or other healthcare worker and an emergency 
+department, by telephone or radio, to alert the department to the impending 
+arrival of a seriously ill or injured patient who will require immediate resuscitation. 
+Statistical power 
+The ability of a study to demonstrate an association or causal relationship between 
+two variables, given that an association exists. For example, 80% power in a clinical 
+trial means that the study has a 80% chance of ending up with a P value of less 
+than 5% in a statistical test (that is, a statistically significant treatment effect) if 
+there really was an important difference (for example, 10% versus 5% mortality) 
+between treatments. If the statistical power of a study is low, the study results will 
+be questionable (the study might have been too small to detect any differences). By 
+convention, 80% is an acceptable level of power. See also P value.  
+Structured 
+interview 
+A research technique where the interviewer controls the interview by adhering 
+strictly to a questionnaire or interview schedule with pre-set questions. 
+Study checklist 
+A list of questions addressing the key aspects of the research methodology that must 
+be in place if a study is to be accepted as valid. A different checklist is required for 
+each study type. These checklists are used to ensure a degree of consistency in the 
+way that studies are evaluated. 
+Study population 
+People who have been identified as the subjects of a study.  
+Study quality 
+See Methodological quality. 
+Study type 
+The kind of design used for a study. Randomised controlled trial, case-control study, 
+cohort study are all examples of study types.  
+Sub-group 
+analysis 
+An analysis in which the intervention effect is evaluated in a defined subset of the 
+participants in the trial, or in complementary subsets, such as by sex or in age 
+categories.  
+Subdural space 
+The space beneath the dura mater, between it and the much thinner arachnoid 
+mater. This is often the area of rupture of delicate thin-walled veins following head 
+injuries. 
+Subdural 
+haematoma (or 
+haemorrhage) 
+ 
+A collection of blood between the dura mater and the arachnoid mater caused by 
+traumatic damage to the associated brain and blood vessels. The rise in pressure 
+caused by such bleeding can cause further significant damage 
+ 
+Subject 
+A person who takes part in an experiment or research study. 
+Subluxation 
+A partial dislocation of a joint in which the joint surfaces remain in contact, albeit out 
+of alignment. 
+Survey 
+A study in which information is systematically collected from people (usually from a 
+sample within a defined population). 
+Systematic 
+Methodical, according to plan; not random. 
+Systematic error 
+Refers to the various errors or biases inherent in a study. See also Bias. 
+Systematic review 
+A review in which evidence from scientific studies has been identified, appraised 
+and synthesised in a methodical way according to predetermined criteria. May or 
+may not include a meta-analysis.  
+Systemic 
+Involving the whole body. 
+Target population 
+The people to whom guideline recommendations are intended to apply. 
+Recommendations may be less valid if applied to a population with different 
+characteristics from the participants in the research study – for example, in terms of 
+age, disease state, social background. 
+Tertiary centre 
+A specialist medical centre providing complex treatments which receives referrals 
+from both primary and secondary care. Sometimes called a tertiary referral centre. 
+See also Primary care and Secondary care. 
+Torticollis 
+Involuntary spasms of the musculature in the neck. 
+Triangulation 
+Use of three or more different research methods in combination; principally used as 
+a check of validity. The more the different methods produce similar results, the more 
+valid the findings.

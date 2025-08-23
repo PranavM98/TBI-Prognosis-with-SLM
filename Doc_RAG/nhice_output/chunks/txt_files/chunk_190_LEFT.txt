@@ -1,0 +1,62 @@
+Source: Page 190 (LEFT)
+Page: 190, Side: LEFT
+Word Count: 300
+--------------------------------------------------
+197
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+In the sensitivity analysis on the 
+assessment at the scene, we assumed 
+that the false positives, if they survive 
+the longer transport, would have had the 
+same expected QALYs as the good 
+recovery (GR) patient.    
+Calculating QALYs gained 
+ 
+For Model A, the QALYs gained are 
+calculated as follows: 
+QALYs gained= Q1-Q0 
+Qi = ( PiGR x LEGR x UGR) + (PiD x LED x 
+UD)  
+where  
+Qi =the expected QALYs per patient 
+(i=1: with bypass, i=0: without bypass) 
+PiGR, PiD, = proportion of patients in each 
+of the GOS states at 6 months by 
+strategy (where D is both mild disability 
+and severe disability combined). 
+LEGR, LED, = the discounted life 
+expectancy of patients by GOS states 
+at 6 months  
+UGR, UD, = the utility score for each GOS 
+state. 
+ 
+ 
+For Model B, the QALYs gained are 
+calculated as follows: 
+QALYs gained=Qi-Q0= ESi x ( ( PGR x 
+LEGR x UGR) + ( PMD x LEMD x UMD) + ( PSD 
+x LESD x USD) + ( PVS x LEvs x Uvs) ) 
+where  
+Qi =the expected QALYs per patient 
+associated with bypass strategy i,  
+Q0 = the expected QALYs per patient 
+associated with no bypass,  
+ESi = extra survivors=the proportion of 
+patients surviving under strategy i that 
+would not have survived under the no 
+bypass strategy 
+PGR, PMD, PSD, PVS, = the proportion of 
+extra survivors in each of the GOS 
+states at 6 months 
+LEGR, LEMD, LESD, LEVS, = the discounted 
+life expectancy of patients by GOS 
+states at 6 months 
+UGR, UMD, USD, UVS, = the utility score for 
+each GOS state. 
+ 
+11.6.4.4 
+Methods: Ambulance and emergency 
+department costs 
+Emergency department costs in our 
+models are the staff costs associated

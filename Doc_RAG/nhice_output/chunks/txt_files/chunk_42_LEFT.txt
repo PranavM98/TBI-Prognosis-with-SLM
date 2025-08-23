@@ -1,0 +1,37 @@
+Source: Page 42 (LEFT)
+Page: 42, Side: LEFT
+Word Count: 214
+--------------------------------------------------
+49
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+Table 1: Levels of evidence for intervention studies (reproduced with permission of the Scottish 
+Intercollegiate Guidelines Network 
+Level of 
+evidence  
+Type of evidence  
+1++ 
+High quality meta-analyses, systematic reviews of RCTs, or RCTs with a very low 
+risk of bias  
+1+  
+Well-conducted meta-analyses, systematic reviews of RCTs, or RCTs with a low 
+risk of bias  
+1-  
+Meta-analyses, systematic reviews of RCTs, or RCTs with a high risk of bias  
+2++ 
+High quality systematic reviews of case–control or cohort studies  
+High quality case–control or cohort studies with a very low risk of confounding, 
+bias, or chance and a high probability that the relationship is causal 
+2+  
+Well-conducted case–control or cohort studies with a low risk of confounding, 
+bias, or chance and a moderate probability that the relationship is causal  
+2-  
+Case–control or cohort studies with a high risk of confounding bias, or chance 
+and a significant risk that the relationship is not causal  
+3  
+Non-analytic studies (For example, case reports, case series)  
+4  
+Expert opinion  
+For each clinical question the highest level of evidence was sought. Where an appropriate 
+systematic review, meta-analysis or randomised controlled trial was identified, we did not search 
+for studies of a weaker design.

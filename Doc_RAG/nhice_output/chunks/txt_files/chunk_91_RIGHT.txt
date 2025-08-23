@@ -1,0 +1,45 @@
+Source: Page 91 (RIGHT)
+Page: 91, Side: RIGHT
+Word Count: 232
+--------------------------------------------------
+6.3.4 
+Summary of evidence from 2007 
+update 
+The evidence is relatively weak as the 
+Halley et al75 study  included a limited 
+sample size with 9 out of the 98 subjects 
+not being contactable.  
+A decision model76 estimated that CT 
+scanning all patients was more effective 
+and cost saving than x-raying all 
+patients. It also showed that selective CT 
+scanning could be just as effective as 
+routine CT with lower cost (see also 6.5). 
+However, the setting was the USA where 
+costs are quite different to the NHS and 
+the estimates of effectiveness were 
+derived from case series. 
+6.3.5 
+Rationale behind recommendation 
+Generally speaking, CT is more sensitive 
+than x-ray at detecting clinically 
+important lesions, although evidence 
+specific to head trauma was not 
+retrieved.  CT is likely to be costeffective but only if a) the extra lesions 
+found by CT pose a significant health 
+risk, b) identification leads to 
+earlier/better treatment and c) 
+early/modified treatment improves 
+survival.  For these variables there is no 
+high quality evidence.  However, a 
+decision model76 based on case series 
+evidence estimated that CT scanning all 
+patients would be more effective and 
+cost saving than x-raying all patients in 
+a US context.  
+The GDG felt based on their expertise 
+that CT is the most appropriate tool for 
+diagnosing life-threatening conditions 
+resulting from head injury. The GDG 
+also felt that a recommendation was 
+required to emphasize that x-ray is not

@@ -1,0 +1,45 @@
+Source: Page 126 (LEFT)
+Page: 126, Side: LEFT
+Word Count: 248
+--------------------------------------------------
+133
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+designed to track pre-hospital and inhospital severe TBI patient data, called 
+TBI-trac. All patients passing through the 
+trauma centres were included, and 
+selection criteria were applied. 
+Therefore, out of 1449, only 1123 
+patients were included; the remainder 
+were excluded on the basis of a welldefined criterion, which included the 
+mechanism of injury, death, brain death, 
+or otherwise not benefiting from the 
+care on offer. The authors compared, 
+using a logistic regression model, twoweek mortality outcomes between 
+patients directly transferred to a trauma 
+centre (n=864, 77.3%), and those who 
+were transferred first to a non-trauma 
+centre, and then on to a trauma 
+centre(n=254, 22.7%). The model 
+controlled for baseline characteristics 
+and clinical data including hypotension 
+status on day one, if the patient was less 
+than or more than 60 years old, pupil 
+status on day 1, and the initial GCS. 
+Admission time and time by transport 
+status were found to not affect the 
+significance of the results. Patients were 
+found to have a significantly lower 
+chance of mortality with direct transfer 
+with an odds ratio of 1.48 (CI 1.032.12) and p=0.04. 
+7.8.3 
+Economics Evidence from 2007 update 
+There was no new economic evidence for 
+this question found in the update. 
+7.8.4 
+Summary of evidence from 2007 
+update 
+Only one study134 provides some good 
+evidence that all patients with severe 
+head injuries (GCS 8 or less) would 
+benefit from receiving treatment in a

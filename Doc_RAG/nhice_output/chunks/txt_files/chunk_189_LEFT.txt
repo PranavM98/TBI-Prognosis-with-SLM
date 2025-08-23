@@ -1,0 +1,49 @@
+Source: Page 189 (LEFT)
+Page: 189, Side: LEFT
+Word Count: 83
+--------------------------------------------------
+196
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+Table 11.19: Health Utilities by Glasgow Outcome Scale (GOS) state  
+Utility score  
+(base case analysis) 
+GOS 
+Model A 
+ 
+ 
+Good Recovery 
+0.83 
+,Kind 1998 (UK general 
+population) 
+0.931 
+Moderate 
+Disability/Severe 
+0.45 
+Aoki 1998 (mean of two 
+Disability 
+0.788 
+Death 
+0 
+ 
+0 
+Model B 
+ 
+Good Recovery 
+0.83 
+utility in the UK) 
+0.931 
+Moderate 
+Disability 
+0.63 
+Severe Disability 
+0.26 
+0.668 
+Vegetative State 
+0.08 
+Aoki 1998 
+0.08 
+Death 
+0 
+ 
+0

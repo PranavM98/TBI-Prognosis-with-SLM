@@ -1,0 +1,43 @@
+Source: Page 201 (RIGHT)
+Page: 201, Side: RIGHT
+Word Count: 267
+--------------------------------------------------
+In the long-term, this should not represent 
+an increase in cost to the NHS since 
+patients and their treatment costs are 
+merely being shifted from one hospital 
+to another. Furthermore we have no 
+reason to believe that ITU costs are 
+higher at the NSH; indeed according to 
+the 2006 Reference Costs177, the cost of 
+a bed in a neurosurgical ITU is lower 
+than the cost of a bed in a general ITU. 
+Hence we did not include ITU costs in our 
+base case analysis. 
+In the short-term, the resource impact is 
+less clear and will depend on local 
+circumstances. A DGH might not achieve 
+the full cost savings from seeing fewer 
+patients as typically it would be losing 
+only ¼ of an ITU bed. However, staff 
+costs and consumables would be redeployed almost immediately. The bed 
+could also be re-deployed if there is 
+currently under-capacity. If so more 
+patients would be treated in ITU as a 
+result of the increased capacity at DGHs 
+but this would not necessarily produce a 
+reduction in costs to the Trust.  However, 
+this increase in ITU capacity could lead 
+to cost savings from reduced transfers. 
+To implement a direct transport strategy, 
+NSH units will need to invest in extra ITU 
+beds. This will be offset by cost savings 
+at DGHs. However the cost savings will 
+not necessarily offset the cost fully in the 
+short-term. The implementation costs 
+associated with shifting patients will 
+have to be taken in to account in any 
+cost impact analysis conducted for the 
+purposes of implementation.    
+A US study206 reports a successful rate 
+of GCS assessment (410/412 patients)

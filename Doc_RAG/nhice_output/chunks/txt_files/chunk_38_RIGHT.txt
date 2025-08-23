@@ -1,0 +1,46 @@
+Source: Page 38 (RIGHT)
+Page: 38, Side: RIGHT
+Word Count: 222
+--------------------------------------------------
+A brief description of the rule proposed 
+was extracted. Many papers do not 
+provide explicit description of the 
+diagnostic strategies, inclusion criteria, or 
+post-diagnosis management strategies 
+(for example, eligibility for early 
+discharge).  The participant descriptions 
+extracted were GCS levels, age, 
+prevalence of important outcomes 
+(especially intracranial haemorrhage) 
+and the main inclusion and exclusion 
+criteria. If a non-consecutive sample was 
+described (for example, selection 
+criteria was CT imaging where 100% CT 
+imaging was not the rule being tested) 
+this was noted. The outcomes extracted 
+included the need for neurosurgery, ICH, 
+intracranial injury and clinically 
+important brain injury and CT ordering 
+rate. Data on specificity and sensitivity 
+were recorded where possible; 95% 
+confidence intervals were also recorded 
+or calculated if possible. 
+2.7 
+Systematic review of indications for 
+imaging of the cervical spine 
+The systematic review aimed to identify 
+clinical decision rules which could be 
+used to select patients who are at high 
+risk of clinically important cervical spine 
+fracture, and who therefore should have 
+three-view plain radiography followed 
+by other imaging if these prove 
+inadequate. 
+This search produced 863 abstracts in 
+MEDLINE and 268 in EMBASE (after 
+duplicates had been removed). An initial 
+screen for relevance was carried out by 
+one systematic reviewer, which reduced 
+the number of abstracts to 142 papers 
+in MEDLINE and 10 papers in EMBASE. 
+These abstracts were then independently

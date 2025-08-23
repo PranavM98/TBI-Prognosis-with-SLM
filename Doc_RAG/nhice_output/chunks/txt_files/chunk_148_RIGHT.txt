@@ -1,0 +1,45 @@
+Source: Page 148 (RIGHT)
+Page: 148, Side: RIGHT
+Word Count: 232
+--------------------------------------------------
+mortality risks from CT examinations on 
+a one-year-old child are approximately 
+an order of magnitude higher than the 
+risks for CT-scanned adults.171This is due 
+to both an increased dose for children 
+having CT scans in the USA at the time 
+(2001) compared to adults, and an 
+estimated increase in risk per unit dose 
+of about a factor of 3 for a one year 
+old child. While this paper calculates a 
+projected 500 additional cancer deaths 
+per year in the USA from the number of 
+paediatric CT examinations performed 
+in 2001, this only represents a 0.35% 
+increase in the background cancer death 
+rate.  
+In summary, the best available evidence 
+suggests that paediatric CT will result in 
+increased lifetime risks of cancer 
+compared to adult CT due to both the 
+higher radiation doses currently 
+delivered to children and their increased 
+sensitivity to radiation-induced cancer 
+over a longer life span. 
+10.6 
+Radiation exposure management 
+In line with good radiation exposure 
+practice every effort should be made to 
+minimise radiation dose during 
+imaging of the head and cervical 
+spine, while ensuring that image 
+quality and coverage is sufficient to 
+achieve an adequate diagnostic study.  
+In spite of the potential risks of 
+increased radiation exposure as a 
+result of these guidelines, the 
+consensus opinion of the Guideline 
+Development Group is that this is 
+justified by the increased effectiveness 
+in identifying and managing patients 
+with significant brain injuries.

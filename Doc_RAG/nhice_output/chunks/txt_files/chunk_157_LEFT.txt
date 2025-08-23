@@ -1,0 +1,53 @@
+Source: Page 157 (LEFT)
+Page: 157, Side: LEFT
+Word Count: 277
+--------------------------------------------------
+164
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+x they have sought to quantify and cost outcomes 1-3 only. For example, the studies did not 
+measure the cost savings and health gain associated with early diagnosis. Stein et al suggested 
+that for those patients who are not diagnosed early there are lost wages and increased costs 
+relating to in-patient stay, rehabilitation, treatment, medication and orthotic devices. 
+Additional evidence retrieved in 2007 can be found below in 11.3.7. 
+11.3.2 
+Cost-effectiveness model – imaging of the head 
+Using the unit costs and frequencies of testing, the cost per patient of each strategy is shown in 
+Table 11.6. The least cost strategy is the 5-point Canadian CT Head rule. Although the cost of CT 
+scanning is higher than for the current (pre-2003) UK system, the extra cost is more than offset by 
+the reduction in skull X-rays and admissions. 
+Table 11.6 – Cost per patient for each strategy 
+Component costs (£) 
+ 
+ 
+Skull Xray 
+1. Current (pre-2003) UK 
+system  
+19 
+57 
+3 
+79 
+2. Canadian CT Head  
+five point rule 
+0 
+20 
+25 
+45 
+3. Canadian CT Head  
+seven point rule  
+0 
+20 
+42 
+62 
+4. US system 
+0 
+224 
+77 
+301 
+ 
+Both Canadian rules could save the NHS money. It would require investment in additional CT 
+scanning facilities but these costs would, be offset by the freeing up of ward space and X-ray 
+capacity. 
+These results were largely insensitive to the unit costs and probabilities used (Table 11.7). Only 
+when both costs and probabilities were set to favour the current (pre-2003) UK system was the 
+Canadian seven point rule more costly.

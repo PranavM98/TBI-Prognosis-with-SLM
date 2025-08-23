@@ -1,0 +1,43 @@
+Source: Page 174 (LEFT)
+Page: 174, Side: LEFT
+Word Count: 205
+--------------------------------------------------
+181
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+x difficulties for hospitals in transferring 
+patients for specialist care, especially 
+for neurosurgery (stabilisation of patient 
+first, co-ordination between the first 
+hospital and the specialist hospital and 
+consequent long delays).  
+Methods 
+A modelling of the flow of trauma 
+patients was carried out to determine 
+the best trauma service configuration for 
+adult trauma patients with severe injury 
+in the London area. The model was 
+designed to estimate the time from injury 
+x Critical Intervention (urgent life saving 
+interventions such as intubation); these 
+interventions are crucial for all trauma 
+patients 
+x Definitive Intervention (specialist 
+interventions such as neurosurgery); these 
+interventions vary according to the site 
+of the trauma 
+The specific aims of the modelling 
+exercise were to evaluate the effect on 
+time to intervention of: 
+(a) different bypass strategies  
+(b) improving the current system by 
+reducing time taken in pre-hospital and 
+in-hospital trauma management. 
+(c) a doctor in the pre-hospital phase 
+provided by the London Helicopter 
+Emergency Medical Service (HEMS). 
+The model simulated results based on 
+about 10,000 actual severe injuries from 
+the London region.  Of these 33% had 
+isolated head injury and a further 18% 
+had non-isolated head injury.

@@ -1,0 +1,43 @@
+Source: Page 95 (RIGHT)
+Page: 95, Side: RIGHT
+Word Count: 243
+--------------------------------------------------
+(that is, hospital attendees that had 
+experienced some loss of consciousness 
+or amnesia). 
+It is also important to note that the 
+Guideline Development Group is under 
+the impression that head injury episodes 
+are more likely to involve alcohol in the 
+UK than in Canada, although exact data 
+on this variable is not available. 
+Both studies report 100% sensitivity 
+(95% CI: 92-100) for need for 
+neurosurgical intervention. The New 
+Orleans criteria reports a 100% (95% 
+CI: 95-100) sensitivity for positive CT 
+scans, whereas the Canadian seven point 
+rules are 98% (95% CI: 96-99) sensitive 
+for detecting clinically important brain 
+injury. The New Orleans rules have a 
+25% (95% CI: 22-28) specificity for 
+detecting positive CT scans whereas the 
+Canadian rules are reported to have a 
+50% (95% CI: 48-51) specificity rate 
+for detecting clinically important brain 
+injury. 
+The New Orleans criteria would lead to 
+a 78% CT ordering rate in patients with 
+GCS equal to 15. The Canadian seven 
+point rules would lead to a 54% 
+ordering rate in patients with a GCS of 
+13 to 15. It is important to note that the 
+New Orleans study reports 100% CTscanning of the sample, whereas the 
+Canadian study had a scanning rate of 
+only 67%, and the remaining 33% had 
+a proxy outcome assessment via 
+telephone interview. The final sample in 
+the Canadian study does not include 
+some 10% of eligible patients who did 
+not undergo CT and subsequently could 
+not be contacted for follow-up.

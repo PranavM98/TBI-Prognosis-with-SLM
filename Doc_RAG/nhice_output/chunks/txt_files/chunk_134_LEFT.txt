@@ -1,0 +1,47 @@
+Source: Page 134 (LEFT)
+Page: 134, Side: LEFT
+Word Count: 252
+--------------------------------------------------
+141
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+8.10 
+The best tool for identifying the patients 
+who should be referred to rehabilitation 
+services following the initial management 
+of a head injury 
+8.10.1 Introduction and rationale for the 
+clinical question 
+It is well known that some patients 
+labelled as having had a minor head 
+injury may experience long term 
+disability following discharge from 
+hospital. Symptoms such as headache, 
+dizziness, memory deficits, slowness of 
+thought, poor concentration, 
+communication problems, inability to 
+work and problems with self-care have 
+been described. These patients are 
+categorised by the International 
+Classification of Diseases (ICD-10) as 
+having post-concussional syndrome 
+(PCS). 
+Five papers were classed as level two 
+evidence due to the quality of the study 
+design in the original guidleine.33,36,139141However from these papers, only one 
+paper139 explicitly constructed a 
+decision rule that could be used in the 
+acute setting to identify patients at risk 
+of PCS. This rule identifies a high-risk 
+group that has an 89% risk of PCS and 
+a low risk group with a risk of PCS of 
+9%. Unfortunately 50% of patients then 
+fall into a medium risk category, where 
+the risk is 47% for PCS. Therefore the 
+only category that may be of use for 
+excluding patients from follow up is the 
+low risk category, but this category was 
+derived from only eleven patients.  
+Therefore this study, although being the 
+only paper to attempt the derivation of 
+a rule is still really only of use to

@@ -1,0 +1,42 @@
+Source: Page 156 (LEFT)
+Page: 156, Side: LEFT
+Word Count: 448
+--------------------------------------------------
+163
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+The NHS reference cost database contains accounting cost data from every NHS hospital trust. 
+Each trust reports an average cost per hospital episode, categorised by type of visit (for 
+example, out-patient, elective in-patient, etc) clinical specialty and Healthcare Resource Group 
+(HRG). Accounting practices do vary between hospitals but the costs should reflect the full cost of 
+the service (including direct, indirect and overhead costs), as described in the NHS Costing 
+Manual.  
+Sensitivity analyses were conducted to test the sensitivity of the results to the model parameters: 
+x for the unit costs, the inter-quartile range was used,  
+x for the probabilities, the confidence intervals were used. 
+11.3 
+Diagnosis of intracranial haematoma in patients with a minor/mild head injury 
+CT represents the gold standard in the diagnosis of intracranial haematoma following head 
+injury. However, the number of CT scanners and trained staff in the NHS is limited and the cost of 
+testing substantial. Therefore CT scanning in the NHS is currently restricted mainly to those with 
+significant loss of consciousness (either on arrival or after deterioration) and those with a skull 
+fracture, as diagnosed through skull X-ray. The question arises as to whether CT scanning would 
+be cost-effective (that is, value for money) if extended to a larger group of patients. 
+11.3.1 
+Literature review 
+Six studies have evaluated the overall impact of different diagnostic testing strategies for 
+patients with minor/mild head injury. The UK studies date back to the early 1980s (pre-CT 
+scanning) and advocate that both skull X-ray and in-patient observation be reduced to save 
+costs.178-180 
+Three overseas studies have compared CT scanning with alternative strategies.  Ingebrigtsen and 
+Romner 181 found that in-patient observation was not necessary with CT. Therefore CT screening 
+was less costly than skull X-ray screening in Norway because it reduced in-patient stays. 
+Shackford et al 182 and Stein et al 183 had already come to the same conclusion for the USA.  
+However, Stein et al also considered the potential use of X-ray screening without in-patient 
+observation and not surprisingly found this to be the least costly strategy. 
+Essentially all three studies have concluded that a system of CT scanning high risk patients 
+followed by discharge after a negative CT scan is less costly than skull X-ray and admission for 
+all of these patients. However, this comparison is not strictly relevant to the context of England 
+and Wales because the current system does not admit all patients. 
+The published evidence from the six studies is not ideal because: 
+x the resource use and cost for CT scanning is not specific to the UK NHS context or is dated; and

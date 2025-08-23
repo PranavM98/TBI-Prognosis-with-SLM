@@ -1,0 +1,43 @@
+Source: Page 147 (LEFT)
+Page: 147, Side: LEFT
+Word Count: 85
+--------------------------------------------------
+154
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+Table 10.4.1 
+Effective radiation doses for different imaging techniques by age group. 
+ 
+Effective dose (mSv) 
+ 
+Head 
+Cervical spine 
+Patient Age (y) 
+Radiographs* 
+CT 
+Radiographs**  
+CT 
+0-1 
+0.06 
+2.5 
+0.07 
+6.0 
+5 
+0.06 
+1.5 
+0.07 
+3.9 
+10 
+0.06 
+1.6 
+0.07 
+3.1 
+Adult 
+0.06 
+1.5 
+0.07 
+2.6 
+*  
+assumes 1 PA + 1 AP + 1 lateral radiograph per examination 
+** 
+assumes 1 AP + 1 lateral radiograph per examination

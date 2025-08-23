@@ -1,0 +1,50 @@
+Source: Page 43 (LEFT)
+Page: 43, Side: LEFT
+Word Count: 259
+--------------------------------------------------
+50
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+Table 2: Levels of evidence for studies of the accuracy of diagnostic tests. Adapted from ‘The 
+Oxford Centre for Evidence-based Medicine Levels of Evidence’ (2001) and the Centre for 
+Reviews and Dissemination ‘Report Number 4’ (2001).  
+Levels of 
+evidence  
+Type of evidence  
+Ia  
+Systematic review (with homogeneity)
+b 
+Ib  
+Level-1 studies
+b 
+II  
+Level-2 studies
+c  
+Systematic reviews of level-2 studies  
+III  
+Level-3 studies
+d 
+Systematic reviews of level-3 studies  
+IV  
+Consensus, expert committee reports or opinions and/or clinical 
+experience without explicit critical appraisal; or based on 
+physiology, bench research or ‘first principles’  
+a Homogeneity means there are no or minor variations in the directions and 
+degrees of results between individual studies that are included in the systematic 
+review.  
+b Level-1 studies are studies:  
+• that use a blind comparison of the test with a validated reference standard 
+(gold standard)  
+ 
+• in a sample of patients that reflects the population to whom the test would 
+apply.  
+ 
+c Level-2 studies are studies that have only one of the following:  
+• narrow population (the sample does not reflect the population to whom the test 
+would apply)  
+• a poor reference standard (defined as that where the ‘test’ is included in the 
+‘reference’, or where the ‘testing’ affects the ‘reference’)  
+• a comparison between the test and reference standard that is not blind  
+• case–control design.  
+d Level-3 studies are studies that have at least two or three of the features listed 
+for level-2 studies.

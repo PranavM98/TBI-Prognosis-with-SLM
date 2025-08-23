@@ -1,0 +1,36 @@
+Source: Page 99 (RIGHT)
+Page: 99, Side: RIGHT
+Word Count: 169
+--------------------------------------------------
+was derived using recursive partitioning. 
+The reference standard was CT scanning 
+and clinical follow-up by a multi-modal 
+method of patient monitoring. The 
+CHALICE prediction rule had a sensitivity 
+of 98.6% (95% CI, 96.4% to 99.6%) 
+and a specificity of 86.9% (95% CI, 
+86.5% to 87.4%). The CT scan ordering 
+rate was 14%. This is a derivation study, 
+not yet validated. 
+The CHALICE Prediction Rule: 
+A computed tomography scan is 
+required if any of the following criteria 
+are present.  
+History  
+x Witnessed loss of consciousness of 
+more than 5 min duration 
+x History of amnesia (either antegrade 
+or retrograde) of more than 5 min 
+duration 
+x Abnormal drowsiness (defined as 
+drowsiness in excess of that expected by 
+the examining clinician) 
+x 3 or more vomits after head injury (a 
+vomit is defined as a single discrete 
+episode of vomiting) 
+x Suspicion of non-accidental injury 
+(NAI, defined as any suspicion of NAI by 
+the examining clinician) 
+x Seizure after head injury in a patient 
+who has no history of epilepsy 
+Examination

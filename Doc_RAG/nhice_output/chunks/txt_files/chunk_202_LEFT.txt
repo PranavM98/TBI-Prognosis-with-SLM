@@ -1,0 +1,48 @@
+Source: Page 202 (LEFT)
+Page: 202, Side: LEFT
+Word Count: 274
+--------------------------------------------------
+209
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+by ambulance crews at the incident site, 
+after an 8-hour training course. Hence, 
+training for ambulance staff in the 
+assessment of head injury patients would 
+be necessary to safeguard the 
+effectiveness and cost-effectiveness of 
+the direct transport strategy. 
+Since we do not have survival outcomes 
+for the other simulation model based in 
+London (see 11.6.2) we could not use it 
+to estimate cost-effectiveness.  However, 
+there is no reason to believe that it 
+would effect our conclusions for near 
+hospitals: if the specialist hospital is 20 
+minutes from the injury scene then direct 
+transport is likely to be cost-effective. 
+For distances greater than 20 minutes, 
+the authors of the London model have 
+erred on the side of caution by not 
+recommending bypass. It seems logical 
+that the further away is the specialist 
+hospital the more risky is direct 
+transport. Given the uncertainty of the 
+evidence in this area, if we are to 
+recommend direct transport at all then it 
+probably is better to use some kind of 
+cut-off but it is unclear how the authors 
+of the London model made this decision 
+since analyses based on transport times 
+longer than 20 minutes are not present 
+in the report.   
+The London model assumed that not just 
+neurosciences but also other specialist 
+services were available at the specialist 
+centres. If specialist centres contain the 
+whole range of services then the issue of 
+whether ambulance crews can diagnose 
+isolated head injury becomes less of an 
+issue (this problem had been raised by 
+several stakeholders), as long as 
+specialist hospitals have adequate

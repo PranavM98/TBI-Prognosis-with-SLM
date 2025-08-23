@@ -1,0 +1,64 @@
+Source: Page 196 (LEFT)
+Page: 196, Side: LEFT
+Word Count: 101
+--------------------------------------------------
+203
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+Cost of rehabilitation (GR) 
+19,575 
+Gamma 
+SE= 7986, Į= 6.01, ȕ= 3258 
+Nyein 1999 
+Cost of rehabilitation (MD) 
+19,575 
+Gamma 
+SE= 7986, Į= 6.01, ȕ= 3258 
+Nyein 2000 
+Cost of rehabilitation (SD) 
+108,874
+none 
+ 
+Wood 1999 
+Cost of rehabilitation (VS) 
+0 
+none 
+ 
+  
+  
+ 
+ 
+ 
+  
+Annual care costs (GR) 
+          -   
+none 
+ 
+  
+     
+7,472  
+Gamma 
+Annual care costs (MD) 
+    
+45,450 
+none 
+ 
+Wood 1999 
+Annual care costs (SD) 
+    
+45,450 
+none 
+ 
+Wood 1999 
+  
+ 
+ 
+ 
+  
+Annual care costs (VS) 
+Survival gain (all patients 
+taken to the NSU if within 
+20minutes) 
+4.50% 
+Gamma 
+model

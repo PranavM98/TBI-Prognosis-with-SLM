@@ -1,0 +1,45 @@
+Source: Page 155 (LEFT)
+Page: 155, Side: LEFT
+Word Count: 221
+--------------------------------------------------
+162
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+Table 11.4 - Outcomes from cervical spine scanning 
+1. Use of cervical spine X-ray 
+2. Use of cervical spine CT scanning  
+3. Number of surgical interventions resulting from detection of fractures 
+4. Incidence of paralysis 
+5. Incidence of cancer as a result of radiation exposure 
+6. Change in health service resource use as a result of 4 and 5. 
+7. Change in patient/family resource use as a result of 4 and 5 
+8. Change in litigation costs 
+ 
+11.2.4 Unit costs 
+Average unit costs for X-ray, CT scan and 24 hour observation were taken from the NHS 
+Reference Costs 2005-6177.  A unit cost of 24-hour observation was estimated approximately 
+using the median cost of an excess bed day for a ‘Head injury without significant brain injury: 
+uncomplicated’.  
+Table 11.5 - Unit cost estimates for the UK NHS (updated in 2007) 
+ 
+Cost per patient tested (2005-6 UK£):* 
+ 
+Lower 
+Mid 
+Upper 
+X-ray 
+15 
+19 
+23 
+CT scan 
+62 
+77 
+100 
+24 hour observation** 
+183 
+224 
+277 
+*NHS Reference costs 2005-6177 25th, 50th and 75th centiles. Costs include staff time, equipment 
+cost and consumable cost and overheads. 
+** Cost per day of an inpatient stay for a ‘Head injury without significant brain injury: 
+uncomplicated’ (n=1563 excess bed days).

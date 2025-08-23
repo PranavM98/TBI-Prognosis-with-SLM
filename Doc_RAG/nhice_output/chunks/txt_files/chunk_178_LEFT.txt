@@ -1,0 +1,48 @@
+Source: Page 178 (LEFT)
+Page: 178, Side: LEFT
+Word Count: 252
+--------------------------------------------------
+185
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+Model Results 
+ 
+11.13 shows the median time to 
+critical/definitive intervention by type of 
+injury and by bypass strategy used.  On 
+the left side of the table the results are 
+based on current timings.  On the right 
+hand side the results are based on 
+improved timings.  In the case of the 
+isolated head injury patient the median 
+time to neurosurgery is 4.8 hours 
+currently but would fall to 3.4 hours 
+when bypassing patients who are less 
+than 20 minutes from a specialist centre.  
+Table 11.14 shows the proportion of 
+patients that receive interventions within 
+the target time.  In the case of the 
+isolated head injury patient the number 
+receiving neurosurgery within 4 hours 
+would increase from 23% with no 
+bypass to 74% with bypassing patients 
+who are less than 20 minutes from a 
+specialist centre.  However, on the 
+negative side with this bypass strategy 
+only 84% (compared with 91%) would 
+receive critical intervention within 60 
+minutes.  The group that is made worse 
+off by bypass is those patients with 
+isolated orthopaedic injury: only 25% 
+would receive their definitive 
+intervention within their 2 hour target 
+(compared with 30% without bypass). 
+For the injuries that can be treated in 
+every hospital the most rapid movement 
+to Definitive Intervention was achieved 
+by the models without bypass, and with 
+improvement in hospital times. 
+For injuries requiring specialist 
+management the best models for 
+providing early Definitive Intervention 
+included 20 minutes bypass,

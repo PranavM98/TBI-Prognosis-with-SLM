@@ -1,0 +1,46 @@
+Source: Page 191 (LEFT)
+Page: 191, Side: LEFT
+Word Count: 237
+--------------------------------------------------
+198
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+small compared with the additional 
+rehabilitation and care costs incurred by 
+survivors.  
+We calculated the increased transport 
+cost associated with false positives, as 
+they will be transported to a more 
+distant hospital. The cost was obtained 
+from the unit cost of an ambulance per 
+minute, £6.50 204, multiplied by the 
+distance of the accident scene to the 
+hospital, which was 20 minutes (near) or 
+53 minutes (far) in the simulation study68. 
+11.6.4.5 
+Methods: Rehabilitation and care costs 
+We derived the cost of rehabilitation 
+from two UK studies: one, Wood 
+1999147, applicable to the severely 
+disable patients and the other one, 
+Nyein 1999205, applicable to the 
+moderately disabled patients (Table 
+11.20). The length of rehabilitation for 
+the severely disabled group was 14 
+months, while it was 75 days for the 
+moderately disabled group. We 
+assumed patients who had a good 
+recovery to undergo the same intensity 
+of rehabilitation as the moderately 
+disabled group, given the fact that the 
+good outcome was assessed six months 
+post-injury. Patients in a vegetative state 
+were assumed not to receive any 
+specific rehabilitative therapy. If any 
+rehabilitation service was provided to 
+them, its cost was assumed to be 
+incorporated in to the cost of long term 
+care.   
+The same two UK studies were used to 
+calculate the annual care costs 
+(Tab.11.20); in the case of severely

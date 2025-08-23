@@ -1,0 +1,115 @@
+Source: Page 195 (LEFT)
+Page: 195, Side: LEFT
+Word Count: 232
+--------------------------------------------------
+202
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+Table 11.21: Parameters used in the probabilistic sensitivity analysis 
+Mean 
+value 
+Probability 
+distribution 
+Parameters 
+Source 
+Description of variable 
+Percentage of patients with 
+good recovery at 6months 
+49.6% 
+Dirichlet  
+Patel 2002 
+Percentage of patients with 
+mild disability at 6 months 
+27.1% 
+Dirichlet  
+Patel 2002 
+Percentage of patients with 
+severe disability at 6 months 
+20.3% 
+Dirichlet  
+Patel 2002 
+Percentage of patients in a 
+vegetative state at 6 months 
+3.0% 
+Dirichlet  
+Patel 2002 
+  
+ 
+ 
+ 
+  
+SMR up to 4 years postinjury (GR) 
+1.5 
+Lognormal 
+SE = 0.402 
+Shavelle 2001
+SMR up to 4 years postinjury (MD) 
+4.5 
+Lognormal 
+SE= 0.254 
+Shavelle 2001
+SMR up to 4 years postinjury (SD) 
+16.4 
+Lognormal 
+SE= 0.249 
+Shavelle 2001
+SMR up to 4 years postinjury (VS) 
+16.4 
+Lognormal 
+SE= 0.249 
+Shavelle 2001
+  
+ 
+ 
+ 
+  
+SMR after 4 years (GR) 
+1.3 
+Lognormal 
+SE= 0.245 
+Shavelle 2001
+SMR after 4 years (MD) 
+2.4 
+Lognormal 
+SE= 0.178 
+Shavelle 2001
+SMR after 4 years (SD) 
+6.4 
+Lognormal 
+SE= 0.168 
+Shavelle 2001
+SMR after 4 years (VS) 
+6.4 
+Lognormal 
+SE= 0.168 
+Shavelle 2001
+  
+ 
+ 
+ 
+  
+Utility value of GR 
+0.83 
+none 
+ 
+Aoki1999 
+Utility value of MD 
+0.63 
+Gamma of 1-U 
+SE= 0.27, Į= 1.878 , ȕ=0.197 
+Aoki1999 
+Utility value of SD 
+0.26 
+Gamma of 1-U 
+SE= 0.25, Į= 8.762, ȕ= 0.084 
+Aoki1999 
+ȕ= 0.028 
+Aoki1999 
+  
+ 
+ 
+ 
+  
+Utility value of VS 
+0.08 
+Gamma of 1-U

@@ -1,0 +1,42 @@
+Source: Page 179 (RIGHT)
+Page: 179, Side: RIGHT
+Word Count: 225
+--------------------------------------------------
+had higher expected survival than a 
+strategy of sending all patients to the 
+nearest emergency department but 
+strategies 2-6 were the most effective. 
+Among these strategies, strategy 4 
+(direct transport of patients with critical 
+head injury, AIS=5) required the least 
+number of patients being diverted to 
+specialist centres. The results were not 
+sensitive to the parameters that were 
+determined by expert opinion. 
+An important limitation that was 
+acknowledged by the authors was that 
+AIS score is determined after treatment 
+and therefore assessment of patients at 
+the scene of the injury is less accurate. 
+The implication is that the survival gain 
+observed in this model is probably 
+larger than can be achieved in reality, 
+although the pattern should be the same. 
+There are different costs associated with 
+each strategy and therefore a costeffectiveness analysis is needed to 
+assess which of the 10 strategies is the 
+most cost-effective. 
+In conclusion, the simulation study shows 
+that survival of severe head injury 
+patients could be substantially improved 
+by transporting patients directly from 
+the injury scene to a hospital with a 
+specialist neurosciences centre. Costeffectiveness of these strategies was 
+determined as described in 11.6.4. 
+Comparison with the London model 
+The Staffordshire model went a step 
+further than the London model by 
+estimating the impact of different 
+strategies on survival (as well as time) in 
+order to trade-off the different 
+outcomes.

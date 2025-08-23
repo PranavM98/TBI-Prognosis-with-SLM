@@ -1,0 +1,174 @@
+Source: Page 176 (LEFT)
+Page: 176, Side: LEFT
+Word Count: 222
+--------------------------------------------------
+183
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+Table 11.13: London Model: Median time (hours) to critical/definitive interventions, by 
+bypass strategy 
+  
+Current timings 
+ 
+Bypass strategy
+none
+15
+20
+ 
+none 
+15 
+20
+critical intervention (minutes) 
+41
+43
+45
+ 
+32 
+34 
+36
+head injury 
+4.8
+3.7
+3.4
+ 
+3.8 
+2.9 
+2.7
+head and chest injury 
+4.9
+3.8
+3.5
+ 
+3.9 
+3.0 
+2.7
+head, chest and orthopaedic injury 
+6.9
+5.9
+5.6
+ 
+6.0 
+5.2 
+4.9
+chest injury 
+4.6
+3.8
+3.4
+ 
+3.7 
+3.0 
+2.7
+orthopaedic injury 
+2.2
+2.3
+2.3
+ 
+1.7 
+1.7 
+1.7
+head and orthopaedic injury 
+6.8
+5.8
+5.5
+ 
+5.8 
+5.1 
+4.8
+chest and orthopaedic injury 
+6.7
+5.9
+5.5
+ 
+5.7 
+5.1 
+4.8
+head, chest and abdominal injury 
+7.0
+5.9
+5.6
+ 
+6.0 
+5.2 
+4.9
+chest and abdominal injury 
+6.6
+5.9
+5.5
+ 
+5.7 
+5.1 
+4.8
+orthopaedic and abdominal injury 
+3.2
+3.2
+3.2
+ 
+2.5 
+2.5 
+2.6
+abdominal injury 
+3.2
+3.2
+3.2
+ 
+2.5 
+2.5 
+2.6
+facial injury 
+3.8
+3.8
+3.5
+ 
+3.0 
+3.0 
+2.7
+head and facial injury 
+4.8
+3.8
+3.5
+ 
+3.8 
+3.0 
+2.7
+spinal injury 
+5.7
+4.8
+4.4
+ 
+4.6 
+4.0 
+3.6
+head and spinal injury 
+4.8
+3.8
+3.4
+ 
+3.8 
+3.0 
+2.7
+head, orthopaedic and abdominal 
+injury 
+6.8
+5.8
+5.5
+ 
+5.8 
+5.1 
+44.8
+orthopaedic and vascular injury 
+6.9
+5.9
+5.6
+ 
+5.9 
+5.2 
+4.9
+traumatic amputation 
+4.7
+3.8
+3.5
+ 
+3.7 
+3.0 
+2.7
+* LAS=London Ambulance Service

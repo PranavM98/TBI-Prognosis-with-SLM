@@ -1,0 +1,47 @@
+Source: Page 146 (LEFT)
+Page: 146, Side: LEFT
+Word Count: 238
+--------------------------------------------------
+153
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+parameters to the size of the patient. 
+The doses involved for all age groups 
+may now be smaller due to increased 
+awareness of this need and the 
+introduction of multislice helical CT, as 
+has been seen for CT head scans. 
+10.4 
+Summary of effective doses from CT and 
+conventional X-ray examinations of the 
+head and cervical spine 
+A summary of estimates of the effective 
+doses received by adults, children and 
+infants from CT and conventional 
+radiographic examinations of the head 
+and cervical spine are detailed in Table 
+9.1 below. The estimates for CT head 
+examinations are based on the 2003 
+survey161 and reflect UK practice at that 
+time for selecting CT scan parameters 
+for adult and paediatric patients. The 
+estimates for CT cervical spine 
+examinations are based on the 1989 
+survey for adult patients and paediatric 
+enhancement factors that assume that 
+the same CT technique parameters are 
+used for children and adults (which has 
+been common practice until recently). 
+They consequently are likely to 
+overestimate patient doses from current 
+practice.   
+The estimates for conventional 
+radiographic examinations are based 
+on typical effective doses for adults in a 
+further NRPB survey166. 
+Effective doses for children from these 
+radiographic examinations have been 
+assumed to be the same as those for 
+adults, since the technique parameters 
+are usually adapted to the size of the 
+patient.

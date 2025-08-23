@@ -1,0 +1,43 @@
+Source: Page 108 (RIGHT)
+Page: 108, Side: RIGHT
+Word Count: 203
+--------------------------------------------------
+The rationale for this amendment to the 
+previous recommendation is that in this 
+group of head injured patients (GCS  
+13) X-rays are not able to detect all 
+cervical spine injuries and the risk of 
+cervical spine injury is higher than in the 
+less severely head injured patients. The 
+update evidence is level two evidence. 
+The recommendation is based on the 
+evidence retrieved along with the GDG 
+consensus. The GDG agreed that this 
+change to the recommendation could 
+also be applied for children as there is 
+no evidence at present to suggest 
+otherwise. 
+6.7.6 
+Recommendation 
+[Amended] The current initial 
+investigation of choice for the 
+detection of injuries to the cervical 
+spine is the plain radiograph. Three 
+views should be obtained and be of 
+sufficient quality for reliable 
+interpretation. However, in certain 
+circumstances CT is preferred.  
+[NEW] Adult patients who have any of 
+the following risk factors should have 
+CT imaging of the cervical spine 
+requested immediately: 
+- GCS below 13 on initial assessment 
+- Has been intubated 
+- Plain film series is technically 
+inadequate (for example, desired view 
+unavailable), suspicious or definitely 
+abnormal  
+- Continued clinical suspicion of injury 
+despite a normal X ray. 
+- The patient is being scanned for 
+multi-region trauma.

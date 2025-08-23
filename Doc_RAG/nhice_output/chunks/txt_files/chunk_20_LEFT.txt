@@ -1,0 +1,92 @@
+Source: Page 20 (LEFT)
+Page: 20, Side: LEFT
+Word Count: 780
+--------------------------------------------------
+27
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+services 
+to a satisfying occupation. 
+Relative risk 
+A summary measure which represents the ratio of the risk of a given event or 
+outcome (for example, an adverse reaction to the drug being tested) in one group 
+of subjects compared to another group. When the ‘risk’ of the event is the same in 
+the two groups the relative risk is 1. In a study comparing two treatments, a relative 
+risk of 2 would indicate that patients receiving one of the treatments had twice the 
+risk of an undesirable outcome than those receiving the other treatment. Relative 
+risk is sometimes used as a synonym for risk ratio .    
+Reliability 
+Reliability refers to a method of measurement that consistently gives the same 
+results. For example someone who has a high score on one occasion tends to have a 
+high score if measured on another occasion very soon afterwards. With physical 
+assessments it is possible for different clinicians to make independent assessments in 
+quick succession – and if their assessments tend to agree then the method of 
+assessment is said to be reliable. 
+Retrospective 
+study 
+A retrospective study deals with the present/ past and does not involve studying 
+future events. This contrasts with studies that are prospective. 
+Review 
+Summary of the main points and trends in the research literature  
+on a specified topic. A review is considered non-systematic unless an extensive 
+literature search has been carried out to ensure that all aspects of the topic are 
+covered and an objective appraisal made of the quality of the studies. 
+Risk ratio 
+Ratio of the risk of an undesirable event or outcome occurring in a group of patients 
+receiving experimental treatment compared with a comparison (control) group. The 
+term relative risk is sometimes used as a synonym of risk ratio.  
+Sample 
+A part of the study’s target population from which the subjects of the study will be 
+recruited. If subjects are drawn in an unbiased way from a particular population, 
+the results can be generalised from the sample to the population as a whole.     
+Sampling 
+Refers to the way participants are selected for inclusion in a study. 
+Sampling frame 
+A list or register of names which is used to recruit participants to a study. 
+Secondary care 
+Care provided in hospitals. 
+Seizure 
+An uncontrolled discharge of nerve impulses which may spread throughout the brain. 
+It usually lasts only a few minutes. It may be associated with loss of consciousness or 
+loss of bowel and bladder control. 
+Selection bias 
+Selection bias has occurred if: 
+) 
+the characteristics of the sample differ from those of the wider population from 
+which the sample has been drawn  OR 
+) 
+there are systematic differences between comparison groups of patients in a 
+study in terms of prognosis or responsiveness to treatment. 
+Selection criteria 
+Explicit standards used by guideline development groups to decide which studies 
+should be included and excluded from consideration as potential sources of 
+evidence. 
+Semi-structured 
+interview 
+Structured interviews involve asking people pre-set questions. A semi-structured 
+interview allows more flexibility than a structured interview. The interviewer asks a 
+number of open-ended questions, following up areas of interest in response to the 
+information given by the respondent. 
+Sensitivity 
+In diagnostic testing, it refers to the chance of having a positive test result given that 
+you have the disease. 100% sensitivity means that all those with the disease will test 
+positive, but this is not the same the other way around. A patient could have a 
+positive test result but not have the disease – this is called a ‘false positive’. The 
+sensitivity of a test is also related to its ‘negative predictive value’ (true negatives) – 
+a test with a sensitivity of 100% means that all those who get a negative test result 
+do not have the disease. To fully judge the accuracy of a test, its Specificity must 
+also be considered.  
+Sequelae 
+Plural of sequela, which is any abnormal condition that occurs subsequent to and/or 
+is caused by disease, injury, or treatment. 
+Single blind study 
+A study in which either the subject (patient/participant) or the observer 
+(clinician/investigator) is not aware of which treatment or intervention the subject is 
+receiving. 
+Specific indication 
+When a drug or a device has a specific remit to treat a specific condition and is not 
+licensed for use in treating other conditions or diseases.  
+Specificity 
+In diagnostic testing, it refers to the chance of having a negative test result given 
+that you do not have the disease. 100% specificity means that all those without the 
+disease will test negative, but this is not the same the other way around. A patient

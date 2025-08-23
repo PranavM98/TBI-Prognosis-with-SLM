@@ -1,0 +1,44 @@
+Source: Page 116 (RIGHT)
+Page: 116, Side: RIGHT
+Word Count: 221
+--------------------------------------------------
+6.10.1 
+Recommendations for research 
+The GDG identified the following 
+priority areas for research. 
+6.10.1.1 
+Research Question 
+Research is needed to establish the 
+validity of previously derived clinical 
+decision rules on the selection of head 
+injured infants and children for CT 
+scanning to exclude significant brain 
+injury.  
+6.10.1.2 Why this research is important 
+The 2002 NICE guidelines recommended 
+that children be selected for CT scanning 
+on the basis of the Canadian Head CT 
+rule, a clinical decision rule derived and 
+validated in adults. This was due to the 
+absence of such a rule derived in 
+children. However since this date the 
+CHALICE rule has been published which 
+presents a clinical decision rule derived 
+in a large group of children and infants 
+from the UK with good sensitivity and 
+specificity.  
+However, clinical decision rules often 
+provide an overestimate of their 
+performance when applied to new 
+populations. We now recommend the 
+usage of the CHALICE rule for children 
+suffering a head injury in the UK, with 
+the caveat that a validation of the rule 
+in a new population of head injured UK 
+patients be urgently undertaken to 
+ensure its reliability and reproducibility.    
+Such a study is now essential and 
+performing a validation of the CHALICE 
+study in a novel UK population may 
+easily be performed in a 1-2 year 
+timeframe with acceptable costs, and

@@ -1,0 +1,43 @@
+Source: Page 110 (RIGHT)
+Page: 110, Side: RIGHT
+Word Count: 213
+--------------------------------------------------
+included sensitivity and specificity of 
+prediction rules. 
+6.9.2 
+Clinical evidence  
+In the 2003 guideline, a systematic 
+review of clinical decision rules for 
+selection of patients who sustained a 
+head injury for imaging of the cervical 
+spine was carried out according to the 
+methods outlined in Chapter Two. Two 
+level one studies were identified.52,122 
+These were the NEXUS study group from 
+America and the Canadian cervical 
+spine rule. 
+The remaining papers that were 
+reviewed all contained non-level one 
+evidence for a variety of rules and were 
+derived in small cohorts. In addition 
+some papers considered a variety of 
+different aspects of cervical spine 
+imaging. These included studies in 
+patients who are not fully conscious, 
+studies on the utility of flexion-extension 
+views, studies in children and studies on 
+the utility of CT scanning or MRI 
+scanning. These studies are included in 
+the evidence table but contribute little to 
+the decision as to which rule to use to 
+exclude low risk patients from cervical 
+imaging. 
+The Canadian cervical spine rule 
+involves the following questions. 
+x Is there any high risk factor present 
+that mandates radiography: age 
+greater than or equal to 65 years, 
+dangerous mechanism, or paraesthesia 
+in the extremities? 
+x Is there a low risk factor present that 
+allows the safe assessment of range of

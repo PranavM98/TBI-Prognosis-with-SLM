@@ -1,0 +1,46 @@
+Source: Page 100 (RIGHT)
+Page: 100, Side: RIGHT
+Word Count: 238
+--------------------------------------------------
+6.5.4 
+Summary of evidence from 2007 
+update 
+Adult Rule  
+Three new studies81,83,84 were identified 
+for this review which compared different 
+decision rules in adults. One study81 
+showed that for patients with minor head 
+injury and GCS score of 15, the 
+Canadian CT head rule had a higher 
+specificity than NOC for clinical 
+important outcomes. This study also 
+showed that the Canadian CT head rule 
+and NOC have equivalent high 
+sensitivities for detecting the need for 
+neurosurgical intervention and clinically 
+important brain injury. The second 
+study84 showed that for patients with 
+minor head injury and a GCS score of 
+13 to 15, the Canadian CT head rule 
+has a lower sensitivity than the NOC for 
+neurocranial traumatic or clinically 
+important CT findings. The final study83 
+included the NEXUS II rule which had a 
+sensitivity of 98.3% and specificity of 
+13.7%. 
+When we updated the unit costs in the 
+guideline’s cost analysis, the results were 
+even more favourable towards the 
+Canadian head CT rule, since radiology 
+costs had fallen. Two studies16,88 of the 
+impact of our recommendation for head 
+imaging showed opposite results; there 
+is still great uncertainty about the rates 
+of imaging and admission nationally and 
+therefore the overall economic impact of 
+the guideline is unclear. A published 
+economic evaluation76 using cohort study 
+evidence suggested that the Canadian 
+head CT rule is more cost-effective in a 
+US context than a number of alternative 
+strategies based on CT, X-ray or

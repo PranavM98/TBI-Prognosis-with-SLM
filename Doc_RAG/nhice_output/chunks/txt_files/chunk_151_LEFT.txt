@@ -1,0 +1,45 @@
+Source: Page 151 (LEFT)
+Page: 151, Side: LEFT
+Word Count: 227
+--------------------------------------------------
+158
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+5. Estimate the ratio of net health gain to 
+net resource cost (for example, the cost 
+per QALY gained) and compare this 
+with the ratios estimated for other 
+commonly used health programmes to 
+assess its relative efficiency. The 
+estimation of net health gain and net 
+cost requires some kind of model (such 
+as a decision analysis) to combine 
+probability and outcome information. 
+6. Consider the robustness of the costeffectiveness estimate in terms of 
+statistical precision and generalisability 
+to other settings. 
+Ideally one would repeat each of these 
+steps for each procedure considered 
+within the guideline (and within each 
+procedure, for each relevant patient 
+subgroup). This would allow us to see for 
+which group of patients the procedure is 
+good value for money. In practice we 
+are limited by the availability of data. 
+11.2 
+Methods 
+The guideline development group 
+identified two main areas where the 
+potential impact of alternative strategies 
+could be substantial. 
+x Diagnosis of life-threatening important 
+brain injuries in patients with minor head 
+injury 
+x Identifying cervical spine damage in 
+patients with head injury. 
+A third area, identification of patients 
+most likely to experience long term 
+sequelae, was also considered for 
+economic evaluation. However, the lack 
+of satisfactory clinical decision rules in 
+this area means that this area remains

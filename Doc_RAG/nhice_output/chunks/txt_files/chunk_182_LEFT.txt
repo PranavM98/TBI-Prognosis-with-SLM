@@ -1,0 +1,43 @@
+Source: Page 182 (LEFT)
+Page: 182, Side: LEFT
+Word Count: 189
+--------------------------------------------------
+189
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+11.6.4 
+Cost-effectiveness model – Direct 
+transport 
+We conducted a cost-effectiveness 
+analysis of transporting patients with 
+serious head injury directly from the 
+injury scene to a specialist neurosciences 
+hospital (NSH). This was compared to 
+initially transporting such patients to the 
+nearest emergency department and then 
+later transferring them to the NSH after 
+stabilising the patient.   
+The following general principles were 
+adhered to: 
+x The GDG was consulted during the 
+construction and interpretation of the 
+models. 
+x The sources of data are published 
+studies and expert opinion. 
+x Model assumptions were reported 
+fully and transparently. 
+x The results were subject to sensitivity 
+analysis and limitations were discussed. 
+x We followed the methods of the NICE 
+reference case. Therefore costs were 
+calculated from a health services 
+perspective. Health gain was measured 
+in terms of quality-adjusted life-years 
+(QALYs) gained. 
+11.6.4.1 
+General method 
+The model is represented by a decision 
+tree (Fig.2): once the ambulance crews 
+arrive at the accident scene, the patient 
+can be transported either to the nearest 
+District General Hospital (DGH) or to a

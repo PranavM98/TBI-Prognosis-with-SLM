@@ -1,0 +1,65 @@
+Source: Page 163 (LEFT)
+Page: 163, Side: LEFT
+Word Count: 76
+--------------------------------------------------
+170
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+Table 11.9: Resource use before and after implementation of NICE head CT rule 
+ 
+NCC-AC2003 
+Shravat2006 
+ 
+Model 
+DGH 
+ 
+Before
+After
+Before
+After
+CT 
+2%
+29%
+2%
+8%
+SXR 
+54%
+0%
+11%
+0%
+admission 
+14%
+4%
+8%
+9%
+ 
+ 
+ 
+ 
+ 
+ 
+Hassan2005 
+Hassan2005 
+ 
+Neurosciences 
+DGH 
+ 
+Before
+After
+Before
+After
+CT 
+3%
+18%
+1%
+9%
+SXR 
+37%
+4%
+19%
+1%
+admission 
+9%
+4%
+7%
+5%

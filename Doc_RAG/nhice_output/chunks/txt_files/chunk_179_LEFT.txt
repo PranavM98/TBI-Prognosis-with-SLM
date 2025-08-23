@@ -1,0 +1,47 @@
+Source: Page 179 (LEFT)
+Page: 179, Side: LEFT
+Word Count: 236
+--------------------------------------------------
+186
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+specialist services in addition to 
+neurosciences.  
+x The trade-off between the need for 
+immediate access to critical interventions 
+(e.g. intubation) and the need for faster 
+access to definitive interventions (e.g. 
+surgery) was made on the basis of 
+expert judgement rather than health 
+outcomes. 
+11.6.3 
+Staffordshire model 
+The link between time and health 
+outcomes missed by the London model 
+was captured to some extent in the 
+Staffordshire model68.  
+It evaluated the impact of 10 different 
+transport strategies on survival of 
+patients with serious or worse HI (AIS 
+more than 2). In the model, survival was 
+determined by a number of variables 
+including: a) head AIS score, b) nonhead AIS score, c) time to surgery, d) 
+grade of staff during transfer, e) 
+incidence of hypoxia and hypotension, 
+g) distance from hospitals. Some of these 
+variables are patient-specific (a,b,g), 
+some are service-specific (d) and some 
+are determined by the transport 
+strategy (c,e). The data used in the 
+model came from a variety of sources 
+including a large trauma database, the 
+published literature and expert opinion.  
+Monte Carlo simulation (that is 
+repeatedly generating new results by 
+simultaneously drawing at random from 
+the distribution of each model 
+parameter) was used to simulate 10,000 
+head injury patients and their outcomes 
+under each strategy. 
+Table 11.15 shows the results for each 
+strategy. All direct transport strategies

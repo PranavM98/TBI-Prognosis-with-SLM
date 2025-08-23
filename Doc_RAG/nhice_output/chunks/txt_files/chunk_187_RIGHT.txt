@@ -1,0 +1,42 @@
+Source: Page 187 (RIGHT)
+Page: 187, Side: RIGHT
+Word Count: 232
+--------------------------------------------------
+injured patients in Shavelle 2001 200, to 
+the general population of England and 
+Wales, using the Life Tables. According 
+to Shavelle, the SMR decreases during 
+the first 4 years post-injury but remains 
+constant afterwards. In Shavelle 2001 
+the SMR was distinguished according to 
+three levels of ambulation: a) none, b) 
+some, c) stairs, which we matched 
+approximately to the levels of disability 
+of the GOS (a=SD, b=MD and c=GR).  
+Life expectancy was discounted at a 
+rate of 3.5% per year, as required by 
+NICE. 
+For our base case analysis we estimated 
+life expectancy for men aged 40 (the 
+average age of a patient in the 
+Stevenson study). For our sensitivity 
+analysis, we also calculated life-years 
+for patients aged 20 and 60. 
+Quality of life 
+The utility scores in Table 11.19 are a 
+measure of the quality of life associated 
+with each of the health states on a scale 
+from 0 (death) to 1 (perfect health). For 
+the good recovery (GR) outcome, we 
+used the EQ-5D score of 0.83 reported 
+for the United Kingdom population 201. 
+The other utility scores were taken from 
+a decision analysis, Aoki 1998 202. The 
+mean utilities for each GOS score were 
+elicited from a sample of 140 subjects 
+with a clinical background using the 
+standard-gamble method. The GOS 
+states in this study were expressed as 
+the degree of disability due to brain 
+damage caused by subarachnoid 
+haemorrhage.

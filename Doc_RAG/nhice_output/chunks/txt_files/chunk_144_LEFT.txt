@@ -1,0 +1,38 @@
+Source: Page 144 (LEFT)
+Page: 144, Side: LEFT
+Word Count: 184
+--------------------------------------------------
+151
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+10 Medical radiation
+10.1 
+Introduction 
+The medical use of radiation for 
+diagnosis and therapy is the largest 
+source of radiation exposure to humans 
+outside natural background radiation. 
+The main diagnostic sources of radiation 
+are X-ray examinations, particularly 
+those involving CT.  Magnetic Resonance 
+Imaging does not involve ionising 
+radiation.Recent advances in CT 
+technology, particularly the advent of 
+multislice helical CT, have led to 
+dramatic improvements in image quality 
+and speed of acquisition. These have 
+resulted in more clinical applications for 
+CT imaging and an explosive growth in 
+the number of CT examinations 
+performed in countries that have access 
+to this technology. The radiation doses 
+received by the patient remain 
+considerably larger for CT compared to 
+conventional X-ray imaging, but dosesaving features introduced into the latest 
+scanners and the adoption of more 
+optimised scanning protocols have led to 
+small reductions in patient dose for some 
+CT examinations over the past few 
+years. In 1998 CT examinations 
+accounted for 4% of all X-ray imaging 
+procedures in the UK and contributed

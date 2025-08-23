@@ -1,0 +1,87 @@
+Source: Page 198 (LEFT)
+Page: 198, Side: LEFT
+Word Count: 167
+--------------------------------------------------
+205
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+Table 11.22: Results - Model A. 
+ 
+Mean cost 
+QALYs 
+Base case – Age 40 
+1) First to DGH  
+225,109 
+9.99 
+- 
+2) Direct to NSH  
+93,422 
+14.99 
+NSH dominates 
+Age 20 
+ 
+ 
+ 
+ 
+1) First to DGH  
+297,236 
+13.06 
+- 
+2) Direct to NSH  
+120,136 
+18.35 
+NSH dominates 
+Age 60 
+ 
+ 
+ 
+ 
+1) First to DGH  
+76,069 
+3.02 
+- 
+2) Direct to NSH  
+38,222 
+4.76 
+NSH dominates 
+DGH 
+ 
+ 
+ 
+Table 11.23: Results - Model B – Far from NSU 
+ 
+Incremental 
+cost  
+gained   
+Direct to NSH vs 
+First to DGH (base 
+7,058  
+0.41 
+17,228  
+case age 40) 
+Direct to NSH vs 
+First to DGH (age 
+9,382 
+0.51 
+18,343 
+Direct to NSH vs 
+First to DGH (age 
+2,259 
+0.12 
+18,367 
+Table 11.24: Results - Model B - Near NSU 
+ 
+Incremental 
+cost  
+gained   
+Direct to NSH vs 
+First to DGH (base 
+9,393  
+0.54 
+17,323  
+case age 40) 
+Direct to NSH vs 
+First to DGH (age 
+12,469 
+0.68 
+18,419

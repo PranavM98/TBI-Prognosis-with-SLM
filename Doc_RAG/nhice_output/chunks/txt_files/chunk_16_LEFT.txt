@@ -1,0 +1,87 @@
+Source: Page 16 (LEFT)
+Page: 16, Side: LEFT
+Word Count: 625
+--------------------------------------------------
+23
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+haemorrage 
+associated with a fracture of the skull. The underlying brain injury may not be 
+severe initially but the increasing pressure caused by the bleeding inflicts further 
+damage. 
+Extradural space 
+The space on the outer side of the dura mater.  
+Extrapolation 
+The application of research evidence based on studies of a specific population to 
+another population with similar characteristics. 
+Focal Neurological 
+Deficit 
+A neurological deficit restricted to a particular part of the body or a particular 
+activity 
+A graphical display of results from individual studies on a common scale, allowing 
+visual comparison of results and examination of the degree of heterogeneity 
+between studies. 
+Forest plot 
+Funnel plots are simple scatter plots on a graph. They show the treatment effects 
+estimated from separate studies on the horizontal axis against a measure of sample 
+size on the vertical axis. Publication bias may lead to asymmetry in funnel plots.  
+Generalisability 
+The extent to which the results of a study hold true for a population of patients 
+beyond those who participated in the research. See also External validity. 
+Glasgow Coma 
+Scale 
+Funnel plot 
+A standardised system used to assess the degree of brain impairment and to 
+identify the seriousness of injury in relation to outcome. The system involves three 
+determinants: eye opening, verbal responses and motor response all of which are 
+evaluated independently according to a numerical value that indicates the level of 
+consciousness and degree of dysfunction. 
+Gold standard 
+A method, procedure or measurement that is widely accepted as being the best 
+available. 
+ 
+Haematoma 
+An accumulation of blood in or under the tissues. 
+Haemotympanum 
+A collection of blood in the middle ear space 
+Health economics  
+ 
+A field of conventional economics which examines the benefits of healthcare 
+interventions (for example, medicines) compared with their financial costs. 
+Heterogeneity 
+Or lack of homogeneity. The term is used in meta-analyses and systematic reviews 
+when the results or estimates of effects of treatment from separate studies seem to 
+be very different – in terms of the size of treatment effects or even to the extent 
+that some indicate beneficial and others suggest adverse treatment effects. Such 
+results may occur as a result of differences between studies in terms of the patient 
+populations, outcome measures, definition of variables or duration of follow-up.  
+Hierarchy of 
+evidence 
+An established hierarchy of study types, based on the degree of certainty that can 
+be attributed to the conclusions that can be drawn from a well conducted study. 
+Well-conducted randomised controlled trials (RCTs) are at the top of this hierarchy. 
+(Several large statistically significant RCTs which are in agreement represent 
+stronger evidence than say one small RCT.) Well-conducted studies of patients’ 
+views and experiences would appear at a lower level in the hierarchy of evidence. 
+Homogeneity 
+This means that the results of studies included in a systematic review or meta analysis 
+are similar and there is no evidence of heterogeneity. Results are usually regarded 
+as homogeneous when differences between studies could reasonably be expected 
+to occur by chance. See also Consistency. 
+Hyperventilation 
+Abnormally rapid breathing. Hyperventilation results in excessive intake of oxygen 
+and increased elimination of carbon dioxide, which may eventually lead to a 
+disturbance in the blood chemistry. 
+Hypoglycaemia 
+Abnormally low levels of glucose in the blood, leading to muscular weakness, 
+confusion, sweating and, in severe cases, coma. Hypoglycaemia is a complication of 
+many anti-diabetic treatments. 
+Inclusion criteria 
+See Selection criteria. 
+Infant 
+Aged under 1 year. 
+Intention to treat 
+analysis 
+An analysis of a clinical trial where patients are analysed according to the group to 
+which they were initially randomly allocated, regardless of whether or not they had 
+dropped out, fully complied with the treatment, or crossed over and received the

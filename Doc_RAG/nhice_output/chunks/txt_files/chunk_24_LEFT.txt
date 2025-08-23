@@ -1,0 +1,46 @@
+Source: Page 24 (LEFT)
+Page: 24, Side: LEFT
+Word Count: 270
+--------------------------------------------------
+31
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+UK as a whole has been quoted6 but this 
+may be slightly higher than is the case. 
+Hospital Episode Statistics data for the 
+2000/2001 annual dataset indicate 
+that 398 patients in England underwent 
+an operation to drain the extradural 
+space (OPCS code A40) and 2,048 
+patients underwent an operation to 
+drain the subdural space (OPCS code 
+A41)7.These figures do not include a 
+small number of other neurosurgical 
+procedures possible after head injury, 
+and include some patients with a nonhead injury diagnosis. Thus, the routine 
+data available does not allow for a 
+precise estimate of neurosurgical volume 
+after head injury for England and 
+Wales, but points to a figure in the low 
+thousands. 
+Although the incidence of head injury is 
+high, the incidence of death from head 
+injury is low (6-10 per 100,000 
+population per annum).5 As few as 0.2% 
+of all patients attending emergency 
+departments with a head injury will die 
+as a result of this injury.7,8Ninety per 
+cent of all people who have sustained a 
+head injury will present with a minor or 
+mild injury (Glasgow Coma Scale [GCS] 
+greater than 12) but the majority of 
+fatal outcomes will be in the moderate 
+(GCS of 9 to 12) or severe (GCS less 
+than or equal to 8) head injury groups 
+which account for only 10% of 
+attenders.9 Therefore emergency 
+departments are required to see a large 
+number of patients with a minor/mild 
+head injury, and identify the very small 
+number of these that will go on to have 
+serious acute intracranial complications.

@@ -1,0 +1,44 @@
+Source: Page 84 (LEFT)
+Page: 84, Side: LEFT
+Word Count: 222
+--------------------------------------------------
+91
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+- The individual components of the 
+GCS should be described in all 
+communications and every note and 
+should always accompany the total 
+score. 
+- The paediatric version of the GCS 
+should include a ‘grimace’ alternative 
+to the verbal score to facilitate scoring 
+in pre-verbal or intubated patients. 
+- Best practice in paediatric coma 
+observation and recording as detailed 
+by the National Paediatric 
+Neuroscience Benchmarking Group 
+should be followed at all times. These 
+principles are detailed in Appendix N. 
+These recommendations are based on 
+level five evidence and are considered 
+to be grade D recommendations. 
+5.3 
+Glasgow Coma Scale score 
+It is well established that the risk of 
+intracranial complications and of 
+subsequent need for surgery increases 
+as GCS score declines.15,25,46A recent 
+study estimated that the rate of clinically 
+important brain injury in hospital 
+attenders who had experienced some 
+loss of consciousness and/or amnesia 
+since their head injury increased from 
+5% with an initial GCS equal to 15, to 
+17% for GCS equal to 14, and to 41% 
+for GCS equal to 13.62 A further study 
+on paediatric head injury found that a 
+GCS less than 13 was a significant 
+predictor of an abnormal CT scan in 
+children with head injury aged 14 years 
+or younger.63

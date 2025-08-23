@@ -1,0 +1,43 @@
+Source: Page 106 (RIGHT)
+Page: 106, Side: RIGHT
+Word Count: 213
+--------------------------------------------------
+x X-rays: cross table lateral, 3 film 
+series, 5 film series, lateral flexion; 
+extension series or swimmer views 
+x Observation alone 
+x Physical examination 
+The outcome measures for included 
+studies for this review were sensitivity 
+and specificity of the imaging technique. 
+6.7.2 
+Clinical evidence  
+We included one meta-analysis108 which 
+compared plain X-rays with CT. This 
+meta-analysis included seven diagnostic 
+cohort studies. The studies varied in the 
+number of views (3 and 5) and some 
+were retrospective and others 
+prospective. Another prospective 
+diagnostic cohort study109 was also 
+retrieved comparing 3 view X-ray with 
+CT. The final prospective diagnostic 
+cohort study110 compared helical CT and 
+X-rays (single cross-table lateral). All 3 
+studies were graded as diagnostic 
+studies level II evidence. All these studies 
+included patients over 16 years of age. 
+We found no studies in children and 
+infants. 
+A meta-analysis108 was retrieved which 
+included seven diagnostic cohort studies. 
+This study comprised 3834 patients with 
+blunt trauma events requiring imaging. 
+The reference standard was either CT or 
+all imaging scans and clinical follow-up. 
+CT scans had a higher sensitivity of 98% 
+(95% CI, 96-99) compared to X-rays 
+which were 52% (95% CI, 47-56). The 
+test for heterogeneity for the sensitivity 
+of CT was 0.99 and for X-rays was 
+0.07. As there was a high variation in

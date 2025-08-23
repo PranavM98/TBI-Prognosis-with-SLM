@@ -1,0 +1,45 @@
+Source: Page 197 (LEFT)
+Page: 197, Side: LEFT
+Word Count: 275
+--------------------------------------------------
+204
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+11.6.4.7 
+Results of the cost-effectiveness analysis 
+According to Model A there are large 
+QALY gains and large cost savings 
+associated with direct transport to the 
+NSH – direct transport is dominant 
+(Table 11.22). With Model B – the 
+conservative model - the QALYs gained 
+are smaller and costs are not decreased 
+overall (Table 11.23 and Table 11.24). 
+However, even with this conservative 
+model, direct transport is cost-effective 
+(below £20,000 per QALY gained). 
+We chose the group of patients who 
+were 40 years old at the time of injury 
+to represent the results (Table 11.22, 
+Table 11.23 and Table 11.24). In the 
+tables we report the results for the 
+groups of patients of 20 and 60 of age 
+as well. In these cases, direct transport 
+was the dominant strategy in Model A 
+and the incremental cost-effectiveness 
+ratio was still below the threshold of £ 
+20,000 per QALY in Model B. 
+After running the Model B 5,000 times, 
+the probability that directly transporting 
+all the patients to the NSU is costeffective (i.e. probability that the costeffectiveness ratio is below £20,000 per 
+QALY gained) is 73% when the NSU 
+near the incident scene (within 20 
+minutes).  In the cases of a patient aged 
+20 or 60, the probability falls to 66%.  
+For Model B, we performed a sensitivity 
+analysis on the length of stay in the ICU: 
+assuming that the most costly level 3 of 
+care applies to all the outcome grades, 
+the analysis shows that the direct 
+transport would still be cost-effective as 
+long as the increased length of stay

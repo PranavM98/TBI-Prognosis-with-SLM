@@ -1,0 +1,41 @@
+Source: Page 158 (LEFT)
+Page: 158, Side: LEFT
+Word Count: 331
+--------------------------------------------------
+165
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+Table 11.7 - Sensitivity analysis for head CT scanning rules 
+ 
+ 
+Additional cost per patient (£) - Canadian 
+seven point rule compared with current 
+(pre-2003) UK system 
+Baseline 
+-17.72 
+Sensitivity to unit costs* 
+-38.05, 4.62 
+Sensitivity to proportion of patients scanned** 
+-25.55, -9.89 
+Sensitivity to both unit costs and proportions 
+-46.89, 11.96 
+* Lower limit: High skull X-ray cost, High admission cost, Low CT cost. Upper limit: Low skull X-ray 
+cost, Low admission cost, High CT cost (see table 11.5) 
+** Lower limit: using confidence limits that favour the Canadian seven point rule.  Upper limit: 
+using confidence limits that favour the UK system (see Table 11.3). 
+ 
+This cost analysis was limited because the frequency of testing and admission for each strategy 
+could only be estimated approximately given the currently available data. The Canadian head 
+rule is less costly than the current (pre-2003) UK system because it is assumed that it reduces the 
+number of admissions. In fact Stiell et al 25 have not yet put their model into practice, therefore 
+the admission rate figure is provisional. For this model it was assumed that only those with a 
+positive CT scan (ICH or other complication) would be admitted.  If the number of admissions were 
+somewhat higher then this strategy would not be the least cost strategy. Assuming all other 
+parameters in the model remain the same, the five point Canadian head rule is least cost if it 
+reduces in-patient admissions by at least 37%. The seven point Canadian head rule appears to 
+be more expensive even if admissions were entirely eliminated. 
+Another model parameter which was estimated very approximately was the level of CT use in the 
+current system, because CT scanning use was lower during the Nee et al (1993) study than in the 
+present UK system. 
+The sensitivity of the results to these particular assumptions is presented in a two-way sensitivity 
+analysis (Table 11.8).

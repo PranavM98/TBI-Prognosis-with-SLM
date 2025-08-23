@@ -1,0 +1,48 @@
+Source: Page 110 (LEFT)
+Page: 110, Side: LEFT
+Word Count: 249
+--------------------------------------------------
+117
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+patients have a severe head injury 
+(GCS  8), or where there is a strong 
+clinical suspicion of injury despite 
+normal plain films (for example, focal 
+neurological signs or paraesthesia in 
+the extremities), or where plain films 
+are technically difficult or inadequate. 
+This recommendation is based on GDG 
+opinion and evidence on risks of 
+irradiation (see 10).  
+6.9 
+The best clinical prediction rule for 
+selecting patients that have sustained 
+damage to the cervical spine for the 
+imaging technique selected in section 6.7? 
+6.9.1 
+Introduction and rationale for the 
+clinical question 
+In order to improve the efficiency of the 
+management of cervical spine injury, 
+clinical prediction rules can be applied. 
+A clinical prediction rule is derived from 
+original research and is defined as a 
+decisional making tool that incorporates 
+three or more variables from the history, 
+examination or simple tests25,80,81. This 
+review was carried out to examine which 
+clinical prediction rule was the best for 
+determining which patients should 
+undergo CT of the cervical spine. This 
+question was deemed important as 
+emerging evidence shows that the 
+current practice of using plain films is not 
+always reliable in identifying clinically 
+important injuries to the cervical spine. 
+This is particularly true in patients with 
+severe head injury in whom assessment is 
+more difficult. The interventions included 
+within the studies were any prediction 
+rule ranging from NEXUS, NOC, CCR 
+and any other new rules. The outcomes

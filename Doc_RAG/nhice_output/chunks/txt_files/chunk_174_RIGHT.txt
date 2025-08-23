@@ -1,0 +1,27 @@
+Source: Page 174 (RIGHT)
+Page: 174, Side: RIGHT
+Word Count: 127
+--------------------------------------------------
+The model estimates time to intervention 
+using flow charts. Figure 1Error! 
+Reference source not found. shows the 
+flowchart for an isolated head injury 
+patient with the average times based on 
+current practice. Similar flowcharts were 
+devised for the different types of 
+trauma. The timings were based on 
+ambulance service records and expert 
+opinion.   
+For each type of injury, a group of 
+clinical experts decided on a target time 
+for intervention.  For head injury, it was 
+considered that it was crucial to carry 
+out neurosurgery within 4 hours of the 
+injury, based on some evidence186.  For 
+each service configuration scenario, the 
+primary outcomes were:  
+x the median times to critical and 
+definitive interventions. 
+x the proportion of patients receiving 
+critical and definitive interventions within 
+the relevant time target.

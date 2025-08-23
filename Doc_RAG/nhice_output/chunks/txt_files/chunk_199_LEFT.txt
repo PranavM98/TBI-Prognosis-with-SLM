@@ -1,0 +1,56 @@
+Source: Page 199 (LEFT)
+Page: 199, Side: LEFT
+Word Count: 413
+--------------------------------------------------
+206
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+Direct to NSH vs 
+First to DGH (age 
+3,041 
+0.16 
+18,683 
+Using model B, we conducted a threshold sensitivity analysis to take into account the negative 
+effects of overestimating the number of patients to be taken to the NSH.  We define the positive 
+predictive value as the proportion of patients transported directly to the NSH who are correctly 
+diagnosed with a severe head injury. It is the number of true positives divided by the sum of both 
+the true positives and false positives. In the case that the NSH is far from the accident scene (53 
+minutes), the strategy of taking all the patients directly to the NSH is cost-effective as long as the 
+positive predictive value is more than 28%. If the NSH is near the accident scene (20 minutes), the 
+direct transport to the NSH is marginally cost-effective strategy even if the positive predictive 
+value is as low as 10%. 
+Using model B we performed a sensitivity analysis by using an alternative set of utility scores.  
+The result was that direct transport strategy proved to be even more cost-effective than in the 
+original model (Table 11.25).  
+Table 11.25: Results of the sensitivity analysis on the utility – Model B 
+ 
+Incremental 
+cost  
+gained   
+Far NSU –  
+Direct to NSH vs 
+First to DGH (base 
+7,058  
+0.53 
+13,369  
+case age 40) 
+Near NSU –  
+Direct to NSH vs 
+First to DGH (base 
+9,393 
+0.70 
+13,442 
+case age 40) 
+11.6.4.8 
+Discussion 
+We found that direct transport is potentially cost saving if the health status of patients are 
+substantially improved as was indicated by the Poon study. Even in our conservative model we 
+find that direct transport is cost-effective. But our analysis is limited for a number of reasons. 
+First, some of our assumptions regarding cost and survival were based on proxies or were 
+extrapolated in to the long term. 
+Our conservative model, Model B, was based on the mortality results of a previous simulation 
+model. Some of the parameters in the simulation model were based on expert judgement (those 
+listed in Table 11.26). The main clinical outcomes from which the probability of death derives 
+were estimated by experts. In particular, experts were asked to estimate the number of patients 
+that would have survived assuming they received the appropriate care (critical intervention or 
+neurosurgery) at time zero. The actual time elapsed since the accident and its related probability

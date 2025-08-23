@@ -1,0 +1,94 @@
+Source: Page 14 (LEFT)
+Page: 14, Side: LEFT
+Word Count: 784
+--------------------------------------------------
+21
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+confident that the true effect lies.   
+Confounder or 
+confounding factor 
+Something that influences a study and can contribute to misleading findings if it is 
+not understood or appropriately dealt with. For example, if a group of people 
+exercising regularly and a group of people who do not exercise have an important 
+age difference then any difference found in outcomes about heart disease could 
+well be due to one group being older than the other rather than due to the 
+exercising. Age is the confounding factor here and the effect of exercising on heart 
+disease cannot be assessed without adjusting for age differences in some way.  
+Consciousness 
+An alert cognitive state in which you are aware of yourself and your situation 
+Consensus 
+development 
+conference 
+A technique used for the purpose of reaching an agreement on a particular issue. It 
+involves bringing together a group of about 10 people who are presented with 
+evidence by various interest groups or experts who are not part of the decision 
+making group. The group then retires to consider the questions in the light of the 
+evidence presented and attempts to reach a consensus. See also Consensus methods. 
+Consensus 
+methods 
+A variety of techniques that aim to reach an agreement on a particular issue. 
+Formal consensus methods include Delphi and nominal group techniques, and 
+consensus development conferences. In the development of clinical guidelines, 
+consensus methods may be used where there is a lack of strong research evidence 
+on a particular topic.  
+Consistency 
+The extent to which the conclusions of a collection of studies used to support a 
+guideline recommendation are in agreement with each other. See also Homogeneity.
+Control group 
+A group of patients recruited into a study that receives no treatment, a treatment of 
+known effect, or a placebo (dummy treatment) - in order to provide a comparison 
+for a group receiving an experimental treatment, such as a new drug. 
+Controlled clinical 
+trial (CCT) 
+A study testing a specific drug or other treatment involving two (or more) groups of 
+patients with the same disease. One (the experimental group) receives the 
+treatment that is being tested, and the other (the comparison or control group) 
+receives an alternative treatment, a placebo (dummy treatment) or no treatment. 
+The two groups are followed up to compare differences in outcomes to see how 
+effective the experimental treatment was. A CCT where patients are randomly 
+allocated to treatment and comparison groups is called a randomised controlled 
+trial. 
+Cost benefit 
+analysis 
+A type of economic evaluation where both costs and benefits of healthcare 
+treatment are measured in the same monetary units. If benefits exceed costs, the 
+evaluation would recommend providing the treatment.  
+Cost effectiveness 
+A type of economic evaluation that assesses the additional costs and benefits of 
+doing something different. In cost effectiveness analysis, the costs and benefits of 
+different treatments are compared. When a new treatment is compared with 
+current care, its additional costs divided by its additional benefits is called the cost 
+effectiveness ratio. Benefits are measured in natural units, for example, cost per 
+additional heart attack prevented. 
+Cost utility 
+analysis 
+A special form of cost effectiveness analysis where benefit is measured in quality 
+adjusted life years. A treatment is assessed in terms of its ability to extend or 
+improve the quality of life. 
+Cranial 
+Pertaining to the cranium. 
+Craniocervical 
+juntion 
+The junction between the base of the skull and the top of the cervical spine. 
+Crossover study 
+design 
+A study comparing two or more interventions in which the participants, upon 
+completion of the course of one treatment, are switched to another. For example, 
+for a comparison of treatments A and B, half the participants are randomly 
+allocated to receive them in the order A, B and half to receive them in the order B, 
+A. A problem with this study design is that the effects of the first treatment may 
+carry over into the period when the second is given. Therefore a crossover study 
+should include an adequate ‘wash-out’ period, which means allowing sufficient time 
+between stopping one treatment and starting another so that the first treatment has 
+time to wash out of the patient’s system. 
+Cross-sectional 
+study 
+The observation of a defined set of people at a single point in time or time period 
+– a snapshot. (This type of study contrasts with a longitudinal study which follows a 
+set of people over a period of time.) 
+Data set 
+A list of required information relating to a specific disease. 
+Decision analysis 
+A systematic way of reaching decisions, based on evidence from research. This 
+evidence is translated into probabilities, and then into diagrams or decision trees

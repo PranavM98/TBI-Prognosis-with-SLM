@@ -1,0 +1,44 @@
+Source: Page 98 (RIGHT)
+Page: 98, Side: RIGHT
+Word Count: 233
+--------------------------------------------------
+the NEXUS II derivation study to 
+determine if the prediction rule was 
+effective on children. The prevalence of 
+clinically important ICI was 8.3%. The 
+sensitivity was 98.6% (95% CI, 94.999.8) and the specificity 15.1% (95% 
+CI, 13.3-16.9). When the sub-group of 
+children under 3 years old was 
+examined the sensitivity was 100% 
+(95% CI, 86.3-100). 
+The second prospective cohort study 
+(diagnostic study level I evidence) by 
+Haydel et al86 comprised 175 children 
+(5-17 years) with minor head injury from 
+trauma centre in US. Minor head injury 
+was defined as blunt head trauma with 
+loss of consciousness and a normal GCS 
+score, or modified coma scale for infants 
+and children and normal brief 
+neurological examination. The reference 
+standard was a CT scan. The NOC 
+prediction rule was applied to the 
+population to determine children with 
+intracranial injury. The prevalence was 
+8%. The sensitivity was 100% (95% CI, 
+73-100) and the specificity was 25.5% 
+(95% CI, 19.1-33.0%). The CT ordering 
+rate was reduced by 23.4% (95% CI, 
+17.7-30.2).  
+Palchak87 reported a prospective cohort 
+study (diagnostic study level II evidence) 
+of 2,043 children (under 18 years) 
+presenting with blunt head trauma of all 
+severities at a paediatric emergency 
+department at a level 1 trauma centre. 
+Significant predictors of traumatic brain 
+injury were determined and the 
+prediction rule was derived using 
+recursive partitioning. The reference 
+standard was CT scanning and clinical 
+follow-up. The prediction rule had a

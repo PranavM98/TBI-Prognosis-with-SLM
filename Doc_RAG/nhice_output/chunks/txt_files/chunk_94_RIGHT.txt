@@ -1,0 +1,43 @@
+Source: Page 94 (RIGHT)
+Page: 94, Side: RIGHT
+Word Count: 233
+--------------------------------------------------
+point rule is therefore the focus of this 
+review. However, it is recognised that 
+the five point rule has some utility in 
+determining the urgency with which CT 
+imaging should be performed. 
+Both papers present high quality 
+evidence, but strictly the New Orleans 
+criteria represents level one evidence as 
+it has used separate samples for the 
+derivation and validation phases. The 
+Canadian rules represent level two 
+evidence as they have not yet been 
+validated in a separate sample (this 
+study is ongoing and will report in 
+2003). Both sets of authors caution 
+against adoption of their rules, the 
+Canadians because of the need for 
+validation, and the New Orleans group 
+because their rules were developed in 
+one centre (the Canadian rules were 
+developed in a multi-centre study). 
+The Canadian sample25 for a derivation 
+sample, was much larger with 3,121 
+patients than the New Orleans sample19 
+with 520 patients in the derivation 
+phase and 909 patients in the validation 
+phase. This led to statistical power 
+problems with certain key variables (for 
+example, coagulopathy) as not enough 
+patients with these risk factors 
+experienced a negative outcome. It 
+should be noted that the Canadian study 
+considered a much broader range of 
+possible predictive variables, and has 
+outlined in great detail the steps taken 
+to ensure the validity and reliability of 
+the data. Both studies used recursive 
+partitioning as the multivariate technique 
+used to derive the rules.

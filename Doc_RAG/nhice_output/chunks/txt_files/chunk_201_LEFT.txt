@@ -1,0 +1,47 @@
+Source: Page 201 (LEFT)
+Page: 201, Side: LEFT
+Word Count: 243
+--------------------------------------------------
+208
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+For simplicity, neither model considers 
+the change in health status during the 
+patient’s lifetime - they assume that the 
+GOS score (assessed six months after 
+the head injury) remains constant. If 
+instead patients continue to improve 
+after 6 months then our conservative 
+model is underestimating the health gain 
+and cost-effectiveness associated with 
+direct transport. Likewise, our assumption 
+that mortality is increased compared 
+with the general population for survivors 
+over their entire lifetime is a 
+conservative one.  
+We have probably underestimated the 
+cost savings attributable to direct 
+transport because we included only 
+hospital personnel (one anaesthetist and 
+a nurse), omitting for the costs of drugs, 
+equipment and ambulance.  However, 
+we have also omitted additional acute 
+costs associated with direct transport in 
+the treatment of complications such as 
+hypoxia and hypotension, which are less 
+likely if the patient has been stabilised 
+earlier. This would require additional 
+treatments such as volume replacement, 
+blood transfusion, and in some extreme 
+cases they would require surgery or 
+ventilatory support for weeks.  
+A strategy of direct transport from the 
+injury scene to an NSH will inevitably 
+mean that the unit sees more patients 
+than previously, even though many 
+patients currently being taken to the 
+nearest emergency department are 
+subsequently transferred to the NSH. 
+From the viewpoint of the NSH there will 
+be a substantial cost impact in particular 
+in terms of ITU beds.

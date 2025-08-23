@@ -1,0 +1,45 @@
+Source: Page 145 (LEFT)
+Page: 145, Side: LEFT
+Word Count: 244
+--------------------------------------------------
+152
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+current modulation according to the 
+thickness and density of the part of the 
+patient being scanned, is also helping to 
+reduce doses in the latest CT scanners.   
+10.2 
+Patient doses from head CT 
+Specific dosimetry techniques and dose 
+quantities have been developed for 
+measuring patient radiation exposure. 
+To relate the exposures to the risk of 
+radiation-induced cancer (or deleterious 
+hereditary effects), an estimate of the 
+absorbed dose to a number of 
+radiosensitive organs or tissues in the 
+body is required.  
+The absorbed dose to an organ or tissue 
+dose, usually expressed in milligray 
+(mGy), reflects the energy deposited by 
+X-rays per gram of irradiated body 
+tissue, averaged over the particular 
+organ or tissue. 
+The effective dose, usually expressed in 
+millisieverts (mSv), is a calculated 
+weighted sum of organ doses that takes 
+into account organ differences in radiosensitivity and is a useful comparative 
+index related to the total radiationinduced cancer risks from varying 
+radiological procedures. 
+The latest UK CT patient dose survey162 
+shows the typical effective dose from a 
+routine head CT examination on adults 
+to be 1.5 mSv. This remains much the 
+same for examinations on 10 year old 
+and 5 year old children but rises to 
+about 2.5 mSv for examinations on 
+babies (0-1 years old). In comparison to 
+conventional X-ray examinations of the 
+skull with a typical effective dose of 
+0.06 mSv166, CT head examinations

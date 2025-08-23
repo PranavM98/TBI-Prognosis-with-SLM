@@ -1,0 +1,56 @@
+Source: Page 193 (RIGHT)
+Page: 193, Side: RIGHT
+Word Count: 278
+--------------------------------------------------
+ACCGR, ACCD = annual care cost by 
+GOS state at 6 months 
+TC = cost of transport in secondary 
+referral 
+ 
+ 
+ 
+For Model B the incremental cost is 
+calculated as follows: 
+Incremental cost = Cost i - Cost 0  
+= ESi x ((PGR x (RHGR + (LEGR x ACCGR))) 
++ (PMD x (RHMD + (LEMD x ACCMD))) 
++( PSD x (RHSD + (LESD x ACCSD))) + (PVS 
+x (RHVS + (LEVS x ACCVS)))) 
+ – (TC x PDT)  
+where 
+Costi = the expected cost per patient 
+associated with bypass strategy i 
+Cost0 = the expected cost per patient 
+associated with secondary referral 
+ESi = the proportion of patients surviving 
+under strategy i that would not have 
+survived under the no bypass strategy 
+PGR, PMD, PSD, PVS, = the proportion of 
+extra survivors in each of the GOS 
+states at 6 months 
+RHGD, RHMD, RHSD, RHVS = the cost of 
+rehabilitation by GOS states at 6 
+months 
+LEGR, LEMD, LESD, LEVS, = the discounted 
+life expectancy of patients by GOS 
+states at 6 months 
+ACCGR, ACCMD, ACCSD, ACCVS = annual 
+care cost by GOS states at 6 months 
+TC = cost of transport in secondary 
+referral 
+PDT = proportion of patients directly 
+transported to the NSU 
+ 
+11.6.4.6 Probabilistic sensitivity analysis 
+A probabilistic sensitivity analysis was 
+performed to assess the robustness of 
+the model results to plausible variations 
+in the model parameters.  
+This analysis was applied exclusively to 
+the strategy of transporting all patients 
+to the NSU (strategy 2) compared no 
+bypass in the conservative model B.  
+Probability distributions were assigned 
+to each model parameter, where there 
+was some measure of parameter 
+variability (11.21).  We then reestimated the main results 5000 times,

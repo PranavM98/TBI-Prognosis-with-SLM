@@ -1,0 +1,89 @@
+Source: Page 13 (LEFT)
+Page: 13, Side: LEFT
+Word Count: 784
+--------------------------------------------------
+20
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+Clinical question 
+This term is sometimes used in guideline development work to refer to the questions 
+about treatment and care that are formulated in order to guide the search for 
+research evidence. When a clinical question is formulated in a precise way, it is 
+called a focused question. 
+Clinical trial  
+ 
+A research study conducted with patients which tests out a drug or other intervention 
+to assess its effectiveness and safety. Each trial is designed to answer scientific 
+questions and to find better ways to treat individuals with a specific disease. This 
+general term encompasses controlled clinical trials and randomised controlled trials. 
+Clinician 
+A healthcare professional providing patient care, for example, doctor, nurse, 
+physiotherapist.  
+Closed head injury 
+A blow to the head or a severe shaking causing  tearing, shearing or stretching of 
+the nerves at the base of the brain, blood clots in or around the brain or oedema 
+(swelling) of the brain. There is no penetration of the skull or brain tissue by an 
+object; the skull may be fractured but this does not result in a direct connection 
+between the brain and the outside. (see Penetrating Brain Injury) 
+Cluster 
+randomisation 
+A study in which groups of individuals (for example, patients in a General 
+Practitioner surgery or on a hospital ward) are randomly allocated to treatment 
+groups. Take, for example, a smoking cessation study of two different interventions 
+– leaflets and teaching sessions. Each General Practitioner surgery within the study 
+would be randomly allocated to administer one of the two interventions. See also 
+Cluster, Cluster design. 
+Coagulopathy 
+A condition affecting the blood's ability to form a clot. 
+Cochrane 
+Collaboration 
+An international organisation in which people find, appraise and review specific 
+types of studies called randomised controlled trials. The Cochrane Database of 
+Systematic Reviews contains regularly updated reviews on a variety of health issues 
+and is available electronically as part of the Cochrane Library.  
+Cochrane Library 
+The Cochrane Library consists of a regularly updated collection of evidence-based 
+medicine databases including the Cochrane Database of Systematic Reviews 
+(reviews of randomised controlled trials prepared by the Cochrane Collaboration). 
+The Cochrane Library is available on CD-ROM and the Internet. 
+Cohort 
+A group of people sharing some common characteristic (for example, patients with 
+the same disease), followed up in a research study for a specified period of time. 
+Cohort study 
+An observational study that takes a group (cohort) of patients and follows their 
+progress over time in order to measure outcomes such as disease or mortality rates 
+and make comparisons according to the treatments or interventions that patients 
+received. Thus within the study group, subgroups of patients are identified (from 
+information collected about patients) and these groups are compared with respect 
+to outcome, for example, comparing mortality between one group that received a 
+specific treatment and one group which did not (or between two groups that 
+received different levels of treatment). Cohorts can be assembled in the present 
+and followed into the future (a ‘concurrent’ or ‘prospective’ cohort study) or 
+identified from past records and followed forward from that time up to the present 
+(a ‘historical’ or ‘retrospective’ cohort study). Because patients are not randomly 
+allocated to subgroups, these subgroups may be quite different in their 
+characteristics and some adjustment must be made when analysing the results to 
+ensure that the comparison between groups is as fair as possible.  
+Coma 
+A sleep-like state in which a person is not conscious.  
+Co-morbidity 
+Co-existence of a disease or diseases in the people being studied in addition to the 
+health problem that is the subject of the study. 
+Community health 
+services 
+General Practice, ambulance crews, NHS walk-in centres and dental practitioners. 
+Concussion 
+The common result of a blow to the head or sudden deceleration usually causing an 
+altered mental state, either temporary or prolonged. Physiological and/or 
+anatomical disruption of connections between some nerve cells in the brain may 
+occur. Often used by the public to refer to a brief loss of consciousness. 
+Confidence 
+interval 
+A way of expressing certainty about the findings from a study or group of studies, 
+using statistical techniques. A confidence interval describes a range of possible 
+effects (of a treatment or intervention) that are consistent with the results of a study 
+or group of studies. A wide confidence interval indicates a lack of certainty or 
+precision about the true size of the clinical effect and is seen in studies with too few 
+patients. Where confidence intervals are narrow they indicate more precise 
+estimates of effects and a larger sample of patients studied. It is usual to interpret 
+a ‘95%’ confidence interval as the range of effects within which we are 95%

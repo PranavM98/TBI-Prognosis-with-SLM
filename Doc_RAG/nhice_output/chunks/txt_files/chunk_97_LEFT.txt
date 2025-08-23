@@ -1,0 +1,46 @@
+Source: Page 97 (LEFT)
+Page: 97, Side: LEFT
+Word Count: 249
+--------------------------------------------------
+104
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+rules contain a variable called 
+‘dangerous mechanism’ (of injury), which 
+is defined as a pedestrian struck by a 
+motor vehicle, an occupant ejected from 
+a motor vehicle or a fall from a height 
+of greater than three feet or five stairs. 
+The New Orleans rules did not consider 
+this variable. The New Orleans rules 
+contain a headache variable, which was 
+dropped from the Canadian rules. 
+The New Orleans rules contain a 
+variable for drug or alcohol intoxication 
+whereas this is not included in the 
+Canadian rules. The Canadian authors 
+seem to imply that having a variable 
+"GCS less than 15 after 2 hours" will 
+allow the less severe intoxications to 
+resolve and eliminate a corresponding 
+number of unnecessary scans. The 
+Canadian authors measured ethanol 
+levels in a sub-sample and found that it 
+had no predictive power for the 
+outcomes studied. 
+UPDATE 2007: Adult rules 
+Three new studies81,83,84 were retrieved 
+for this review looking at clinical 
+prediction rules in adults in addition to 
+the studies in the previous guidleline (see 
+section 6.5.2).  
+One of the 3 new studies looking at 
+clinical prediction rules in adults was 
+Stiell et al81, a prospective cohort 
+validation study (diagnostic study level I 
+evidence) of 1822 blunt head trauma 
+patients in nine Canadian emergency 
+departments. In the previous guideline 
+the derivation study was included. The 
+inclusion criteria were defined as blunt 
+trauma to the head resulting in witnessed

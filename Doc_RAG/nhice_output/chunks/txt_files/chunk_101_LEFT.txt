@@ -1,0 +1,46 @@
+Source: Page 101 (LEFT)
+Page: 101, Side: LEFT
+Word Count: 242
+--------------------------------------------------
+108
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+admission. However, none of the 
+economic evidence has taken into 
+account the impact of the increased 
+radiation exposure.   
+Child Rules 
+The 4 new studies53,85-87 within this 
+review compared different decision rules 
+in children. One study85 concluded that 
+the decision rule derived in the large 
+NEXUS II cohort performed with similar 
+high sensitivity among the subgroup of 
+children who were included in this study. 
+The second study86 found that CT use in 
+children aged 5 years or older with 
+minor head injury could be safely 
+reduced by 23% by using a clinical 
+decision rule previously validated in 
+adults. The Palchak study87 derived a 
+clinical decision rule for the identification 
+of children who should undergo CT after 
+head injury. The final study53 derived a 
+highly sensitive clinical decision rule for 
+the identification of children who should 
+undergo CT scanning after head injury. 
+We did not find any economic evidence 
+specific to children. 
+6.5.5 
+Rationale behind recommendation 
+Two evidence based decision rules for 
+selection of patients who have sustained 
+a head injury for CT imaging of the 
+head have been described.  There is no 
+clear means of choosing one over the 
+other, and the decision on which rule to 
+choose was therefore based on 
+consensus. Based on the Guideline 
+Development Group consensus, it was 
+decided that the seven point Canadian 
+CT head rules should be used to identify

@@ -1,0 +1,32 @@
+Source: Page 144 (RIGHT)
+Page: 144, Side: RIGHT
+Word Count: 151
+--------------------------------------------------
+40% of the collective dose to the 
+population.159 By 2002 these figures 
+had risen to 7% and 47% 
+respectively.160         
+National patient dose surveys for CT 
+examinations have been carried out in 
+the UK in 1989161 and in 2003162. Both 
+surveys show significant variations in 
+patient dose across the country for the 
+same CT examination, by factors of 10 
+to 40, due to differences in scanner 
+design and institutional-specific 
+examination techniques. There 
+consequently still appears to be 
+considerable scope for standardising 
+examination techniques to protect the 
+patient from unnecessary exposure 
+without reduction in image quality. 
+Patient doses were generally lower by 
+10-40% in the 2003 survey compared 
+to 1989. Lowering patient dose is 
+possible with adjustments of scan 
+technique, tube current and filtration 
+factors, alterations in pitch, and image 
+reconstruction parameters163-165. 
+Increased awareness of these dosereduction techniques has probably led to 
+better-optimised scan protocols being 
+used in the later survey. Automatic tube

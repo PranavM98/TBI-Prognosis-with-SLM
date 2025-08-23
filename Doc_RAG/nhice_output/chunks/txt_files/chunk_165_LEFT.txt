@@ -1,0 +1,43 @@
+Source: Page 165 (LEFT)
+Page: 165, Side: LEFT
+Word Count: 477
+--------------------------------------------------
+172
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+11.4 
+Identifying cervical spine damage in patients with head injury 
+Table 11.4 identifies the resource and health outcomes that could differ between different 
+diagnostic strategies. 
+11.4.1 
+Literature review 
+There are three cost-effectiveness studies in this area: 
+x Kaneriya et al 190 estimated that five view X-ray could save $24 per patient scanned 
+compared with three-view because it reduced the number of subsequent CTs associated with 
+inadequate X-rays by 48%.   
+x Tan et al 191 estimated the cost-effectiveness of CT scan after inadequate X-ray. They found a 
+cost of $16,900 per potentially (or definitely) unstable fracture and $50,600 per definitely 
+unstable fracture. This is cost-effective given the consequences of paralysis. 
+x Blackmore et al 121, using test sensitivities pooled from the published literature, compared CT 
+scanning of the cervical spine with conventional cervical spine X-ray. Using their own risk rating 
+scale, they found CT scanning to be a cost-effective strategy ($16,000 per quality-adjusted lifeyear gained) for the ‘high’ and ‘moderate’ risk groups (high energy mechanism and age under 
+50 or moderate energy mechanism and age greater than 50) but not for the low risk group 
+($84,000 per QALY gained).  Unlike the other studies, incorporated into these figures are the 
+costs and morbidity associated with paralysis. 
+x In addition, two more studies estimated the costs that could be saved by moving from current 
+practice at a particular institution to a particular scanning protocol.122,192 
+The above studies are not strictly relevant to the context of England and Wales, not least 
+because the unit costs and the patient groups used in the studies are not from the UK. Furthermore 
+they only attempted to include outcomes 1 and 2 (and in the case of Blackmore et al 4 and 6 as 
+well) and crucially do not address the long term effects of medical radiation, which are likely to 
+be greater in CT scanning of the neck than in CT scanning of the head (see Chapter 10). 
+The Blackmore analysis suggests for a patient group that is at particularly high risk of paralysis, 
+cervical spine CT could be preferable to X-ray by both improving health outcomes and lowering 
+costs. However, they do not take into account the impact of the large radiation dose received by 
+the thyroid from a cervical spine CT scan. This would be very difficult to model given the lack of 
+empirical evidence on the long term effects of this medical radiation. It was the consensus of the 
+Guideline Development Group that the benefits from CT scanning of the cervical spine do not 
+obviously outweigh the risks.  
+In light of the review of new clinical and cost-effectiveness evidence, the GDG modified its 
+position to recommend CT scanning in high risk patients. Additional cost-effectiveness evidence 
+retrieved in 2007 can be found below in 11.4.3.

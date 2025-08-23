@@ -1,0 +1,44 @@
+Source: Page 182 (RIGHT)
+Page: 182, Side: RIGHT
+Word Count: 220
+--------------------------------------------------
+Neurosciences Hospital (NSH). Severe 
+head injury patients initially admitted to 
+the DGH will be subsequently referred 
+to the NSH. Patients that survive will 
+require rehabilitation and frequently 
+some kind of long term care. The number 
+of survivors is different in the different 
+strategies.  
+To assess the cost-effectiveness of direct 
+transport we need to assess not just 
+changes to ambulance and emergency 
+department costs associated with each 
+strategy but also any changes in 
+rehabilitation and long term care costs 
+arising from the different strategies. 
+These have to be balanced against the 
+health gain. 
+We could not find evidence of 
+effectiveness that perfectly suits this 
+question.  We therefore constructed two 
+similar models based on different 
+empirical studies:  
+Model A: We based this model on the 
+only study in the clinical literature review 
+that reported both mortality and health 
+status (Glasgow Outcome Scale, GOS) 
+in head injury patients– Poon et al 
+1991135. This study compared a cohort 
+of patients that had been directly 
+transported to NSH to another cohort 
+that were transferred from DGH. This 
+study allows us to estimate both the 
+QALYs gained and the cost savings 
+attributable to improved care status in 
+patients being directly transported. 
+However, there was concern that this 
+study was biased, since case-mix was 
+not properly controlled for. For this 
+reason we developed a more 
+conservative model.

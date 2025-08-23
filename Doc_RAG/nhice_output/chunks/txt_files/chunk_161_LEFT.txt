@@ -1,0 +1,49 @@
+Source: Page 161 (LEFT)
+Page: 161, Side: LEFT
+Word Count: 257
+--------------------------------------------------
+168
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+11.3.6 
+Litigation costs (9, see Table 11.2) 
+It has been suggested that litigation 
+might be reduced if more patients were 
+scanned. However, Bramley et al 187 
+have estimated that only one in 10,000 
+patients subsequently turn out to have an 
+intracranial haematoma after being 
+discharged without a CT. Therefore the 
+potential costs saved per patient 
+screened are likely to be small.  It should 
+also be born in mind that successful 
+litigation usually arises out of 
+organisations not abiding by guidelines. 
+11.3.7 
+Update 2007 
+We found three new studies that 
+evaluated diagnostic tools: a decision 
+analysis188 and an RCT79 were 
+comparing admission with CT scanning, 
+and a case series189 was evaluating the 
+use of head MRI as an addition to CT.   
+A further three new studies evaluated 
+diagnostic decision rules. We found two 
+studies evaluating the implementation of 
+the head CT rule recommended in the 
+original edition of this guideline. A third 
+study compared the Canadian Head CT 
+Rule with various imaging strategies. 
+A decision analysis188 compared CT 
+scanning (and discharge after a 
+negative scan) with admission in head 
+injury patients with a GCS of 15 (mild 
+head injury). They found the CT strategy 
+to be cost saving compared with 
+admission. The same team confirmed the 
+results of this study with a randomised 
+controlled trial of 2600 mild head injury 
+patients791. Outcomes were followed up 
+for three months. There were no 
+differences in clinical outcomes (survival 
+and extended Glasgow Outcome scale

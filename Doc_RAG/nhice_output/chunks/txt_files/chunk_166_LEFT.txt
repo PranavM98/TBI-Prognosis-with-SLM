@@ -1,0 +1,69 @@
+Source: Page 166 (LEFT)
+Page: 166, Side: LEFT
+Word Count: 198
+--------------------------------------------------
+173
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+11.4.2 
+Cost-effectiveness model – imaging of the cervical spine 
+We conducted our own tentative cost analysis comparing the NEXUS and the Canadian cervical 
+spine rules. We estimated that the Canadian rule could save about £14 per patient (Table 
+11.10). 
+Table 11.10 – Comparison of the Canadian and NEXUS cervical spine rules (Updated 2007) 
+Strategy 
+Proportion of patients receiving test
+Cost of testing (£) per patient 
+ 
+X-ray 
+CT 
+ 
+Canadian 
+58.2% 
+22.8% 
+11.05 
+17.53 
+28.58 
+NEXUS 
+87.4% 
+34.2% 
+16.60 
+26.31 
+42.91 
+ 
+ 
+ 
+ 
+ 
+ 
+Increment 
+ 
+ 
+ 
+ 
+14.33 
+ 
+The assumption that a CT scan will be performed after all inadequate X-rays may over-estimate 
+the actual cost savings; if we omit them then the cost-savings are £4 per patient scanned. 
+Sensitivity ranges are presented in Table 11.11. 
+Table 11.11 - Sensitivity analysis for cervical spine scanning rules 
+ 
+ 
+Incremental cost per patient (£) of NEXUS rule compared with 
+Canadian cervical spine rule 
+ 
+X-ray costs only 
+X-ray and CT cost 
+Baseline estimate 
+5.54 
+14.33 
+Sensitivity to unit costs 
+4.38, 6.71 
+11.45, 18.12 
+Sensitivity to proportions tested 
+5.28, 5.80 
+13.65, 15.01 
+Sensitivity to both unit costs and 
+proportions 
+4.17, 7.02 
+10.91, 18.95

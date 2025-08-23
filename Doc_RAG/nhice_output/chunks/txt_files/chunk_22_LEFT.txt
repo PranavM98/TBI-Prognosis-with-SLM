@@ -1,0 +1,21 @@
+Source: Page 22 (LEFT)
+Page: 22, Side: LEFT
+Word Count: 131
+--------------------------------------------------
+29
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+Triple blind study 
+A study in which the statistical analysis is carried out without knowing which 
+treatment patients received, in addition to the patients and investigators/clinicians 
+being unaware which treatment patients were getting. 
+Unconsciousness 
+A temporary or prolonged loss of awareness of self and of surroundings 
+Validity 
+Assessment of how well a tool or instrument measures what it is intended to measure. 
+See also External validity, Internal validity. 
+Variable 
+A measurement that can vary within a study, for example, the age of participants. 
+Variability is present when differences can be seen between different people or 
+within the same person over time, with respect to any characteristic or feature which 
+can be assessed or measured.

@@ -1,0 +1,49 @@
+Source: Page 91 (LEFT)
+Page: 91, Side: LEFT
+Word Count: 243
+--------------------------------------------------
+98
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+most accurate tool for use in the initial 
+diagnosis of head injury. This review 
+also investigates whether there are other 
+imaging tools that have been compared 
+to CT and are accurate in identifying 
+head injury. The outcome measures for 
+including studies for this review were 
+sensitivity and specificity of the imaging 
+technique with or without mortality, 
+disability, neurological outcome, hospital 
+duration, and cost. 
+6.3.2 
+Clinical evidence  
+In the earlier version of the head injury 
+guideline no evidence was found that 
+addressed this question. However in this 
+update one study was retrieved75  in 
+children and no evidence was retrieved 
+for adults. This study75 examined the 
+diagnostic value of physical examination 
+(including neurological exam) for 
+positive CT scan findings in 98 children 
+(2-16 years) children with closed head 
+injury. This prospective diagnostic study 
+(level II evidence) evaluated physical 
+examination using CT as the reference 
+standard. This study was based in San 
+Diego, USA. Halley et al conclude that 
+physical examination cannot identify all 
+cases of brain injury that are 
+demonstrated on CT imaging. Physical 
+examination was demonstrated in this 
+study as having poor sensitivity of 0.69 
+(CI: 0.42-0.87) and specificity of 0.4 (CI: 
+0.30-0.51) for identifying patients with 
+brain injury but this presupposes that CT 
+is 100% accurate.  
+6.3.3 
+Economics Evidence from 2007 update 
+See discussion of clinical decision rules 
+(6.5.3 and 6.5.4) and economic section 
+chapter (11.3.7).

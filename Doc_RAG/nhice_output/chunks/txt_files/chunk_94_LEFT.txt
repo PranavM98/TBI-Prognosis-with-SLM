@@ -1,0 +1,49 @@
+Source: Page 94 (LEFT)
+Page: 94, Side: LEFT
+Word Count: 261
+--------------------------------------------------
+101
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+clinical prediction rule was the best for 
+selecting patients for CT imaging who 
+had experienced a minor head injury. 
+This question was deemed important as 
+the current use of CT for minor head 
+injury is increasing rapidly; it is highly 
+variable and may be inefficient. The 
+interventions included within this review 
+were any prediction rule ranging from 
+NEXUS, NOC, CHR and any other new 
+rules. The studies were included if the 
+outcomes included sensitivity and 
+specificity of prediction rules. 
+6.5.2 
+Clinical evidence  
+In the previous guideline, four studies 
+discussed decision rules for selecting 
+patients for CT imaging which attempted 
+to identify those at a high risk for 
+traumatic brain injury (usually 
+ICH).19,24,25,55On examination of these 
+studies it was felt that one study had 
+validated the rules in a population with 
+a much lower prevalence of abnormal 
+CT scans than an average UK 
+population24 and this study was not 
+considered. A second study described a 
+rule that had only a 65% sensitivity for 
+abnormal CT scan results and was also 
+not considered further.55 The sensitivity 
+of these rules have been questioned in 
+another study.82 
+The remaining two sets of rules, the 
+Canadian CT-rules25 and the ‘New 
+Orleans’ criteria are now considered.19 
+Two versions of the Canadian rules are 
+available, a five point version designed 
+to detect ‘need for neurological 
+intervention’, and a seven point version 
+designed to detect ‘clinically important 
+brain injury’. The remit of this guideline is 
+on the latter outcome, and the seven

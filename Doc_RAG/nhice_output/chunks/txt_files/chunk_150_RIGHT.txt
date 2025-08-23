@@ -1,0 +1,29 @@
+Source: Page 150 (RIGHT)
+Page: 150, Side: RIGHT
+Word Count: 145
+--------------------------------------------------
+procedures.173-175 There is still some 
+debate over some of the specific 
+methods of economic evaluation in 
+healthcare but essentially there are six  
+steps to evaluating the relative 
+efficiency of any procedure. 
+1. Identify the target group (for 
+example, patients attending emergency 
+departments with GCS greater than 12), 
+the procedure to be evaluated (for 
+example, head CT scanning) and its 
+alternative strategy (for example, skull 
+X-ray). 
+2. Identify all the important health and 
+resource outcomes that are likely to 
+differ between the procedure and its 
+alternative. 
+3. Measure the differences in identified 
+health and resource outcomes. 
+4. Estimate the value of the health gain 
+and the value of the resource use.  
+(Resource use is valued in terms of its 
+monetary value, its economic cost.  
+Health gain is sometimes valued in 
+monetary terms but more often a nonpecuniary measure such as the qualityadjusted life-year, QALY, is used).

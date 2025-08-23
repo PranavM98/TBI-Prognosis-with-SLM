@@ -1,0 +1,43 @@
+Source: Page 96 (RIGHT)
+Page: 96, Side: RIGHT
+Word Count: 225
+--------------------------------------------------
+Both rules include an age category. The 
+New Orleans rules specify age greater 
+than 60 years, and the Canadian rules 
+specify age greater than or equal to 65 
+years. 
+Both rules agree that post-traumatic 
+seizure should be an indication for CT 
+imaging, but the Canadian rules 
+considered this an a priori variable, 
+whereas it is explicitly included in the 
+New Orleans rules. 
+It is also important to note that 
+coagulopathy is not included in either set 
+of rules but for very different reasons. 
+The Canadian study excluded these 
+patients deliberately, presumably 
+because they were considered a priori 
+candidates for CT imaging. The New 
+Orleans rules included these patients but 
+did not have enough power to detect a 
+significant predictive effect. The New 
+Orleans study explicitly states that this 
+variable was not considered by their 
+study and imply that it should be 
+considered an important predictive 
+variable. A further exclusion from both 
+samples is focal neurological deficit (this 
+is not completely clear from the New 
+Orleans study) again, presumably 
+because CT imaging of the head for 
+these patients was considered noncontroversial. 
+The rules differ in their treatment of 
+amnesia. The Canadian rules include 
+pre-traumatic amnesia (retrograde – for 
+events before the injury) of greater than 
+30 minutes, whereas the New Orleans 
+rules include post-traumatic ‘short-term 
+memory deficits’ (anterograde - for 
+events after the injury). The Canadian

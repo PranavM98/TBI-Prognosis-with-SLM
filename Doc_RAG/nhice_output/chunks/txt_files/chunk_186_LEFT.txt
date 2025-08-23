@@ -1,0 +1,22 @@
+Source: Page 186 (LEFT)
+Page: 186, Side: LEFT
+Word Count: 93
+--------------------------------------------------
+193
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+injury treated in a NSH. We used 6-month GOS data from the surviving patients in a UK study, 
+Patel 2002197 (Table 11.18). The study population had all had a severe head injury (GCS 8 or 
+less) and had been treated in a Neurosciences Critical Care Unit. 
+Table 11.18: GOS score after neurosurgical care in a NSH (Model B) 
+% NSH patients 6 months 
+GOS 
+Good Recovery 
+49.6% 
+Moderate 
+Disability 
+27.1% 
+Severe Disability 
+20.3% 
+Vegetative State 
+3.0%

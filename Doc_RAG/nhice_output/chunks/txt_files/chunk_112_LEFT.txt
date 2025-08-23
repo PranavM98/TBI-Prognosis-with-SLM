@@ -1,0 +1,48 @@
+Source: Page 112 (LEFT)
+Page: 112, Side: LEFT
+Word Count: 260
+--------------------------------------------------
+119
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+reproducibility of ‘presence of 
+intoxication’ and ‘distracting painful 
+injuries’. These criticisms have not been 
+accepted by the developers of the 
+NEXUS rules, who argued that that the 
+data collected by the Canadian group 
+was inadequate to properly test the 
+NEXUS criteria (Hoffman JR, personal 
+communication). 
+The main difference in the performance 
+of the rules lies in specificity. The NEXUS 
+rule has a specificity of 13% (95% CI: 
+12.8-13.0) whereas the specificity of the 
+Canadian cervical spine rule is 42% 
+(95% CI: 40-44) for clinically significant 
+injuries. In addition the Canadian 
+cervical spine rule detected 27 out of 28 
+clinically insignificant spine fractures. 
+Because of the very large difference in 
+specificity the ordering rate produced 
+by the two rules is also markedly 
+different. The NEXUS rule requires an 
+87% three-view plain radiography rate, 
+whereas the Canadian cervical spine 
+rule requires a 58% rate. It is important 
+to note that NEXUS only found 498 of 
+the 818 cervical spine abnormalities on 
+plain radiography, as a very high 
+number of plain radiographs were of 
+inadequate quality. Another issue of 
+concern is that 23 of the cervical 
+fractures that were categorised as high 
+risk by the NEXUS rule had plain 
+radiographs that missed the fracture 
+even though they were of good quality. 
+These fractures were only picked up as 
+further imaging was performed. The 
+Canadian cervical spine rule paper did 
+not comment on how many of their plain 
+radiographs were of inadequate 
+quality, and therefore how many

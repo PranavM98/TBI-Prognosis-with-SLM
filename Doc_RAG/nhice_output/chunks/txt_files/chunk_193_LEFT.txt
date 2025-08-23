@@ -1,0 +1,59 @@
+Source: Page 193 (LEFT)
+Page: 193, Side: LEFT
+Word Count: 304
+--------------------------------------------------
+200
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+Thus the model takes into account the 
+increased costs of rehabilitation and 
+care due to people surviving under 
+direct transport, who would not survive 
+under the current system. It could be that 
+costs of neurosurgery and intensive care 
+are also increased if patients are now 
+making it to the NSH who would have 
+died in transit. Since we do not have 
+data on the timing of deaths, we have 
+not included such costs in the base case. 
+However, for a sensitivity analysis we 
+added on the cost of 3 days of level 3 
+neurosurgical intensive care for each 
+additional survivor. The costs of care in 
+an ICU were calculated from the NHS 
+Reference Costs 2005-2006177 at 
+£1,338 per day. 
+Calculating incremental cost 
+For Model A the incremental cost is 
+calculated as follows: 
+Incremental cost = CostNSU - CostDGH  
+CostNSU = (PNSUGR x (RHGR + LEGR x 
+ACCGR))  
++ (PNSUD x (RHD + LED x ACCD)) 
+CostDGH = (PDGHGR x (RHGR + (LEGR x 
+ACCGR))) 
++( PDGHD x (RHD + (LED x 
+ACCD))) 
++ TC 
+where 
+CostNSU = the expected cost per patient 
+associated with direct transport to the 
+NSU 
+CostDGH = the expected cost per patient 
+associated with a secondary referral to 
+the NSU from a DGH 
+PNSUGR, PNSUD = the proportion of 
+survivors in good recovery or 
+mild/severe disability at 6 months with 
+direct transport to the NSU 
+PDGHGR, PDGHD = the proportion of 
+survivors in good recovery or 
+mild/severe disability at 6 months with a 
+secondary referral 
+RHGR, RHD = the cost of rehabilitation by 
+GOS state at 6 months (where D is both 
+mild disability and severe disability 
+combined) 
+LEGR, LED = the discounted life 
+expectancy of patients by GOS state at 
+6 months

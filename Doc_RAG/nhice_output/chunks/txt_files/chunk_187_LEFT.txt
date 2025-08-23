@@ -1,0 +1,46 @@
+Source: Page 187 (LEFT)
+Page: 187, Side: LEFT
+Word Count: 249
+--------------------------------------------------
+194
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+We estimated the health loss associated 
+with false positives. In fact, for these 
+patients the longer the journey from the 
+accident scene to the hospital, the higher 
+is the risk of death from hypotension. In 
+the case of a distant NSH (53 minutes, 
+as reported in Stevenson’s model), the 
+mortality increases by 0.05%, while it 
+increases by 0.03% if the NSH is near 
+(20 minutes). These figures derived from 
+the calculation of the probability of 
+death based on clinical estimates (see 
+11.6.4.7). 
+11.6.4.3 
+Methods: Estimating QALYs 
+For each health state we estimated 
+QALYs (Quality-Adjusted Life Years) by 
+multiplying the discounted life 
+expectancy by the utility score 
+associated with each state. The 
+expected QALYs for each strategy are 
+then estimated by summing up the 
+QALYs for each state weighted by the 
+proportion of patients in that state. 
+In order to calculate the QALYs we 
+combined data on life expectancy with 
+data on quality of life. 
+Life expectancy  
+The life expectancy of patients in a 
+vegetative state (VS) was assumed to be 
+10 years 198,199. In the case of a 60 
+year old patient in a VS, the life 
+expectancy would be shorter and was 
+assumed to be the same as for a patient 
+in the severe disability state (see below).  
+To calculate the life expectancy for 
+health states other than VS, we applied 
+the standardised mortality rate (SMR), 
+reported for 2,320 traumatic brain

@@ -1,0 +1,53 @@
+Source: Page 185 (LEFT)
+Page: 185, Side: LEFT
+Word Count: 425
+--------------------------------------------------
+192
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+For each strategy in both models, the expected healthcare costs and the expected QALYs were 
+calculated by estimating the costs and QALYs for each GOS state and then multiplying them by 
+the proportion of patients that would be in that state as determined by the strategy taken. Health 
+state defined by the GOS state was assumed to be fixed over the lifetime.  
+The base case models assume that only patients with serious head injury would be transported. A 
+concern is the ability of ambulance crews to determine the severity of the head injury at the 
+scene. There might be a risk of overestimating the number of severely injured patients and 
+therefore of sending too many patients to the NSH, which would mean that cost-effectiveness is 
+reduced and would be risky for patients with multiple trauma. For this purpose, we conducted a 
+sensitivity analysis on the number of false positives (patients erroneously deemed having a serious 
+head injury) that would be transported to the specialist centre without requiring neurosurgical 
+care.   
+11.6.4.2 
+Methods: Effectiveness 
+In Model A, the mortality rate together with the outcomes were derived from a study by Poon at 
+al 135 in which a group of patients having an extradural haematoma was directly transported to 
+the NSH while another group was only secondarily transferred there (Table 11.17). The mortality 
+and the outcomes were assessed six months after the injury.  
+Table 11.17: GOS score and death rate after neurosurgical care in a NSH (Model A) 
+% DGH then NSH 
+patients 
+6 months after injury 
+GOS 
+Poon 1991 
+Good Recovery 
+49% 
+86% 
+Moderate 
+Disability/Severe 
+27% 
+10% 
+Disability 
+Death 
+24% 
+4% 
+ 
+The survival gain in Model B was derived from the results of a simulation model by Stevenson et 
+al68, where the target patient population were adults with a serious head injury (AIS of 3 or 
+more) – see 11.6.3.  
+The model evaluated 10 different strategies of transporting patients directly to the NSH, which 
+selected patients by different criteria (relating to level of AIS score, presence of multiple injuries, 
+possibility of pre-hospital intubation, out of hours). Directly transporting all serious head injury 
+patients to the NSH led to an estimated increase in survival of 4.5% for injury scenes near to the 
+NSH and 3.4% for more distant injury scenes. 
+Stevenson et al estimated only mortality and not health status. We assumed that health status in 
+the additional survivors would be similar to the general population of patients with serious head

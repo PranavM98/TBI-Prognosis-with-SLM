@@ -1,0 +1,46 @@
+Source: Page 145 (RIGHT)
+Page: 145, Side: RIGHT
+Word Count: 276
+--------------------------------------------------
+involve about 25 times more radiation 
+exposure. In the 1998 UK survey, the 
+eyes, thyroid and breasts typically 
+received doses of about 50 mGy, 2 
+mGy and 0.03 mGy, respectively, from 
+a head CT scan161. Since the effective 
+dose for a CT head scan has come down 
+by about 20% between the 1989 and 
+2003 surveys, these organ doses have 
+probably seen a similar reduction.  
+For comparison, the average natural 
+background radiation level in the UK 
+gives rise to an annual effective dose of 
+2.2 mSv, with regional averages ranging 
+from 1.5 mSv to 7.5 mSv per year. 
+10.3 
+Patient doses from cervical spine CT 
+A small proportion of patients are 
+currently deemed suitable for CT 
+examination of the cervical spine, usually 
+carried out in conjunction with CT of the 
+head.  Unfortunately cervical spine scans 
+were not included in the 2003 patient 
+dose survey but the mean value for the 
+effective dose on adult patients 
+receiving CT of the cervical spine in the 
+1989 UK national survey 161 was 2.6 
+mSv. This compares to 1.8 mSv for CT of 
+the head alone in the 1989 survey.  The 
+effective dose for cervical spine CT is 
+higher because the thyroid is directly 
+irradiated (mean thyroid dose equal to 
+44 mGy). NRPB models167 indicate that 
+the effective dose received by children 
+and infants from head and neck CT 
+scans is higher, if the scan parameters 
+are unchanged from those used on adult 
+patients. The increase amounts to a 
+factor of 2.3 for newborns, a factor of 
+1.5 for 5 year olds and a factor of 1.2 
+for 10 year olds. These factors 
+emphasise the need to match the scan

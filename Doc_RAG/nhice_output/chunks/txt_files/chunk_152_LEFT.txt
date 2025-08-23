@@ -1,0 +1,47 @@
+Source: Page 152 (LEFT)
+Page: 152, Side: LEFT
+Word Count: 246
+--------------------------------------------------
+159
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+x NHS Economic Evaluations Database 
+(NHS EED) - 
+http://nhscrd.york.ac.uk/nhsdhp.htm. 
+These strategies were designed to find 
+any economic study related to head 
+injury. Abstracts and database reviews 
+of papers found were reviewed by the 
+health economist and were discarded if 
+they appeared not to contain any 
+economic data or if the focus of the 
+paper was not imaging after trauma.  
+Relevant references in the 
+bibliographies of reviewed papers were 
+also identified and reviewed. 
+11.2.2 
+Modelling of cost-effectiveness – 
+intracranial haematoma 
+A cost analysis was performed for the 
+use of CT scanning on patients who have 
+minor/mild head injury (that is, GCS 
+greater than 12) but some loss of 
+consciousness or amnesia at the time of 
+the impact or thereafter. The reason for 
+selecting this group is that it is assumed 
+that those patients with a more 
+significant loss of consciousness receive 
+CT scanning automatically or are 
+referred to neurosurgery. It is assumed 
+that those who do not experience loss of 
+consciousness or amnesia will not receive 
+CT scanning. These assumptions mirror 
+the methods used to derive the 
+Canadian CT-head rule. 
+Four alternative strategies were selected 
+for the model (Table 11.1). The first is 
+an approximation of the current (pre2003) UK system, based on skull X-ray 
+for patients who have experienced loss 
+of consciousness or amnesia. The second 
+and third are the Canadian head rules, 
+which avoid skull X-ray, but allow

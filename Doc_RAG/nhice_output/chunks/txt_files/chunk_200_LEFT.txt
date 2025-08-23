@@ -1,0 +1,30 @@
+Source: Page 200 (LEFT)
+Page: 200, Side: LEFT
+Word Count: 177
+--------------------------------------------------
+207
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+of death was taken from the database. Having these two points on the probability of death 
+graph, a straight line was drawn.  The authors found that the results were not sensitive to the 
+slope of the line. However, the curve representing the real relationship between time to 
+intervention and probability of death could have a different shape. 
+Table 11.26: Parameters for which the value was estimated by clinicians. 
+Deaths from injuries in areas excluding the head if medical 
+intervention could be given immediately 
+ 
+Deaths from a head injury that required neurosurgery if 
+neurosurgical intervention could be given immediately  
+ 
+Deaths from a head injury that did not require neurosurgery if 
+medical intervention could be given immediately 
+ 
+Reduction in transfer deterioration due to staff expertise 
+ 
+Delays administering intubation and delay before making a 
+neurosurgical decision (according to the level of staff expertise) 
+ 
+Increased mortality risk due to a secondary referral 
+ 
+Extra risk of mortality if the patient suffers hypotension or full 
+hypoxia

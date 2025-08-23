@@ -1,0 +1,9 @@
+Source: Page 195 (RIGHT)
+Page: 195, Side: RIGHT
+Word Count: 19
+--------------------------------------------------
+44, 24, 18,3                 
+where each parameter refers to 
+the number of people in each 
+category 
+SE= 0.16, Į= 33.063,

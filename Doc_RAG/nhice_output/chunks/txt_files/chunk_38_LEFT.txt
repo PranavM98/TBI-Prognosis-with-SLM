@@ -1,0 +1,47 @@
+Source: Page 38 (LEFT)
+Page: 38, Side: LEFT
+Word Count: 239
+--------------------------------------------------
+45
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+recommendations, and only minor 
+revisions in wording were required. The 
+recommendations presented in this 
+guideline are the result of the consensus 
+exercise. 
+2.6 
+Systematic review of indications for CT of 
+the head 
+This systematic review aimed to identify 
+highly sensitive and specific clinical 
+decision rules which could be used to 
+select patients who are at high risk of 
+clinically important brain injury, and who 
+therefore should have CT imaging of the 
+head. 
+This search produced 1454 abstracts in 
+MEDLINE and 680 abstracts in EMBASE 
+(after duplicates with MEDLINE were 
+excluded). An initial screen for relevance 
+was carried out by one systematic 
+reviewer, which reduced the number of 
+abstracts to 174 in MEDLINE and 68 in 
+EMBASE. These abstracts were then 
+independently read by two reviewers to 
+identify those papers that should be 
+obtained and read in full. At this point 
+the only criteria used was the likelihood 
+that the paper described a rule for the 
+diagnosis of intracranial haematoma 
+(ICH), clinically important brain injury or 
+need for a neurosurgical intervention in 
+patients who have recently sustained a 
+head injury, and produced some data 
+on the likely sensitivity and specificity of 
+the rule. Both derivation and validation 
+papers were selected. 
+The independent reviewing process 
+produced 72 papers in MEDLINE and 20 
+papers in EMBASE. In total 92 papers 
+were deemed worthy of review.

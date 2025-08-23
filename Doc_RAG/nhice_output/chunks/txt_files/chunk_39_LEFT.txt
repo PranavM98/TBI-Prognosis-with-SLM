@@ -1,0 +1,43 @@
+Source: Page 39 (LEFT)
+Page: 39, Side: LEFT
+Word Count: 215
+--------------------------------------------------
+46
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+read by two reviewers to identify those 
+papers that should be obtained and 
+read in full. At this point the only criteria 
+used was the likelihood that the paper 
+described a rule for the diagnosis of 
+cervical fracture, and produced some 
+data on the likely sensitivity and 
+specificity of the rule. Both derivation 
+and validation papers were selected. 
+The independent reviewing process 
+produced 78 papers in MEDLINE and 7 
+papers in EMBASE. In total 85 papers 
+were deemed worthy of review. 
+A brief description of the rule proposed 
+was extracted. Many papers did not 
+provide an explicit description of the 
+diagnostic strategies, inclusion criteria, or 
+post-diagnosis management strategies 
+(for example, eligibility for early 
+discharge). 
+Participant details extracted included 
+symptom status, alertness, age, number 
+of centres, prevalence of important 
+outcomes, the country of study and the 
+main inclusion and exclusion criteria. The 
+outcomes that the rule is intended to 
+detect were noted. These included 
+clinically important cervical fracture, 
+unimportant cervical spine fracture, need 
+for surgery and internal or external 
+fixation. The radiography ordering rate 
+was also noted as an outcome. Data on 
+specificity and sensitivity were recorded 
+where possible; 95% confidence 
+intervals were also recorded or 
+calculated if possible.

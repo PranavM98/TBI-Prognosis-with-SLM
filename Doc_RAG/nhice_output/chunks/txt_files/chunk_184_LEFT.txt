@@ -1,0 +1,35 @@
+Source: Page 184 (LEFT)
+Page: 184, Side: LEFT
+Word Count: 83
+--------------------------------------------------
+191
+ 
+Head Injury: triage, assessment, investigation and early management of head injury in infants, children and adults. 
+Fig.2: Transport model decision tree  
+DGH
+NSH
+Nearest 
+A&E
+Secondary 
+referral
+Accident 
+scene
+Direct 
+transport
+NSH
+ 
+Each model has advantages and limitations (Table 11.16). 
+Table 11.16: Summary of the models 
+ 
+Description 
+Advantages 
+Limitations 
+Mortality & GOS: Cohort study - 
+NSH direct vs NSH secondary 
+Model A 
+referral (Poon1991). 
+Mortality: Simulation study – NSH 
+direct vs DGH (Stevenson 2001) 
+GOS: retrospective cohort study 
+Model B 
+(Patel 2002).
