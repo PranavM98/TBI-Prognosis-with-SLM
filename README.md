@@ -1,5 +1,8 @@
 # TBI-Prognosis-with-SLM
 This is the official GitHub Repo for the "Personalized Case- and Evidence-Based TBI Prognosis with Small Language Models" presented IEEE Biomedical Health Informatics (BHI) 2025. 
+Authors: Pranav Manjunath, Syed M. Adil, Benjamin D. Wissel, Daniel P. Sexton, Brian Lerner, Timothy W. Dunn
+Affiliation: Duke University
+
 
 ![Fig 1](photos/Fig1_small.png)
 
