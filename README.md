@@ -9,6 +9,8 @@ Affiliation: Duke University
 ![Fig 1](photos/Fig1_small.png)
 
 
+NOTE: We are unable to provide the patient data (similar patient retrieval) due to PHI concerns but have provided the RAG EBP database.
+
 
 # LLM Query System
 
